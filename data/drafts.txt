@@ -1,16 +1,16 @@
 id: title-draft
 part: 0
 line: 0
-title: The title that was crossed out
+title: The earlier title
 body:
-Across the top of the typescript of the first two parts Eliot typed "He Do the Police in Different Voices," from Dickens's <i>Our Mutual Friend</i>. "The Waste Land" replaced it, with Weston's Grail country and Malory's "waste land" of the Dolorous Stroke behind it. The Dickens title survives in the notes only as a habit of mind: the poem reads the world's news aloud in every voice it can do.
+The typescripts of Parts I and II carry the heading “He Do the Police in Different Voices,” with “Part I” and “Part II” beneath it. The words are Betty Higden’s in Dickens’s <i>Our Mutual Friend</i> (Book I, chapter 16), praising Sloppy, the foundling who lives with her and turns her mangle, for the way he reads the police news in the paper aloud, doing the voices: “You mightn’t think it, but Sloppy is a beautiful reader of a newspaper. He do the Police in different voices.” The title page Eliot typed for the finished poem reads “The Waste Land,” and his headnote to the notes says that the title, the plan and a good deal of the incidental symbolism were suggested by Jessie L. Weston’s book on the Grail legend, <i>From Ritual to Romance</i>. Dickens is not mentioned in the notes.
 ---
 id: epigraph-draft
 part: 0
 line: 0
 title: The epigraph that was replaced
 body:
-Kurtz's "The horror! the horror!" from Conrad's <i>Heart of Darkness</i> stood at the head of the typescript. Pound doubted Conrad was "weighty enough to stand the citation"; Eliot called it "much the most appropriate I can find, and somewhat elucidative," and then substituted the Sibyl from Petronius. The change turns a dying man's verdict on his life into an immortal's wish to be done with hers.
+The title page of the typescript carries, under “The Waste Land,” a passage from Conrad’s <i>Heart of Darkness</i> ending with the dying Kurtz’s words, “The horror! the horror!” Pound wrote, on 24 January 1922, that he doubted Conrad was “weighty enough to stand the citation”; Eliot answered that it was “much the most appropriate I can find, and somewhat elucidative”; Pound then told him to do as he liked about Conrad. Eliot nevertheless replaced it with the sentence from Petronius’s <i>Satyricon</i> in which Trimalchio, the host of the dinner, says that he saw the Sibyl of Cumae hanging in a jar, and that when the boys asked her what she wanted she answered, “I want to die.” The Sibyl had been granted long life, but not youth.
 ---
 id: boston
 part: 1

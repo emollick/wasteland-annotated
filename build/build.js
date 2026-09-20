@@ -37,6 +37,25 @@ function parseRecords(text, sep = '---') {
   }
   return out;
 }
+// straight quotes become typographic ones, outside tags; a quote opens after a space, a bracket, a dash or a line break, and closes otherwise; an apostrophe inside a word is always a closing single quote
+function typo(s) {
+  if (!s || !/["']/.test(s)) return s;
+  let out = '', prev = '', last = 0, m;
+  const re = /<[^>]*>|["']/g;
+  while ((m = re.exec(s))) {
+    const chunk = s.slice(last, m.index); out += chunk; if (chunk) prev = chunk[chunk.length - 1];
+    if (m[0].length > 1) { out += m[0]; if (/^<(br|p|li|div|blockquote|h\d)\b/i.test(m[0])) prev = ' '; }
+    else {
+      const opening = prev === '' || /[\s(\[{\u2014\u2013\-\/\u201c\u2018]/.test(prev);
+      if (m[0] === '"') out += opening ? '\u201c' : '\u201d';
+      else out += opening && !/^\d/.test(s[m.index + 1] || '') ? '\u2018' : '\u2019';
+      prev = out[out.length - 1];
+    }
+    last = re.lastIndex;
+  }
+  return out + s.slice(last);
+}
+const typoFields = (rec, fields) => { for (const k of fields) if (rec[k]) rec[k] = typo(rec[k]); return rec; };
 function paragraphs(s) {
   if (!s) return '';
   return s.split(/\n\s*\n/).map(p => `<p>${p.replace(/\n/g, ' ')}</p>`).join('');
@@ -115,11 +134,12 @@ const allLines = parts.flatMap(p => p.stanzas.flat());
 const lineByN = Object.fromEntries(allLines.map(l => [l.n, l]));
 const notesData = readJSON(path.join(DATA, 'notes.json'));
 const voicesData = readJSON(path.join(DATA, 'voices.json'));
+for (const v of Object.values(voicesData.voices)) typoFields(v, ['label', 'note']);
 const tonguesData = readJSON(path.join(DATA, 'tongues.json'));
 const elements = readJSON(path.join(DATA, 'elements.json'));
 const times = readJSON(path.join(DATA, 'times.json'));
 const placeLines = readJSON(path.join(DATA, 'place-lines.json'));
-const timeline = readJSON(path.join(DATA, 'timeline.json'));
+const timeline = readJSON(path.join(DATA, 'timeline.json')).map(t => typoFields(t, ['what']));
 const thames = readJSON(path.join(RESEARCH, 'thames.json'), null);
 const images = readJSON(path.join(RESEARCH, 'images.json'), []);
 const mediaRaw = readJSON(path.join(RESEARCH, "media.json"), []); const media = Array.isArray(mediaRaw) ? mediaRaw : (mediaRaw.items || []);
@@ -129,16 +149,16 @@ const linkById = {};
 for (const l of sourceLinks) { if (l.verified) { (linkById[l.id] = linkById[l.id] || []).push(l); } }
 
 const glosses = [1, 2, 3, 4, 5].flatMap(i => parseRecords(read(path.join(DATA, `glosses-${i}.txt`))));
-for (const g of glosses) { g.line = +g.line; if (g.to) g.to = +g.to; g.body = paragraphs(g.body); }
+for (const g of glosses) { typoFields(g, ['title', 'body', 'quote', 'trans', 'cite']); g.line = +g.line; if (g.to) g.to = +g.to; g.body = paragraphs(g.body); }
 const sources = parseRecords(read(path.join(DATA, 'sources.txt')));
-for (const s of sources) { s.lines = (s.lines || '').split(',').map(x => +x.trim()).filter(x => !isNaN(x)); s.note = paragraphs(s.note); s.links = linkById[s.id] || []; }
+for (const s of sources) { typoFields(s, ['what', 'note', 'passage', 'trans']); s.lines = (s.lines || '').split(',').map(x => +x.trim()).filter(x => !isNaN(x)); s.note = paragraphs(s.note); s.links = linkById[s.id] || []; }
 const sourceById = Object.fromEntries(sources.map(s => [s.id, s]));
 const waysRaw = read(path.join(DATA, 'ways.txt')).split(/^===\s*$/m).map(sec => parseRecords(sec));
-const ways = waysRaw.map(recs => ({ part: +recs[0].part, title: recs[0].title, items: recs.slice(1) }));
+const ways = waysRaw.map(recs => ({ part: +recs[0].part, title: typo(recs[0].title), items: recs.slice(1).map(it => typoFields(it, ['title', 'body'])) }));
 const pathsRaw = read(path.join(DATA, 'paths.txt')).split(/^===\s*$/m).map(sec => parseRecords(sec));
-const paths = pathsRaw.map(recs => ({ id: recs[0].id, title: recs[0].title, intro: recs[0].intro, stops: recs.slice(1).map(s => ({ line: +s.line, text: s.text })) }));
+const paths = pathsRaw.map(recs => ({ id: recs[0].id, title: typo(recs[0].title), intro: typo(recs[0].intro), stops: recs.slice(1).map(s => ({ line: +s.line, text: typo(s.text) })) }));
 const drafts = parseRecords(read(path.join(DATA, 'drafts.txt')));
-for (const d of drafts) { d.line = +d.line; d.part = +d.part; d.body = paragraphs(d.body); }
+for (const d of drafts) { typoFields(d, ['title', 'body']); d.line = +d.line; d.part = +d.part; d.body = paragraphs(d.body); }
 
 // voices per line
 const voiceOf = {};
@@ -234,7 +254,7 @@ if (exists(path.join(tarotDir, 'NOTES.md'))) {
   const md = s => s.trim().replace(/\*([^*]+)\*/g, '<i>$1</i>').replace(/`([^`]+)`/g, '$1').replace(/\s*(?:No accent\.|Accent:[^.]*\.)(?=\s|$)/g, '').replace(/\s*(?:^|(?<=\.\s))[^.]*\.svg[^.]*\.(?=\s|$)/g, '').replace(/\s{2,}/g, ' ').trim();
   for (const row of read(path.join(tarotDir, 'NOTES.md')).split('\n')) {
     const m = /^\|\s*`([a-z0-9-]+)\.svg`\s*\|\s*([^|]*)\|\s*([^|]*)\|\s*(.*?)\s*\|\s*$/.exec(row);
-    if (m) tarotNotes[m[1]] = { shows: md(m[3]), answers: md(m[4]) };
+    if (m) tarotNotes[m[1]] = { shows: typo(md(m[3])), answers: typo(md(m[4])) };
   }
 }
 const vignDir = path.join(ART, 'vignettes');
@@ -246,9 +266,9 @@ for (const f of vignFiles) fs.writeFileSync(path.join(SITE, 'art', 'vignette-' +
 for (const k of Object.keys(plates)) if (plates[k]) fs.writeFileSync(path.join(SITE, 'art', 'plate-' + k + '.svg'), stripSVG(plates[k]));
 
 // ---------- the templates' prose (data/pages.txt) and the tools' own words (data/ui.txt) ----------
-const P = Object.fromEntries(parseRecords(read(path.join(DATA, 'pages.txt'))).map(r => [r.id, r.text]));
+const P = Object.fromEntries(parseRecords(read(path.join(DATA, 'pages.txt'))).map(r => [r.id, typo(r.text)]));
 function page(id) { if (!(id in P)) throw new Error(`data/pages.txt has no record "${id}"`); return P[id]; }
-const U = Object.fromEntries(parseRecords(read(path.join(DATA, 'ui.txt'))).map(r => [r.id, r.text]));
+const U = Object.fromEntries(parseRecords(read(path.join(DATA, 'ui.txt'))).map(r => [r.id, typo(r.text)]));
 {
   const usedUI = new Set([...read(path.join(SITE, 'js', 'poem.js')).matchAll(/\bui\('([a-z0-9-]+)'\)/g)].map(m => m[1]));
   for (const id of usedUI) if (!(id in U)) throw new Error(`data/ui.txt has no record "${id}", which site/js/poem.js uses`);
@@ -347,7 +367,7 @@ function renderPoemPage() {
     notes: notesData.notes, headnote: notesData.headnote, part5note: notesData.part5note,
     voices: voicesData.voices, voiceOf, elements: { of: elOf, labels: elements.labels }, tongues: tonguesData.langs,
     times, paths, drafts: drafts.map(d => ({ id: d.id, part: d.part, line: d.line, title: d.title, body: d.body })),
-    images: Object.fromEntries(images.map(i => [i.id, { local: i.local ? i.local.replace(/^site\//, '') : `img/${i.id}.jpg`, title: i.title, credit: i.credit, w: i.width, h: i.height }])),
+    images: Object.fromEntries(images.map(i => [i.id, { local: i.local ? i.local.replace(/^site\//, '') : `img/${i.id}.jpg`, title: typo(i.title), credit: typo(i.credit), w: i.width, h: i.height }])),
     places: placeLines, placeXY: thames ? Object.fromEntries([...thames.places, ...thames.wider].map(p => [p.id, [p.lon, p.lat, p.name]])) : {},
     tarot: tarotFiles.map(f => 'art/tarot-' + f),
     tarotNotes,
@@ -555,7 +575,7 @@ function renderDraftsPage() {
 // ---------- listen page ----------
 function renderListenPage() {
   const mediaById = {}; for (const m of media) mediaById[m.id] = m;
-  const recs = parseRecords(read(path.join(DATA, 'listen.txt'))).filter(r => mediaById[r.id]);
+  const recs = parseRecords(read(path.join(DATA, 'listen.txt'))).filter(r => mediaById[r.id]).map(r => typoFields(r, ['title', 'body', 'label']));
   const groups = [['eliot', page('listen-eliot-title'), page('listen-eliot-lede')], ['readers', page('listen-readers-title'), page('listen-readers-lede')], ['music', page('listen-music-title'), page('listen-music-lede')], ['birds', page('listen-birds-title'), page('listen-birds-lede')], ['pages', page('listen-pages-title'), page('listen-pages-lede')]];
   const linkOf = (id, text) => { const m = mediaById[id]; return m ? `<a href="${attr(m.url)}" rel="noopener">${text}</a>` : text; };
   function fill(t, m) {
@@ -610,7 +630,7 @@ function renderPathsPage() {
 
 // ---------- about page ----------
 function renderAboutPage() {
-  const credits = images.map(i => `<li><b>${esc(i.title || i.id)}.</b> ${esc(i.credit || '')}${i.commons_url ? ` <a href="${attr(i.commons_url)}" rel="noopener">Commons</a>` : ''}</li>`).join('');
+  const credits = images.map(i => { const c = esc(typo(i.credit || '')); const link = i.commons_url ? `<a href="${attr(i.commons_url)}" rel="noopener">Wikimedia Commons</a>` : null; const cred = link ? (c.includes('Wikimedia Commons') ? c.replace('Wikimedia Commons', link) : `${c} ${link}`) : c; return `<li><b>${esc(typo(i.title || i.id))}.</b> ${cred}</li>`; }).join('');
   const body = `<main class="prose about"><h1 class="pagetitle">${page('about-title')}</h1>
   <h2 class="sub">${page('about-text-title')}</h2>
   <p>${page('about-text-1')}</p>

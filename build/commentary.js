@@ -36,6 +36,7 @@ const FIXED = {
 };
 function fixedOf(rec, kind) { return FIXED[kind].map(k => `${k}=${keyOf(rec, k) ?? ''}`).join('|'); }
 // the field names a record declares, as the build's parser would read them (a body line beginning "word:" becomes a field)
+const OPTIONAL = ['passage', 'trans', 'cite', 'quote', 'label']; // fields a debate may add to a record that lacked them
 const keysOf = rec => rec.split('\n').map(l => /^([a-z][a-z0-9_-]*):/.exec(l)).filter(Boolean).map(m => m[1]);
 // compare two lists of records by their fixed fields and their field names; return problems
 function diffFixed(oldRecs, newRecs, kind, label) {
@@ -46,7 +47,7 @@ function diffFixed(oldRecs, newRecs, kind, label) {
     const a = fixedOf(oldRecs[i], kind), b = fixedOf(newRecs[i], kind);
     if (a !== b) problems.push(`${label} record ${i + 1}: fixed fields changed\n   was ${a}\n   now ${b}`);
     const ka = keysOf(oldRecs[i]), kb = keysOf(newRecs[i]);
-    const extra = kb.filter(k => !ka.includes(k)), gone = ka.filter(k => !kb.includes(k));
+    const extra = kb.filter(k => !ka.includes(k) && !OPTIONAL.includes(k)), gone = ka.filter(k => !kb.includes(k));
     if (extra.length || gone.length) problems.push(`${label} record ${i + 1} (${b}): fields ${extra.length ? 'added ' + extra.join(', ') : ''}${extra.length && gone.length ? '; ' : ''}${gone.length ? 'missing ' + gone.join(', ') : ''} (a line inside a body that starts like "word:" is read as a new field)`);
   }
   return problems;

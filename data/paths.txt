@@ -1,6 +1,6 @@
 id: first
 title: A first reading
-intro: Twelve stops for someone meeting the poem for the first time. Each stop is a place to stand, not an explanation. Read the lines, read the note, move on.
+intro: Twelve stops through the poem for a reader meeting it for the first time. Each stop gives a passage and a short note on it, in the order of the poem. Read the lines first, then the note, then go on to the next stop.
 ---
 line: 1
 text: Start with the sound. Read the first seven lines aloud. Five of the seven lines end on a hanging participle: breeding, mixing, stirring, covering, feeding. The poem is about things that will not finish.
@@ -40,7 +40,7 @@ text: The last eight lines are mostly quotations, in five languages. The Fragmen
 ===
 id: water
 title: Water
-intro: The poem's hydrology, from spring rain to the last rain. Follow the water and you follow the argument: water is what the waste land needs, water is what drowns you, and the two are never told apart.
+intro: The passages where water is present or lacking, in the order of the poem, from the spring rain of line 4 to the fisher on the shore at line 424: the dry stone of line 24 and the empty sea of line 42, the drowned sailor in Madame Sosostris’s pack and her warning “Fear death by water” (47–55), the Thames of Part III and the waters of Leman (182), the drowning of Phlebas in Part IV, the rock without water in Part V (331–359), the rain of line 395, the sunken Ganges (396) and the boat of line 419. Eliot’s headnote to his notes credits Jessie L. Weston’s book on the Grail legend, <i>From Ritual to Romance</i>, one chapter of which is called “The Freeing of the Waters.”
 ---
 line: 4
 text: "Dull roots with spring rain." The first water is unwelcome.
@@ -98,7 +98,7 @@ text: "I sat upon the shore / Fishing, with the arid plain behind me." The Fishe
 ===
 id: dead
 title: The dead
-intro: Burials, drownings, bones and the crowd that death has undone. The poem's first section is called The Burial of the Dead, from the Book of Common Prayer, and the dead never quite stay in it.
+intro: The poem’s dead, in the order they appear, among them the crowd on London Bridge (lines 62–63), the corpse planted in the garden (71), Phlebas in Part IV and the “Dry bones” of line 391. Part I takes its title, The Burial of the Dead, from the burial service in the Book of Common Prayer.
 ---
 line: 0
 text: The Sibyl, who cannot die, in her jar.
@@ -147,7 +147,7 @@ text: Ugolino, hearing the door of the tower locked, or nailed, below him.
 ===
 id: women
 title: The women
-intro: Eliot's note on Tiresias says "all the women are one woman." Here they are, in order of appearance, so that you can test the claim. Most of them speak; several are quotations; two are queens; one is a bird.
+intro: Eliot’s note on Tiresias (line 218) says that in the poem “all the women are one woman.” This pathway gives the poem’s women in the order they appear, so that you can judge the claim for yourself. Some speak in their own words; some are figures from older books, named or alluded to; Philomel, from Ovid, appears as a nightingale.
 ---
 line: 0
 text: The Sibyl, kept in a bottle, asked by boys what she wants.
@@ -199,7 +199,7 @@ text: The woman who draws her long black hair out tight and plays it.
 ===
 id: cities
 title: Cities
-intro: The poem's geography, in the order the poem gives it. It begins in Munich and ends on the Ganges, with London at its centre and five capitals falling in two lines.
+intro: The places the poem names, in the order it names them: the Starnbergersee and the Hofgarten, in Munich, at the start; London through the middle, with the bridge, the streets and churches, a public bar in Lower Thames Street and the river at Greenwich and at Richmond, and among the London stops the places the poem’s people come from or remember, Lithuania, Mylae, Leman, Smyrna, Thebes, Margate and Carthage; then, in Part V, the five cities named in two lines, “Jerusalem Athens Alexandria / Vienna London” (375–376), and the Ganges and Himavant (396–398).
 ---
 line: 8
 text: The Starnberger See and the Hofgarten: Munich, where Eliot spent August 1911.
@@ -248,7 +248,7 @@ text: Ganga and Himavant: the Ganges and the Himalaya. After them the poem names
 ===
 id: birds
 title: Birds
-intro: Every bird in the poem is a musician, and every song is a complaint. Recordings, where they exist, are in the listening room.
+intro: The poem’s birds, in the order they appear, with the lines where each is heard or named: the nightingale into which Philomel was changed (99–103 and 203–206), the gulls that Phlebas forgot (313), the hermit-thrush of line 357, which Eliot’s note says he heard in Quebec County, the cock on the rooftree (392) and the swallow of line 429. Three stops are for other creatures the poem sets beside them: the cricket of line 23, the cicada of line 354 and the bats of line 380. Recordings of the birds themselves, where they exist, are in the listening room.
 ---
 line: 23
 text: "the cricket no relief." Not a bird, but the first singer, from Ecclesiastes.
@@ -279,7 +279,7 @@ text: "O swallow swallow." Procne, sister of the Philomel of lines 99 and 203.
 ===
 id: nothing
 title: Nothing
-intro: One word, followed through the poem. It is said by a lover, a woman with bad nerves, a man who will not answer, a Thames-daughter, and the poor on Margate sands.
+intro: The word “nothing” wherever the poem uses it: at line 40, by the one who came back from the hyacinth garden and could not speak; at lines 120–126, in the exchange between the woman with bad nerves and the man who does not answer her; and at lines 302 and 305, by the third Thames-daughter on Margate Sands. A last stop, at line 402, is the thunder’s first question, “what have we given?”, where the word does not occur.
 ---
 line: 40
 text: "I knew nothing, / Looking into the heart of light, the silence."
@@ -301,7 +301,7 @@ text: "My people humble people who expect / Nothing."
 ===
 id: eyes
 title: Eyes
-intro: Eyes that fail, eyes turned to pearls, eyes fixed on feet, lidless eyes, a one-eyed merchant, a blind seer, eyes that were holden on the road to Emmaus. The poem's people cannot see, or see too much.
+intro: Eyes in the poem, from the epigraph, where Trimalchio says he saw the Sibyl with his own eyes, to Part V: the eyes that fail in the hyacinth garden (line 39), the pearls that were the drowned man’s eyes (48), the one-eyed merchant (52), the eyes each man fixes before his feet on London Bridge (65), the “lidless eyes” of line 138, and the blind Tiresias (218). Eliot’s note on Part V names the journey to Emmaus, where, in Luke 24, the disciples’ eyes “were holden,” held, so that they did not know who walked beside them.
 ---
 line: 0
 text: "oculis meis vidi": with my own eyes I saw the Sibyl.
@@ -338,7 +338,7 @@ text: "Who is the third who walks always beside you?" Luke 24:16: "their eyes we
 ===
 id: eliot
 title: The poem in Eliot's life
-intro: Places and days from the poet's own year, 1921 into 1922, that surface in the text. Not a key to the poem, but a map of where he was standing.
+intro: Places and dates from Eliot’s life that lie behind particular lines of the poem, from the summers of his boyhood at Gloucester, Massachusetts, and Munich in 1911 to Margate and Lausanne in the autumn of 1921 and Paris in January 1922, each set beside the lines it bears on.
 ---
 line: 8
 text: Munich, August 1911: the Hofgarten's colonnade, the lake where a king drowned.
