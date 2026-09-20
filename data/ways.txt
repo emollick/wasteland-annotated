@@ -56,46 +56,46 @@ title: Nine ways into A Game of Chess
 kind: listen
 title: Hear the two women
 lens: listen
-body: Fiona Shaw's performance is the one to watch for this section: the woman in the chair and the woman in the pub are the same voice at two social altitudes. Alec Guinness does the pub with a Cockney the Eliots' maid would have recognised.
+body: Fiona Shaw's filmed performance of the whole poem, directed by Deborah Warner, is the one to watch for this section: one actor speaking for the woman in the chair and the woman in the pub. For the pub scene, hear also Alec Guinness's reading on the Argo record.
 ---
 kind: source
 title: Start with Cleopatra's barge
 source: shakespeare-antony
-body: Read Enobarbus's speech, then lines 77–110 with it beside you. Every gilded thing in the room is a thing from the river; every change Eliot makes is a demotion. Then find the other two queens hidden in the furniture, Dido and Eve.
+body: Read Enobarbus's speech from <i>Antony and Cleopatra</i> (it is in the library), then lines 77–110 with it beside you, and see what each of Eliot's changes does to Shakespeare's picture: the barge comes indoors and down in scale. Then find the two other women in the room's details, Dido at line 92 and Eve at line 98.
 ---
 kind: lens
 title: Read the man's silence
 lens: voices
-body: With Voices on, everything in quotation marks is hers and everything without is his, unspoken. His answers are all quotations. Read only his lines, in order, and you have a man made entirely of other people's sentences.
+body: With Voices on, lines 111–138 divide: everything in quotation marks is hers, spoken; everything without is his and, by the usual reading, unspoken. Read only his lines, in order.
 ---
 kind: do
-title: Play the rag
+title: The rag of 1912
 lens: listen
-body: "That Shakespearian Rag" was a real song of 1912; no recording of the day has turned up, but the sheet music is in the listening room. Play it, then read lines 128–130 with Eliot's extra syllable in "Shakespeherian." The syncopation is the joke, and the joke is what he hums instead of speaking.
+body: "That Shakespearian Rag" was a real song of 1912. No recording of the day has been found; the sheet music is in the listening room. Read its chorus, then lines 128–130 with Eliot's extra syllable in "Shakespeherian": it gives the word the song's syncopation, and the man hums it instead of answering.
 ---
 kind: source
 title: Find Philomel above the mantel
 source: ovid-met6
-body: Ovid's story of Tereus, Procne and Philomela, and Lyly's "jug jug" song, are the two texts under lines 99–103. Read them, then trace the nightingale through the rest of the poem: lines 203–206, and the swallow at 429.
+body: Eliot's note sends you to Ovid's story of Tereus, Procne and Philomela; John Lyly's nightingale song from his play <i>Campaspe</i> (1584) is the plainest example of the Elizabethan convention, the nightingale's "jug jug", that line 103 uses. Read both, then follow the nightingale through the rest of the poem: lines 203–206, and the swallow at line 429.
 ---
 kind: lens
 title: Watch the clock
 lens: clock
-body: Hot water at ten, a closed car at four, to-night, tomorrow, HURRY UP PLEASE ITS TIME, good night. The section is a timetable. The clock shows every hour the poem names; most of them are here.
+body: The poem gives three hours by the clock; two of them are here, ten and four (lines 135–136), and the third is nine, at line 68. The section also has "tonight", "tomorrow" and closing time, called five times. The Clock lens marks every time of day the poem names.
 ---
 kind: draft
-title: Vivien's pencil
+title: Vivien Eliot's pencil
 lens: drafts
-body: Eliot's wife read this section in typescript, wrote "WONDERFUL" beside the pub scene, supplied one of its best lines, and asked for one line about "ivory men" to be removed. The drafts view says which.
+body: Eliot's wife read this section in typescript. Beside the nervous dialogue she wrote "WONDERFUL"; she supplied two lines of the pub scene; and she asked for a line about "ivory men" to be taken out. The drafts view says which.
 ---
 kind: path
 title: The women, one after another
 path: women
-body: A lady on a throne, a raped girl turned bird, a woman with bad nerves, Lil with her teeth out, her friend, Ophelia. Eliot's note says "all the women are one woman." Walk through them and decide whether you believe him.
+body: The lady in the chair, who speaks at line 111; Philomel, raped and turned into a bird; Lil, and the friend who tells her story; Ophelia. Eliot's note to line 218 says "all the women are one woman". Walk through them and decide whether you believe him.
 ---
 kind: ask
 title: Who is not in the room
-body: Two people in a room; one talks, one thinks. Who is not there? Whose bones were lost in rats' alley? Whose eyes were the pearls? The section's subject is an absence, and the quotations are its shape.
+body: Two people in a room; one talks, one thinks. Who is not there? Whose bones were lost in rats' alley? Whose eyes were the pearls? Two of his unspoken answers point to the dead: the men of the trenches, and the drowned father in Ariel's song from <i>The Tempest</i>.
 ===
 part: 3
 title: Eleven ways into The Fire Sermon

@@ -18,10 +18,10 @@ line: 60
 text: The real London: a bridge, a street, a clock. And the dead, from Dante, walking over it to work. The poem's trick, learned from Baudelaire, is that both are true at once.
 ---
 line: 111
-text: A conversation in which only one person speaks. Read her lines aloud and his silently. The section's title, A Game of Chess, is about moves made without speaking.
+text: A conversation in which only one person speaks. Read her lines aloud and his silently. The title comes from Middleton's play, where a game of chess downstairs covers what is done to a woman upstairs (the note at line 137).
 ---
 line: 139
-text: A pub at closing time. The poem's most ordinary speech, and its most overheard. The publican's shout is also the poem's clock running out.
+text: A pub at closing time. A woman tells a friend what she said to Lil, whose husband is back from the army. The line in capitals is the landlord calling time.
 ---
 line: 215
 text: Tiresias, who in Ovid was a woman for seven years, watches the typist and her visitor. Eliot's note at 218 says what Tiresias sees "is the substance of the poem", a claim critics have disputed.
@@ -58,10 +58,10 @@ line: 55
 text: "Fear death by water." The reading's one instruction, and the reverse of what the Grail legend advises.
 ---
 line: 125
-text: The pearls again, in a room with no water in it but the hot water at ten.
+text: Ariel's song again (line 48): the drowned man's eyes. The only other water in this section is the hot water at ten and the rain that may come at four (lines 135–136); the sea is in the room only as driftwood on the fire and a carved dolphin (94–96).
 ---
 line: 172
-text: Ophelia leaves the pub. Her next scene is the brook.
+text: The pub's goodnights turn into Ophelia's last line in Hamlet; the next we hear of her is the Queen's report of her drowning.
 ---
 line: 176
 text: "Sweet Thames, run softly, till I end my song": Spenser's refrain from the <i>Prothalamion</i>, a wedding poem. Here the nymphs "are departed" and the river "bears no" litter.
@@ -165,16 +165,16 @@ line: 49
 text: Belladonna, the Lady of the Rocks: a card, a poison, a painting.
 ---
 line: 77
-text: The lady in the chair: Cleopatra's barge, Dido's ceiling, Eve's garden, made into furniture.
+text: The lady in the chair. Her room is made from Cleopatra's barge (line 77), Dido's ceiling (92) and Eve's garden (98).
 ---
 line: 99
-text: Philomel, raped and turned into a nightingale, singing "Jug Jug to dirty ears."
+text: Philomel, raped and turned into a nightingale, singing "Jug Jug" to dirty ears.
 ---
 line: 111
 text: The woman with bad nerves, who wants to be spoken to.
 ---
 line: 139
-text: Lil, thirty-one, five children, no teeth, and her friend, who tells her the truth.
+text: Lil, thirty-one, five children, bad teeth, and the friend who did not mince her words.
 ---
 line: 172
 text: Ophelia, leaving.
@@ -288,7 +288,7 @@ line: 120
 text: "Nothing again nothing."
 ---
 line: 122
-text: "Do you know nothing? Do you see nothing? Do you remember / Nothing?"
+text: "Do / You know nothing? Do you see nothing? Do you remember / Nothing?"
 ---
 line: 126
 text: "Is there nothing in your head?"
@@ -350,10 +350,10 @@ line: 66
 text: Lloyds Bank, Lombard Street, across the road from St Mary Woolnoth. The clock struck nine as he arrived.
 ---
 line: 111
-text: The flat at 9 Clarence Gate Gardens. Vivien's nerves and his.
+text: The Eliots' flat at 9 Clarence Gate Gardens, by Regent's Park, where he and his wife Vivien were both ill in 1921.
 ---
 line: 139
-text: Ellen Kellond, the Eliots' maid, who told them about Lil.
+text: Ellen Kellond, the Eliots' maid, whose story this was: Eliot called the passage "pure Ellen Kellond".
 ---
 line: 182
 text: Eliot spent late November and December 1921 at Lausanne, on Lake Geneva, in the care of the nerve doctor Roger Vittoz, and wrote Parts IV and V there.

@@ -591,7 +591,7 @@ The rhyme runs through materials that fail until a watchman is set; folklorists 
 ---
 id: shakespearian-rag
 title: That Shakespearian Rag
-author: Gene Buck and Herman Ruby (words), David Stamper (music)
+author: Gene Buck and Herman Ruby (words), Dave Stamper (music)
 date: 1912
 lang: English
 kind: song
