@@ -565,7 +565,10 @@ body.follow .voice-tag:not(.v-on) { opacity: .25; }
 .howto-inner { max-width: 66rem; margin: 0 auto; padding: 3.4rem 1.5rem 3.2rem; }
 .howto-title { font-size: 1.05rem; letter-spacing: .18em; font-variant-caps: small-caps; font-weight: 500; margin: 0 0 .7rem; }
 .howto-lede { max-width: 44rem; font-size: 1.02rem; line-height: 1.55; color: var(--ink-2); margin: 0 0 2.2rem; }
-.howto-cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2rem 3rem; }
+.howto-cols { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2rem 3rem; }
+.howto-col-paths { grid-column: 1 / -1; margin-top: .4rem; }
+.howto-col-paths .howto-list { columns: 3; column-gap: 3rem; }
+.howto-list li { break-inside: avoid; }
 .howto-sub { font-size: .72rem; letter-spacing: .16em; font-variant-caps: small-caps; color: var(--ink-3); font-weight: 500; margin: 0 0 .5rem; padding-bottom: .4rem; border-bottom: 1px solid var(--rule-2); }
 .howto-list { list-style: none; margin: 0; padding: 0; }
 .howto-list li { border-bottom: 1px solid var(--rule); }
@@ -578,8 +581,8 @@ body.follow .voice-tag:not(.v-on) { opacity: .25; }
 .hi-count { display: block; font-size: .66rem; letter-spacing: .1em; font-variant-caps: small-caps; color: var(--ink-3); margin-top: .3rem; }
 .rb-help { margin-left: auto; color: var(--ink-3); font-size: .7rem; letter-spacing: .06em; text-decoration: none; border-bottom: 1px solid transparent; }
 .rb-help:hover { color: var(--ink); border-bottom-color: var(--ink-3); }
-@media (max-width: 1000px) { .howto-cols { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-@media (max-width: 640px) { .howto-cols { grid-template-columns: minmax(0, 1fr); gap: 1.6rem; } .howto-inner { padding: 2.4rem 1rem 2.2rem; } }
+@media (max-width: 1000px) { .howto-col-paths .howto-list { columns: 2; } }
+@media (max-width: 640px) { .howto-cols { grid-template-columns: minmax(0, 1fr); gap: 1.6rem; } .howto-col-paths .howto-list { columns: 1; } .howto-inner { padding: 2.4rem 1rem 2.2rem; } }
 
 /* open notes: one unfolded at a time, the rest folded to their titles */
 .margin .card:not(.folded) { max-height: 72vh; overflow: auto; }
