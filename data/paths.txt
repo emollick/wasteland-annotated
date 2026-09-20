@@ -33,10 +33,10 @@ line: 312
 text: Ten lines. A drowned man. The tarot's warning fulfilled, gently. Read it twice.
 ---
 line: 331
-text: Rock and no water for twenty-nine lines. Let it be as dry as it is. The rain, when it comes at line 395, is two words long.
+text: No water from here to line 359. At line 395 a gust brings rain.
 ---
 line: 427
-text: The last eight lines are a stack of quotations in five languages. Do not look them up yet. Read them as a noise, then use the Fragments view to take the stack apart.
+text: The last eight lines are mostly quotations, in five languages. The Fragments view gives each its source.
 ===
 id: water
 title: Water
@@ -79,22 +79,22 @@ line: 312
 text: Phlebas. The current under sea. The tarot fulfilled.
 ---
 line: 331
-text: "Here is no water but only rock." The longest drought.
+text: "Here is no water but only rock." Rock and no water to line 359, and no rain until the gust of line 395.
 ---
 line: 353
-text: "If there were the sound of water only." A hymn to a sound that is not there, ending in a bird that imitates water.
+text: "If there were the sound of water only." Lines 353 to 359 imagine the sound of water and end on the hermit-thrush, whose song Eliot's note calls "water-dripping."
 ---
 line: 395
-text: "Bringing rain." Two words. The only rain that falls.
+text: "Bringing rain." The first rain since line 9. The poem does not show it fall.
 ---
 line: 396
 text: "Ganga was sunken." The monsoon waiting over the Himalaya.
 ---
 line: 419
-text: "The boat responded." Water at last as something that answers a hand.
+text: "The boat responded." A calm sea, and a boat under control.
 ---
 line: 424
-text: "I sat upon the shore / Fishing, with the arid plain behind me." The last water and the last drought, in one sentence.
+text: "I sat upon the shore / Fishing, with the arid plain behind me." The Fisher King, by water, with the waste land behind him.
 ===
 id: dead
 title: The dead
@@ -143,7 +143,7 @@ line: 407
 text: "our obituaries." What the dead leave: memories, wills, empty rooms.
 ---
 line: 412
-text: Ugolino, hearing the door of the tower nailed shut.
+text: Ugolino, hearing the door of the tower locked, or nailed, below him.
 ===
 id: women
 title: The women
@@ -192,7 +192,7 @@ line: 292
 text: The three Thames-daughters, who Eliot's note says speak in turn, from Highbury, Moorgate and Margate. The first echoes La Pia in Dante, "Siena made me, Maremma unmade me" (Eliot's note at 293).
 ---
 line: 368
-text: "Murmur of maternal lamentation." The women at the cross, and the mothers of Europe.
+text: "Murmur of maternal lamentation." Commentators connect it with the women who lamented on the way to the cross (Luke 23:27) and with the headnote's "present decay of eastern Europe."
 ---
 line: 378
 text: The woman who draws her long black hair out tight and plays it.
@@ -244,7 +244,7 @@ line: 375
 text: "Jerusalem Athens Alexandria / Vienna London / Unreal."
 ---
 line: 396
-text: Ganga and Himavant. The poem's last places are a river and a mountain.
+text: Ganga and Himavant: the Ganges and the Himalaya. After them the poem names only London Bridge and Aquitaine.
 ===
 id: birds
 title: Birds
@@ -263,19 +263,19 @@ line: 313
 text: "the cry of gulls," which Phlebas forgot.
 ---
 line: 354
-text: "Not the cicada." Another singer that is not a bird and not water.
+text: "Not the cicada." Not a bird: the dry sound that is there instead of water.
 ---
 line: 357
 text: The hermit-thrush, whose "water-dripping song" Eliot heard in Quebec. Listen to it.
 ---
 line: 380
-text: "bats with baby faces." Not birds. Included for the wings.
+text: "bats with baby faces." Not birds, but they whistle and beat their wings.
 ---
 line: 392
-text: "Only a cock stood on the rooftree / Co co rico co co rico." Peter's cock, Hamlet's, and the French farmyard.
+text: "Co co rico": the French spelling of a cock-crow. Readers have heard in it the cock of Peter's denial and the cock of <i>Hamlet</i> I.i.
 ---
 line: 429
-text: "O swallow swallow." Procne, Philomel's sister, at the end.
+text: "O swallow swallow." Procne, sister of the Philomel of lines 99 and 203.
 ===
 id: nothing
 title: Nothing
@@ -298,9 +298,6 @@ text: "I can connect / Nothing with nothing."
 ---
 line: 305
 text: "My people humble people who expect / Nothing."
----
-line: 402
-text: "what have we given?" The question that answers the word.
 ===
 id: eyes
 title: Eyes
@@ -337,7 +334,7 @@ line: 232
 text: "with one bold stare."
 ---
 line: 360
-text: "Who is the third who walks always beside you?" Eyes that do not know him.
+text: "Who is the third who walks always beside you?" Luke 24:16: "their eyes were holden that they should not know him."
 ===
 id: eliot
 title: The poem in Eliot's life
@@ -368,7 +365,7 @@ line: 312
 text: Gloucester, Massachusetts: the drowned sailor's original voyage, cut by Pound.
 ---
 line: 419
-text: A boat off Cape Ann, the summers of his boyhood.
+text: Probably a boat off Cape Ann, where Eliot sailed in the summers of his youth.
 ---
 line: 0
 text: Paris, January 1922: Pound's flat, the pencil, "il miglior fabbro."

@@ -78,7 +78,7 @@
     const card = document.createElement('aside');
     card.className = `card kind-${g.kind}`;
     card.dataset.ckind = 'gloss'; card.dataset.g = g.id;
-    card.innerHTML = `<button class="card-close" aria-label="${ui('close')}">×</button><span class="card-kind">${kindLabel}${lines ? ' · <span class="lines">' + lines + '</span>' : ''}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote"${g.lang ? ` lang="${{ German: 'de', French: 'fr', Italian: 'it', Latin: 'la', Greek: 'grc', Sanskrit: 'sa' }[g.lang] || ''}"` : ''}>${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}${g.image ? imageFig(g.image) : ''}<div class="card-body">${g.body}</div>${g.source ? sourceBlock(g.source) : ''}`;
+    card.innerHTML = `<button class="card-close" aria-label="${ui('close')}">×</button><span class="card-kind">${kindLabel}${lines ? ' · <span class="lines">' + lines + '</span>' : ''}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote"${g.lang ? ` lang="${{ German: 'de', French: 'fr', Italian: 'it', Latin: 'la', Greek: 'grc', Sanskrit: 'sa' }[g.lang] || ''}"` : ''}>${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}${g.cite ? `<p class="card-cite">${g.cite}</p>` : ''}${g.image ? imageFig(g.image) : ''}<div class="card-body">${g.body}</div>${g.source ? sourceBlock(g.source) : ''}`;
     return card;
   }
   function openGloss(id, anchorEl, opts = {}) {
@@ -445,7 +445,7 @@
       const p = partOf(l.n);
       const gs = D.glosses.filter(g => g.line <= l.n && (g.to || g.line) >= l.n && g.line > 0);
       const g = gs[0];
-      return `<div class="sortes"><p class="from">Line ${l.n} · ${p.numeral}. ${p.name}</p><p class="drawn">${esc(l.t)}</p>${g ? `<div class="gl card kind-${g.kind}"><span class="card-kind">${g.kind === 'echo' ? ui('kind-echo') : ui('kind-gloss')}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote">${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}<div class="card-body">${g.body.split('</p>')[0]}</p></div></div>` : `<p class="small">${ui('sortes-none')}</p>`}<p><a href="#L${l.n}" class="tl">${ui('sortes-goto')}</a></p><button class="again">${ui('sortes-again')}</button></div>`;
+      return `<div class="sortes"><p class="from">Line ${l.n} · ${p.numeral}. ${p.name}</p><p class="drawn">${esc(l.t)}</p>${g ? `<div class="gl card kind-${g.kind}"><span class="card-kind">${g.kind === 'echo' ? ui('kind-echo') : ui('kind-gloss')}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote">${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}${g.cite ? `<p class="card-cite">${g.cite}</p>` : ''}<div class="card-body">${g.body.split('</p>')[0]}</p></div></div>` : `<p class="small">${ui('sortes-none')}</p>`}<p><a href="#L${l.n}" class="tl">${ui('sortes-goto')}</a></p><button class="again">${ui('sortes-again')}</button></div>`;
     };
     const ov = overlay(ui('sortes-title'), ui('sortes-sub'), draw());
     ov.addEventListener('click', e => { if (e.target.closest('.again')) { $('.ov-body', ov).innerHTML = draw(); } const a = e.target.closest('a.tl'); if (a) { e.preventDefault(); closeOverlay(); go(+a.getAttribute('href').slice(2)); } });

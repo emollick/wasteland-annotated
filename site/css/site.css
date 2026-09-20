@@ -232,6 +232,7 @@ body[data-lens="drafts"] .ghost { display: block; }
 .card-quote { font-style: italic; margin: .3rem 0 .4rem; color: var(--ink); padding-left: .6rem; border-left: 1px solid var(--rule-2); }
 .card-quote .q, .note-body .q { display: block; padding-left: .8rem; font-style: italic; margin: .25rem 0; }
 .card-trans { margin: 0 0 .5rem; color: var(--ink-2); font-size: .76rem; }
+.card-cite { margin: -.25rem 0 .5rem; padding-left: .6rem; color: var(--ink-3); font-size: .72rem; }
 .card-body p { margin: 0 0 .5rem; }
 .card-body p:last-child { margin-bottom: 0; }
 .card-src { margin: .55rem 0 0; padding-top: .5rem; border-top: 1px solid var(--rule); font-size: .72rem; color: var(--ink-2); }

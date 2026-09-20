@@ -192,58 +192,58 @@ title: Twelve ways into What the Thunder Said
 kind: listen
 title: Eliot reading the thunder
 lens: listen
-body: Eliot's own recordings are at their strangest here: the "DA" is spoken flat, without drama, and "Shantih" three times as a murmur. Listen to the last thirty lines before reading the notes on them.
+body: Eliot recorded the whole poem in 1933 and again in 1946; both are in the listening room, with Part V as he read it in Washington in 1947. Listen from line 400, where the thunder speaks, to the end.
 ---
 kind: lens
-title: Water at last
+title: Water in Part V
 lens: water
-body: The section is the poem's longest drought and its only rain. The Water lens shows twenty-nine lines of rock and then, at line 395, "Bringing rain." Everything after that is wet.
+body: The Water lens tints every line that is about water or the want of it. From line 331 to line 394 there is no water. At line 395 a gust brings rain, and at 397 the leaves are still waiting for it; at 419 a boat answers "the hand expert with sail and oar" on a calm sea; at 425 the arid plain is behind the fisherman.
 ---
 kind: do
 title: Hear the hermit-thrush
 lens: listen
-body: "Drip drop drip drop drop drop drop." Eliot's note names the bird and quotes the field guide. A recording is in the listening room. Play it, then read line 358. His transcription is accurate.
+body: "Drip drop drip drop drop drop drop." Eliot's note names the bird and quotes Chapman's field guide on its song; "water-dripping" is not Chapman's phrase. A recording is in the listening room. Play it, then read line 358.
 ---
 kind: source
 title: The road to Emmaus, and South Georgia
 source: shackleton-south
-body: Two texts under "Who is the third who walks always beside you?": Luke 24 and Shackleton's account of crossing South Georgia in 1916, when three men each felt a fourth. Read both. The hooded figure is a risen god and a hallucination of exhausted men, and the poem will not say which.
+body: Eliot gives two sources for "Who is the third who walks always beside you?": in his headnote, the journey to Emmaus of Luke 24; in his note on the line, Shackleton's account in <i>South</i> of crossing South Georgia in May 1916, when each of three men felt a fourth walking with them. Both are in the library.
 ---
 kind: lens
-title: Eight lines, six languages
+title: The languages of the last lines
 lens: tongues
-body: The last eight lines are in English, Italian, Latin, French, English, English, Sanskrit, Sanskrit, with Provençal in the note. Switch on Tongues, read the translations, then read the lines again as a person who has none of them: as a noise made by a civilisation.
+body: The last eight lines are in English, Italian, Latin, French, English, English, Sanskrit, Sanskrit; Eliot's note on line 428 adds Provençal. The Tongues lens gives the translations.
 ---
 kind: do
-title: Unstack the fragments
+title: The fragments, one by one
 lens: fragments
-body: "These fragments I have shored against my ruins." The Fragments view pulls the last lines apart one at a time, each back to its source, so that you can see the wall the poet says he propped them against.
+body: "These fragments I have shored against my ruins." The Fragments view takes the last lines one at a time and gives each its source.
 ---
 kind: source
-title: What the thunder actually said
+title: The fable in the Upanishad
 source: brihadaranyaka
-body: Read the Upanishad's fable: one syllable, three hearers, three meanings. Then notice that Eliot changes the order of the commands and confesses, after each, how it was not kept.
+body: The library has the passage of the <i>Bṛhadāraṇyaka Upaniṣad</i> that Eliot's note cites: the thunder says "Da," and gods, men and demons each hear a different word in it. Eliot changes the order of the three words and follows each with a passage of his own.
 ---
 kind: map
-title: From Margate to the Ganges
+title: The places in Part V
 lens: places
-body: The section's places are Jerusalem, Athens, Alexandria, Vienna, London, the Ganges and the Himalaya. The world map draws the poem's journey east in a single line.
+body: The section names Jerusalem, Athens, Alexandria, Vienna and London in two lines, then the Ganges and the Himalaya, then London Bridge and Aquitaine. The world map shows the cities, the river and the mountain, and two places from Eliot's life: Quebec, where his note says he heard the hermit-thrush, and Cape Ann, where he sailed as a boy.
 ---
 kind: path
 title: Every 'nothing'
 path: nothing
-body: "I knew nothing," "Nothing again nothing," "Do you know nothing?," "Nothing with nothing," "expect / Nothing." The pathway follows the word through the poem to its last appearance.
+body: "I knew nothing," "Nothing again nothing," "Do you know nothing?," "Nothing with nothing," "expect / Nothing." The pathway follows the word through the poem. It is not said in Part V; the last stop, at line 402, is the thunder's question, "what have we given?"
 ---
 kind: draft
 title: OK from here on
 lens: drafts
-body: Pound's note at the head of the section reads "OK from here on I think." He cut almost nothing. Eliot wrote it in a few weeks at Lausanne and said afterwards it was "the only part that justifies the whole, at all."
+body: Pound's note at the head of the typescript of Part V reads "OK from here on I think," and he cut almost nothing. Eliot wrote the section at Lausanne between late November 1921 and the New Year, and told Bertrand Russell in October 1923 that it was "the only part which justifies the whole, at all."
 ---
 kind: lens
 title: The last voices
 lens: voices
-body: The Fisher King, a nursery rhyme, Dante, an anonymous Latin poet, Nerval, the poet himself, Kyd's mad Hieronimo, an Upanishad. Voices colours each of the last eight lines differently. Read them as a chorus and as a man talking to himself.
+body: The Voices lens gives lines 424 to 426 to the Fisher King, lines 427 to 432 to the fragments, and the last two lines to the Upanishad. The fragments are, in order, a nursery rhyme, Dante, a Latin poet and Tennyson, Nerval, the poet himself, Kyd's Hieronimo.
 ---
 kind: ask
-title: Peace, or the word for it
-body: "Shantih shantih shantih." A benediction, or a man saying "peace" until he sleeps? Eliot's 1922 note called the English "a feeble translation." Read the last line once as a blessing and once as a lullaby, and keep the one that lets you close the book.
+title: The last word
+body: "Shantih shantih shantih." Eliot's note calls it the formal ending of an Upanishad; in 1922 he called "The Peace which passeth understanding" a feeble translation of the word, and from 1925 "our equivalent." Is the line a blessing on the poem, or a man saying the word to himself?

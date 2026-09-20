@@ -231,7 +231,7 @@ const tarotFiles = exists(tarotDir) ? fs.readdirSync(tarotDir).filter(f => f.end
 // the artist's notes on each card, from the tarot thread's NOTES.md tables (file | numeral | what it shows | answers to)
 const tarotNotes = {};
 if (exists(path.join(tarotDir, 'NOTES.md'))) {
-  const md = s => s.trim().replace(/\*([^*]+)\*/g, '<i>$1</i>').replace(/`([^`]+)`/g, '$1').replace(/\s*(?:No accent\.|Accent:[^.]*\.)\s*$/, '');
+  const md = s => s.trim().replace(/\*([^*]+)\*/g, '<i>$1</i>').replace(/`([^`]+)`/g, '$1').replace(/\s*(?:No accent\.|Accent:[^.]*\.)(?=\s|$)/g, '').replace(/\s*(?:^|(?<=\.\s))[^.]*\.svg[^.]*\.(?=\s|$)/g, '').replace(/\s{2,}/g, ' ').trim();
   for (const row of read(path.join(tarotDir, 'NOTES.md')).split('\n')) {
     const m = /^\|\s*`([a-z0-9-]+)\.svg`\s*\|\s*([^|]*)\|\s*([^|]*)\|\s*(.*?)\s*\|\s*$/.exec(row);
     if (m) tarotNotes[m[1]] = { shows: md(m[3]), answers: md(m[4]) };
@@ -342,7 +342,7 @@ function renderPoemPage() {
   const data = {
     lines: allLines.map(l => ({ n: l.n, t: l.text, p: parts.find(p => l.n >= p.first && l.n <= p.last).num })),
     parts: parts.map(p => ({ num: p.num, numeral: p.numeral, name: p.name, first: p.first, last: p.last })),
-    glosses: glosses.map(g => ({ id: g.id, line: g.line, to: g.to || null, kind: g.kind, title: g.title, quote: g.quote || '', trans: g.trans || '', body: g.body, source: g.source || null, image: g.image || null, lang: g.lang || null })),
+    glosses: glosses.map(g => ({ id: g.id, line: g.line, to: g.to || null, kind: g.kind, title: g.title, quote: g.quote || '', trans: g.trans || '', cite: g.cite || '', body: g.body, source: g.source || null, image: g.image || null, lang: g.lang || null })),
     sources: Object.fromEntries(sources.map(s => [s.id, { id: s.id, title: s.title, author: s.author, date: s.date, lang: s.lang, kind: s.kind, what: s.what, lines: s.lines, passage: s.passage || '', trans: s.trans || '', note: s.note, links: s.links.map(l => ({ label: l.host ? `${l.work || s.title} at ${l.host}` : (l.work || s.title), url: l.url, note: l.deep_link_note || '' })) }])),
     notes: notesData.notes, headnote: notesData.headnote, part5note: notesData.part5note,
     voices: voicesData.voices, voiceOf, elements: { of: elOf, labels: elements.labels }, tongues: tonguesData.langs,
