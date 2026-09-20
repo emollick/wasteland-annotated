@@ -7,7 +7,7 @@ source: shakespeare-antony
 title: Cleopatra's barge, indoors
 quote: The barge she sat in, like a burnish’d throne,<br>Burn’d on the water: the poop was beaten gold;<br>Purple the sails, and so perfumed that<br>The winds were love-sick with them . . .
 body:
-Enobarbus's description of Cleopatra on the Cydnus, <i>Antony and Cleopatra</i> Act II scene ii. Eliot changes one word, barge to Chair, and the river pageant becomes a woman's room: the dressing table, the mirror held up by carved cupids, the seven-branched candlestick, the jewels, the bottled perfumes. What follows is the poem's one sustained stretch of grand-manner blank verse, thirty-three lines in a single sentence that keeps postponing its main verb until the reader is as "troubled, confused / And drowned" in the syntax as the sense is in odours. It is a parody, and it is also very beautiful, and it is meant to be both at once.
+Enobarbus's description of Cleopatra on the Cydnus, <i>Antony and Cleopatra</i> Act II scene ii. Eliot changes one word, barge to Chair, and the river pageant becomes a woman's room: the dressing table, the mirror on its standards of carved vines with a golden cupid peeping out, the seven-branched candlestick, the jewels, the bottled perfumes. What follows is the poem's one sustained stretch of grand-manner blank verse, seventeen lines in a single sentence that winds through clause after clause until the reader is as "troubled, confused / And drowned" in the syntax as the sense is in odours. It is a parody, and it is also very beautiful, and it is meant to be both at once.
 
 Two more queens are folded into the furniture. "Laquearia," the coffered ceiling (line 92), is Virgil's word for the gilded ceiling of Dido's palace at the feast where she falls in love with Aeneas, who will leave her (<i>Aeneid</i> I, 726, Eliot's note quotes the line). And the "sylvan scene" of line 98 is Milton's phrase for Eden as Satan first sees it (<i>Paradise Lost</i> IV, 140). Cleopatra, Dido, Eve: three women about to be undone in their gardens and palaces, and then Philomel.
 ---
@@ -20,12 +20,12 @@ source: ovid-met6
 title: The nightingale's story
 image: philomela
 body:
-<i>Metamorphoses</i> VI. Tereus, king of Thrace, married to Procne, rapes her sister Philomela and cuts out her tongue so she cannot tell. Philomela weaves what happened into a tapestry and sends it to Procne; the sisters kill Tereus's son Itys and serve him to his father at dinner; when he pursues them, all three are turned into birds. In the version the Elizabethans inherited, Philomela became the nightingale, Procne the swallow, Tereus the hoopoe. Her story hangs "above the antique mantel" as a painting, one of the "withered stumps of time" on the walls, and also as a tongue: "stumps." She sings anyway, "inviolable," and the world hears it as "Jug Jug," the Elizabethan poets' conventional spelling of nightingale-song, which by Eliot's day was also a dirty joke. The rape comes back in Part III (lines 203–206) and the swallow in the last lines of the poem.
+<i>Metamorphoses</i> VI. Tereus, king of Thrace, married to Procne, rapes her sister Philomela and cuts out her tongue so she cannot tell. Philomela weaves what happened into a tapestry and sends it to Procne; the sisters kill Tereus's son Itys and serve him to his father at dinner; when he pursues them, all three are turned into birds. In the version the Elizabethans inherited, Philomela became the nightingale, Procne the swallow, Tereus the hoopoe. Her story hangs "above the antique mantel" as a painting, one of the "withered stumps of time" on the walls, and also as a tongue: "stumps." She sings anyway, "inviolable," and the world hears it as "Jug Jug," the Elizabethan poets' conventional spelling of nightingale-song, which the poem's "dirty ears" hear as a dirty joke. The rape comes back in Part III (lines 203–206) and the swallow in the last lines of the poem.
 ---
 id: nerves
 line: 111
 to: 114
-anchor: My nerves are bad to-night
+anchor: My nerves are bad tonight
 kind: voice
 title: The woman who wants to be spoken to
 body:
@@ -48,7 +48,7 @@ source: webster-devils-law-case
 title: Is the wind in that door still?
 quote: Is the wind in that door still?
 body:
-Eliot's note credits "Webster." The line is from <i>The Devil's Law-Case</i> (1623), Act III scene ii, where a surgeon, told that a man he stabbed is still alive, asks whether the wind is "in that door still," meaning is that how things stand. The man is not dead. Neither is the man in this room, though "Nothing again nothing" is his answer to what the wind is doing.
+Eliot's note credits "Webster." The line is from <i>The Devil's Law-Case</i> (1623), Act III scene ii. Two surgeons have watched Romelio stab the wounded Contarino and have taken him for dead; when he groans, one asks the other whether the wind is "in that door still," meaning is that how things stand. The man is not dead: the stab has lanced his old wound and saved him. Neither is the man in this room, though "Nothing again nothing" is his answer to what the wind is doing.
 ---
 id: rag
 line: 128
@@ -59,7 +59,7 @@ source: shakespearian-rag
 title: A hit song from 1912
 quote: That Shakespearian rag,<br>Most intelligent, very elegant,<br>That old classical drag,<br>Has the proper stuff, the line “Lay on Macduff” . . .
 body:
-"That Shakespearian Rag" was a number in the Ziegfeld Follies of 1912, words by Gene Buck and Herman Ruby, music by David Stamper. Its chorus, which rhymes "elegant" and "intelligent," is what the man in the chair has running through his head instead of an answer. Eliot adds a syllable ("Shakespeherian") to get the ragtime stutter into the word, and the four "O"s are Lear's and Hamlet's dying "O, O, O, O" as a vamp. The high and the low do not so much collide as turn out to have been the same thing all along: Shakespeare is what you can hum.
+"That Shakespearian Rag" was a song of 1912, words by Gene Buck and Herman Ruby, music by David Stamper, which its publisher advertised as a hit of that year's Ziegfeld Follies; whether it was ever sung in the show is disputed. Its chorus, which rhymes "elegant" and "intelligent," is what the man in the chair has running through his head instead of an answer. Eliot adds a syllable ("Shakespeherian") to get the ragtime stutter into the word, and the four "O"s can be read as Lear's and Hamlet's dying "O, O, O, O" turned into a vamp. The high and the low do not so much collide as turn out to have been the same thing all along: Shakespeare is what you can hum.
 ---
 id: chess
 line: 137
@@ -69,9 +69,9 @@ kind: echo
 source: middleton-wbw
 title: Middleton's chess game
 body:
-In Thomas Middleton's <i>Women Beware Women</i> (c. 1621), Act II scene ii, the procuress Livia keeps a mother busy over a chessboard downstairs while, in a gallery above, the Duke corners and rapes the mother's daughter-in-law Bianca. Every move on the board is a line about what is happening upstairs ("I've given thee blind mate twice"). The section's title comes from this scene, and from Middleton's <i>A Game at Chess</i> (1624), a political satire so popular the government shut it down. "Pressing lidless eyes" is insomnia; "a knock upon the door" is what people in Jacobean tragedy wait for.
+In Thomas Middleton's <i>Women Beware Women</i> (c. 1621), Act II scene ii, the procuress Livia keeps a mother busy over a chessboard downstairs while, in a gallery above, the Duke corners and rapes the mother's daughter-in-law Bianca. Every move on the board is a line about what is happening upstairs ("I have given thee blind mate twice"). The section's title comes from this scene, and from Middleton's <i>A Game at Chess</i> (1624), a political satire so popular the government shut it down. "Pressing lidless eyes" is insomnia; "a knock upon the door" is what people in Jacobean tragedy wait for.
 
-In the typescript a further line followed: "The ivory men make company between us." Vivien asked for it to be taken out, and it was. Eliot wrote it back in, from memory, when he made a fair copy of the poem in 1960.
+In the typescript a further line stood between these two: "The ivory men make company between us." Vivien asked for it to be taken out, and it was. Eliot wrote it back in, from memory, when he made a fair copy of the poem in 1960.
 ---
 id: hurry-up
 line: 141
@@ -90,7 +90,7 @@ title: The pub monologue
 body:
 A woman telling a friend how she told Lil the truth. "Demobbed" (demobilised) was new slang in 1919–20 as the army came home. Albert has been away four years; Lil is thirty-one, has had five children, has lost her teeth and her looks, and has taken pills from the chemist "to bring it off," an abortion. The friend's advice is to get a nice set of false teeth and be smart, or lose him. The whole of it is in the friend's mouth, so we never hear Lil herself except as quoted, and the friend's version of her is as unsympathetic as Tiresias's version of the typist. It is the most direct speech in the poem and the most overheard.
 
-Valerie Eliot recorded that the episode was told to the Eliots by Ellen Kellond, the maid who worked for them. In the typescript Vivien wrote "WONDERFUL" and "Yes" beside these lines, and the line "What you get married for if you don't want children?" is hers, pencilled in the margin and taken into the text.
+Valerie Eliot recorded that the episode was told to the Eliots by Ellen Kellond, the maid who worked for them. In the typescript Vivien wrote "WONDERFUL" and "Yes" beside these lines, and the line "What you get married for if you dont want children?" is hers, pencilled in the margin and taken into the text.
 ---
 id: goodnight-ladies
 line: 172

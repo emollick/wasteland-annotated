@@ -7,7 +7,7 @@ kind: anthropology
 what: The title, the plan, the Fisher King, the Chapel Perilous, the Syrian merchants.
 lines: 0, 46, 386, 424
 note:
-Weston (1850–1928) was a scholar of Arthurian romance who came to believe, under the influence of Frazer, that the Grail stories preserved the remains of an ancient fertility cult: a wounded king, a land gone waste, a cup and a lance that were sexual symbols before they were Christian relics, and a ritual of initiation whose secrets travelled Europe with Syrian merchants. Almost no medievalist now accepts the argument. It does not matter. Eliot's note says the book supplied "the title, the plan and a good deal of the incidental symbolism," and thirty years later he said he regretted "having sent so many enquirers off on a wild goose chase after Tarot cards and the Holy Grail." Read chapters II (The Task of the Hero), IX (The Fisher King) and XIII (The Perilous Chapel) and you have the poem's skeleton; read the rest and you have a very good bad book.
+Weston (1850–1928) was a scholar of Arthurian romance who came to believe, under the influence of Frazer, that the Grail stories preserved the remains of an ancient fertility cult: a wounded king, a land gone waste, a cup and a lance that were sexual symbols before they were Christian relics, and a ritual of initiation whose secrets travelled Europe with Syrian merchants. Almost no medievalist now accepts the argument. It does not matter. Eliot's note says the book suggested "not only the title, but the plan and a good deal of the incidental symbolism," and thirty-four years later he said he regretted "having sent so many enquirers off on a wild goose chase after Tarot cards and the Holy Grail." Read chapters II (The Task of the Hero), IX (The Fisher King) and XIII (The Perilous Chapel) and you have the poem's skeleton; read the rest and you have a very good bad book.
 ---
 id: frazer
 title: The Golden Bough (Adonis, Attis, Osiris)
@@ -18,7 +18,7 @@ kind: anthropology
 what: The dying and reviving god; the buried corpse that sprouts; the Hanged God; the effigy thrown into the sea.
 lines: 46, 71, 312
 note:
-Frazer's twelve-volume comparative study of magic and religion, which Eliot's headnote says "has influenced our generation profoundly," argued that behind the myths of Adonis, Attis, Osiris and, by implication, Christ lay a single agricultural drama: the god who dies with the harvest and returns with the spring, helped along by ritual (a sacrificed king, an effigy buried or drowned). The volumes Eliot names describe the "gardens of Adonis," pots of quick-sprouting seed thrown into the sea, and the "Osiris beds," corn-filled effigies buried to sprout. Stetson's planted corpse, Phlebas in the current, the Hanged Man and the whole question of whether April can bring anything back are Frazer's. Turner painted the golden bough at Nemi in 1834; the book's title is from that painting.
+Frazer's twelve-volume comparative study of magic and religion, which Eliot's headnote says "has influenced our generation profoundly," argued that behind the myths of Adonis, Attis, Osiris and, by implication, Christ lay a single agricultural drama: the god who dies with the harvest and returns with the spring, helped along by ritual (a sacrificed king, an effigy buried or drowned). The volumes Eliot names describe the "gardens of Adonis," pots of quick-sprouting seed thrown into the sea, and the effigies of Osiris "made of earth and corn," buried to sprout. Stetson's planted corpse, Phlebas in the current, the Hanged Man and the whole question of whether April can bring anything back are Frazer's. The book's title and its opening page come from Turner's painting <i>The Golden Bough</i> (1834), which Frazer took for a view of Nemi; it shows the Sibyl at Lake Avernus.
 ---
 id: petronius
 title: Satyricon, chapter 48
@@ -42,9 +42,9 @@ kind: poem
 what: "il miglior fabbro" (the dedication) and "Poi s'ascose nel foco che gli affina" (line 428).
 lines: 0, 428
 passage: «Tan m’abellis vostre cortes deman,<br>qu’ieu no me puesc ni voill a vos cobrire.<br>Ieu sui Arnaut, que plor e vau cantan;<br>consiros vei la passada folor,<br>e vei jausen lo joi qu’esper, denan.<br>Ara vos prec, per aquella valor<br>que vos guida al som de l’escalina,<br>sovenha vos a temps de ma dolor!».<br>Poi s’ascose nel foco che li affina.
-trans: "So much does your courteous question please me that I cannot and will not hide myself from you. I am Arnaut, who weep and go singing; in thought I see my past folly, and I see with joy, ahead, the day I hope for. Now I pray you, by that power which guides you to the top of the stair, be mindful in time of my pain." Then he hid himself in the fire that refines them.
+trans: "So much does your courteous question please me that I cannot and will not hide myself from you. I am Arnaut, who weep and go singing; in thought I see my past folly, and I see with joy, ahead, the joy I hope for. Now I pray you, by that power which guides you to the top of the stair, be mindful in time of my pain." Then he hid himself in the fire that refines them.
 note:
-On the seventh terrace of Purgatory, where the lustful walk in flame, Dante meets Guido Guinizelli, who points out Arnaut Daniel as "miglior fabbro del parlar materno," the better craftsman of the mother tongue (line 117). Arnaut answers in his own Provençal, the only passage in the <i>Comedy</i> in a language other than Italian, and steps back into the fire. Eliot took the dedication to Pound from line 117, the title of his 1920 collection <i>Ara Vos Prec</i> from line 145, and the poem's second-to-last quotation from line 148. Modern texts read "li affina"; Eliot's "gli" follows the editions he owned.
+On the seventh terrace of Purgatory, where the lustful walk in flame, Dante meets Guido Guinizelli, who points out Arnaut Daniel as "miglior fabbro del parlar materno," the better craftsman of the mother tongue (line 117). Arnaut answers in his own Provençal, the only passage in the <i>Comedy</i> in a vernacular other than Italian, and steps back into the fire. Eliot took the dedication to Pound from line 117, the title of his 1920 collection <i>Ara Vos Prec</i> from line 145, and line 428 of the poem from line 148. Modern texts read "li affina"; Eliot's "gli" follows the editions he owned.
 ---
 id: dante-inf3
 title: Inferno, canto III
@@ -57,7 +57,7 @@ lines: 62, 63, 56
 passage: E io, che riguardai, vidi una ’nsegna<br>che girando correva tanto ratta,<br>che d’ogne posa mi parea indegna;<br>e dietro le venìa sì lunga tratta<br>di gente, ch’i’ non averei creduto<br>che morte tanta n’avesse disfatta.
 trans: And I, who looked, saw a banner which, whirling, ran so fast that it seemed to scorn all pause; and behind it came so long a train of people that I would never have believed death had undone so many.
 note:
-Inside the gate ("Abandon all hope") but before the river Acheron, Dante finds the souls who were neither good nor bad, "who lived without infamy and without praise," rejected by Heaven and refused by Hell, running forever after a banner and stung by wasps. Eliot's commuters, going round in a ring, are these. He said in 1929 that Dante was "the most persistent and deepest influence" on his verse, and this canto is the one he quoted most.
+Inside the gate ("Abandon all hope") but before the river Acheron, Dante finds the souls who were neither good nor bad, "who lived without infamy and without praise," rejected by Heaven and refused by Hell, running forever after a banner and stung by wasps. Eliot's commuters, going round in a ring, are these. He said in 1950 that Dante's poetry was still, "after forty years," "the most persistent and deepest influence" on his own verse.
 ---
 id: dante-inf4
 title: Inferno, canto IV
@@ -83,7 +83,7 @@ lines: 293
 passage: «Deh, quando tu sarai tornato al mondo,<br>e riposato de la lunga via»,<br>seguitò ’l terzo spirito al secondo,<br>«ricorditi di me, che son la Pia;<br>Siena mi fé, disfecemi Maremma:<br>salsi colui che ’nnanellata pria<br>disposando m’avea con la sua gemma».
 trans: "Ah, when you have returned to the world and rested from the long way," the third spirit followed the second, "remember me, who am La Pia; Siena made me, Maremma unmade me: he knows it who, having first put a ring on me, wedded me with his gem."
 note:
-Among the late-repentant who died by violence, a woman speaks seven lines and gives her name, her birthplace, the place of her death and, by implication, her murderer, her husband. Nothing else is known of her. Eliot's first Thames-daughter borrows the grammar and keeps the anonymity.
+Among the late-repentant who died by violence, a woman speaks seven lines and gives her name, her birthplace, the place of her death and, by implication, her murderer, her husband. Early commentators named her Pia de' Tolomei of Siena and her husband Nello dei Pannocchieschi; nothing certain is known of her. Eliot's first Thames-daughter borrows the grammar and keeps the anonymity.
 ---
 id: dante-inf33
 title: Inferno, canto XXXIII
@@ -92,7 +92,7 @@ date: c. 1308
 lang: Italian
 kind: poem
 what: The key turning in the door: Ugolino's tower.
-lines: 411, 412
+lines: 412, 413
 passage: e io senti’ chiavar l’uscio di sotto<br>a l’orribile torre; ond’io guardai<br>nel viso a’ mie’ figliuoi sanza far motto.
 trans: and I heard them nailing up the door below of the horrible tower; at which I looked into the faces of my sons without a word.
 note:
@@ -130,7 +130,7 @@ date: 6th century BC; translation 1611
 lang: English
 kind: scripture
 what: "Son of man"; "a heap of broken images"; the valley of dry bones.
-lines: 20, 22, 390
+lines: 20, 22, 391
 passage: And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee. (2:1)<br><br>The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones, and caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry. And he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, thou knowest. (37:1–3)
 note:
 Ezekiel, prophet of the Babylonian exile, is addressed by God ninety-odd times as "son of man," which is to say mortal. Eliot's note points to the moment of his commission; the poem's dry stone, broken images and dry bones come from the same book (chapters 6 and 37). In the valley the bones stand up. In the poem they do not.
@@ -182,7 +182,7 @@ lines: 31, 42
 passage: Westwärts<br>schweift der Blick;<br>ostwärts<br>streicht das Schiff.<br>Frisch weht der Wind<br>der Heimat zu:<br>mein irisch Kind,<br>wo weilest du?<br>Sind’s deiner Seufzer Wehen,<br>die mir die Segel blähen?<br>Wehe, wehe, du Wind!<br>Weh, ach wehe, mein Kind!<br>Irische Maid,<br>du wilde, minnige Maid!<br><br>. . .<br><br>HIRT: Öd und leer das Meer!
 trans: Westward the gaze wanders; eastward the ship runs. Fresh blows the wind toward home: my Irish child, where do you linger? Is it the breath of your sighs that fills my sails? Woe, woe, you wind! Woe, ah woe, my child! Irish maid, you wild, lovely maid! . . . SHEPHERD: Desolate and empty the sea!
 note:
-Eliot's note cites the opera by act and verse as if it were a book, and it was: the libretto was sold and read. The young sailor's song opens Act I from the rigging, before the curtain reveals Isolde below; the shepherd's four words in Act III answer Kurwenal's question whether any sail is in sight while Tristan lies dying. Between the two quotations the poem puts its hyacinth garden, which is to say that the garden happens between a ship setting out and a ship not arriving. Eliot heard Wagner in London before the war and later called <i>Tristan</i> "one of the most tremendous of all operas." Ludwig II, who paid for the first performance, drowned in the Starnberger See of line 8.
+Eliot's note cites the opera by act and verse as if it were a book, and it was: the libretto was sold and read. The young sailor's song is the first thing sung in Act I, from the masthead, unseen, above the deck where Isolde lies; the shepherd's four words in Act III answer Kurwenal's question whether any ship is in sight while Tristan lies dying. Between the two quotations the poem puts its hyacinth garden, which is to say that the garden happens between a ship setting out and a ship not arriving. Eliot heard <i>Tristan</i> in Boston in 1909, as a Harvard senior, and wrote a poem called "Opera" about it; Stravinsky, who met him in 1956, came away thinking that <i>Tristan</i> "must have been one of the most passionate experiences of his life." Ludwig II, who paid for the first performance, drowned in the Starnberger See of line 8.
 ---
 id: gotterdammerung
 title: Götterdämmerung, Act III scene 1
@@ -233,7 +233,7 @@ what: Cornelia's dirge ("keep the wolf far thence") and Flamineo on the spider a
 lines: 74, 408
 passage: Call for the robin-redbreast and the wren,<br>Since o’er shady groves they hover,<br>And with leaves and flowers do cover<br>The friendless bodies of unburied men.<br>Call unto his funeral dole<br>The ant, the field-mouse, and the mole,<br>To rear him hillocks that shall keep him warm,<br>And (when gay tombs are robb’d) sustain no harm;<br>But keep the wolf far thence, that’s foe to men,<br>For with his nails he’ll dig them up again. (V.iv)<br><br>O men,<br>That lie upon your death-beds, and are haunted<br>With howling wives! ne’er trust them; they’ll re-marry<br>Ere the worm pierce your winding-sheet, ere the spider<br>Make a thin curtain for your epitaphs. (V.vi)
 note:
-Webster's tragedy of Vittoria Corombona, the "white devil," and her murderous lover Brachiano. Cornelia sings the dirge over her son Marcello, killed by his brother Flamineo; Flamineo, dying himself, gives the speech about widows. Eliot's essay on the Jacobeans and his poem "Whispers of Immortality" ("Webster was much possessed by death / And saw the skull beneath the skin") explain why these two speeches were in his head.
+Webster's tragedy of Vittoria Corombona, the "white devil," and her murderous lover Brachiano. Cornelia sings the dirge over her son Marcello, killed by his brother Flamineo; Flamineo gives the speech about widows as he rises from a feigned death, having just learned that his sister would have let him die. Eliot's essays on the Elizabethan dramatists and his poem "Whispers of Immortality" ("Webster was much possessed by death / And saw the skull beneath the skin") explain why these two speeches were in his head.
 ---
 id: webster-devils-law-case
 title: The Devil's Law-Case
@@ -245,7 +245,7 @@ what: "The wind under the door."
 lines: 118
 passage: Is the wind in that door still?
 note:
-Act III scene ii. A surgeon, hearing that the man he thought he had killed is still alive, asks whether "the wind" is "in that door still," meaning whether that is still how things stand. Eliot's note gives only the line and the name, and the quotation is so oblique that scholars took decades to locate it.
+Act III scene ii. Two surgeons have just been bribed by Romelio, who has stabbed the wounded Contarino in his bed to finish him off; when the body groans, one of them asks whether "the wind" is "in that door still," meaning whether that is still how things stand. It is: the stab has lanced the old wound, and Contarino lives. Eliot's note gives only the line and the name.
 ---
 id: shakespeare-tempest
 title: The Tempest, Act I scene ii
@@ -257,7 +257,7 @@ what: Ariel's song, "Those are pearls that were his eyes"; Ferdinand on the bank
 lines: 48, 125, 191, 257
 passage: FERDINAND: Where should this music be? i’ th’ air or th’ earth?<br>It sounds no more: and sure, it waits upon<br>Some god o’ th’ island. Sitting on a bank,<br>Weeping again the king my father’s wreck,<br>This music crept by me upon the waters,<br>Allaying both their fury and my passion<br>With its sweet air . . .<br><br>ARIEL (sings): Full fathom five thy father lies;<br>Of his bones are coral made;<br>Those are pearls that were his eyes:<br>Nothing of him that doth fade<br>But doth suffer a sea-change<br>Into something rich and strange.<br>Sea-nymphs hourly ring his knell:<br>Ding-dong.<br>Hark! now I hear them,—Ding-dong, bell.
 note:
-Ferdinand, washed ashore after the shipwreck, believes his father Alonso drowned; Ariel's song tells him so, beautifully and falsely. Alonso is alive, and by the end of the play everyone has suffered a sea-change for the better. Eliot quotes the song three times and never allows the change. The drowned father with pearls for eyes becomes the drowned Phoenician and Phlebas; Ferdinand weeping on the bank becomes the Fisher King by the gasworks.
+Ferdinand, washed ashore after the shipwreck, believes his father Alonso drowned; Ariel's song tells him so, beautifully and falsely. Alonso is alive, and by the end of the play everyone has suffered a sea-change for the better. Eliot quotes the song twice and Ferdinand's speech twice, and never allows the change. The drowned father with pearls for eyes becomes the drowned Phoenician and Phlebas; Ferdinand weeping on the bank becomes the Fisher King by the gasworks.
 ---
 id: shakespeare-antony
 title: Antony and Cleopatra, Act II scene ii
@@ -306,7 +306,7 @@ what: "the sylvan scene": Eden as Satan first sees it.
 lines: 98
 passage: . . . and overhead up grew<br>Insuperable height of loftiest shade,<br>Cedar, and pine, and fir, and branching palm,<br>A silvan scene, and as the ranks ascend<br>Shade above shade, a woody theatre<br>Of stateliest view.
 note:
-Book IV, lines 137–142. Satan, arriving at Eden, looks at Paradise from outside like a man looking at a stage set; "sylvan scene" is his phrase. In the poem it is the painted landscape above the mantelpiece in which Philomel is raped.
+Book IV, lines 137–142. Satan, arriving at Eden, looks at Paradise from outside like a man looking at a stage set; "sylvan scene" is Milton's phrase for what he sees. In the poem it is the painted landscape above the mantelpiece in which Philomel is raped.
 ---
 id: ovid-met6
 title: Metamorphoses, Book VI: Tereus, Procne and Philomela
@@ -340,7 +340,7 @@ lang: English
 kind: play
 what: The game of chess played downstairs during a rape upstairs.
 lines: 137
-passage: LIVIA: Did I not say I should be too hard for you? . . . Y’are cunning at the game, I’ll be sworn, madam. . . . I’ve given thee blind mate twice.
+passage: LIVIA: Alas, poor widow, I shall be too hard for thee.<br>MOTHER: Y’are cunning at the game, I’ll be sworn, madam.<br>LIVIA: It will be found so, ere I give you over. . . . Did not I say my duke would fetch you o’er, widow? . . . I’ve given thee blind mate twice.
 note:
 Livia, a procuress, keeps Bianca's mother-in-law busy at chess while the Duke of Florence takes Bianca in the gallery above; the lines about the game double as commentary on the seduction. Eliot's section title comes from this scene and from Middleton's <i>A Game at Chess</i> (1624), an anti-Spanish satire so popular that it ran nine days and was closed by the Privy Council. Eliot's 1927 essay on Middleton praised him for "the perpetual instinct of the man of genius."
 ---
@@ -383,7 +383,7 @@ The great English argument for going to bed now, because later there is only the
 id: day-parliament-of-bees
 title: The Parliament of Bees
 author: John Day
-date: printed 1641 (written c. 1607–41)
+date: printed 1641 (written c. 1608–16)
 lang: English
 kind: play
 what: Actaeon and Diana, turned into Sweeney and Mrs Porter.
@@ -415,7 +415,7 @@ what: "Jug jug" and "Tereu."
 lines: 103, 204, 206
 passage: What bird so sings, yet so does wail?<br>O ’tis the ravish’d nightingale.<br>Jug, jug, jug, jug, tereu! she cries,<br>And still her woes at midnight rise.
 note:
-The Elizabethan convention that the nightingale sings "jug jug" and calls "tereu," the vocative of Tereus, comes from this song in Lyly's court comedy. Eliot's "Jug Jug to dirty ears" and the four-line burst of birdsong at lines 203–206 are Lyly's bird, with the pretty convention turned back into what it describes.
+The Elizabethan convention that the nightingale sings "jug jug" and calls "tereu," the vocative of Tereus, is at its plainest in this song from Lyly's court comedy; the songs in Lyly's plays were first printed in the collected edition of 1632, and whether he wrote them is disputed. Eliot's "Jug Jug to dirty ears" and the four-line burst of birdsong at lines 203–206 are Lyly's bird, with the pretty convention turned back into what it describes.
 ---
 id: sappho-104
 title: Fragment 104a (Hesperus)
@@ -428,7 +428,7 @@ lines: 220
 passage: Ἔσπερε πάντα φέρων ὄσα φαίνολις ἐσκέδασ’ Αὔως,<br>φέρεις ὄιν, φέρεις αἶγα, φέρεις ἄπυ μάτερι παῖδα.
 trans: Evening star, bringing back everything that shining dawn scattered: you bring the sheep, you bring the goat, you bring the child back to its mother.
 note:
-Two lines that survive because a grammarian quoted them. Eliot's note says his lines "may not appear as exact as Sappho's" and that he was thinking of the "longshore" fisherman coming in at nightfall. Byron and Stevenson ("Home is the sailor, home from sea") are the English relay stations between Sappho and the typist's teatime.
+Two lines that survive because a critic, Demetrius in his treatise <i>On Style</i>, quoted them. Eliot's note says his lines "may not appear as exact as Sappho's" and that he was thinking of the "longshore" fisherman coming in at nightfall. Byron and Stevenson ("Home is the sailor, home from sea") are the English relay stations between Sappho and the typist's teatime.
 ---
 id: goldsmith-vicar
 title: The Vicar of Wakefield, chapter 24
@@ -462,9 +462,9 @@ lang: Latin; English
 kind: prose
 what: "To Carthage then I came"; "O Lord Thou pluckest me out."
 lines: 307, 309
-passage: To Carthage then I came, where a cauldron of unholy loves sang all about mine ears. (III.1)<br><br>I entangle my steps with these outward beauties, but Thou pluckest me out, O Lord, Thou pluckest me out; for Thy loving-kindness is before my eyes. (X.34)
+passage: To Carthage I came, where there sang all around me in my ears a cauldron of unholy loves. (III.1)<br><br>And I, though I speak and see this, entangle my steps with these outward beauties; but Thou pluckest me out, O Lord, Thou pluckest me out; because Thy loving-kindness is before my eyes. (X.34)
 note:
-Augustine's account of his student years in Carthage, "a cauldron of unholy loves," and, six books later, of the pull of beautiful things on a man trying to look at God. The Latin of the first sentence puns Carthago with sartago, a frying pan, which is why the Fire Sermon ends with it. Eliot uses Pusey's Victorian translation, the one in Everyman's Library.
+Augustine's account of his student years in Carthage, "a cauldron of unholy loves," and, six books later, of the pull of beautiful things on a man trying to look at God. The Latin of the first sentence puns Carthago with sartago, a frying pan, which is why the Fire Sermon ends with it. Eliot uses Pusey's Victorian translation, the one in Everyman's Library, and rewrites its first sentence in his note as "to Carthage then I came, where a cauldron of unholy loves sang all about mine ears."
 ---
 id: buddha-fire-sermon
 title: The Fire Sermon (Ādittapariyāya Sutta)
@@ -510,10 +510,10 @@ lang: German
 kind: essay
 what: The "hooded hordes" and the "decay of eastern Europe."
 lines: 367
-passage: Schon ist halb Europa, schon ist zumindest der halbe Osten Europas auf dem Wege zum Chaos, fährt betrunken im heiligem Wahn am Abgrund entlang und singt dazu, singt betrunken und hymnisch wie Dmitri Karamasoff sang. Ueber diese Lieder lacht der Bürger beleidigt, der Heilige und Seher hört sie mit Tränen.
+passage: Schon ist halb Europa, schon ist zumindest der halbe Osten Europas auf dem Wege zum Chaos, fährt betrunken in heiligem Wahn am Abgrund entlang und singt dazu, singt betrunken und hymnisch wie Dmitri Karamasoff sang. Über diese Lieder lacht der Bürger beleidigt, der Heilige und Seher hört sie mit Tränen.
 trans: Already half of Europe, already at least half of eastern Europe, is on the way to chaos, driving drunk in holy delusion along the edge of the abyss and singing as it goes, singing drunken hymns as Dmitri Karamazov sang. The bourgeois laughs at these songs, offended; the saint and the seer hear them with tears.
 note:
-Three essays on Dostoevsky, written in the aftermath of the war, in which Hesse saw the "Russian man" of <i>The Brothers Karamazov</i> as the coming type of a Europe that had lost its faith in its own order. Eliot's note quotes the essay "The Brothers Karamazov, or the Downfall of Europe"; he visited Hesse in Switzerland in 1922 and printed him in the first <i>Criterion</i>.
+Three essays written in the aftermath of the war, two of them on Dostoevsky, in which Hesse saw the "Russian man" of <i>The Brothers Karamazov</i> as the coming type of a Europe that had lost its faith in its own order. Eliot's note quotes the essay "The Brothers Karamazov, or the Downfall of Europe," misprinting "in heiligem Wahn" as "im heiligem Wahn"; he visited Hesse in Switzerland in 1922 and printed him in the first <i>Criterion</i>.
 ---
 id: shackleton-south
 title: South: The Story of Shackleton's Last Expedition
@@ -535,9 +535,9 @@ lang: English
 kind: birdbook
 what: The hermit-thrush and its "water-dripping song."
 lines: 357
-passage: It is most at home in secluded woodland and thickety retreats. . . . Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequalled.
+passage: It is most at home in secluded woodland and thickety retreats. . . . Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequaled.
 note:
-The ornithologist's field guide Eliot's family owned; his note quotes it and gives the bird its scientific name of the day, <i>Turdus aonalaschkae pallasii</i> (now <i>Catharus guttatus</i>). Listen to a recording: the song is a clear, long note followed by a falling, liquid phrase that really does sound like water dripping into a pool. It sings at dusk, and the poem's "Drip drop drip drop drop drop drop" is a fair transcription.
+The field guide Eliot had as a boy, a gift from his mother (his own copy survives); his note quotes it and gives the bird its scientific name of the day, <i>Turdus aonalaschkae pallasii</i> (now <i>Catharus guttatus</i>). Listen to a recording: the song is a clear, long note followed by a falling, liquid phrase that really does sound like water dripping into a pool. It sings at dusk, and the poem's "Drip drop drip drop drop drop drop" is a fair transcription.
 ---
 id: pervigilium-veneris
 title: Pervigilium Veneris (The Vigil of Venus)
@@ -550,7 +550,7 @@ lines: 429
 passage: iam loquaces ore rauco stagna cycni perstrepunt;<br>adsonat Terei puella subter umbram populi,<br>ut putes motus amoris ore dici musico,<br>et neges queri sororem de marito barbaro.<br>illa cantat, nos tacemus. quando ver venit meum?<br>quando fiam uti chelidon, ut tacere desinam?<br>perdidi Musam tacendo, nec me Phoebus respicit.<br>sic Amyclas, cum tacerent, perdidit silentium.<br>cras amet qui numquam amavit quique amavit cras amet.
 trans: Now the chattering swans with hoarse voices make the pools ring; Tereus's girl sings under the poplar's shade, so that you would think the stirrings of love were spoken by her musical mouth, and not that a sister complained of a barbarous husband. She sings; we are silent. When does my spring come? When shall I become like the swallow, so that I may stop being silent? By silence I have lost the Muse, and Phoebus does not regard me. So Amyclae, when its people kept silent, was destroyed by silence. Tomorrow let him love who has never loved, and let him who has loved love tomorrow.
 note:
-A late Latin poem of ninety-three lines for the eve of the spring festival of Venus, with the refrain "cras amet qui numquam amavit." After all the flowers and nymphs, the last stanza turns to the poet's own silence, and envies the swallow, who is Procne, sister of the raped Philomela. Eliot's 1922 text reads "ceu" for the poem's "uti"; he later corrected it. The whole of the poem's spring, its birds and its silence are in these nine lines.
+A late Latin poem of ninety-three lines for the eve of the spring festival of Venus, with the refrain "cras amet qui numquam amavit." After all the flowers and nymphs, the last stanza turns to the poet's own silence, and envies the swallow, who is Procne, sister of the raped Philomela. Eliot's 1922 text reads "ceu" for the poem's "uti," and so do his manuscripts; the line was changed to "uti" in <i>Collected Poems 1909–1935</i> (1936). The whole of the poem's spring, its birds and its silence are in these nine lines.
 ---
 id: nerval-desdichado
 title: El Desdichado (from Les Chimères)
@@ -563,7 +563,7 @@ lines: 430
 passage: Je suis le Ténébreux, — le Veuf, — l’Inconsolé,<br>Le Prince d’Aquitaine à la Tour abolie:<br>Ma seule Étoile est morte, — et mon luth constellé<br>Porte le Soleil noir de la Mélancolie.<br><br>Dans la nuit du Tombeau, Toi qui m’as consolé,<br>Rends-moi le Pausilippe et la mer d’Italie,<br>La fleur qui plaisait tant à mon cœur désolé,<br>Et la treille où le Pampre à la Rose s’allie.<br><br>Suis-je Amour ou Phébus? . . . Lusignan ou Biron?<br>Mon front est rouge encor du baiser de la Reine;<br>J’ai rêvé dans la Grotte où nage la Sirène . . .<br><br>Et j’ai deux fois vainqueur traversé l’Achéron:<br>Modulant tour à tour sur la lyre d’Orphée<br>Les soupirs de la Sainte et les cris de la Fée.
 trans: I am the dark one, the widower, the unconsoled, the Prince of Aquitaine with the ruined tower: my only star is dead, and my starred lute bears the black sun of Melancholy. In the night of the tomb, you who consoled me, give me back Posillipo and the Italian sea, the flower that so pleased my desolate heart, and the arbour where the vine and the rose are joined. Am I Love or Phoebus? Lusignan or Biron? My brow is still red from the queen's kiss; I have dreamed in the grotto where the siren swims. And twice, victorious, I have crossed the Acheron, modulating in turn on Orpheus's lyre the sighs of the saint and the cries of the fairy.
 note:
-The first of Nerval's <i>Chimères</i>, written in the intervals of madness a year before he hanged himself in a Paris alley. The title is Spanish, "the disinherited one," from a shield in <i>Ivanhoe</i>; the "tour abolie" is the Tarot's Tower. A poet who has twice crossed the river of the dead and come back, the sonnet says, and can still play. Eliot takes the second line and leaves the consolation.
+The first of Nerval's <i>Chimères</i>, written in the intervals of madness a year before he hanged himself in a Paris alley. The title is Spanish, "the disinherited one," from a shield in <i>Ivanhoe</i>; the "tour abolie" is often read as the Tarot's Tower. A poet who has twice crossed the river of the dead and come back, the sonnet says, and can still play. Eliot takes the second line and leaves the consolation.
 ---
 id: kyd-spanish-tragedy
 title: The Spanish Tragedy, Act IV
@@ -575,7 +575,7 @@ what: "Why then Ile fit you. Hieronymo's mad againe."
 lines: 432
 passage: HIERONIMO: Why then, I’ll fit you; say no more.<br>When I was young, I gave my mind<br>And plied myself to fruitless poetry;<br>Which though it profit the professor naught,<br>Yet is it passing pleasing to the world.
 note:
-Hieronimo, Knight Marshal of Spain, whose son Horatio has been murdered and hanged in an arbour, is asked by the murderers to write a play for the court. "I'll fit you" means I'll supply what you want and I'll pay you back; the play he supplies is written "in sundry languages," and in performing it the murderers are stabbed for real. "Hieronimo is mad againe" is from the title page of the 1615 quarto, the edition Eliot would have known. A revenge carried out by means of a multilingual entertainment is not a bad description of the poem that quotes it.
+Hieronimo, Knight Marshal of Spain, whose son Horatio has been murdered and hanged in an arbour, is asked by the murderers to write a play for the court. "I'll fit you" means I'll supply what you want and I'll pay you back; the play he supplies is written "in sundry languages," and in performing it the murderers are stabbed for real. "Hieronimo is mad againe" is from the title page of the 1615 quarto and of the reprints that followed it. A revenge carried out by means of a multilingual entertainment is not a bad description of the poem that quotes it.
 ---
 id: london-bridge
 title: London Bridge Is Falling Down
@@ -599,7 +599,7 @@ what: "O O O O that Shakespeherian Rag— / It's so elegant / So intelligent."
 lines: 128
 passage: That Shakespearian rag,<br>Most intelligent, very elegant,<br>That old classical drag,<br>Has the proper stuff, the line “Lay on Macduff” . . .
 note:
-A number from the Ziegfeld Follies of 1912, in which Shakespeare's characters are made to dance the ragtime steps of the day. Eliot, at Harvard and in London, knew the popular songs of 1910–12 well enough to misquote one on purpose: his extra syllable, "Shakespeherian," gives the word the rag's syncopation. The song exists in recordings from the year of its publication.
+Published in 1912 and advertised as a number from that year's Ziegfeld Follies, though it seems never to have been sung in the show and was first performed in vaudeville in January 1913; Shakespeare's characters are made to dance the ragtime steps of the day. Eliot knew the popular songs of his Harvard years well enough to misquote one on purpose: his extra syllable, "Shakespeherian," gives the word the rag's syncopation. No recording from the period is known.
 ---
 id: dans-le-restaurant
 title: Dans le Restaurant
@@ -622,9 +622,9 @@ lang: English
 kind: poem
 what: "Come in under the shadow of this red rock."
 lines: 25
-passage: Come under the shadow of this gray rock—<br>Come in under the shadow of this gray rock,<br>And I will show you something different from either<br>Your shadow sprawling over the sand at daybreak, or<br>Your shadow leaping behind the fire against the red rock:<br>I will show you his bloody cloth and limbs<br>And the gray shadow on his lips.
+passage: Come under the shadow of this gray rock—<br>Come in under the shadow of this gray rock,
 note:
-Set in type for <i>Poetry</i> (Chicago) in 1915 and withdrawn at proof stage, the poem about a saint who wanted to be a tree, a fish and a girl, and died pierced with arrows, survived in the folder of drafts that Eliot sold with the <i>Waste Land</i> manuscript. The gray rock's shadow, made red, became the poem's first prophecy.
+Set in type for <i>Poetry</i> (Chicago) in 1915 and withdrawn at proof stage, the poem about a saint who wanted to be a tree, a fish and a girl, and died pierced with arrows, survived among the manuscripts Eliot sent to John Quinn in 1922 along with the <i>Waste Land</i> drafts. Its opening goes on, in the cadence the later poem keeps, to promise the listener something other than his own shadow on the sand or against the fire: the saint's bloody cloth and limbs. The gray rock's shadow, made red, became the poem's first prophecy. The poem is still in copyright, so only its first two lines are given here.
 ---
 id: dickens-omf
 title: Our Mutual Friend, Book I chapter 16
@@ -660,7 +660,7 @@ what: "a handful of dust"; "O swallow swallow."
 lines: 30, 429
 passage: Dead, long dead,<br>Long dead!<br>And my heart is a handful of dust,<br>And the wheels go over my head,<br>And my bones are shaken with pain,<br>For into a shallow grave they are thrust,<br>Only a yard beneath the street . . . (Maud, II.v)<br><br>O Swallow, Swallow, flying, flying South,<br>Fly to her, and fall upon her gilded eaves,<br>And tell her, tell her, what I tell to thee. (The Princess)
 note:
-The mad speaker of <i>Maud</i>, buried alive under a London street with the traffic going over him, is a Victorian ancestor of the man in rats' alley; the swallow song in <i>The Princess</i> gives Eliot the English half of a Latin line. Eliot's respect for Tennyson's ear ("the finest ear of any English poet since Milton," he wrote in 1936) shows in what he took.
+The mad speaker of <i>Maud</i>, who imagines himself buried alive under a city street with the traffic going over him, is a Victorian ancestor of the man in rats' alley; the swallow song in <i>The Princess</i> gives Eliot the English half of a Latin line. Eliot's respect for Tennyson's ear ("the finest ear of any English poet since Milton," he wrote in 1936) shows in what he took.
 ---
 id: huxley-crome-yellow
 title: Crome Yellow, chapter 27
@@ -670,7 +670,7 @@ lang: English
 kind: novel
 what: "Sesostris, the Sorceress of Ecbatana": the name behind Madame Sosostris.
 lines: 43
-passage: Mr. Scogan, in a black skirt and a red bodice, with a yellow-and-red bandana handkerchief tied round his black wig, looked like the Bohemian Hag of Frith’s Derby Day. A placard pinned to the curtain of the doorway announced the presence within the tent of “Sesostris, the Sorceress of Ecbatana.”
+passage: Mr. Scogan had been accommodated in a little canvas hut. Dressed in a black skirt and a red bodice, with a yellow-and-red bandana handkerchief tied round his black wig, he looked—sharp-nosed, brown, and wrinkled—like the Bohemian Hag of Frith’s Derby Day. A placard pinned to the curtain of the doorway announced the presence within the tent of “Sesostris, the Sorceress of Ecbatana.”
 note:
 Huxley's country-house satire came out in November 1921, while Eliot was at Margate and Lausanne; the cynical Mr. Scogan telling fortunes in drag at a village fête is the immediate source of the "famous clairvoyante." Huxley had been at Garsington with Eliot, and the two knew each other's work.
 ---
@@ -682,6 +682,6 @@ lang: English
 kind: essay
 what: What Eliot later said about the notes.
 lines: 0
-passage: I had at first intended only to put down all the references for my quotations, with a view to spiking the guns of critics of my earlier poems who had accused me of plagiarism. Then, when it came to print The Waste Land as a little book—for the poem on its first appearance in The Dial and in The Criterion had no notes whatever—it was discovered that the poem was inconveniently short, so I set to work to expand the notes, in order to provide a few more pages of printed matter, with the result that they became the remarkable exposition of bogus scholarship that is still on view to-day. . . . I regret having sent so many enquirers off on a wild goose chase after Tarot cards and the Holy Grail.
+passage: . . . the remarkable exposition of bogus scholarship that is still on view to-day. . . . I regret having sent so many enquirers off on a wild goose chase after Tarot cards and the Holy Grail.
 note:
-A lecture given at the University of Minnesota in 1956 to an audience of nearly fourteen thousand, in which Eliot, thirty-four years on, described the notes as padding that had got out of hand. He also admitted they could not now be removed: readers had "bought" the notes with the poem. Take the notes as part of the poem and as a joke at its expense; both are true.
+A lecture given at the University of Minnesota in 1956 to an audience of nearly fourteen thousand, in which Eliot, thirty-four years on, described the notes as padding that had got out of hand: he had meant only to list his references, to spike the guns of critics who had called him a plagiarist, and then, when the poem proved too short to make a book on its own, expanded them to fill pages. He also admitted they could not now be removed: readers had "bought" the notes with the poem. Take the notes as part of the poem and as a joke at its expense; both are true.

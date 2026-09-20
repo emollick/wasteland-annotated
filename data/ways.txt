@@ -44,7 +44,7 @@ body: The section did not begin with April. It began with fifty-four lines of a 
 kind: lens
 title: Leave the German alone
 lens: tongues
-body: Four lines of Wagner and one café sentence are left untranslated. Switch on Tongues to see the translations, then switch it off and read the section as someone in 1922 without German would have read it: as sound, and as a wall.
+body: Five lines of Wagner, one café sentence and a line of Baudelaire are left untranslated. Switch on Tongues to see the translations, then switch it off and read the section as someone in 1922 without German would have read it: as sound, and as a wall.
 ---
 kind: ask
 title: Three questions with no answer
@@ -71,7 +71,7 @@ body: With Voices on, everything in quotation marks is hers and everything witho
 kind: do
 title: Play the rag
 lens: listen
-body: "That Shakespearian Rag" was a real song of 1912 and there are recordings. Play it, then read lines 128–130 with Eliot's extra syllable in "Shakespeherian." The syncopation is the joke, and the joke is what he hums instead of speaking.
+body: "That Shakespearian Rag" was a real song of 1912; no recording of the day has turned up, but the sheet music is in the listening room. Play it, then read lines 128–130 with Eliot's extra syllable in "Shakespeherian." The syncopation is the joke, and the joke is what he hums instead of speaking.
 ---
 kind: source
 title: Find Philomel above the mantel
@@ -118,7 +118,7 @@ body: Voices marks the fisher on the bank, a soldiers' song, Verlaine, a nightin
 kind: source
 title: The Fire Sermon itself
 source: buddha-fire-sermon
-body: Read the Buddha's sermon, in the translation Eliot used at Harvard, before the section, not after. Then everything in it, the river, the typist, the barges, the cities, is seen "on fire," and the four "burning"s at the end are the sermon's own refrain.
+body: Read the Buddha's sermon, in the translation Eliot used at Harvard, before the section, not after. Then everything in it, the river, the typist, the barges, the cities, is seen "on fire," and the five "burning"s at the end are the sermon's own refrain.
 ---
 kind: draft
 title: Pound's pencil on the typist
@@ -210,7 +210,7 @@ source: shackleton-south
 body: Two texts under "Who is the third who walks always beside you?": Luke 24 and Shackleton's account of crossing South Georgia in 1916, when three men each felt a fourth. Read both. The hooded figure is a risen god and a hallucination of exhausted men, and the poem will not say which.
 ---
 kind: lens
-title: Eight languages
+title: Eight lines, six languages
 lens: tongues
 body: The last eight lines are in English, Italian, Latin, French, English, English, Sanskrit, Sanskrit, with Provençal in the note. Switch on Tongues, read the translations, then read the lines again as a person who has none of them: as a noise made by a civilisation.
 ---

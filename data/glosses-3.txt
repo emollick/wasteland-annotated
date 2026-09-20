@@ -7,7 +7,7 @@ source: spenser-prothalamion
 title: Spenser's wedding river
 quote: Sweete Themmes runne softly, till I end my Song.
 body:
-The refrain of Spenser's <i>Prothalamion</i> (1596), a "spousal verse" for a double wedding in which nymphs gather flowers on the Thames bank and two swans float down to Essex House. Spenser's river is a procession; Eliot's is the morning after. "The nymphs are departed" and so have "their friends, the loitering heirs of city directors," the young men of the summer, leaving no bottles, papers or cigarette ends because the season is over. October: "the last fingers of leaf / Clutch and sink into the wet bank." The whole section was drafted at Margate and Lausanne in the autumn of 1921, and it is the only part of the poem with a season you can feel on your skin.
+The refrain of Spenser's <i>Prothalamion</i> (1596), a "spousal verse" for a double wedding in which nymphs gather flowers on the Thames bank and two swans float down to Essex House. Spenser's river is a procession; Eliot's is the morning after. "The nymphs are departed" and so have "their friends, the loitering heirs of city directors," the young men of the summer, leaving no bottles, papers or cigarette ends because the season is over. October: "the last fingers of leaf / Clutch and sink into the wet bank." Part of the section was drafted at Margate in the autumn of 1921, and it is the only part of the poem with a season you can feel on your skin.
 ---
 id: leman
 line: 182
@@ -17,7 +17,7 @@ source: psalm137
 title: Babylon, Geneva, and a lover
 quote: By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
 body:
-Psalm 137, the exiles' psalm, with one word changed. Leman is Lac Léman, Lake Geneva, on whose shore at Lausanne Eliot spent November and December 1921 under the care of Dr Roger Vittoz, writing most of Parts III to V. "Leman" is also an old English word for a lover or mistress. The line is the poem's most private moment and its most public: a man on sick leave from a bank, weeping by a Swiss lake, in the words of a people carried off to Babylon.
+Psalm 137, the exiles' psalm, with one word changed. Leman is Lac Léman, Lake Geneva, on whose shore at Lausanne Eliot spent November and December 1921 under the care of Dr Roger Vittoz, writing Parts IV and V. "Leman" is also an old English word for a lover or mistress. The line is the poem's most private moment and its most public: a man on sick leave from a bank, weeping by a Swiss lake, in the words of a people carried off to Babylon.
 ---
 id: at-my-back
 line: 185
@@ -28,7 +28,7 @@ source: marvell-coy-mistress
 title: Time's chariot, twice
 quote: But at my back I always hear<br>Time’s wingèd chariot hurrying near;<br>And yonder all before us lie<br>Deserts of vast eternity.
 body:
-Marvell, "To His Coy Mistress" (published 1681). Eliot's note attaches it to line 196, where the phrase comes round again and turns into Sweeney's motor horns; here, first time through, what the speaker hears at his back is not a chariot but "the rattle of the bones, and chuckle spread from ear to ear," a skull's grin. Marvell's poem is a seduction: hurry, because we die. Eliot's borrowings from it, both times, skip the seduction and keep the dying.
+Marvell, "To His Coy Mistress" (published 1681). Eliot's note attaches it to line 196 (numbered 197 in the 1922 notes, a slip), where the phrase comes round again and turns into Sweeney's motor horns; here, first time through, what the speaker hears at his back is not a chariot but "the rattle of the bones, and chuckle spread from ear to ear," a skull's grin. Marvell's poem is a seduction: hurry, because we die. Eliot's borrowings from it, both times, skip the seduction and keep the dying.
 ---
 id: fishing-canal
 line: 189
@@ -50,7 +50,7 @@ source: day-parliament-of-bees
 title: Actaeon, Diana, Sweeney, Mrs Porter
 quote: When of the sudden, listening, you shall hear,<br>A noise of horns and hunting, which shall bring<br>Actaeon to Diana in the spring,<br>Where all shall see her naked skin . . .
 body:
-John Day's <i>The Parliament of Bees</i> (printed 1641), quoted in Eliot's note. Actaeon, out hunting, sees the goddess Diana bathing and is turned into a stag and torn apart by his own hounds. In Eliot the horns are motor horns, the hunter is Sweeney, the ape-necked man of his 1920 poems, the goddess is Mrs Porter, and the bathing is a foot-wash in soda water. The three-line song is real: Eliot's note says it "was reported to me from Sydney, Australia," and it was a soldiers' song of the Gallipoli campaign, sung about a Cairo brothel-keeper, in versions considerably less printable than this one. Which makes the next line, in French, the most violent cut in the poem.
+John Day's <i>The Parliament of Bees</i> (printed 1641), quoted in Eliot's note. Actaeon, out hunting, sees the goddess Diana bathing and is turned into a stag and torn apart by his own hounds. In Eliot the horns are motor horns, the hunter is Sweeney, the ape-necked man of his 1920 poems, the goddess is Mrs Porter, and the bathing is a foot-wash in soda water. The three-line song is real: Eliot's note says it "was reported to me from Sydney, Australia," and it was a soldiers' song of the Gallipoli campaign, said to be about a Cairo brothel-keeper, in versions considerably less printable than this one. Which makes the next line, in French, the most violent cut in the poem.
 ---
 id: verlaine
 line: 202
@@ -73,7 +73,7 @@ source: lyly-campaspe
 title: The bird names her rapist
 quote: What bird so sings, yet so does wail?<br>O ’tis the ravish’d nightingale.<br>Jug, jug, jug, jug, tereu! she cries,<br>And still her woes at midnight rise.
 body:
-John Lyly's song from <i>Campaspe</i> (1584), the source of the Elizabethan convention that the nightingale sings "jug jug" and "tereu," which is the vocative of Tereus: the bird calling the name of the man who cut out her tongue. Four lines, three birds' worth of noise, then the name. "So rudely forc'd" is line 100 with its spelling roughened. The nightingale's song in this poem is never lovely. It is evidence.
+John Lyly's song from <i>Campaspe</i> (1584), the best-known statement of the Elizabethan convention that the nightingale sings "jug jug" and "tereu," which is the vocative of Tereus: the bird calling the name of the man who cut out her tongue. Four lines, three birds' worth of noise, then the name. "So rudely forc'd" is line 100 with its spelling roughened. The nightingale's song in this poem is never lovely. It is evidence.
 ---
 id: eugenides
 line: 209
@@ -85,7 +85,7 @@ image: smyrna-1920
 body:
 Eugenides means "well-born." Smyrna, now İzmir, was the great port of Asia Minor and shipped the currants that London's bakers used; a pocketful is a sample. "C.i.f. London: documents at sight" is the trade shorthand for cost, insurance and freight paid to London, with the shipping documents handed over when the sight draft is paid, language Eliot handled daily at Lloyds. (His own note expands the abbreviation slightly wrongly, as "carriage and insurance free," a banker's slip that the editors of the poem have enjoyed ever since.) "Demotic French" is the Levant's trading language. The Cannon Street Hotel stood in front of Cannon Street station, the terminus for the boat trains to the Continent, and was the usual place for City men to meet foreign clients; a weekend at the Metropole, the big hotel on the Brighton seafront, is a proposition, and has generally been read as a homosexual one.
 
-He is the one-eyed merchant of Madame Sosostris's pack (one-eyed because a card shows a face in profile), and, Eliot's note says, he "melts into the Phoenician Sailor." The Phoenicians were the traders of the ancient Mediterranean; Weston argued that the Grail mysteries travelled Europe's trade routes with Syrian merchants. In September 1922, between the poem's completion and its publication, Smyrna burned.
+He is the one-eyed merchant of Madame Sosostris's pack (one-eyed, presumably, because a card shows a face in profile), and, Eliot's note says, he "melts into the Phoenician Sailor." The Phoenicians were the traders of the ancient Mediterranean; Weston argued that the Grail mysteries travelled Europe's trade routes with Syrian merchants. In September 1922, between the poem's completion and its publication, Smyrna burned.
 ---
 id: violet-hour
 line: 215
@@ -132,7 +132,7 @@ source: goldsmith-vicar
 title: Goldsmith's song, and a gramophone
 quote: When lovely woman stoops to folly,<br>And finds too late that men betray,<br>What charm can soothe her melancholy,<br>What art can wash her guilt away?<br><br>The only art her guilt to cover,<br>To hide her shame from every eye,<br>To give repentance to her lover,<br>And wring his bosom, is—to die.
 body:
-Olivia's song in <i>The Vicar of Wakefield</i> (1766), chapter 24, sung after her seduction. In Goldsmith the fallen woman's only art is to die. In Eliot she "smooths her hair with automatic hand, / And puts a record on the gramophone." The gramophone is the poem's newest object, and "automatic" is its most modern word: the eighteenth-century ballad meter runs on into a room where nobody feels anything and a machine does the singing. Whether you hear that as contempt for her or relief for her decides how you read the poem.
+Olivia's song in <i>The Vicar of Wakefield</i> (1766), chapter 24, sung after her seduction. In Goldsmith the fallen woman's only art is to die. In Eliot she "smoothes her hair with automatic hand, / And puts a record on the gramophone." The gramophone is the poem's newest object, and "automatic" is its most modern word: the eighteenth-century ballad meter runs on into a room where nobody feels anything and a machine does the singing. Whether you hear that as contempt for her or relief for her decides how you read the poem.
 ---
 id: strand
 line: 257
@@ -142,7 +142,7 @@ kind: place
 image: st-magnus-interior
 title: From the Strand to Lower Thames Street
 body:
-Ferdinand's line from <i>The Tempest</i> again (Eliot's note: "as above"), and then a walk: along the Strand, up Queen Victoria Street, which runs from Blackfriars to the Bank, and down to Lower Thames Street, where Billingsgate fish market stood and the "fishmen" drank at noon. The mandoline is real; so is the pub. And so is St Magnus the Martyr, Wren's church at the foot of the old London Bridge, rebuilt 1671–87, with a white and gold interior of Ionic columns. In 1920 a report of the London County Council, <i>The Proposed Demolition of Nineteen City Churches</i>, listed it for demolition; Eliot's note is a protest, and the church is still there. "Inexplicable splendour" is the first unqualified praise of anything in the poem, and it is given to a building on a street of fish.
+Ferdinand's line from <i>The Tempest</i> again (Eliot's note: "as above"), and then a walk: along the Strand, up Queen Victoria Street, which runs from Blackfriars to the Bank, and down to Lower Thames Street, where Billingsgate fish market stood and the "fishmen" drank at noon. The mandoline is real; so is the pub. And so is St Magnus the Martyr, Wren's church at the foot of the old London Bridge, rebuilt 1671–87, with a white and gold interior of Ionic columns. In 1920 a commission chaired by Lord Phillimore proposed pulling down nineteen City churches, St Magnus among them; the London County Council's report against the scheme, <i>The Proposed Demolition of Nineteen City Churches</i>, is the pamphlet Eliot's note cites, and the church is still there. "Inexplicable splendour" is the first unqualified praise of anything in the poem, and it is given to a building on a street of fish.
 ---
 id: thames-daughters
 line: 266
@@ -205,8 +205,8 @@ anchor: To Carthage then I came
 kind: echo
 source: augustine-confessions
 title: Augustine and the Buddha, burning
-quote: To Carthage then I came, where a cauldron of unholy loves sang all about mine ears.
+quote: To Carthage I came, where there sang all around me in my ears a cauldron of unholy loves.
 body:
-The opening of Book III of Augustine's <i>Confessions</i> (c. 400), in E. B. Pusey's translation (1838), the Latin of which puns: Carthago, sartago, a frying pan. Augustine arrived in the city as a student and threw himself into love affairs and the theatre. Then the Buddha's Fire Sermon, which gives the section its title: "All things, O priests, are on fire . . . The eye is on fire; forms are on fire . . . with the fire of passion, with the fire of hatred, with the fire of infatuation." Eliot read it at Harvard in Henry Clarke Warren's <i>Buddhism in Translations</i> (1896). Then Augustine again, Book X: "I entangle my steps with these outward beauties, but Thou pluckest me out, O Lord, Thou pluckest me out."
+The opening of Book III of Augustine's <i>Confessions</i> (c. 400), given in Eliot's note in his own wording; E. B. Pusey's translation (1838), which is behind it, reads "To Carthage I came, where there sang all around me in my ears a cauldron of unholy loves." The Latin puns: Carthago, sartago, a frying pan. Augustine arrived in the city as a student and threw himself into love affairs and the theatre. Then the Buddha's Fire Sermon, which gives the section its title: "All things, O priests, are on fire . . . The eye, O priests, is on fire; forms are on fire . . . with the fire of passion, say I, with the fire of hatred, with the fire of infatuation." Eliot read it at Harvard in Henry Clarke Warren's <i>Buddhism in Translations</i> (1896). Then Augustine again, Book X: "I . . . entangle my steps with these outward beauties; but Thou pluckest me out, O Lord, Thou pluckest me out."
 
 Eliot's note says that putting "these two representatives of eastern and western asceticism" together "as the culmination of this part of the poem, is not an accident." The lines fall apart as you read them: a sentence, a word four times, a prayer, a prayer with its end torn off, one word alone. The fire that burns here is lust. The fire at line 428 refines.

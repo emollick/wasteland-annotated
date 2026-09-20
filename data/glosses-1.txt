@@ -45,9 +45,9 @@ title: Chaucer's April, turned inside out
 quote: Whan that Aprill with his shoures soote<br>The droghte of March hath perced to the roote,<br>And bathed every veyne in swich licour<br>Of which vertu engendred is the flour . . .
 trans: When April with its sweet showers has pierced the drought of March to the root, and bathed every vein in such liquid as has the power to engender the flower . . .
 body:
-The most famous opening in English poetry says that April is kind: rain ends the drought, sap rises, people want to go on pilgrimages. Eliot's first line answers it. Rain is still there ("stirring / Dull roots with spring rain"), but it is unwelcome, because it stirs "memory and desire" in something that would rather stay numb. Winter was kinder: "forgetful snow," "a little life with dried tubers." Read the first seven lines aloud and notice how every line ends on a present participle left hanging, breeding, mixing, stirring, covering, feeding, so that the verbs never quite arrive at their objects. Growth that will not finish.
+The most famous opening in English poetry says that April is kind: rain ends the drought, sap rises, people want to go on pilgrimages. Eliot's first line answers it. Rain is still there ("stirring / Dull roots with spring rain"), but it is unwelcome, because it stirs "memory and desire" in something that would rather stay numb. Winter was kinder: "forgetful snow," "a little life with dried tubers." Read the first seven lines aloud and notice how five of them end on a present participle left hanging, breeding, mixing, stirring, covering, feeding, so that the verbs never quite arrive at their objects. Growth that will not finish.
 
-Behind Chaucer stand two other Aprils. Whitman's "When Lilacs Last in the Dooryard Bloom'd" (1865) mourns Lincoln with lilacs, spring, and a hermit thrush, and that thrush turns up at line 357 of this poem. And Rupert Brooke, dead in April 1915, whose "Grantchester" also asks about lilacs. The line's "us" is a group that never gets named. It might be the leisured Europeans of the next paragraph, or the dead, or you.
+Behind Chaucer stand two other Aprils. Whitman's "When Lilacs Last in the Dooryard Bloom'd" (1865) mourns Lincoln with lilacs, spring, and a hermit thrush, and that thrush turns up at line 357 of this poem. And Rupert Brooke, dead in April 1915, whose "The Old Vicarage, Grantchester" opens with the lilac in bloom. The line's "us" is a group that never gets named. It might be the leisured Europeans of the next paragraph, or the dead, or you.
 ---
 id: boston-cut
 line: 1
@@ -94,7 +94,7 @@ source: ezekiel
 title: The prophet's address
 quote: And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
 body:
-Eliot's note points to Ezekiel 2:1, where God addresses the prophet as "son of man" before sending him to a rebellious people. The chapter after next has the prophet eat a scroll; chapter 37 has him prophesy over a valley of dry bones until they stand up as an army ("Dry bones can harm no one," says line 391, with the same book in mind). "A heap of broken images" is Ezekiel too: the Lord promises to break the idols of Israel (6:4–6). The voice that speaks here is not the café voice of Marie. It is the one Eliot would use again in "Ash-Wednesday" and the choruses of <i>The Rock</i>, the desert voice, and it has been given a stony landscape, a "red rock," and a question with no answer: what grows here?
+Eliot's note points to Ezekiel 2:1, where God addresses the prophet as "son of man" before sending him to a rebellious people. The next chapter has the prophet eat a scroll; chapter 37 has him prophesy over a valley of dry bones until they stand up as an army ("Dry bones can harm no one," says line 391, with the same book in mind). "A heap of broken images" is Ezekiel too: the Lord promises to break the idols of Israel (6:4–6). The voice that speaks here is not the café voice of Marie. It is the one Eliot would use again in "Ash-Wednesday" and the choruses of <i>The Rock</i>, the desert voice, and it has been given a stony landscape, a "red rock," and a question with no answer: what grows here?
 
 Eliot's second note, on line 23, sends you to Ecclesiastes 12:5, the chapter on old age where "the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets." Cricket, grasshopper: the same small dry noise.
 ---
@@ -105,7 +105,7 @@ anchor: this red rock
 kind: draft
 title: Eliot borrowing from himself
 body:
-"Come in under the shadow of this red rock" is lifted, almost word for word, from a poem Eliot wrote in 1915 and withdrew from publication, "The Death of Saint Narcissus": "Come under the shadow of this gray rock— / Come in under the shadow of this gray rock, / And I will show you something different from either / Your shadow sprawling over the sand at daybreak, or / Your shadow leaping behind the fire against the red rock." The saint's grey rock has turned red. The two shadows, morning and evening, are a sundial reading of a whole life, and the line that follows, "I will show you fear in a handful of dust," carries Isaiah's "shadow of a great rock in a weary land" (32:2), the Sibyl's handful of sand, and Tennyson's <i>Maud</i>: "Dead, long dead, / Long dead! / And my heart is a handful of dust."
+"Come in under the shadow of this red rock" is lifted, almost word for word, from a poem Eliot wrote in 1915 and withdrew from publication, "The Death of Saint Narcissus," where the invitation is to come in under the shadow of a gray rock and be shown something different from two shadows, one sprawling over the sand at daybreak, the other leaping behind a fire against a red rock. The saint's grey rock has turned red. The two shadows, morning and evening, are a sundial reading of a whole life, and the line that follows, "I will show you fear in a handful of dust," carries Isaiah's "shadow of a great rock in a weary land" (32:2), the Sibyl's handful of sand, and Tennyson's <i>Maud</i>: "Dead, long dead, / Long dead! / And my heart is a handful of dust."
 ---
 id: frisch-weht
 line: 31
@@ -127,7 +127,7 @@ anchor: hyacinth girl
 kind: gloss
 title: The hyacinth garden
 body:
-Hyacinthus was the boy Apollo loved and killed by accident with a discus; the flower grew from his blood, and in Ovid its petals carry the letters of a cry of grief (<i>Metamorphoses</i> X). In the Greek world the hyacinth was a spring festival flower and, in Frazer's reading, another dying and reviving god. All of that is available, and none of it explains the passage, which is one of the few places in the poem where a speaker admits to having felt something. "I could not / Speak, and my eyes failed, I was neither / Living nor dead, and I knew nothing, / Looking into the heart of light, the silence." The heart of light is Conrad's heart of darkness turned inside out, and it is also the mystical blank that Eliot's later poems circle.
+Hyacinthus was the boy Apollo loved and killed by accident with a discus; the flower grew from his blood, and in Ovid its petals carry the letters of a cry of grief (<i>Metamorphoses</i> X). In the Greek world the hyacinth had its own festival, the Hyacinthia at Sparta, and Hyacinth is, in Frazer's reading, another dying and reviving god. All of that is available, and none of it explains the passage, which is one of the few places in the poem where a speaker admits to having felt something. "I could not / Speak, and my eyes failed, I was neither / Living nor dead, and I knew nothing, / Looking into the heart of light, the silence." The heart of light is Conrad's heart of darkness turned inside out, and it is also the mystical blank that Eliot's later poems circle.
 
 Two lives have been read into the garden. Lyndall Gordon's biographies attach it to Emily Hale, the Bostonian Eliot loved before he sailed for Europe in 1914; his letters to her, unsealed at Princeton in 2020, show how long that attachment lasted. Others hear Jean Verdenal, the friend of Eliot's Paris year, killed at the Dardanelles in 1915, to whom <i>Prufrock and Other Observations</i> is dedicated. In 1934 Eliot remembered "a friend coming across the Luxembourg Gardens in the late afternoon, waving a branch of lilac, a friend who was later (so far as I could find out) to be mixed with the mud of Gallipoli." Lilacs, line 2. The poem does not choose.
 ---
@@ -166,7 +166,7 @@ Eliot's own note confesses that he did not know the Tarot well and "departed fro
 
 <b>The drowned Phoenician Sailor.</b> Not a Tarot card. He is Phlebas, who gets Part IV to himself, and the merchant of Part III, and Ferdinand in <i>The Tempest</i>, whose father is the one lying "full fathom five" with pearls for eyes.
 
-<b>Belladonna, the Lady of the Rocks.</b> "Beautiful lady" in Italian, also the poisonous nightshade, also the eye-drops women used to dilate their pupils. Leonardo's <i>Virgin of the Rocks</i> stands behind the title; the society woman of "A Game of Chess" stands in front of it. "The lady of situations" is a phrase from the gossip columns.
+<b>Belladonna, the Lady of the Rocks.</b> "Beautiful lady" in Italian, also the poisonous nightshade, also the eye-drops women used to dilate their pupils. Leonardo's <i>Virgin of the Rocks</i> stands behind the title; the society woman of "A Game of Chess" stands in front of it. "The lady of situations" sounds like a phrase from the gossip columns.
 
 <b>The man with three staves.</b> The Three of Wands, a real card: a figure on a headland with his back to us, watching ships. Eliot says he associated it, "quite arbitrarily," with the Fisher King.
 
@@ -186,7 +186,7 @@ source: shakespeare-tempest
 title: Ariel's song
 quote: Full fathom five thy father lies;<br>Of his bones are coral made;<br>Those are pearls that were his eyes:<br>Nothing of him that doth fade<br>But doth suffer a sea-change<br>Into something rich and strange.
 body:
-<i>The Tempest</i>, Act I scene ii. Ariel sings this to Ferdinand, who believes his father the king drowned in the wreck. The father is not dead; the song is a lie that turns out to be a description of the play, in which everyone is transformed by water. The poem quotes it three times (here, at line 125, and by way of the "sea-change" of Phlebas in Part IV) and never lets the transformation happen. Eliot's note on line 218 says the Phoenician Sailor "is not wholly distinct from Ferdinand Prince of Naples."
+<i>The Tempest</i>, Act I scene ii. Ariel sings this to Ferdinand, who believes his father the king drowned in the wreck. The father is not dead; the song is a lie that turns out to be a description of the play, in which everyone is transformed by water. The poem quotes it twice (here and at line 125), works its "sea-change" into Phlebas in Part IV, and never lets the transformation happen. Eliot's note on line 218 says the Phoenician Sailor "is not wholly distinct from Ferdinand Prince of Naples."
 ---
 id: ring
 line: 56
@@ -209,7 +209,7 @@ trans: Swarming city, city full of dreams, where the ghost in broad daylight acc
 body:
 The opening of "Les Sept Vieillards" ("The Seven Old Men") from the <i>Tableaux parisiens</i> section of <i>Les Fleurs du mal</i>, in which the poet, walking in a yellow fog, meets the same hideous old man seven times over. Eliot said in 1950 that Baudelaire had taught him "the poetical possibilities . . . of the more sordid aspects of the modern metropolis, of the possibility of fusion between the sordidly realistic and the phantasmagoric." That is the recipe for the next sixteen lines: a real bridge, a real street, a real church clock, and the dead.
 
-The fog is coal smoke. Eliot walked into the City through it most mornings from his flat near Regent's Park to Lloyds Bank in Lombard Street. "Unreal City" returns at line 207 (a winter noon) and, stripped to one word, at line 377.
+The fog is coal smoke. Eliot went into the City through it every working morning from 1917, to Lloyds Bank in Lombard Street. "Unreal City" returns at line 207 (a winter noon) and, stripped to one word, at line 377.
 ---
 id: london-bridge-dead
 line: 63
@@ -222,7 +222,7 @@ title: The crowd at the gate of Hell
 quote: . . . sì lunga tratta<br>di gente, ch’i’ non averei creduto<br>che morte tanta n’avesse disfatta.
 trans: . . . so long a train of people, that I would never have believed death had undone so many.
 body:
-<i>Inferno</i> III, lines 55–57. Just inside the gate, before the river, Dante sees the neutrals, the souls who lived "without infamy and without praise," and is astonished at how many there are. Line 64, "Sighs, short and infrequent, were exhaled," is from the next canto, the Limbo of the virtuous unbaptised, where "there was no weeping but only sighs, which made the eternal air tremble" (IV, 25–27). So the commuters crossing from London Bridge station into the City between half past eight and nine are damned twice over, once as people who never chose anything, once as people who were merely born too early. Eliot crossed with them. "Each man fixed his eyes before his feet" is what a crowd on a bridge in a fog actually looks like.
+<i>Inferno</i> III, lines 55–57. Just inside the gate, before the river, Dante sees the neutrals, the souls who lived "without infamy and without praise," and is astonished at how many there are. Line 64, "Sighs, short and infrequent, were exhaled," is from the next canto, the Limbo of the virtuous unbaptised, where "there was no weeping but only sighs, which made the eternal air tremble" (IV, 25–27). So the commuters crossing from London Bridge station into the City between half past eight and nine are damned twice over, once as people who never chose anything, once as people who were merely born too early. Eliot worked among them. "Each man fixed his eyes before his feet" is what a crowd on a bridge in a fog actually looks like.
 ---
 id: woolnoth
 line: 67
@@ -243,7 +243,7 @@ anchor: Stetson
 kind: gloss
 title: Stetson, and the ships at Mylae
 body:
-Mylae is the sea battle of 260 BC in which Rome first beat Carthage, the opening of the Punic Wars, a trade war between two commercial empires. The friend met in the City of London, the financial centre of another commercial empire four years after another war, was "in the ships" there. The war dead and the office crowd are the same people, and all wars are the one war. Stetson has often been taken for Pound, who wore wide-brimmed hats; nothing in the poem needs him to be anyone in particular. The name is a hat, an American hat, on a bridge in London.
+Mylae is the sea battle of 260 BC in which Rome first beat Carthage at sea, early in the First Punic War, a trade war between two commercial empires. The friend met in the City of London, the financial centre of another commercial empire four years after another war, was "in the ships" there. The war dead and the office crowd are the same people, and all wars are the one war. Stetson has often been taken for Pound, who wore wide-brimmed hats; nothing in the poem needs him to be anyone in particular. The name is a hat, an American hat, on a bridge in London.
 ---
 id: corpse
 line: 71

@@ -3,7 +3,7 @@ title: A first reading
 intro: Twelve stops for someone meeting the poem for the first time. Each stop is a place to stand, not an explanation. Read the lines, read the note, move on.
 ---
 line: 1
-text: Start with the sound. Read the first seven lines aloud. Every line ends on a hanging participle: breeding, mixing, stirring, covering, feeding. The poem is about things that will not finish.
+text: Start with the sound. Read the first seven lines aloud. Five of the seven lines end on a hanging participle: breeding, mixing, stirring, covering, feeding. The poem is about things that will not finish.
 ---
 line: 19
 text: A new voice. Nobody announces the change; the tone does. This is the poem's method for four hundred lines: voices arrive and leave without introduction.
@@ -33,7 +33,7 @@ line: 312
 text: Ten lines. A drowned man. The tarot's warning fulfilled, gently. Read it twice.
 ---
 line: 331
-text: Rock and no water for twenty-nine lines. Let it be as dry as it is. The rain, when it comes at line 394, is three words long.
+text: Rock and no water for twenty-nine lines. Let it be as dry as it is. The rain, when it comes at line 395, is two words long.
 ---
 line: 427
 text: The last eight lines are a stack of quotations in five languages. Do not look them up yet. Read them as a noise, then use the Fragments view to take the stack apart.
@@ -85,7 +85,7 @@ line: 353
 text: "If there were the sound of water only." A hymn to a sound that is not there, ending in a bird that imitates water.
 ---
 line: 395
-text: "Bringing rain." Three words. The only rain that falls.
+text: "Bringing rain." Two words. The only rain that falls.
 ---
 line: 396
 text: "Ganga was sunken." The monsoon waiting over the Himalaya.
@@ -199,7 +199,7 @@ text: The woman who draws her long black hair out tight and plays it.
 ===
 id: cities
 title: Cities
-intro: The poem's geography, in the order the poem gives it. It begins in Munich and ends on the Ganges, with London at its centre and five capitals falling in one line.
+intro: The poem's geography, in the order the poem gives it. It begins in Munich and ends on the Ganges, with London at its centre and five capitals falling in two lines.
 ---
 line: 8
 text: The Starnberger See and the Hofgarten: Munich, where Eliot spent August 1911.

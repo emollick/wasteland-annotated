@@ -3,7 +3,7 @@ part: 0
 line: 0
 title: The title that was crossed out
 body:
-Across the top of the typescript of the first two parts Eliot wrote "He Do the Police in Different Voices," from Dickens's <i>Our Mutual Friend</i>. "The Waste Land" replaced it, with Weston's Grail country and Malory's "waste land" of the Dolorous Stroke behind it. The Dickens title survives in the notes only as a habit of mind: the poem reads the world's news aloud in every voice it can do.
+Across the top of the typescript of the first two parts Eliot typed "He Do the Police in Different Voices," from Dickens's <i>Our Mutual Friend</i>. "The Waste Land" replaced it, with Weston's Grail country and Malory's "waste land" of the Dolorous Stroke behind it. The Dickens title survives in the notes only as a habit of mind: the poem reads the world's news aloud in every voice it can do.
 ---
 id: epigraph-draft
 part: 0
@@ -24,7 +24,7 @@ part: 2
 line: 77
 title: "In the Cage"
 body:
-Part II was titled "In the Cage" in the typescript, after Henry James's story of a telegraphist who reads other people's messages, and was renamed "A Game of Chess" before publication. Pound's marginalia on the opening description are the poem's most famous editing: against the ornate lines he wrote "too tum-pum at a stretch," and beside Eliot's "Filled all the desert with inviolable voice" he wrote nothing, because it was right. Where Eliot had written "Where the dead men lost their bones" in a slightly different form, and where the nervous dialogue ran on, Pound cut phrases rather than lines. Vivien Eliot read the section too: she wrote "WONDERFUL" beside the pub scene, marked "Yes" and "& wonderful" in the margins, contributed "What you get married for if you don't want children?" and asked for "The ivory men make company between us" to be removed after line 137. Eliot restored that line from memory in a manuscript copy he made in 1960.
+Part II was titled "In the Cage" in the typescript, after Henry James's story of a telegraphist who reads other people's messages, and was renamed "A Game of Chess" before publication. Pound's marginalia on the opening description are the poem's most famous editing: against the ornate lines he wrote "too tum-pum at a stretch," and beside Eliot's "Filled all the desert with inviolable voice" he wrote nothing, because it was right. Where Eliot had written that the two had "met first" in rats' alley, and where the nervous dialogue ran on, Pound cut phrases rather than lines. Vivien Eliot read the section too: she wrote "WONDERFUL" beside the pub scene, marked "Yes" and "& wonderful" in the margins, contributed "What you get married for if you don't want children?" and asked for "The ivory men make company between us" to be removed after line 137. Eliot restored that line from memory in a manuscript copy he made in 1960.
 ---
 id: fresca
 part: 3
@@ -59,7 +59,7 @@ part: 5
 line: 322
 title: "OK from here on I think"
 body:
-At the head of Part V Pound wrote "OK from here on I think," and cut almost nothing. Eliot wrote the section at Lausanne in November and December 1921, fast, and later said it had come "in a trance." Three of its passages are older than the rest: the woman with the long black hair and the bats with baby faces (lines 378–385) come from a fragment beginning "So through the evening, through the violet air"; the "red rock" of Part I came from "The Death of Saint Narcissus" (1915); and Phlebas from "Dans le Restaurant" (1918).
+At the head of Part V Pound wrote "OK from here on I think," and cut almost nothing. Eliot wrote the section at Lausanne in November and December 1921, fast, and later said it had come "in a trance." Three of the poem's passages are older than the rest: the woman with the long black hair and the bats with baby faces (lines 378–385) come from a fragment beginning "So through the evening, through the violet air"; the "red rock" of Part I came from "The Death of Saint Narcissus" (1915); and Phlebas from "Dans le Restaurant" (1918).
 ---
 id: manuscript-fate
 part: 5

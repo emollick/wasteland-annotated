@@ -41,7 +41,7 @@ title: Eastern Europe, 1920
 quote: Schon ist halb Europa, schon ist zumindest der halbe Osten Europas auf dem Wege zum Chaos, fährt betrunken im heiligem Wahn am Abgrund entlang und singt dazu, singt betrunken und hymnisch wie Dmitri Karamasoff sang. Ueber diese Lieder lacht der Bürger beleidigt, der Heilige und Seher hört sie mit Tränen.
 trans: Already half of Europe, already at least half of eastern Europe, is on the way to chaos, driving drunk in holy delusion along the edge of the abyss and singing as it goes, singing drunken hymns as Dmitri Karamazov sang. The bourgeois laughs at these songs, offended; the saint and the seer hear them with tears.
 body:
-Hermann Hesse's <i>Blick ins Chaos</i> (<i>A Glimpse into Chaos</i>, 1920), three essays on Dostoevsky, quoted in Eliot's note. Eliot admired the book enough to visit Hesse at Montagnola in May 1922 and to print him in the first number of <i>The Criterion</i> that October, alongside the poem. The "hooded hordes swarming / Over endless plains" are the refugees and armies of the collapse of the Russian and Austro-Hungarian empires; the "maternal lamentation" is the women at the cross ("Daughters of Jerusalem, weep not for me," Luke 23:28) and every mother in Europe in 1919. Then the roll-call: "Jerusalem Athens Alexandria / Vienna London," the cities that were each in turn the centre of the world, each "Unreal," the word from line 60 now standing on its own with no city after it. London is the last name on the list.
+Hermann Hesse's <i>Blick ins Chaos</i> (1920; <i>In Sight of Chaos</i> in the English translation of 1923), three essays, two of them on Dostoevsky, quoted in Eliot's note. Eliot admired the book enough to visit Hesse at Montagnola in May 1922 and to print him in the first number of <i>The Criterion</i> that October, alongside the poem. The "hooded hordes swarming / Over endless plains" are the refugees and armies of the collapse of the Russian and Austro-Hungarian empires; the "maternal lamentation" is the women at the cross ("Daughters of Jerusalem, weep not for me," Luke 23:28) and every mother in Europe in 1919. Then the roll-call: "Jerusalem Athens Alexandria / Vienna London," the cities that were each in turn the centre of the world, each "Unreal," the word from line 60 now standing on its own with no city after it. London is the last name on the list.
 ---
 id: bats
 line: 378
@@ -50,7 +50,7 @@ anchor: A woman drew her long black hair out tight
 kind: draft
 title: A nightmare from an older notebook
 body:
-These eight lines predate the rest of the poem. They come from a fragment in Eliot's papers that begins "So through the evening, through the violet air / One tortured meditation dragged me on," printed in the facsimile edition, and the images are Gothic and painterly: the woman fiddling on her own hair, the bats with baby faces, the towers upside down in air, bells that "kept the hours" like St Mary Woolnoth's, and voices "singing out of empty cisterns and exhausted wells," which is Jeremiah's "broken cisterns, that can hold no water." The violet hour of Part III has become "violet light." The poem's word for the whole passage would be the one it used of Philomel's picture: a "withered stump of time," a picture on the wall of the mind.
+These eight lines predate the rest of the poem. They come from a fragment in Eliot's papers that begins "So through the evening, through the violet air," printed in the facsimile edition, and the images are Gothic and painterly: the woman fiddling on her own hair, the bats with baby faces, the towers upside down in air, bells that "kept the hours" like St Mary Woolnoth's, and voices "singing out of empty cisterns and exhausted wells," which is Jeremiah's "broken cisterns, that can hold no water." The violet hour of Part III has become "violet light." The poem's phrase for the whole passage would be the one it used of the pictures beside Philomel's: "withered stumps of time," pictures on the wall of the mind.
 ---
 id: chapel
 line: 389
@@ -60,7 +60,7 @@ kind: echo
 source: weston
 title: The Chapel Perilous
 body:
-Weston's chapter "The Perilous Chapel" collects the episode in which the questing knight must spend a night in a chapel in a waste place where a dead body lies on the altar, a black hand puts out the candle, and voices and storms assail him; survive it, and he is fit for the Grail. Eliot's chapel is worse than perilous: it is empty, windowless, the door swinging, "Dry bones can harm no one," the test already over. Then a cock on the rooftree crows "Co co rico," in French, the cock that crowed for Peter's denial and the "bird of dawning" that sends ghosts back to their graves in the first scene of <i>Hamlet</i>. Lightning, "a damp gust / Bringing rain." Three words. It is the only rain in the poem that actually falls.
+Weston's chapter "The Perilous Chapel" collects the episode in which the questing knight must spend a night in a chapel in a waste place where a dead body lies on the altar, a black hand puts out the candle, and voices and storms assail him; survive it, and he is fit for the Grail. Eliot's chapel is worse than perilous: it is empty, windowless, the door swinging, "Dry bones can harm no one," the test already over. Then a cock on the rooftree crows "Co co rico," in French, the cock that crowed for Peter's denial and the "bird of dawning" that sends ghosts back to their graves in the first scene of <i>Hamlet</i>. Lightning, "a damp gust / Bringing rain." Three words. It is the first rain in the poem since the shower over the Starnbergersee at line 9.
 ---
 id: ganga
 line: 396
@@ -70,7 +70,7 @@ kind: tongue
 lang: Sanskrit
 title: The river and the mountain
 body:
-Ganga is the Ganges; Himavant, "the snowy," is the Himalaya, the mountain father of the goddess Ganga in the Puranas. The scene moves in a line from a Kentish estuary and a London bridge to the Indian monsoon, the whole subcontinent crouched "humped in silence" waiting for the rains, and then the thunder speaks, in the syllable of a language Eliot had studied at Harvard for two years under Charles Lanman and never pretended to command. In <i>After Strange Gods</i> (1934) he said the Sanskrit and the year of Patañjali's metaphysics had left him "in a state of enlightened mystification."
+Ganga is the Ganges; Himavant, "the snowy," is the Himalaya, the mountain father of the goddess Ganga in the Puranas. The scene moves in a line from the chapel in the mountains to the Indian monsoon, the whole subcontinent crouched "humped in silence" waiting for the rains, and then the thunder speaks, in the syllable of a language Eliot had studied at Harvard for two years under Charles Lanman and never pretended to command. In <i>After Strange Gods</i> (1934) he said the Sanskrit and the year of Patañjali's metaphysics had left him "in a state of enlightened mystification."
 ---
 id: da
 line: 401
@@ -103,7 +103,7 @@ kind: echo
 source: dante-inf33
 lang: Italian
 title: Sympathise: Ugolino's tower, and Bradley's circle
-quote: ed io senti’ chiavar l’uscio di sotto<br>a l’orribile torre; ond’io guardai<br>nel viso a’ mie’ figliuoi sanza far motto.
+quote: e io senti’ chiavar l’uscio di sotto<br>a l’orribile torre; ond’io guardai<br>nel viso a’ mie’ figliuoi sanza far motto.
 trans: and I heard them nailing up the door below of the horrible tower; at which I looked into the faces of my sons without a word.
 body:
 <i>Inferno</i> XXXIII: Count Ugolino, locked in a tower at Pisa with his sons and grandsons to starve, hears the door nailed shut. Eliot's note adds a page of F. H. Bradley's <i>Appearance and Reality</i> (1893), the philosopher on whom he wrote his Harvard doctoral thesis: "My external sensations are no less private to myself than are my thoughts or my feelings . . . the whole world for each is peculiar and private to that soul." Each of us in a prison, thinking of a key, and the thinking of the key is what confirms the prison. "A broken Coriolanus," Shakespeare's general who could not bend, is revived "for a moment" by "aetherial rumours" at nightfall, and only for a moment. Sympathy is the instruction; solitude is the report.
@@ -137,9 +137,9 @@ title: The last eight lines, one by one
 body:
 <b>London Bridge is falling down falling down falling down.</b> The nursery rhyme, whose verses try one material after another (wood and clay, bricks and mortar, iron and steel, silver and gold) and whose oldest versions end with setting a watchman, or, in the folklorists' reading that Frazer would have relished, burying someone in the foundations. The bridge the commuters crossed at line 62.
 
-<b>Poi s'ascose nel foco che gli affina.</b> "Then he hid himself in the fire that refines them." <i>Purgatorio</i> XXVI, 148: Arnaut Daniel, having spoken to Dante in his own Provençal (the only lines in the <i>Comedy</i> not in Italian), steps back into the purifying flame. He goes willingly. Eliot's note quotes Arnaut's speech; its first words, "Ara vos prec," were the title of Eliot's 1920 collection. Set this fire against the burning of the Fire Sermon.
+<b>Poi s'ascose nel foco che gli affina.</b> "Then he hid himself in the fire that refines them." <i>Purgatorio</i> XXVI, 148: Arnaut Daniel, having spoken to Dante in his own Provençal (the <i>Comedy</i>'s one passage in a vernacular other than Italian), steps back into the purifying flame. He goes willingly. Eliot's note quotes the end of Arnaut's speech, from "Ara vos prec," the words Eliot had taken for the title of his 1920 collection. Set this fire against the burning of the Fire Sermon.
 
-<b>Quando fiam ceu chelidon.</b> "When shall I become like the swallow?" From the <i>Pervigilium Veneris</i>, an anonymous Latin poem of the second to fourth century celebrating the eve of Venus's spring festival, whose last stanza suddenly turns on the poet: the swallow, Procne, sings, "when shall I be like the swallow, so that I may stop being silent?" The 1922 printings have "ceu"; the Latin poem has "uti," and Eliot's later editions restored it. "O swallow swallow" is Tennyson's, from <i>The Princess</i>: "O Swallow, Swallow, flying, flying South." Philomel's sister, still singing.
+<b>Quando fiam ceu chelidon.</b> "When shall I become like the swallow?" From the <i>Pervigilium Veneris</i>, an anonymous Latin poem of the second to fourth century celebrating the eve of Venus's spring festival, whose last stanza suddenly turns on the poet: the nightingale sings, and he, silent, asks when his own spring will come, "when shall I become like the swallow, so that I may stop being silent?" The 1922 printings have "ceu"; the Latin poem has "uti," and Eliot's later editions restored it. "O swallow swallow" is Tennyson's, from <i>The Princess</i>: "O Swallow, Swallow, flying, flying South." Philomel's sister, still singing.
 
 <b>Le Prince d'Aquitaine à la tour abolie.</b> The second line of Gérard de Nerval's sonnet "El Desdichado" (1854): "I am the dark one, the widower, the unconsoled, the Prince of Aquitaine with the ruined tower." The Tower is a Tarot card (XVI, struck by lightning), and Nerval's speaker, who has "twice crossed the Acheron," is another man who has been among the dead.
 

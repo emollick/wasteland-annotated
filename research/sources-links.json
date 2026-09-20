@@ -38,10 +38,10 @@
         "note": "Longfellow translation (Gutenberg #1002); anchor #CantoII.XXVI is the canto heading."
       },
       {
-        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/purgatorio/xxvi/",
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/purgatorio/purgatorio-26/",
         "host": "digitaldante.columbia.edu",
-        "verified": false,
-        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+        "verified": true,
+        "note": "Italian text (Purgatorio XXVI) with English translation and commentary, Columbia's Digital Dante; verified 20 Sep 2026 -- the canto pages are at '/purgatorio/purgatorio-26/', not '/purgatorio/xxvi/' (the previous address returned 404)."
       },
       {
         "url": "https://dante.princeton.edu/pdp/",
@@ -67,10 +67,10 @@
         "note": "Longfellow translation (Gutenberg #1001); anchor #CantoI.III is the canto heading."
       },
       {
-        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/iii/",
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-3/",
         "host": "digitaldante.columbia.edu",
-        "verified": false,
-        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+        "verified": true,
+        "note": "Italian text (Inferno III) with English translation and commentary, Columbia's Digital Dante; verified 20 Sep 2026 -- the canto pages are at '/inferno/inferno-3/', not '/inferno/iii/' (the previous address returned 404)."
       },
       {
         "url": "https://dante.princeton.edu/pdp/",
@@ -96,10 +96,10 @@
         "note": "Longfellow translation (Gutenberg #1001); anchor #CantoI.IV is the canto heading."
       },
       {
-        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/iv/",
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-4/",
         "host": "digitaldante.columbia.edu",
-        "verified": false,
-        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+        "verified": true,
+        "note": "Italian text (Inferno IV) with English translation and commentary, Columbia's Digital Dante; verified 20 Sep 2026 -- the canto pages are at '/inferno/inferno-4/', not '/inferno/iv/' (the previous address returned 404)."
       },
       {
         "url": "https://dante.princeton.edu/pdp/",
@@ -125,10 +125,10 @@
         "note": "Longfellow translation (Gutenberg #1002); anchor #CantoII.V is the canto heading."
       },
       {
-        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/purgatorio/v/",
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/purgatorio/purgatorio-5/",
         "host": "digitaldante.columbia.edu",
-        "verified": false,
-        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+        "verified": true,
+        "note": "Italian text (Purgatorio V) with English translation and commentary, Columbia's Digital Dante; verified 20 Sep 2026 -- the canto pages are at '/purgatorio/purgatorio-5/', not '/purgatorio/v/' (the previous address resolved to the Paradiso 6 page)."
       },
       {
         "url": "https://dante.princeton.edu/pdp/",
@@ -154,10 +154,10 @@
         "note": "Longfellow translation (Gutenberg #1001); anchor #CantoI.XXXIII is the canto heading."
       },
       {
-        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/xxxiii/",
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-33/",
         "host": "digitaldante.columbia.edu",
-        "verified": false,
-        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+        "verified": true,
+        "note": "Italian text (Inferno XXXIII) with English translation and commentary, Columbia's Digital Dante; verified 20 Sep 2026 -- the canto pages are at '/inferno/inferno-33/', not '/inferno/xxxiii/' (the previous address returned 404)."
       },
       {
         "url": "https://dante.princeton.edu/pdp/",
@@ -309,10 +309,10 @@
     "id": "luke24",
     "work": "Luke 24:13-35 (the road to Emmaus)",
     "author": "King James Bible",
-    "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Luke#Chapter_24",
+    "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Luke#24:13",
     "host": "en.wikisource.org",
     "verified": true,
-    "deep_link_note": "Anchor #Chapter_24 exists on the page; text checked: 'Emmaus'.",
+    "deep_link_note": "The Luke page has verse anchors in chapter:verse form and no chapter headings (no #Chapter_24), so the link goes to #24:13, the first verse of the Emmaus passage; text checked: 'Emmaus'.",
     "also": [
       {
         "url": "https://www.biblegateway.com/passage/?search=Luke%2024%3A13-35&version=KJV",
@@ -553,7 +553,7 @@
     "url": "https://en.wikisource.org/wiki/Paradise_Lost_(1674)/Book_IV",
     "host": "en.wikisource.org",
     "verified": true,
-    "deep_link_note": "1674 text of Book IV; 'Silvan Scene' present.",
+    "deep_link_note": "Book IV; the transcription on this page modernises the spelling, so search for 'A sylvan scene' (ll. 138-140). The Dartmouth Reading Room copy below keeps the 1674 spelling 'A Silvan Scene'.",
     "also": [
       {
         "url": "https://www.gutenberg.org/cache/epub/26/pg26-images.html#chap04",
@@ -576,7 +576,7 @@
     "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0029%3Abook%3D6%3Acard%3D424",
     "host": "perseus.tufts.edu",
     "verified": true,
-    "deep_link_note": "Latin (Magnus ed.), card from line 424 (Philomela episode).",
+    "deep_link_note": "Latin (Magnus ed.); Perseus serves the card containing line 424, which begins at line 412 (the 'Procne et Philomela' section starts at 424).",
     "also": [
       {
         "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D6%3Acard%3D424",
@@ -605,7 +605,7 @@
     "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0029%3Abook%3D3%3Acard%3D316",
     "host": "perseus.tufts.edu",
     "verified": true,
-    "deep_link_note": "Latin, card beginning at line 316 (Tiresias).",
+    "deep_link_note": "Latin (Magnus ed.); Perseus serves the card containing line 316, which begins at line 314 (the Tiresias section starts at 316).",
     "also": [
       {
         "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D3%3Acard%3D316",
@@ -685,12 +685,12 @@
   },
   {
     "id": "day-parliament-of-bees",
-    "work": "The Parliament of Bees (Character I: 'A noise of horns and hunting, which shall bring / Actaeon to Diana in the spring')",
+    "work": "The Parliament of Bees (Character III, Polypragmus the Plush Bee: 'A noise of horns and hunting, which shall bring / Actaeon to Diana in the spring')",
     "author": "John Day",
-    "url": "https://archive.org/details/worksofjohndayno00dayjrich/page/n122",
+    "url": "https://archive.org/details/worksofjohndayno00dayjrich/page/n142",
     "host": "archive.org",
     "verified": true,
-    "deep_link_note": "Bullen's Works of John Day (1881); the play ('Prorex. Character I') begins at leaf 122 (located by search-inside).",
+    "deep_link_note": "Bullen's Works of John Day (1881); the play begins at leaf 122 ('Prorex. Character I'), and the Actaeon lines are in Character III (Thraso, or Polypragmus, the Plush Bee) on leaf 142 (located by search-inside: 'A noise of Hornes and hunting, which shall bring / Actaeon to Diana in the spring').",
     "also": [
       {
         "url": "https://archive.org/details/parliamentofbeesjohndaye1641",
