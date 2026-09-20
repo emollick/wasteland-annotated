@@ -1,0 +1,289 @@
+{
+ "langs": {
+  "en": {
+   "label": "English",
+   "color": "#1B1917"
+  },
+  "la": {
+   "label": "Latin",
+   "color": "#7A5C2E"
+  },
+  "el": {
+   "label": "Greek",
+   "color": "#8C6D1F"
+  },
+  "de": {
+   "label": "German",
+   "color": "#4C6E85"
+  },
+  "fr": {
+   "label": "French",
+   "color": "#B4626A"
+  },
+  "it": {
+   "label": "Italian",
+   "color": "#A3442B"
+  },
+  "oc": {
+   "label": "Provençal",
+   "color": "#8A6D9A"
+  },
+  "sa": {
+   "label": "Sanskrit",
+   "color": "#8C6D1F"
+  },
+  "bird": {
+   "label": "Birds, bells and river-noise",
+   "color": "#4A6B5A"
+  }
+ },
+ "spans": [
+  {
+   "line": 0,
+   "text": "Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent:",
+   "lang": "la",
+   "trans": "For I myself, with my own eyes, saw the Sibyl at Cumae hanging in a jar, and when the boys said to her:"
+  },
+  {
+   "line": 0,
+   "text": "Σίβυλλα τί θέλεις;",
+   "lang": "el",
+   "trans": "Sibyl, what do you want?"
+  },
+  {
+   "line": 0,
+   "text": "respondebat illa:",
+   "lang": "la",
+   "trans": "she answered:"
+  },
+  {
+   "line": 0,
+   "text": "ἀποθανεῖν θέλω.",
+   "lang": "el",
+   "trans": "I want to die."
+  },
+  {
+   "line": 0,
+   "text": "il miglior fabbro",
+   "lang": "it",
+   "trans": "the better craftsman"
+  },
+  {
+   "line": 12,
+   "text": "Bin gar keine Russin, stamm’ aus Litauen, echt deutsch.",
+   "lang": "de",
+   "trans": "I am not Russian at all; I come from Lithuania, real German."
+  },
+  {
+   "line": 31,
+   "text": "Frisch weht der Wind",
+   "lang": "de",
+   "trans": "Fresh blows the wind"
+  },
+  {
+   "line": 32,
+   "text": "Der Heimat zu",
+   "lang": "de",
+   "trans": "toward home"
+  },
+  {
+   "line": 33,
+   "text": "Mein Irisch Kind,",
+   "lang": "de",
+   "trans": "my Irish child,"
+  },
+  {
+   "line": 34,
+   "text": "Wo weilest du?",
+   "lang": "de",
+   "trans": "where do you linger?"
+  },
+  {
+   "line": 42,
+   "text": "Oed’ und leer das Meer.",
+   "lang": "de",
+   "trans": "Desolate and empty the sea."
+  },
+  {
+   "line": 76,
+   "text": "hypocrite lecteur!—mon semblable,—mon frère!",
+   "lang": "fr",
+   "trans": "hypocrite reader! my double, my brother!"
+  },
+  {
+   "line": 92,
+   "text": "laquearia",
+   "lang": "la",
+   "trans": "a coffered (panelled) ceiling"
+  },
+  {
+   "line": 103,
+   "text": "“Jug Jug”",
+   "lang": "bird",
+   "trans": "the Elizabethan poets' spelling of the nightingale's song"
+  },
+  {
+   "line": 128,
+   "text": "O O O O",
+   "lang": "bird",
+   "trans": "a ragtime vamp, and Lear's dying cry"
+  },
+  {
+   "line": 170,
+   "text": "Goonight Bill. Goonight Lou. Goonight May. Goonight.",
+   "lang": "en",
+   "trans": "Cockney: good night"
+  },
+  {
+   "line": 202,
+   "text": "Et O ces voix d’enfants, chantant dans la coupole!",
+   "lang": "fr",
+   "trans": "And oh, those children's voices, singing in the dome!"
+  },
+  {
+   "line": 203,
+   "text": "Twit twit twit",
+   "lang": "bird",
+   "trans": "birdsong"
+  },
+  {
+   "line": 204,
+   "text": "Jug jug jug jug jug jug",
+   "lang": "bird",
+   "trans": "the nightingale"
+  },
+  {
+   "line": 206,
+   "text": "Tereu",
+   "lang": "la",
+   "trans": "Tereus! (the vocative of the rapist's name, as the nightingale cries it in Lyly's song)"
+  },
+  {
+   "line": 211,
+   "text": "C.i.f.",
+   "lang": "en",
+   "trans": "cost, insurance and freight: trade shorthand"
+  },
+  {
+   "line": 277,
+   "text": "Weialala leia",
+   "lang": "bird",
+   "trans": "the Rhine-daughters' refrain, Wagner's river-language"
+  },
+  {
+   "line": 278,
+   "text": "Wallala leialala",
+   "lang": "bird",
+   "trans": "the Rhine-daughters' refrain"
+  },
+  {
+   "line": 290,
+   "text": "Weialala leia",
+   "lang": "bird",
+   "trans": "the Rhine-daughters' refrain"
+  },
+  {
+   "line": 291,
+   "text": "Wallala leialala",
+   "lang": "bird",
+   "trans": "the Rhine-daughters' refrain"
+  },
+  {
+   "line": 306,
+   "text": "la la",
+   "lang": "bird",
+   "trans": "the song running down"
+  },
+  {
+   "line": 358,
+   "text": "Drip drop drip drop drop drop drop",
+   "lang": "bird",
+   "trans": "the hermit-thrush's water-dripping song"
+  },
+  {
+   "line": 393,
+   "text": "Co co rico co co rico",
+   "lang": "bird",
+   "trans": "the cock crowing, in French (cocorico)"
+  },
+  {
+   "line": 396,
+   "text": "Ganga",
+   "lang": "sa",
+   "trans": "the Ganges"
+  },
+  {
+   "line": 398,
+   "text": "Himavant",
+   "lang": "sa",
+   "trans": "the Himalaya, 'the snowy one'"
+  },
+  {
+   "line": 401,
+   "text": "DA",
+   "lang": "sa",
+   "trans": "the thunder's syllable"
+  },
+  {
+   "line": 402,
+   "text": "Datta:",
+   "lang": "sa",
+   "trans": "give"
+  },
+  {
+   "line": 411,
+   "text": "DA",
+   "lang": "sa",
+   "trans": "the thunder's syllable"
+  },
+  {
+   "line": 412,
+   "text": "Dayadhvam:",
+   "lang": "sa",
+   "trans": "be compassionate, sympathise"
+  },
+  {
+   "line": 418,
+   "text": "DA",
+   "lang": "sa",
+   "trans": "the thunder's syllable"
+  },
+  {
+   "line": 419,
+   "text": "Damyata:",
+   "lang": "sa",
+   "trans": "restrain yourselves, control"
+  },
+  {
+   "line": 428,
+   "text": "Poi s’ascose nel foco che gli affina",
+   "lang": "it",
+   "trans": "Then he hid himself in the fire that refines them"
+  },
+  {
+   "line": 429,
+   "text": "Quando fiam ceu chelidon",
+   "lang": "la",
+   "trans": "When shall I become like the swallow"
+  },
+  {
+   "line": 430,
+   "text": "Le Prince d’Aquitaine à la tour abolie",
+   "lang": "fr",
+   "trans": "The Prince of Aquitaine with the ruined tower"
+  },
+  {
+   "line": 433,
+   "text": "Datta. Dayadhvam. Damyata.",
+   "lang": "sa",
+   "trans": "Give. Sympathise. Control."
+  },
+  {
+   "line": 434,
+   "text": "Shantih     shantih     shantih",
+   "lang": "sa",
+   "trans": "peace, peace, peace: the formal close of an Upanishad"
+  }
+ ],
+ "provencal_note": "Provençal appears only inside Eliot's note to line 428, where he quotes Arnaut Daniel's 'Ara vos prec'. It is the eighth language of the book, if not of the poem."
+}

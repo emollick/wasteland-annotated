@@ -1,0 +1,41 @@
+{
+ "method": "Wikimedia Commons API (action=query, prop=imageinfo with extmetadata) with User-Agent 'WasteLandEdition/1.0 (annotated poem site)'. Only files whose extmetadata License/LicenseShortName is public domain (pd), CC0, CC BY or CC BY-SA were accepted. Files were downloaded as Commons thumbnails; Wikimedia now restricts thumbnails to standard widths (500, 960, 1280, 1920...), so 1400 px was not available: 1280 was requested and files over ~350 KB fell back to 960 px or to the reduced-quality 'qlow-' variant, and small originals were taken as-is. Second pass (the last 13 records, 20 Sep 2026): upload.wikimedia.org began answering this client with HTTP 429 (Retry-After 600) after the earlier fetch job's retries, so downloads were made with curl (a fresh connection per request, the same 3 s pacing) and, whenever the upload host still returned 429, the identical thumbnail was requested through commons.wikimedia.org/w/thumb.php; the licence check still used the Commons extmetadata gathered earlier. The first-edition title page and cover are page renderings (page 9 and page 1) of the Commons DjVu of the Boni & Liveright printing.",
+ "not_found": [
+  {"id": "thames-map-richmond-greenwich", "wanted": "public-domain map of the Thames from Richmond to Greenwich", "result": "nothing suitable found; only Admiralty Chart 1150 (Erith to Broadness, 1900) and railway maps, wrong stretch of river"},
+  {"id": "frazer-golden-bough-title", "wanted": "title page of Frazer's The Golden Bough", "result": "no Commons image; the enwiki file 'The Golden Bough.jpg' is not on Commons. The only related Commons image, H. M. Brock's 1924 frontispiece to Lilly Frazer's Leaves from the Golden Bough, is tagged PD-old-70 although Brock died in 1960, so it was skipped as doubtful"},
+  {"id": "cannon-street-hotel-1900", "wanted": "photograph of the Cannon Street Hotel or station c. 1900", "result": "no period photograph on Commons; used the Illustrated London News engraving of the station (1866, Wellcome, CC BY 4.0) instead. A 1921 group photograph of a conference held in the hotel exists (File:International Zionist Conference Meets in London (1921).jpg, PD-US) but does not show the building"},
+  {"id": "dore-purgatorio26", "wanted": "Doré, Purgatorio XXVI", "result": "Doré made no plate for Canto XXVI; the Canto XXV plate of the souls in the refining fire (same terrace) was used, from the Polona scan of the 1871 Berlin edition; fetched under the record id dore-purgatorio"},
+  {"id": "grail-rackham", "wanted": "Rackham Grail / Chapel Perilous illustration at usable size", "result": "only a 332 x 480 px copy of 'How at the Castle of Corbin a maiden bare in the Sangreal' exists on Commons (kept, but small); Burne-Jones' Attainment tapestry and the 1330 BnF Perceval miniature were added"},
+  {"id": "hofgarten-munich-1900", "wanted": "Hofgarten c. 1900", "result": "only an 828 px Tuck Oilette postcard (1909) found; a 2023 CC BY-SA photograph was added"},
+  {"id": "smyrna-1920", "wanted": "Smyrna quay c. 1920", "result": "found (Agence Rol press photograph, 1922, BnF); note that the Rijksmuseum also has CC0 albumen prints of the quay c. 1880-90 (RP-F-F00998-AQ/AR) if an earlier view is preferred"},
+  {"id": "tube-map", "wanted": "central London map c. 1920", "result": "only Bacon's 1920 pocket map of London and environs (Geographicus) found at scale; central London is small at 1280 px. No PD Underground map located"},
+  {"id": "weston-ritual-romance", "wanted": "title page of Jessie L. Weston, From Ritual to Romance (1920)", "result": "no scan of the book is on Commons (only Weston's other books as Internet Archive PDFs); the 388 x 585 px cover image File:From Ritual To Romance (Book Cover).jpg (PD-US-expired) was used instead, so it is small"}
+ ],
+ "rejected_or_skipped": [
+  {"file": "File:Endurance in the ice (4793353550).jpg", "reason": "Flickr Commons (National Maritime Museum) 'No restrictions' only; no explicit public-domain tag in extmetadata"},
+  {"file": "File:Strikers crossing London Bridge LOC 2162728031.jpg", "reason": "'No restrictions' only (Flickr Commons); the LOC Bain glass negative of London Bridge, tagged PD-Bain, was used instead"},
+  {"file": "File:East London (1901) (14796346943).jpg", "reason": "Internet Archive Book Images Flickr stream, 'No restrictions' only; no explicit PD tag"},
+  {"file": "File:The romance of King Arthur and his knights of the Round table (1917) (14582544550).jpg", "reason": "same Internet Archive Flickr stream, no explicit PD tag; not verified"},
+  {"file": "File:La volta Elizabeth Leicester.jpg", "reason": "tagged 'PD Old' but is a 20th-century woodcut-style illustration reproduced from a 1955 book, author unknown; provenance too unclear. The Penshurst painting (File:Robert Dudley Elizabeth Dancing.jpg, PD) was used"},
+  {"file": "File:Queen Elizabeth I and Earl of Leicester.jpg", "reason": "monochrome book reproduction released CC BY-SA 4.0 by the uploader; superseded by the public-domain colour image of the same painting"},
+  {"file": "File:AEneas finds the golden bough Frontispieace Leaves from the Golden Bough.jpg", "reason": "Commons tag PD-old-70 is doubtful (H. M. Brock d. 1960); PD in the US only (1924)"},
+  {"file": "File:Dozor himalaya expo.jpg", "reason": "1925 Roerich painting uploaded under CC BY-SA 4.0 by the museum; acceptable licence but the PD 'Tibet. Himalayas' (1933) was preferred"},
+  {"file": "File:Ezra Pound by EO Hoppe 1920.jpg", "reason": "used on English Wikipedia but not present on Commons"},
+  {"file": "File:Michelangelo Buonarroti 030.jpg", "reason": "checked as a possible larger Cumaean Sibyl; it is the prophet Jonah, so the 864 px Web Gallery of Art file was kept"},
+  {"file": "File:Sangreal.jpg", "reason": "kept, but note: only 332 x 480 px; tagged PD-US, no author field on Commons (Rackham, 1917)"}
+ ],
+ "alternatives_not_used": [
+  "File:Odysseus roept de schim van Tiresias op, RP-P-OB-63.101.jpg (Rijksmuseum, 1730 engraving, CC0) - alternative Tiresias image",
+  "File:James McNeill Whistler - Nocturne in Blue and Silver - Google Art Project.jpg (Yale, PD) - alternative Thames nocturne",
+  "File:Peter Paul Rubens - Tereus Confronted with the Head of his Son Itylus - WGA20314.jpg (PD) - alternative Philomela image",
+  "File:Rhinegold and the Valkyries p 072.jpg was taken; File:Ring17.jpg and File:Ring1.jpg are smaller copies of other Rhinemaiden plates",
+  "File:London Bridge, London, England-LCCN2002696930.jpg (Photochrom, c. 1890-1900, PD) - alternative London Bridge view",
+  "File:Kade met flessenkratten ... Smyrna, RP-F-F00998-AQ.jpg (Rijksmuseum, CC0, c. 1880-90) - earlier Smyrna quay photograph",
+  "File:Vivienne Haigh-Wood Eliot, US passport photograph, 1920.jpg (PD-US) - alternative Vivienne portrait",
+  "File:T. S. Eliot by Lady Ottoline Morrell, 1923.jpg (401 px) - smaller copy of the chosen portrait",
+  "File:The Burning Ghat, Benares (NBY 439598).jpg (Curt Teich postcard, 1903-, PD-US) - alternative Benares view",
+  "File:1920 London Sheet Sheet K (Blackfriars Bridge southern end).jpg and File:Ordnance Survey One-Inch Sheet 107 London NE & Epping Forest, Published 1920.jpg (PD) - alternative 1920 maps",
+  "File:Eliot - The Waste Land, 1922.djvu, File:The Wasteland.djvu, File:The waste land (IA wasteland00elio 0).pdf and File:The waste land (IA wasteland01elio).pdf (PD) - other Commons scans of the 1922 Boni & Liveright edition; pages 1 and 9 of File:The waste land(1922)Eliot Boni.djvu were used",
+  "File:Gottliche Komodie. T. 2, Das Fegefeuer 1871 (148975289).jpg (Polona, PD) - another plate from the same Purgatorio volume, checked while locating the Canto XXV plate"
+ ]
+}

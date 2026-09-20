@@ -1,0 +1,182 @@
+{
+ "note": "Every time of day, and every season, the poem names. Used by the clock and the calendar.",
+ "hours": [
+  {
+   "line": 28,
+   "text": "morning",
+   "hour": 7
+  },
+  {
+   "line": 61,
+   "text": "a winter dawn",
+   "hour": 7.5
+  },
+  {
+   "line": 68,
+   "text": "the final stroke of nine",
+   "hour": 9
+  },
+  {
+   "line": 135,
+   "text": "The hot water at ten",
+   "hour": 10
+  },
+  {
+   "line": 208,
+   "text": "a winter noon",
+   "hour": 12
+  },
+  {
+   "line": 263,
+   "text": "fishmen lounge at noon",
+   "hour": 12
+  },
+  {
+   "line": 136,
+   "text": "a closed car at four",
+   "hour": 16
+  },
+  {
+   "line": 222,
+   "text": "home at teatime",
+   "hour": 17
+  },
+  {
+   "line": 215,
+   "text": "the violet hour",
+   "hour": 18
+  },
+  {
+   "line": 225,
+   "text": "the sun’s last rays",
+   "hour": 18.5
+  },
+  {
+   "line": 190,
+   "text": "a winter evening",
+   "hour": 18.5
+  },
+  {
+   "line": 29,
+   "text": "evening",
+   "hour": 19
+  },
+  {
+   "line": 416,
+   "text": "at nightfall",
+   "hour": 19.5
+  },
+  {
+   "line": 111,
+   "text": "to-night",
+   "hour": 21
+  },
+  {
+   "line": 141,
+   "text": "closing time",
+   "hour": 22
+  },
+  {
+   "line": 172,
+   "text": "good night",
+   "hour": 22.5
+  },
+  {
+   "line": 226,
+   "text": "at night her bed",
+   "hour": 23
+  },
+  {
+   "line": 322,
+   "text": "torchlight",
+   "hour": 23.5
+  },
+  {
+   "line": 387,
+   "text": "the faint moonlight",
+   "hour": 1
+  },
+  {
+   "line": 18,
+   "text": "much of the night",
+   "hour": 2
+  }
+ ],
+ "seasons": [
+  {
+   "line": 1,
+   "text": "April",
+   "month": 4
+  },
+  {
+   "line": 4,
+   "text": "spring rain",
+   "month": 4
+  },
+  {
+   "line": 5,
+   "text": "Winter kept us warm",
+   "month": 1
+  },
+  {
+   "line": 8,
+   "text": "Summer surprised us",
+   "month": 7
+  },
+  {
+   "line": 18,
+   "text": "go south in the winter",
+   "month": 12
+  },
+  {
+   "line": 61,
+   "text": "a winter dawn",
+   "month": 1
+  },
+  {
+   "line": 73,
+   "text": "the sudden frost",
+   "month": 3
+  },
+  {
+   "line": 173,
+   "text": "the last fingers of leaf",
+   "month": 10
+  },
+  {
+   "line": 177,
+   "text": "summer nights",
+   "month": 8
+  },
+  {
+   "line": 190,
+   "text": "a winter evening",
+   "month": 12
+  },
+  {
+   "line": 198,
+   "text": "in the spring",
+   "month": 5
+  },
+  {
+   "line": 208,
+   "text": "a winter noon",
+   "month": 1
+  },
+  {
+   "line": 323,
+   "text": "the frosty silence",
+   "month": 3
+  },
+  {
+   "line": 327,
+   "text": "thunder of spring",
+   "month": 4
+  },
+  {
+   "line": 397,
+   "text": "Waited for rain",
+   "month": 6
+  }
+ ]
+}

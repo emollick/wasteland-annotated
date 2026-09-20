@@ -1,0 +1,687 @@
+id: weston
+title: From Ritual to Romance
+author: Jessie L. Weston
+date: 1920
+lang: English
+kind: anthropology
+what: The title, the plan, the Fisher King, the Chapel Perilous, the Syrian merchants.
+lines: 0, 46, 386, 424
+note:
+Weston (1850–1928) was a scholar of Arthurian romance who came to believe, under the influence of Frazer, that the Grail stories preserved the remains of an ancient fertility cult: a wounded king, a land gone waste, a cup and a lance that were sexual symbols before they were Christian relics, and a ritual of initiation whose secrets travelled Europe with Syrian merchants. Almost no medievalist now accepts the argument. It does not matter. Eliot's note says the book supplied "the title, the plan and a good deal of the incidental symbolism," and thirty years later he said he regretted "having sent so many enquirers off on a wild goose chase after Tarot cards and the Holy Grail." Read chapters II (The Task of the Hero), IX (The Fisher King) and XIII (The Perilous Chapel) and you have the poem's skeleton; read the rest and you have a very good bad book.
+---
+id: frazer
+title: The Golden Bough (Adonis, Attis, Osiris)
+author: Sir James George Frazer
+date: 1906–15 (third edition); one-volume abridgement 1922
+lang: English
+kind: anthropology
+what: The dying and reviving god; the buried corpse that sprouts; the Hanged God; the effigy thrown into the sea.
+lines: 46, 71, 312
+note:
+Frazer's twelve-volume comparative study of magic and religion, which Eliot's headnote says "has influenced our generation profoundly," argued that behind the myths of Adonis, Attis, Osiris and, by implication, Christ lay a single agricultural drama: the god who dies with the harvest and returns with the spring, helped along by ritual (a sacrificed king, an effigy buried or drowned). The volumes Eliot names describe the "gardens of Adonis," pots of quick-sprouting seed thrown into the sea, and the "Osiris beds," corn-filled effigies buried to sprout. Stetson's planted corpse, Phlebas in the current, the Hanged Man and the whole question of whether April can bring anything back are Frazer's. Turner painted the golden bough at Nemi in 1834; the book's title is from that painting.
+---
+id: petronius
+title: Satyricon, chapter 48
+author: Petronius
+date: 1st century AD
+lang: Latin, with Greek
+kind: prose
+what: The epigraph: the Sibyl who wanted to die.
+lines: 0
+passage: Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.
+trans: For I myself, with my own eyes, saw the Sibyl at Cumae hanging in a jar, and when the boys said to her, "Sibyl, what do you want?" she answered, "I want to die."
+note:
+The speaker is Trimalchio, the freed slave turned millionaire whose dinner party is the surviving centre of the <i>Satyricon</i>, showing off between courses. The Sibyl of Cumae, in Ovid's telling, asked Apollo for as many years as the grains of sand in her hand and forgot to ask for youth, and shrank with age until only her voice was left. A prophetess kept as a curiosity; a poem introduced by a fat man's boast.
+---
+id: dante-purg26
+title: Purgatorio, canto XXVI
+author: Dante Alighieri
+date: c. 1315
+lang: Italian and Provençal
+kind: poem
+what: "il miglior fabbro" (the dedication) and "Poi s'ascose nel foco che gli affina" (line 428).
+lines: 0, 428
+passage: «Tan m’abellis vostre cortes deman,<br>qu’ieu no me puesc ni voill a vos cobrire.<br>Ieu sui Arnaut, que plor e vau cantan;<br>consiros vei la passada folor,<br>e vei jausen lo joi qu’esper, denan.<br>Ara vos prec, per aquella valor<br>que vos guida al som de l’escalina,<br>sovenha vos a temps de ma dolor!».<br>Poi s’ascose nel foco che li affina.
+trans: "So much does your courteous question please me that I cannot and will not hide myself from you. I am Arnaut, who weep and go singing; in thought I see my past folly, and I see with joy, ahead, the day I hope for. Now I pray you, by that power which guides you to the top of the stair, be mindful in time of my pain." Then he hid himself in the fire that refines them.
+note:
+On the seventh terrace of Purgatory, where the lustful walk in flame, Dante meets Guido Guinizelli, who points out Arnaut Daniel as "miglior fabbro del parlar materno," the better craftsman of the mother tongue (line 117). Arnaut answers in his own Provençal, the only passage in the <i>Comedy</i> in a language other than Italian, and steps back into the fire. Eliot took the dedication to Pound from line 117, the title of his 1920 collection <i>Ara Vos Prec</i> from line 145, and the poem's second-to-last quotation from line 148. Modern texts read "li affina"; Eliot's "gli" follows the editions he owned.
+---
+id: dante-inf3
+title: Inferno, canto III
+author: Dante Alighieri
+date: c. 1308
+lang: Italian
+kind: poem
+what: The crowd on London Bridge: "I had not thought death had undone so many."
+lines: 62, 63, 56
+passage: E io, che riguardai, vidi una ’nsegna<br>che girando correva tanto ratta,<br>che d’ogne posa mi parea indegna;<br>e dietro le venìa sì lunga tratta<br>di gente, ch’i’ non averei creduto<br>che morte tanta n’avesse disfatta.
+trans: And I, who looked, saw a banner which, whirling, ran so fast that it seemed to scorn all pause; and behind it came so long a train of people that I would never have believed death had undone so many.
+note:
+Inside the gate ("Abandon all hope") but before the river Acheron, Dante finds the souls who were neither good nor bad, "who lived without infamy and without praise," rejected by Heaven and refused by Hell, running forever after a banner and stung by wasps. Eliot's commuters, going round in a ring, are these. He said in 1929 that Dante was "the most persistent and deepest influence" on his verse, and this canto is the one he quoted most.
+---
+id: dante-inf4
+title: Inferno, canto IV
+author: Dante Alighieri
+date: c. 1308
+lang: Italian
+kind: poem
+what: "Sighs, short and infrequent, were exhaled."
+lines: 64
+passage: Quivi, secondo che per ascoltare,<br>non avea pianto mai che di sospiri<br>che l’aura etterna facevan tremare.
+trans: Here, as far as I could tell by listening, there was no weeping but only sighs, which made the eternal air tremble.
+note:
+Limbo, the first circle, home of the virtuous who died unbaptised: Homer, Virgil, Aristotle, the "great-hearted" souls who are not tormented but live in desire without hope. One line of the poem, one canto of Dante: the office crowd sigh like the noble pagans, not like the damned.
+---
+id: dante-purg5
+title: Purgatorio, canto V
+author: Dante Alighieri
+date: c. 1315
+lang: Italian
+kind: poem
+what: La Pia's "Siena mi fé, disfecemi Maremma" behind "Highbury bore me. Richmond and Kew / Undid me."
+lines: 293
+passage: «Deh, quando tu sarai tornato al mondo,<br>e riposato de la lunga via»,<br>seguitò ’l terzo spirito al secondo,<br>«ricorditi di me, che son la Pia;<br>Siena mi fé, disfecemi Maremma:<br>salsi colui che ’nnanellata pria<br>disposando m’avea con la sua gemma».
+trans: "Ah, when you have returned to the world and rested from the long way," the third spirit followed the second, "remember me, who am La Pia; Siena made me, Maremma unmade me: he knows it who, having first put a ring on me, wedded me with his gem."
+note:
+Among the late-repentant who died by violence, a woman speaks seven lines and gives her name, her birthplace, the place of her death and, by implication, her murderer, her husband. Nothing else is known of her. Eliot's first Thames-daughter borrows the grammar and keeps the anonymity.
+---
+id: dante-inf33
+title: Inferno, canto XXXIII
+author: Dante Alighieri
+date: c. 1308
+lang: Italian
+kind: poem
+what: The key turning in the door: Ugolino's tower.
+lines: 411, 412
+passage: e io senti’ chiavar l’uscio di sotto<br>a l’orribile torre; ond’io guardai<br>nel viso a’ mie’ figliuoi sanza far motto.
+trans: and I heard them nailing up the door below of the horrible tower; at which I looked into the faces of my sons without a word.
+note:
+Count Ugolino della Gherardesca of Pisa, imprisoned in 1288 with his sons and grandsons and left to starve, gnaws in Hell on the skull of the archbishop who betrayed him and tells Dante the story. Eliot's note pairs the passage with Bradley's philosophy of the closed circle of experience: everyone in a tower, listening for the key.
+---
+id: chaucer
+title: The Canterbury Tales, General Prologue
+author: Geoffrey Chaucer
+date: c. 1387
+lang: Middle English
+kind: poem
+what: The kind April that Eliot's first line contradicts.
+lines: 1
+passage: Whan that Aprill with his shoures soote<br>The droghte of March hath perced to the roote,<br>And bathed every veyne in swich licour<br>Of which vertu engendred is the flour;<br>Whan Zephirus eek with his sweete breeth<br>Inspired hath in every holt and heeth<br>The tendre croppes, and the yonge sonne<br>Hath in the Ram his half cours yronne,<br>And smale foweles maken melodye,<br>That slepen al the nyght with open ye<br>(So priketh hem Nature in hir corages),<br>Thanne longen folk to goon on pilgrimages.
+trans: When April with its sweet showers has pierced the drought of March to the root and bathed every vein in the liquid whose power engenders the flower; when Zephyrus with his sweet breath has quickened the tender shoots in every wood and heath, and the young sun has run half his course in the Ram, and small birds make melody that sleep all night with open eye (so Nature pricks them in their hearts), then people long to go on pilgrimages.
+note:
+English poetry's first great spring, in which rain ends drought, sap rises and the whole country wants to travel. Eliot's poem also ends in a kind of pilgrimage, to the Chapel Perilous, but its April breeds lilacs out of dead land and its people would rather have stayed under the snow.
+---
+id: whitman-lilacs
+title: When Lilacs Last in the Dooryard Bloom'd
+author: Walt Whitman
+date: 1865
+lang: English
+kind: poem
+what: Lilacs, spring, death, and a hermit thrush.
+lines: 2, 357
+passage: When lilacs last in the dooryard bloom’d,<br>And the great star early droop’d in the western sky in the night,<br>I mourn’d, and yet shall mourn with ever-returning spring. . . .<br><br>In the swamp in secluded recesses,<br>A shy and hidden bird is warbling a song.<br>Solitary the thrush,<br>The hermit withdrawn to himself, avoiding the settlements,<br>Sings by himself a song.<br>Song of the bleeding throat,<br>Death’s outlet song of life . . .
+note:
+Whitman's elegy for Lincoln, shot in April 1865, binds three things together: the lilac, the evening star, and the hermit thrush singing in the swamp. Eliot's poem opens on lilacs out of dead land and, three hundred and fifty lines later, longs for the hermit-thrush's "water-dripping song." He rarely admitted to reading Whitman. The lilacs and the thrush say otherwise.
+---
+id: ezekiel
+title: Ezekiel 2 and 37
+author: The Bible (King James Version)
+date: 6th century BC; translation 1611
+lang: English
+kind: scripture
+what: "Son of man"; "a heap of broken images"; the valley of dry bones.
+lines: 20, 22, 390
+passage: And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee. (2:1)<br><br>The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones, and caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry. And he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, thou knowest. (37:1–3)
+note:
+Ezekiel, prophet of the Babylonian exile, is addressed by God ninety-odd times as "son of man," which is to say mortal. Eliot's note points to the moment of his commission; the poem's dry stone, broken images and dry bones come from the same book (chapters 6 and 37). In the valley the bones stand up. In the poem they do not.
+---
+id: ecclesiastes
+title: Ecclesiastes 12
+author: The Bible (King James Version)
+date: 3rd century BC; translation 1611
+lang: English
+kind: scripture
+what: "the cricket no relief": the chapter on old age and death.
+lines: 23
+passage: Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets: or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern. Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.
+note:
+Eliot's note sends the reader to verse 5, where "the grasshopper shall be a burden, and desire shall fail." The rest of the chapter, with its broken pitcher, its dry cistern and its dust, could be a plan for Part V.
+---
+id: isaiah
+title: Isaiah 32 and 38
+author: The Bible (King James Version)
+date: 8th century BC; translation 1611
+lang: English
+kind: scripture
+what: "the shadow of a great rock in a weary land"; "Set thine house in order."
+lines: 25, 426
+passage: And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land. (32:2)<br><br>In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live. (38:1)
+note:
+The red rock of Part I offers the prophet's shelter without the prophet's promise of water. Hezekiah, told to set his house in order, turned his face to the wall, wept, and was given fifteen more years. The Fisher King of line 426 asks the question and gets no answer.
+---
+id: luke24
+title: Luke 24: the road to Emmaus
+author: The Bible (King James Version)
+date: 1st century AD; translation 1611
+lang: English
+kind: scripture
+what: "Who is the third who walks always beside you?"
+lines: 360
+passage: And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs. And they talked together of all these things which had happened. And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them. But their eyes were holden that they should not know him. . . . And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them. And their eyes were opened, and they knew him; and he vanished out of their sight.
+note:
+Eliot's headnote to Part V names "the journey to Emmaus" as its first theme. Two disciples, walking away from Jerusalem on the third day, are joined by a stranger they only recognise when he breaks bread, at which point he is gone. Caravaggio painted the moment of recognition; the poem stays on the road, before it.
+---
+id: tristan
+title: Tristan und Isolde
+author: Richard Wagner
+date: 1865 (first performed Munich)
+lang: German
+kind: opera
+what: The sailor's song (lines 31–34) and the shepherd's "Öd und leer das Meer" (line 42).
+lines: 31, 42
+passage: Westwärts<br>schweift der Blick;<br>ostwärts<br>streicht das Schiff.<br>Frisch weht der Wind<br>der Heimat zu:<br>mein irisch Kind,<br>wo weilest du?<br>Sind’s deiner Seufzer Wehen,<br>die mir die Segel blähen?<br>Wehe, wehe, du Wind!<br>Weh, ach wehe, mein Kind!<br>Irische Maid,<br>du wilde, minnige Maid!<br><br>. . .<br><br>HIRT: Öd und leer das Meer!
+trans: Westward the gaze wanders; eastward the ship runs. Fresh blows the wind toward home: my Irish child, where do you linger? Is it the breath of your sighs that fills my sails? Woe, woe, you wind! Woe, ah woe, my child! Irish maid, you wild, lovely maid! . . . SHEPHERD: Desolate and empty the sea!
+note:
+Eliot's note cites the opera by act and verse as if it were a book, and it was: the libretto was sold and read. The young sailor's song opens Act I from the rigging, before the curtain reveals Isolde below; the shepherd's four words in Act III answer Kurwenal's question whether any sail is in sight while Tristan lies dying. Between the two quotations the poem puts its hyacinth garden, which is to say that the garden happens between a ship setting out and a ship not arriving. Eliot heard Wagner in London before the war and later called <i>Tristan</i> "one of the most tremendous of all operas." Ludwig II, who paid for the first performance, drowned in the Starnberger See of line 8.
+---
+id: gotterdammerung
+title: Götterdämmerung, Act III scene 1
+author: Richard Wagner
+date: 1876 (first performed Bayreuth)
+lang: German
+kind: opera
+what: "Weialala leia / Wallala leialala": the Rhine-daughters' refrain.
+lines: 277, 290
+passage: Frau Sonne<br>sendet lichte Strahlen;<br>Nacht liegt in der Tiefe:<br>einst war sie hell,<br>da heil und hehr<br>des Vaters Gold noch in ihr glänzte.<br>Rheingold!<br>Klares Gold!<br>Wie hell du einstens strahltest,<br>hehrer Stern der Tiefe!<br>Weialala leia,<br>wallala leialala.
+trans: Lady Sun sends bright rays; night lies in the depths: once they were bright, when whole and holy the father's gold still shone in them. Rhinegold! Clear gold! How brightly you once shone, holy star of the deep! Weialala leia, wallala leialala.
+note:
+The last opera of the <i>Ring</i> opens its third act with the three Rhine-daughters swimming and singing for the gold that Alberich stole in the first scene of the first opera, and asking Siegfried to give back the ring. Their refrain is the "la la" that Eliot's Thames-daughters sing over oil and tar. Eliot's note is precise about the transfer: "The Song of the (three) Thames-daughters begins here. . . . V. <i>Götterdämmerung</i>, III, i: the Rhine-daughters."
+---
+id: baudelaire-sept-vieillards
+title: Les Sept Vieillards (from Les Fleurs du mal)
+author: Charles Baudelaire
+date: 1859; in the 1861 edition of Les Fleurs du mal
+lang: French
+kind: poem
+what: "Unreal City."
+lines: 60
+passage: Fourmillante cité, cité pleine de rêves,<br>Où le spectre en plein jour raccroche le passant!<br>Les mystères partout coulent comme des sèves<br>Dans les canaux étroits du colosse puissant.
+trans: Swarming city, city full of dreams, where the ghost in broad daylight accosts the passer-by! Mysteries everywhere flow like sap in the narrow channels of the mighty giant.
+note:
+The poet, walking through a yellow fog in a Paris morning, meets a hideous old man, then another exactly like him, and another, seven in all, and flees home half mad. Eliot's note quotes only the first two lines, and the whole "Unreal City" passage is built on their method: a real street, and a ghost on it at nine in the morning.
+---
+id: baudelaire-au-lecteur
+title: Au Lecteur (the preface poem of Les Fleurs du mal)
+author: Charles Baudelaire
+date: 1857
+lang: French
+kind: poem
+what: "hypocrite lecteur!—mon semblable,—mon frère!"
+lines: 76
+passage: C’est l’Ennui! — l’œil chargé d’un pleur involontaire,<br>Il rêve d’échafauds en fumant son houka.<br>Tu le connais, lecteur, ce monstre délicat,<br>— Hypocrite lecteur, — mon semblable, — mon frère!
+trans: It is Boredom! Its eye charged with an involuntary tear, it dreams of scaffolds while smoking its hookah. You know it, reader, this delicate monster, hypocrite reader, my double, my brother!
+note:
+Baudelaire opens his book by listing the sins of mankind, saving the worst for last, boredom, and then turning on whoever is reading. Eliot closes his first section the same way. He said in 1930 that Baudelaire was "the greatest exemplar in modern poetry in any language," and in 1950 that he had learned from him "the possibility of fusion between the sordidly realistic and the phantasmagoric."
+---
+id: webster-white-devil
+title: The White Devil
+author: John Webster
+date: 1612
+lang: English
+kind: play
+what: Cornelia's dirge ("keep the wolf far thence") and Flamineo on the spider and the winding-sheet.
+lines: 74, 408
+passage: Call for the robin-redbreast and the wren,<br>Since o’er shady groves they hover,<br>And with leaves and flowers do cover<br>The friendless bodies of unburied men.<br>Call unto his funeral dole<br>The ant, the field-mouse, and the mole,<br>To rear him hillocks that shall keep him warm,<br>And (when gay tombs are robb’d) sustain no harm;<br>But keep the wolf far thence, that’s foe to men,<br>For with his nails he’ll dig them up again. (V.iv)<br><br>O men,<br>That lie upon your death-beds, and are haunted<br>With howling wives! ne’er trust them; they’ll re-marry<br>Ere the worm pierce your winding-sheet, ere the spider<br>Make a thin curtain for your epitaphs. (V.vi)
+note:
+Webster's tragedy of Vittoria Corombona, the "white devil," and her murderous lover Brachiano. Cornelia sings the dirge over her son Marcello, killed by his brother Flamineo; Flamineo, dying himself, gives the speech about widows. Eliot's essay on the Jacobeans and his poem "Whispers of Immortality" ("Webster was much possessed by death / And saw the skull beneath the skin") explain why these two speeches were in his head.
+---
+id: webster-devils-law-case
+title: The Devil's Law-Case
+author: John Webster
+date: 1623
+lang: English
+kind: play
+what: "The wind under the door."
+lines: 118
+passage: Is the wind in that door still?
+note:
+Act III scene ii. A surgeon, hearing that the man he thought he had killed is still alive, asks whether "the wind" is "in that door still," meaning whether that is still how things stand. Eliot's note gives only the line and the name, and the quotation is so oblique that scholars took decades to locate it.
+---
+id: shakespeare-tempest
+title: The Tempest, Act I scene ii
+author: William Shakespeare
+date: c. 1611
+lang: English
+kind: play
+what: Ariel's song, "Those are pearls that were his eyes"; Ferdinand on the bank; "This music crept by me upon the waters."
+lines: 48, 125, 191, 257
+passage: FERDINAND: Where should this music be? i’ th’ air or th’ earth?<br>It sounds no more: and sure, it waits upon<br>Some god o’ th’ island. Sitting on a bank,<br>Weeping again the king my father’s wreck,<br>This music crept by me upon the waters,<br>Allaying both their fury and my passion<br>With its sweet air . . .<br><br>ARIEL (sings): Full fathom five thy father lies;<br>Of his bones are coral made;<br>Those are pearls that were his eyes:<br>Nothing of him that doth fade<br>But doth suffer a sea-change<br>Into something rich and strange.<br>Sea-nymphs hourly ring his knell:<br>Ding-dong.<br>Hark! now I hear them,—Ding-dong, bell.
+note:
+Ferdinand, washed ashore after the shipwreck, believes his father Alonso drowned; Ariel's song tells him so, beautifully and falsely. Alonso is alive, and by the end of the play everyone has suffered a sea-change for the better. Eliot quotes the song three times and never allows the change. The drowned father with pearls for eyes becomes the drowned Phoenician and Phlebas; Ferdinand weeping on the bank becomes the Fisher King by the gasworks.
+---
+id: shakespeare-antony
+title: Antony and Cleopatra, Act II scene ii
+author: William Shakespeare
+date: c. 1607
+lang: English
+kind: play
+what: "The Chair she sat in, like a burnished throne."
+lines: 77
+passage: The barge she sat in, like a burnish’d throne,<br>Burn’d on the water: the poop was beaten gold;<br>Purple the sails, and so perfumed that<br>The winds were love-sick with them; the oars were silver,<br>Which to the tune of flutes kept stroke, and made<br>The water which they beat to follow faster,<br>As amorous of their strokes. For her own person,<br>It beggar’d all description.
+note:
+Enobarbus's set piece describing Cleopatra's first appearance to Antony on the river Cydnus, the most famous description of a woman in English drama. Eliot's parody keeps the meter, the gold, the perfume and the sense of a spectacle staged for a man, and takes away the river and the man. Elizabeth and Leicester's real barge on the Thames, at line 279, is the same picture with the Tudors in it.
+---
+id: shakespeare-hamlet
+title: Hamlet, Act IV scene v
+author: William Shakespeare
+date: c. 1600
+lang: English
+kind: play
+what: Ophelia's exit: "Good night, ladies, good night, sweet ladies, good night, good night."
+lines: 172
+passage: I hope all will be well. We must be patient: but I cannot choose but weep, to think they should lay him i’ the cold ground. My brother shall know of it: and so I thank you for your good counsel. Come, my coach! Good night, ladies; good night, sweet ladies; good night, good night.
+note:
+Ophelia, mad after her father's death, leaves the stage for the last time; her next appearance is Gertrude's report of her drowning. The pub's "Goonight" turns into her line without a break, and the chapter of women that began with Cleopatra ends with the girl in the brook. Millais painted her floating in 1851.
+---
+id: virgil-aeneid1
+title: Aeneid, Book I
+author: Virgil
+date: 19 BC
+lang: Latin
+kind: poem
+what: "laquearia," the coffered ceiling of Dido's palace.
+lines: 92
+passage: dependent lychni laquearibus aureis<br>incensi et noctem flammis funalia vincunt.
+trans: Lit lamps hang from the golden coffered ceiling, and torches conquer the night with their flames.
+note:
+Lines 726–727, quoted in Eliot's note: the banquet at which Dido, queen of Carthage, falls in love with Aeneas, who will sail away and leave her to the pyre. The word comes into the poem as a piece of interior decoration, and brings the whole story with it. Carthage again at line 307.
+---
+id: milton-pl4
+title: Paradise Lost, Book IV
+author: John Milton
+date: 1667
+lang: English
+kind: poem
+what: "the sylvan scene": Eden as Satan first sees it.
+lines: 98
+passage: . . . and overhead up grew<br>Insuperable height of loftiest shade,<br>Cedar, and pine, and fir, and branching palm,<br>A silvan scene, and as the ranks ascend<br>Shade above shade, a woody theatre<br>Of stateliest view.
+note:
+Book IV, lines 137–142. Satan, arriving at Eden, looks at Paradise from outside like a man looking at a stage set; "sylvan scene" is his phrase. In the poem it is the painted landscape above the mantelpiece in which Philomel is raped.
+---
+id: ovid-met6
+title: Metamorphoses, Book VI: Tereus, Procne and Philomela
+author: Ovid
+date: AD 8
+lang: Latin
+kind: poem
+what: "The change of Philomel."
+lines: 99, 203, 429
+note:
+Tereus of Thrace, escorting his wife's sister Philomela to visit Procne, rapes her in a hut in the woods and cuts out her tongue; she weaves the crime into a cloth and sends it to her sister; Procne kills her son Itys and serves him to his father; Tereus, pursuing the sisters with a sword, and the sisters, fleeing, all become birds. Ovid does not say which sister became the nightingale; later tradition made Philomela the nightingale and Procne the swallow, and Eliot follows it. The story sits above the mantel in Part II, breaks into birdsong in Part III, and ends the poem as a swallow. Arthur Golding's 1567 translation, the one Shakespeare read, is the English to go to.
+---
+id: ovid-met3
+title: Metamorphoses, Book III: Tiresias
+author: Ovid
+date: AD 8
+lang: Latin
+kind: poem
+what: The man who had been a woman, and who sees the future.
+lines: 218
+passage: Nam duo magnorum viridi coeuntia silva<br>corpora serpentum baculi violaverat ictu<br>deque viro factus, mirabile, femina septem<br>egerat autumnos; octavo rursus eosdem<br>vidit et “est vestrae si tanta potentia plagae,”<br>dixit “ut auctoris sortem in contraria mutet,<br>nunc quoque vos feriam!” percussis anguibus isdem<br>forma prior rediit genetivaque venit imago.
+trans: For once, in a green wood, he had struck with his staff the bodies of two great serpents as they coupled, and, from a man made a woman, wonderful to tell, had lived seven autumns; in the eighth he saw the same snakes again and said, "If a blow to you has such power that it changes its author's condition into its opposite, I will strike you now as well!" He struck the snakes, and his former shape returned, the form he was born with.
+note:
+Lines 324–331 of the passage Eliot's note quotes at length, calling it "of great anthropological interest." Jupiter and Juno, disputing which sex takes more pleasure in love, consult the one person who has been both; his answer costs him his sight and earns him prophecy. Eliot's note makes him the poem's uniting consciousness. Ovid makes him a man who lost an argument with a goddess.
+---
+id: middleton-wbw
+title: Women Beware Women, Act II scene ii
+author: Thomas Middleton
+date: c. 1621
+lang: English
+kind: play
+what: The game of chess played downstairs during a rape upstairs.
+lines: 137
+passage: LIVIA: Did I not say I should be too hard for you? . . . Y’are cunning at the game, I’ll be sworn, madam. . . . I’ve given thee blind mate twice.
+note:
+Livia, a procuress, keeps Bianca's mother-in-law busy at chess while the Duke of Florence takes Bianca in the gallery above; the lines about the game double as commentary on the seduction. Eliot's section title comes from this scene and from Middleton's <i>A Game at Chess</i> (1624), an anti-Spanish satire so popular that it ran nine days and was closed by the Privy Council. Eliot's 1927 essay on Middleton praised him for "the perpetual instinct of the man of genius."
+---
+id: spenser-prothalamion
+title: Prothalamion
+author: Edmund Spenser
+date: 1596
+lang: English
+kind: poem
+what: "Sweet Thames, run softly, till I end my song."
+lines: 176, 183, 184
+passage: Calme was the day, and through the trembling ayre<br>Sweete breathing Zephyrus did softly play<br>A gentle spirit, that lightly did delay<br>Hot Titans beames, which then did glyster fayre:<br>When I whom sullein care,<br>Through discontent of my long fruitlesse stay<br>In Princes Court, and expectation vayne<br>Of idle hopes, which still doe fly away,<br>Like empty shaddowes, did aflict my brayne,<br>Walkt forth to ease my payne<br>Along the shoare of silver streaming Themmes,<br>Whose rutty Bancke, the which his River hemmes,<br>Was paynted all with variable flowers,<br>And all the meades adornd with daintie gemmes,<br>Fit to decke maydens bowres,<br>And crowne their Paramours,<br>Against the Brydale day, which is not long:<br>Sweete Themmes runne softly, till I end my Song.
+note:
+A "spousal verse" for the double wedding of the Earl of Worcester's daughters, in which the poet, out of favour at court, walks by the Thames and sees nymphs gathering flowers for two swans who are the brides. Eliot keeps the refrain and empties the river. Notice that Spenser's poet is also unhappy, also walking off his "sullein care" by the river, before the wedding cheers him up.
+---
+id: psalm137
+title: Psalm 137
+author: The Bible (King James Version)
+date: 6th century BC; translation 1611
+lang: English
+kind: scripture
+what: "By the waters of Leman I sat down and wept."
+lines: 182
+passage: By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion. We hanged our harps upon the willows in the midst thereof. For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion. How shall we sing the LORD’s song in a strange land?
+note:
+The exiles' psalm, which is also a psalm about being asked to write a poem when you cannot. Eliot, in exile from the bank on the shore of Lake Geneva, took its first line and put his lake in it.
+---
+id: marvell-coy-mistress
+title: To His Coy Mistress
+author: Andrew Marvell
+date: written c. 1650; published 1681
+lang: English
+kind: poem
+what: "But at my back . . . I hear."
+lines: 185, 196
+passage: But at my back I always hear<br>Time’s wingèd chariot hurrying near;<br>And yonder all before us lie<br>Deserts of vast eternity.<br>Thy beauty shall no more be found,<br>Nor, in thy marble vault, shall sound<br>My echoing song; then worms shall try<br>That long preserved virginity,<br>And your quaint honour turn to dust,<br>And into ashes all my lust:<br>The grave’s a fine and private place,<br>But none, I think, do there embrace.
+note:
+The great English argument for going to bed now, because later there is only the grave. Eliot quotes the turn of the argument twice and gives it a rattle of bones the first time and motor horns the second. His 1921 essay on Marvell, written months before the poem, praised "a tough reasonableness beneath the slight lyric grace."
+---
+id: day-parliament-of-bees
+title: The Parliament of Bees
+author: John Day
+date: printed 1641 (written c. 1607–41)
+lang: English
+kind: play
+what: Actaeon and Diana, turned into Sweeney and Mrs Porter.
+lines: 197
+passage: When of the sudden, listening, you shall hear,<br>A noise of horns and hunting, which shall bring<br>Actaeon to Diana in the spring,<br>Where all shall see her naked skin . . .
+note:
+A masque-like sequence of "characters" among the bees; the passage Eliot's note quotes describes a spring hunt bringing Actaeon to the goddess bathing. In Ovid the hunter who sees Diana naked is turned into a stag and torn apart by his own dogs. Eliot brings Sweeney to Mrs Porter in a motor car.
+---
+id: verlaine-parsifal
+title: Parsifal
+author: Paul Verlaine
+date: 1886
+lang: French
+kind: poem
+what: "Et O ces voix d'enfants, chantant dans la coupole!"
+lines: 202
+passage: Parsifal a vaincu les Filles, leur gentil<br>Babil et la luxure amusante — et sa pente<br>Vers la Chair de garçon vierge que cela tente<br>D’aimer les seins légers et ce gentil babil;<br><br>Il a vaincu la Femme belle, au cœur subtil,<br>Étalant ses bras frais et sa gorge excitante;<br>Il a vaincu l’Enfer et rentre sous sa tente<br>Avec un lourd trophée à son bras puéril,<br><br>Avec la lance qui perça le Flanc suprême!<br>Il a guéri le roi, le voici roi lui-même,<br>Et prêtre du très saint Trésor essentiel.<br><br>En robe d’or il adore, gloire et symbole,<br>Le vase pur où resplendit le Sang réel.<br>— Et, ô ces voix d’enfants chantant dans la coupole!
+trans: Parsifal has overcome the Maidens, their pretty chatter and amusing lust, and his own leaning, a virgin boy's flesh tempted to love light breasts and that pretty chatter; he has overcome the beautiful Woman with the subtle heart, spreading her cool arms and her exciting throat; he has overcome Hell and returns to his tent with a heavy trophy on his boyish arm, with the lance that pierced the supreme Side! He has healed the king, and here he is king himself, and priest of the most holy essential Treasure. In a robe of gold he adores, glory and symbol, the pure vessel where the real Blood shines. And, oh, those children's voices singing in the dome!
+note:
+Verlaine's sonnet on Wagner's last opera, written for the <i>Revue wagnérienne</i>, compresses the whole plot into thirteen lines and then, in the fourteenth, simply reports the sound of the boys' choir in the Grail temple. Eliot places that line after a barrack-room song about a brothel, so that the temptation and the temple stand one line apart. Parsifal is Weston's Grail knight; his healing of the king is the thing the poem never manages.
+---
+id: lyly-campaspe
+title: Campaspe (the nightingale song)
+author: John Lyly
+date: 1584
+lang: English
+kind: play
+what: "Jug jug" and "Tereu."
+lines: 103, 204, 206
+passage: What bird so sings, yet so does wail?<br>O ’tis the ravish’d nightingale.<br>Jug, jug, jug, jug, tereu! she cries,<br>And still her woes at midnight rise.
+note:
+The Elizabethan convention that the nightingale sings "jug jug" and calls "tereu," the vocative of Tereus, comes from this song in Lyly's court comedy. Eliot's "Jug Jug to dirty ears" and the four-line burst of birdsong at lines 203–206 are Lyly's bird, with the pretty convention turned back into what it describes.
+---
+id: sappho-104
+title: Fragment 104a (Hesperus)
+author: Sappho
+date: c. 600 BC
+lang: Greek
+kind: poem
+what: The evening hour that "brings the sailor home from sea."
+lines: 220
+passage: Ἔσπερε πάντα φέρων ὄσα φαίνολις ἐσκέδασ’ Αὔως,<br>φέρεις ὄιν, φέρεις αἶγα, φέρεις ἄπυ μάτερι παῖδα.
+trans: Evening star, bringing back everything that shining dawn scattered: you bring the sheep, you bring the goat, you bring the child back to its mother.
+note:
+Two lines that survive because a grammarian quoted them. Eliot's note says his lines "may not appear as exact as Sappho's" and that he was thinking of the "longshore" fisherman coming in at nightfall. Byron and Stevenson ("Home is the sailor, home from sea") are the English relay stations between Sappho and the typist's teatime.
+---
+id: goldsmith-vicar
+title: The Vicar of Wakefield, chapter 24
+author: Oliver Goldsmith
+date: 1766
+lang: English
+kind: novel
+what: "When lovely woman stoops to folly."
+lines: 253
+passage: When lovely woman stoops to folly,<br>And finds too late that men betray,<br>What charm can soothe her melancholy,<br>What art can wash her guilt away?<br><br>The only art her guilt to cover,<br>To hide her shame from every eye,<br>To give repentance to her lover,<br>And wring his bosom, is—to die.
+note:
+Olivia Primrose, seduced and abandoned by the squire, sings this to her family. Eliot's typist, in the same meter, puts on a record. The scene has been read as contempt for her and as the poem's one act of mercy toward a woman: she is allowed not to die.
+---
+id: froude-elizabeth
+title: History of England: the reign of Elizabeth
+author: James Anthony Froude
+date: 1863
+lang: English
+kind: history
+what: Elizabeth and Leicester in the barge.
+lines: 279
+passage: In the afternoon we were in a barge, watching the games on the river. (The queen) was alone with Lord Robert and myself on the poop, when they began to talk nonsense, and went so far that Lord Robert at last said, as I was on the spot there was no reason why they should not be married if the queen pleased.
+note:
+Froude quotes a letter of 1561 from the Spanish ambassador, Álvaro de la Quadra, to Philip II. The marriage never happened; Dudley's wife had died the year before in circumstances that made it impossible. Eliot's Thames pageant of red and gold is this afternoon, seen from the water, with nothing coming of it.
+---
+id: augustine-confessions
+title: Confessions, Books III and X
+author: Augustine of Hippo, translated by E. B. Pusey
+date: c. 400; translation 1838
+lang: Latin; English
+kind: prose
+what: "To Carthage then I came"; "O Lord Thou pluckest me out."
+lines: 307, 309
+passage: To Carthage then I came, where a cauldron of unholy loves sang all about mine ears. (III.1)<br><br>I entangle my steps with these outward beauties, but Thou pluckest me out, O Lord, Thou pluckest me out; for Thy loving-kindness is before my eyes. (X.34)
+note:
+Augustine's account of his student years in Carthage, "a cauldron of unholy loves," and, six books later, of the pull of beautiful things on a man trying to look at God. The Latin of the first sentence puns Carthago with sartago, a frying pan, which is why the Fire Sermon ends with it. Eliot uses Pusey's Victorian translation, the one in Everyman's Library.
+---
+id: buddha-fire-sermon
+title: The Fire Sermon (Ādittapariyāya Sutta)
+author: The Buddha, translated by Henry Clarke Warren
+date: 5th century BC; translation 1896
+lang: Pali; English
+kind: scripture
+what: The title of Part III and "Burning burning burning burning."
+lines: 308
+passage: All things, O priests, are on fire. And what, O priests, are all these things which are on fire? The eye, O priests, is on fire; forms are on fire; eye-consciousness is on fire; impressions received by the eye are on fire; and whatever sensation, pleasant, unpleasant, or indifferent, originates in dependence on impressions received by the eye, that also is on fire. And with what are these on fire? With the fire of passion, say I, with the fire of hatred, with the fire of infatuation; with birth, old age, death, sorrow, lamentation, misery, grief, and despair are they on fire.
+note:
+Preached, the tradition says, to a thousand fire-worshipping ascetics on Gayā Head shortly after the enlightenment. Eliot read it at Harvard in Warren's <i>Buddhism in Translations</i> and his note calls it as important as the Sermon on the Mount. It is the text behind the whole third section, in which everything, from the river to the typist, is seen as burning.
+---
+id: brihadaranyaka
+title: Bṛhadāraṇyaka Upaniṣad 5.2: what the thunder says
+author: Anonymous (Vedic)
+date: c. 700 BC
+lang: Sanskrit
+kind: scripture
+what: "DA. Datta. Dayadhvam. Damyata." and "Shantih."
+lines: 400, 402, 411, 418, 433, 434
+passage: The threefold offspring of Prajāpati, gods, men and demons, lived with their father as students. When they had finished, the gods said: Teach us. He spoke one syllable, "Da," and asked: Did you understand? They said: We understood; you told us, dāmyata, restrain yourselves. Then the men: Teach us. "Da." We understood; you told us, datta, give. Then the demons: Teach us. "Da." We understood; you told us, dayadhvam, be compassionate. This is what the divine voice, the thunder, repeats: da, da, da: restrain yourselves, give, be compassionate. (Paraphrased from the Sanskrit.)
+note:
+Eliot read the Upanishads in Sanskrit at Harvard with Charles Lanman in 1911–13, and his note cites Paul Deussen's German translation of 1897. The fable is about hearing what you need to hear in a single syllable. Eliot reorders the three commands and gives each a confession. "Shantih," the peace that closes an Upanishad, is spoken three times at the end of a recitation; the poem ends the way a Vedic text ends, and the notes end by calling the English "a feeble translation."
+---
+id: bradley
+title: Appearance and Reality
+author: F. H. Bradley
+date: 1893
+lang: English
+kind: philosophy
+what: The closed circle of private experience, in Eliot's note to line 412.
+lines: 412
+passage: My external sensations are no less private to myself than are my thoughts or my feelings. In either case my experience falls within my own circle, a circle closed on the outside; and, with all its elements alike, every sphere is opaque to the others which surround it. . . . In brief, regarded as an existence which appears in a soul, the whole world for each is peculiar and private to that soul.
+note:
+The Oxford idealist on whom Eliot wrote his Harvard doctoral dissertation (finished 1916, never defended, published 1964). Page 346, quoted in the note, is the philosophical form of Ugolino's tower: each of us shut in a circle of experience that no key opens. The poem's "Dayadhvam," sympathise, is set against exactly this.
+---
+id: hesse-blick-ins-chaos
+title: Blick ins Chaos (In Sight of Chaos)
+author: Hermann Hesse
+date: 1920
+lang: German
+kind: essay
+what: The "hooded hordes" and the "decay of eastern Europe."
+lines: 367
+passage: Schon ist halb Europa, schon ist zumindest der halbe Osten Europas auf dem Wege zum Chaos, fährt betrunken im heiligem Wahn am Abgrund entlang und singt dazu, singt betrunken und hymnisch wie Dmitri Karamasoff sang. Ueber diese Lieder lacht der Bürger beleidigt, der Heilige und Seher hört sie mit Tränen.
+trans: Already half of Europe, already at least half of eastern Europe, is on the way to chaos, driving drunk in holy delusion along the edge of the abyss and singing as it goes, singing drunken hymns as Dmitri Karamazov sang. The bourgeois laughs at these songs, offended; the saint and the seer hear them with tears.
+note:
+Three essays on Dostoevsky, written in the aftermath of the war, in which Hesse saw the "Russian man" of <i>The Brothers Karamazov</i> as the coming type of a Europe that had lost its faith in its own order. Eliot's note quotes the essay "The Brothers Karamazov, or the Downfall of Europe"; he visited Hesse in Switzerland in 1922 and printed him in the first <i>Criterion</i>.
+---
+id: shackleton-south
+title: South: The Story of Shackleton's Last Expedition
+author: Sir Ernest Shackleton
+date: 1919
+lang: English
+kind: memoir
+what: "the constant delusion that there was one more member than could actually be counted."
+lines: 360
+passage: I know that during that long and racking march of thirty-six hours over the unnamed mountains and glaciers of South Georgia it seemed to me often that we were four, not three. I said nothing to my companions on the point, but afterwards Worsley said to me, “Boss, I had a curious feeling on the march that there was another person with us.” Crean confessed to the same idea.
+note:
+In May 1916, after the <i>Endurance</i> had been crushed in the ice and the boat journey across the Southern Ocean survived, Shackleton, Worsley and Crean crossed the mountains of South Georgia on foot to reach the whaling station. Eliot remembered the passage imperfectly ("I think one of Shackleton's") and made it the modern half of the road to Emmaus. Frank Hurley's photographs of the ship in the ice are the images to hold beside it.
+---
+id: chapman-birds
+title: Handbook of Birds of Eastern North America
+author: Frank M. Chapman
+date: 1895
+lang: English
+kind: birdbook
+what: The hermit-thrush and its "water-dripping song."
+lines: 357
+passage: It is most at home in secluded woodland and thickety retreats. . . . Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequalled.
+note:
+The ornithologist's field guide Eliot's family owned; his note quotes it and gives the bird its scientific name of the day, <i>Turdus aonalaschkae pallasii</i> (now <i>Catharus guttatus</i>). Listen to a recording: the song is a clear, long note followed by a falling, liquid phrase that really does sound like water dripping into a pool. It sings at dusk, and the poem's "Drip drop drip drop drop drop drop" is a fair transcription.
+---
+id: pervigilium-veneris
+title: Pervigilium Veneris (The Vigil of Venus)
+author: Anonymous
+date: 2nd–4th century AD
+lang: Latin
+kind: poem
+what: "Quando fiam ceu chelidon": when shall I be like the swallow?
+lines: 429
+passage: iam loquaces ore rauco stagna cycni perstrepunt;<br>adsonat Terei puella subter umbram populi,<br>ut putes motus amoris ore dici musico,<br>et neges queri sororem de marito barbaro.<br>illa cantat, nos tacemus. quando ver venit meum?<br>quando fiam uti chelidon, ut tacere desinam?<br>perdidi Musam tacendo, nec me Phoebus respicit.<br>sic Amyclas, cum tacerent, perdidit silentium.<br>cras amet qui numquam amavit quique amavit cras amet.
+trans: Now the chattering swans with hoarse voices make the pools ring; Tereus's girl sings under the poplar's shade, so that you would think the stirrings of love were spoken by her musical mouth, and not that a sister complained of a barbarous husband. She sings; we are silent. When does my spring come? When shall I become like the swallow, so that I may stop being silent? By silence I have lost the Muse, and Phoebus does not regard me. So Amyclae, when its people kept silent, was destroyed by silence. Tomorrow let him love who has never loved, and let him who has loved love tomorrow.
+note:
+A late Latin poem of ninety-three lines for the eve of the spring festival of Venus, with the refrain "cras amet qui numquam amavit." After all the flowers and nymphs, the last stanza turns to the poet's own silence, and envies the swallow, who is Procne, sister of the raped Philomela. Eliot's 1922 text reads "ceu" for the poem's "uti"; he later corrected it. The whole of the poem's spring, its birds and its silence are in these nine lines.
+---
+id: nerval-desdichado
+title: El Desdichado (from Les Chimères)
+author: Gérard de Nerval
+date: 1854
+lang: French
+kind: poem
+what: "Le Prince d'Aquitaine à la tour abolie."
+lines: 430
+passage: Je suis le Ténébreux, — le Veuf, — l’Inconsolé,<br>Le Prince d’Aquitaine à la Tour abolie:<br>Ma seule Étoile est morte, — et mon luth constellé<br>Porte le Soleil noir de la Mélancolie.<br><br>Dans la nuit du Tombeau, Toi qui m’as consolé,<br>Rends-moi le Pausilippe et la mer d’Italie,<br>La fleur qui plaisait tant à mon cœur désolé,<br>Et la treille où le Pampre à la Rose s’allie.<br><br>Suis-je Amour ou Phébus? . . . Lusignan ou Biron?<br>Mon front est rouge encor du baiser de la Reine;<br>J’ai rêvé dans la Grotte où nage la Sirène . . .<br><br>Et j’ai deux fois vainqueur traversé l’Achéron:<br>Modulant tour à tour sur la lyre d’Orphée<br>Les soupirs de la Sainte et les cris de la Fée.
+trans: I am the dark one, the widower, the unconsoled, the Prince of Aquitaine with the ruined tower: my only star is dead, and my starred lute bears the black sun of Melancholy. In the night of the tomb, you who consoled me, give me back Posillipo and the Italian sea, the flower that so pleased my desolate heart, and the arbour where the vine and the rose are joined. Am I Love or Phoebus? Lusignan or Biron? My brow is still red from the queen's kiss; I have dreamed in the grotto where the siren swims. And twice, victorious, I have crossed the Acheron, modulating in turn on Orpheus's lyre the sighs of the saint and the cries of the fairy.
+note:
+The first of Nerval's <i>Chimères</i>, written in the intervals of madness a year before he hanged himself in a Paris alley. The title is Spanish, "the disinherited one," from a shield in <i>Ivanhoe</i>; the "tour abolie" is the Tarot's Tower. A poet who has twice crossed the river of the dead and come back, the sonnet says, and can still play. Eliot takes the second line and leaves the consolation.
+---
+id: kyd-spanish-tragedy
+title: The Spanish Tragedy, Act IV
+author: Thomas Kyd
+date: c. 1587
+lang: English
+kind: play
+what: "Why then Ile fit you. Hieronymo's mad againe."
+lines: 432
+passage: HIERONIMO: Why then, I’ll fit you; say no more.<br>When I was young, I gave my mind<br>And plied myself to fruitless poetry;<br>Which though it profit the professor naught,<br>Yet is it passing pleasing to the world.
+note:
+Hieronimo, Knight Marshal of Spain, whose son Horatio has been murdered and hanged in an arbour, is asked by the murderers to write a play for the court. "I'll fit you" means I'll supply what you want and I'll pay you back; the play he supplies is written "in sundry languages," and in performing it the murderers are stabbed for real. "Hieronimo is mad againe" is from the title page of the 1615 quarto, the edition Eliot would have known. A revenge carried out by means of a multilingual entertainment is not a bad description of the poem that quotes it.
+---
+id: london-bridge
+title: London Bridge Is Falling Down
+author: Traditional
+date: first printed c. 1744
+lang: English
+kind: song
+what: "London Bridge is falling down falling down falling down."
+lines: 427
+passage: London Bridge is falling down,<br>Falling down, falling down,<br>London Bridge is falling down,<br>My fair lady.<br><br>Build it up with wood and clay . . .<br>Build it up with iron and steel . . .<br>Build it up with silver and gold . . .<br>Set a man to watch all night . . .
+note:
+The rhyme runs through materials that fail until a watchman is set; folklorists of Frazer's generation liked to connect it with the old custom of burying a victim under a bridge's foundations to make it stand. Eliot's commuters crossed the real bridge at line 62. The nursery version is the first of the fragments shored against the ruins, and the only one in English a child would know.
+---
+id: shakespearian-rag
+title: That Shakespearian Rag
+author: Gene Buck and Herman Ruby (words), David Stamper (music)
+date: 1912
+lang: English
+kind: song
+what: "O O O O that Shakespeherian Rag— / It's so elegant / So intelligent."
+lines: 128
+passage: That Shakespearian rag,<br>Most intelligent, very elegant,<br>That old classical drag,<br>Has the proper stuff, the line “Lay on Macduff” . . .
+note:
+A number from the Ziegfeld Follies of 1912, in which Shakespeare's characters are made to dance the ragtime steps of the day. Eliot, at Harvard and in London, knew the popular songs of 1910–12 well enough to misquote one on purpose: his extra syllable, "Shakespeherian," gives the word the rag's syncopation. The song exists in recordings from the year of its publication.
+---
+id: dans-le-restaurant
+title: Dans le Restaurant
+author: T. S. Eliot
+date: 1918
+lang: French
+kind: poem
+what: The French original of "Death by Water."
+lines: 312
+passage: Phlébas, le Phénicien, pendant quinze jours noyé,<br>Oubliait les cris des mouettes et la houle de Cornouaille,<br>Et les profits et les pertes, et la cargaison d’étain:<br>Un courant de sous-mer l’emporta très loin,<br>Le repassant aux étapes de sa vie antérieure.<br>Figurez-vous donc, c’était un sort pénible;<br>Cependant, ce fut jadis un bel homme, de haute taille.
+trans: Phlebas the Phoenician, drowned a fortnight, forgot the cries of the gulls and the swell off Cornwall, and the profits and the losses, and the cargo of tin: an undersea current carried him far away, taking him back through the stages of his former life. Consider then, it was a hard fate; and yet he was once a handsome man, and tall.
+note:
+One of the four poems Eliot wrote in French in 1917–18, in which a waiter tells a customer about a childhood fumble under a tree in the rain, and the customer, disgusted, tells him to go and wash; then, out of nowhere, the drowned Phoenician. Eliot translated the last stanza into English for Part IV, dropping the tin and Cornwall and adding "Gentile or Jew." He is the only poet the poem quotes in two languages.
+---
+id: death-of-st-narcissus
+title: The Death of Saint Narcissus
+author: T. S. Eliot
+date: 1915 (withdrawn from publication)
+lang: English
+kind: poem
+what: "Come in under the shadow of this red rock."
+lines: 25
+passage: Come under the shadow of this gray rock—<br>Come in under the shadow of this gray rock,<br>And I will show you something different from either<br>Your shadow sprawling over the sand at daybreak, or<br>Your shadow leaping behind the fire against the red rock:<br>I will show you his bloody cloth and limbs<br>And the gray shadow on his lips.
+note:
+Set in type for <i>Poetry</i> (Chicago) in 1915 and withdrawn at proof stage, the poem about a saint who wanted to be a tree, a fish and a girl, and died pierced with arrows, survived in the folder of drafts that Eliot sold with the <i>Waste Land</i> manuscript. The gray rock's shadow, made red, became the poem's first prophecy.
+---
+id: dickens-omf
+title: Our Mutual Friend, Book I chapter 16
+author: Charles Dickens
+date: 1865
+lang: English
+kind: novel
+what: The typescript's title: "He Do the Police in Different Voices."
+lines: 0
+passage: “I do love a newspaper. You mightn’t think it, but Sloppy is a beautiful reader of a newspaper. He do the Police in different voices.”
+note:
+Betty Higden's praise of the foundling Sloppy, who reads her the police-court reports doing all the parts. Eliot wrote the sentence across the top of the typescript of Parts I and II. It is the plainest statement of what the poem does that anyone has made, including its author, and Dickens's novel, which opens with a body fished out of the Thames, is the poem's river in prose.
+---
+id: conrad-hod
+title: Heart of Darkness
+author: Joseph Conrad
+date: 1899
+lang: English
+kind: novella
+what: The epigraph the poem almost had.
+lines: 0
+passage: Did he live his life again in every detail of desire, temptation, and surrender during that supreme moment of complete knowledge? He cried in a whisper at some image, at some vision,—he cried out twice, a cry that was no more than a breath—<br>“The horror! The horror!”
+note:
+Kurtz's last words, as Marlow reports them, stood at the head of the typescript. Pound doubted whether Conrad was "weighty enough to stand the citation"; Eliot defended it as "much the most appropriate I can find, and somewhat elucidative," then replaced it with Petronius. The "heart of light" at line 41 still answers to it. The book's opening, a boat on the Thames at Gravesend at dusk with London behind it, is worth rereading with Part III in mind.
+---
+id: tennyson
+title: Maud, and The Princess
+author: Alfred Tennyson
+date: 1855; 1847
+lang: English
+kind: poem
+what: "a handful of dust"; "O swallow swallow."
+lines: 30, 429
+passage: Dead, long dead,<br>Long dead!<br>And my heart is a handful of dust,<br>And the wheels go over my head,<br>And my bones are shaken with pain,<br>For into a shallow grave they are thrust,<br>Only a yard beneath the street . . . (Maud, II.v)<br><br>O Swallow, Swallow, flying, flying South,<br>Fly to her, and fall upon her gilded eaves,<br>And tell her, tell her, what I tell to thee. (The Princess)
+note:
+The mad speaker of <i>Maud</i>, buried alive under a London street with the traffic going over him, is a Victorian ancestor of the man in rats' alley; the swallow song in <i>The Princess</i> gives Eliot the English half of a Latin line. Eliot's respect for Tennyson's ear ("the finest ear of any English poet since Milton," he wrote in 1936) shows in what he took.
+---
+id: huxley-crome-yellow
+title: Crome Yellow, chapter 27
+author: Aldous Huxley
+date: 1921
+lang: English
+kind: novel
+what: "Sesostris, the Sorceress of Ecbatana": the name behind Madame Sosostris.
+lines: 43
+passage: Mr. Scogan, in a black skirt and a red bodice, with a yellow-and-red bandana handkerchief tied round his black wig, looked like the Bohemian Hag of Frith’s Derby Day. A placard pinned to the curtain of the doorway announced the presence within the tent of “Sesostris, the Sorceress of Ecbatana.”
+note:
+Huxley's country-house satire came out in November 1921, while Eliot was at Margate and Lausanne; the cynical Mr. Scogan telling fortunes in drag at a village fête is the immediate source of the "famous clairvoyante." Huxley had been at Garsington with Eliot, and the two knew each other's work.
+---
+id: eliot-frontiers
+title: The Frontiers of Criticism (Eliot on his own notes)
+author: T. S. Eliot
+date: 1956
+lang: English
+kind: essay
+what: What Eliot later said about the notes.
+lines: 0
+passage: I had at first intended only to put down all the references for my quotations, with a view to spiking the guns of critics of my earlier poems who had accused me of plagiarism. Then, when it came to print The Waste Land as a little book—for the poem on its first appearance in The Dial and in The Criterion had no notes whatever—it was discovered that the poem was inconveniently short, so I set to work to expand the notes, in order to provide a few more pages of printed matter, with the result that they became the remarkable exposition of bogus scholarship that is still on view to-day. . . . I regret having sent so many enquirers off on a wild goose chase after Tarot cards and the Holy Grail.
+note:
+A lecture given at the University of Minnesota in 1956 to an audience of nearly fourteen thousand, in which Eliot, thirty-four years on, described the notes as padding that had got out of hand. He also admitted they could not now be removed: readers had "bought" the notes with the poem. Take the notes as part of the poem and as a joke at its expense; both are true.

@@ -1,0 +1,1327 @@
+{
+ "title": "River Thames centerline through London and gazetteer for an annotated edition of The Waste Land",
+ "generated": "2026-09-20",
+ "source": "OpenStreetMap relation 2263653 (River Thames, type=waterway), fetched from www.openstreetmap.org/api/0.6/relation/2263653/full (Overpass mirrors were unavailable). Its main_stream member ways were stitched into one line, clipped to the London bbox, Douglas-Peucker simplified (20 m) and resampled to ~250 m spacing. Places geocoded with Nominatim (nominatim.openstreetmap.org), except where the per-place source says otherwise.",
+ "attribution": "© OpenStreetMap contributors, ODbL",
+ "river_meta": {
+  "osm_relation": 2263653,
+  "points": 199,
+  "length_km": 49.3,
+  "from": "Teddington / Richmond (lon -0.3186, lat 51.43)",
+  "to": "Thamesmead (lon 0.10, lat 51.5119)",
+  "order": "west (upstream) to east (downstream)",
+  "coordinate_order": "[lon, lat] WGS84",
+  "raw_osm_points_in_clip": 1730,
+  "spacing_m": "125-414, mean 248"
+ },
+ "river": [
+  [
+   -0.31858,
+   51.43
+  ],
+  [
+   -0.32226,
+   51.43098
+  ],
+  [
+   -0.32595,
+   51.43196
+  ],
+  [
+   -0.32781,
+   51.43375
+  ],
+  [
+   -0.32846,
+   51.43641
+  ],
+  [
+   -0.32957,
+   51.43822
+  ],
+  [
+   -0.33068,
+   51.44003
+  ],
+  [
+   -0.33056,
+   51.4417
+  ],
+  [
+   -0.32816,
+   51.44368
+  ],
+  [
+   -0.32462,
+   51.44471
+  ],
+  [
+   -0.32108,
+   51.44573
+  ],
+  [
+   -0.31831,
+   51.44608
+  ],
+  [
+   -0.31554,
+   51.44643
+  ],
+  [
+   -0.31148,
+   51.44741
+  ],
+  [
+   -0.30743,
+   51.44839
+  ],
+  [
+   -0.30433,
+   51.45044
+  ],
+  [
+   -0.30325,
+   51.45264
+  ],
+  [
+   -0.30388,
+   51.45439
+  ],
+  [
+   -0.30608,
+   51.45681
+  ],
+  [
+   -0.30806,
+   51.45816
+  ],
+  [
+   -0.31116,
+   51.45932
+  ],
+  [
+   -0.31426,
+   51.46047
+  ],
+  [
+   -0.31741,
+   51.46257
+  ],
+  [
+   -0.32055,
+   51.46467
+  ],
+  [
+   -0.31984,
+   51.46805
+  ],
+  [
+   -0.31887,
+   51.47072
+  ],
+  [
+   -0.31733,
+   51.47159
+  ],
+  [
+   -0.3143,
+   51.47258
+  ],
+  [
+   -0.31127,
+   51.47357
+  ],
+  [
+   -0.3072,
+   51.47542
+  ],
+  [
+   -0.30562,
+   51.47672
+  ],
+  [
+   -0.30371,
+   51.47909
+  ],
+  [
+   -0.30141,
+   51.48099
+  ],
+  [
+   -0.29912,
+   51.48288
+  ],
+  [
+   -0.29713,
+   51.48413
+  ],
+  [
+   -0.29514,
+   51.48538
+  ],
+  [
+   -0.29165,
+   51.48641
+  ],
+  [
+   -0.28728,
+   51.48697
+  ],
+  [
+   -0.28434,
+   51.4864
+  ],
+  [
+   -0.28194,
+   51.48494
+  ],
+  [
+   -0.27917,
+   51.48382
+  ],
+  [
+   -0.27701,
+   51.48208
+  ],
+  [
+   -0.27554,
+   51.47952
+  ],
+  [
+   -0.27407,
+   51.47695
+  ],
+  [
+   -0.27209,
+   51.47472
+  ],
+  [
+   -0.2701,
+   51.47322
+  ],
+  [
+   -0.26783,
+   51.47226
+  ],
+  [
+   -0.26555,
+   51.47131
+  ],
+  [
+   -0.26297,
+   51.47088
+  ],
+  [
+   -0.25971,
+   51.47086
+  ],
+  [
+   -0.25729,
+   51.47126
+  ],
+  [
+   -0.25479,
+   51.4722
+  ],
+  [
+   -0.25336,
+   51.47313
+  ],
+  [
+   -0.2519,
+   51.47475
+  ],
+  [
+   -0.25071,
+   51.47723
+  ],
+  [
+   -0.25047,
+   51.47987
+  ],
+  [
+   -0.25024,
+   51.48251
+  ],
+  [
+   -0.24943,
+   51.48402
+  ],
+  [
+   -0.24814,
+   51.48525
+  ],
+  [
+   -0.2454,
+   51.48684
+  ],
+  [
+   -0.24265,
+   51.48842
+  ],
+  [
+   -0.2405,
+   51.48924
+  ],
+  [
+   -0.23741,
+   51.48968
+  ],
+  [
+   -0.23337,
+   51.48946
+  ],
+  [
+   -0.23028,
+   51.48811
+  ],
+  [
+   -0.22729,
+   51.48565
+  ],
+  [
+   -0.22647,
+   51.48371
+  ],
+  [
+   -0.22564,
+   51.48177
+  ],
+  [
+   -0.22563,
+   51.47966
+  ],
+  [
+   -0.22563,
+   51.47756
+  ],
+  [
+   -0.22522,
+   51.47608
+  ],
+  [
+   -0.22349,
+   51.47421
+  ],
+  [
+   -0.22176,
+   51.47233
+  ],
+  [
+   -0.21978,
+   51.47078
+  ],
+  [
+   -0.21781,
+   51.46923
+  ],
+  [
+   -0.21559,
+   51.46813
+  ],
+  [
+   -0.21338,
+   51.46703
+  ],
+  [
+   -0.20935,
+   51.46591
+  ],
+  [
+   -0.20533,
+   51.46478
+  ],
+  [
+   -0.20102,
+   51.46415
+  ],
+  [
+   -0.19711,
+   51.46407
+  ],
+  [
+   -0.19319,
+   51.46399
+  ],
+  [
+   -0.19017,
+   51.46432
+  ],
+  [
+   -0.18739,
+   51.46511
+  ],
+  [
+   -0.18505,
+   51.46606
+  ],
+  [
+   -0.18298,
+   51.46745
+  ],
+  [
+   -0.18166,
+   51.46944
+  ],
+  [
+   -0.18034,
+   51.47143
+  ],
+  [
+   -0.17902,
+   51.47342
+  ],
+  [
+   -0.17833,
+   51.47511
+  ],
+  [
+   -0.17765,
+   51.4768
+  ],
+  [
+   -0.17523,
+   51.47998
+  ],
+  [
+   -0.17218,
+   51.48137
+  ],
+  [
+   -0.16801,
+   51.48219
+  ],
+  [
+   -0.16351,
+   51.48278
+  ],
+  [
+   -0.15901,
+   51.48336
+  ],
+  [
+   -0.15452,
+   51.48395
+  ],
+  [
+   -0.15002,
+   51.48453
+  ],
+  [
+   -0.14624,
+   51.48462
+  ],
+  [
+   -0.14332,
+   51.48424
+  ],
+  [
+   -0.14039,
+   51.48386
+  ],
+  [
+   -0.13756,
+   51.48386
+  ],
+  [
+   -0.13286,
+   51.48468
+  ],
+  [
+   -0.12936,
+   51.48596
+  ],
+  [
+   -0.12676,
+   51.488
+  ],
+  [
+   -0.1254,
+   51.4896
+  ],
+  [
+   -0.12404,
+   51.49119
+  ],
+  [
+   -0.12331,
+   51.49336
+  ],
+  [
+   -0.12259,
+   51.49553
+  ],
+  [
+   -0.12212,
+   51.4981
+  ],
+  [
+   -0.12166,
+   51.50067
+  ],
+  [
+   -0.1212,
+   51.50323
+  ],
+  [
+   -0.12073,
+   51.5058
+  ],
+  [
+   -0.11806,
+   51.50827
+  ],
+  [
+   -0.11391,
+   51.5095
+  ],
+  [
+   -0.11021,
+   51.5097
+  ],
+  [
+   -0.10651,
+   51.50991
+  ],
+  [
+   -0.10301,
+   51.50972
+  ],
+  [
+   -0.09951,
+   51.50952
+  ],
+  [
+   -0.09602,
+   51.50933
+  ],
+  [
+   -0.09193,
+   51.50836
+  ],
+  [
+   -0.08816,
+   51.50789
+  ],
+  [
+   -0.0844,
+   51.50743
+  ],
+  [
+   -0.08063,
+   51.50697
+  ],
+  [
+   -0.07698,
+   51.50598
+  ],
+  [
+   -0.07333,
+   51.505
+  ],
+  [
+   -0.07072,
+   51.50388
+  ],
+  [
+   -0.06826,
+   51.50317
+  ],
+  [
+   -0.06579,
+   51.50245
+  ],
+  [
+   -0.063,
+   51.50206
+  ],
+  [
+   -0.0602,
+   51.50167
+  ],
+  [
+   -0.05785,
+   51.50195
+  ],
+  [
+   -0.05487,
+   51.5028
+  ],
+  [
+   -0.05175,
+   51.50451
+  ],
+  [
+   -0.04862,
+   51.50622
+  ],
+  [
+   -0.0455,
+   51.50793
+  ],
+  [
+   -0.03962,
+   51.50862
+  ],
+  [
+   -0.03609,
+   51.50808
+  ],
+  [
+   -0.03379,
+   51.50726
+  ],
+  [
+   -0.0315,
+   51.50644
+  ],
+  [
+   -0.03036,
+   51.50542
+  ],
+  [
+   -0.02966,
+   51.50406
+  ],
+  [
+   -0.02937,
+   51.50269
+  ],
+  [
+   -0.02963,
+   51.50002
+  ],
+  [
+   -0.02989,
+   51.49734
+  ],
+  [
+   -0.03014,
+   51.49467
+  ],
+  [
+   -0.02982,
+   51.49303
+  ],
+  [
+   -0.02855,
+   51.49123
+  ],
+  [
+   -0.02729,
+   51.48943
+  ],
+  [
+   -0.02469,
+   51.48748
+  ],
+  [
+   -0.02236,
+   51.48644
+  ],
+  [
+   -0.02002,
+   51.48539
+  ],
+  [
+   -0.01765,
+   51.48477
+  ],
+  [
+   -0.01337,
+   51.48452
+  ],
+  [
+   -0.0106,
+   51.48474
+  ],
+  [
+   -0.00817,
+   51.48528
+  ],
+  [
+   -0.00575,
+   51.48581
+  ],
+  [
+   -0.00219,
+   51.48768
+  ],
+  [
+   -0.00078,
+   51.48932
+  ],
+  [
+   -0.00045,
+   51.49091
+  ],
+  [
+   -0.00083,
+   51.49266
+  ],
+  [
+   -0.00268,
+   51.4955
+  ],
+  [
+   -0.00453,
+   51.49834
+  ],
+  [
+   -0.00504,
+   51.50146
+  ],
+  [
+   -0.00433,
+   51.50324
+  ],
+  [
+   -0.00277,
+   51.50494
+  ],
+  [
+   -0.00132,
+   51.50587
+  ],
+  [
+   0.00048,
+   51.5065
+  ],
+  [
+   0.00418,
+   51.5067
+  ],
+  [
+   0.0076,
+   51.50551
+  ],
+  [
+   0.00992,
+   51.50408
+  ],
+  [
+   0.01202,
+   51.50232
+  ],
+  [
+   0.01412,
+   51.50056
+  ],
+  [
+   0.01622,
+   51.49881
+  ],
+  [
+   0.01919,
+   51.49736
+  ],
+  [
+   0.0216,
+   51.49675
+  ],
+  [
+   0.02401,
+   51.49615
+  ],
+  [
+   0.02905,
+   51.49609
+  ],
+  [
+   0.03199,
+   51.49645
+  ],
+  [
+   0.03494,
+   51.49682
+  ],
+  [
+   0.03957,
+   51.4971
+  ],
+  [
+   0.04419,
+   51.49737
+  ],
+  [
+   0.049,
+   51.49706
+  ],
+  [
+   0.05382,
+   51.49675
+  ],
+  [
+   0.05863,
+   51.49643
+  ],
+  [
+   0.06298,
+   51.49659
+  ],
+  [
+   0.06557,
+   51.49678
+  ],
+  [
+   0.06816,
+   51.49697
+  ],
+  [
+   0.07153,
+   51.49748
+  ],
+  [
+   0.07486,
+   51.49838
+  ],
+  [
+   0.07845,
+   51.50049
+  ],
+  [
+   0.0806,
+   51.50262
+  ],
+  [
+   0.08275,
+   51.50474
+  ],
+  [
+   0.08477,
+   51.50732
+  ],
+  [
+   0.08805,
+   51.50969
+  ],
+  [
+   0.09074,
+   51.51093
+  ],
+  [
+   0.09243,
+   51.51133
+  ],
+  [
+   0.09621,
+   51.51162
+  ],
+  [
+   0.1,
+   51.5119
+  ]
+ ],
+ "places": [
+  {
+   "id": "london-bridge",
+   "name": "London Bridge",
+   "lon": -0.087671,
+   "lat": 51.508049,
+   "source": "nominatim",
+   "osm": "way/378493707",
+   "match": "London Bridge, Fisherman's Hall Wharf, Leadenhall Market, Monument, City of London, Greater London, England, EC4R 3AE, United Kingdom"
+  },
+  {
+   "id": "king-william-street",
+   "name": "King William Street, City of London",
+   "lon": -0.08734,
+   "lat": 51.511524,
+   "source": "nominatim",
+   "osm": "way/1065083438",
+   "match": "King William Street, Leadenhall Market, Bank, City of London, Greater London, England, EC4N 7BE, United Kingdom"
+  },
+  {
+   "id": "st-mary-woolnoth",
+   "name": "St Mary Woolnoth",
+   "lon": -0.088023,
+   "lat": 51.51276,
+   "source": "nominatim",
+   "osm": "way/384032820",
+   "match": "St Mary Woolnoth, Lombard Street, Leadenhall Market, Bank, City of London, Greater London, England, EC3V 9AN, United Kingdom"
+  },
+  {
+   "id": "st-magnus-the-martyr",
+   "name": "St Magnus the Martyr, Lower Thames Street",
+   "lon": -0.086208,
+   "lat": 51.509335,
+   "source": "nominatim",
+   "osm": "way/143415212",
+   "match": "St Magnus the Martyr, Lower Thames Street, Leadenhall Market, Monument, City of London, Greater London, England, EC3R 6DN, United Kingdom"
+  },
+  {
+   "id": "lower-thames-street",
+   "name": "Lower Thames Street",
+   "lon": -0.084125,
+   "lat": 51.509317,
+   "source": "nominatim",
+   "osm": "way/406735799",
+   "match": "Lower Thames Street, Leadenhall Market, Monument, City of London, Greater London, England, EC3R 8BU, United Kingdom",
+   "note": "Street segment beside St Magnus the Martyr."
+  },
+  {
+   "id": "cannon-street-station",
+   "name": "Cannon Street station (site of the Cannon Street Hotel)",
+   "lon": -0.090605,
+   "lat": 51.510669,
+   "source": "nominatim",
+   "osm": "node/3637449660",
+   "match": "London Cannon Street, Upper Thames Street, Leadenhall Market, Bank, City of London, Greater London, England, EC4R 2YA, United Kingdom",
+   "note": "The Cannon Street Hotel (1867, demolished 1960s) stood on the station forecourt facing Cannon Street."
+  },
+  {
+   "id": "moorgate-station",
+   "name": "Moorgate station",
+   "lon": -0.089063,
+   "lat": 51.518252,
+   "source": "nominatim",
+   "osm": "node/5702714876",
+   "match": "Moorgate, Moorfields, Bishopsgate Without, Moorgate, City of London, Greater London, England, EC2M 6SA, United Kingdom",
+   "note": "Moorgate station."
+  },
+  {
+   "id": "highbury",
+   "name": "Highbury (Highbury & Islington)",
+   "lon": -0.103654,
+   "lat": 51.546368,
+   "source": "nominatim",
+   "osm": "node/6414163635",
+   "match": "Highbury & Islington, Holloway Road, Canonbury, Highbury, London Borough of Islington, Greater London, England, N5 1RA, United Kingdom",
+   "note": "Highbury & Islington station."
+  },
+  {
+   "id": "strand",
+   "name": "The Strand (near Charing Cross)",
+   "lon": -0.127106,
+   "lat": 51.507627,
+   "source": "nominatim",
+   "osm": "way/43154948",
+   "match": "Strand, Westminster, Covent Garden, City of Westminster, Greater London, England, WC2N 5EJ, United Kingdom",
+   "note": "West end of the Strand by Charing Cross / Trafalgar Square (OSM way segment)."
+  },
+  {
+   "id": "queen-victoria-street",
+   "name": "Queen Victoria Street",
+   "lon": -0.103529,
+   "lat": 51.512064,
+   "source": "nominatim",
+   "osm": "way/1127555489",
+   "match": "Queen Victoria Street, Blackfriars, City of London, Greater London, England, EC4V 4EG, United Kingdom",
+   "note": "Western (Blackfriars) segment of the street; it runs east to Bank at about -0.0895."
+  },
+  {
+   "id": "richmond-bridge",
+   "name": "Richmond (Richmond Bridge)",
+   "lon": -0.307086,
+   "lat": 51.457363,
+   "source": "nominatim",
+   "osm": "way/576808129",
+   "match": "Richmond Bridge, Bridge Street, East Twickenham, Petersham, London Borough of Richmond upon Thames, Greater London, England, TW9 1EW, United Kingdom"
+  },
+  {
+   "id": "kew-bridge",
+   "name": "Kew (Kew Bridge)",
+   "lon": -0.287434,
+   "lat": 51.48704,
+   "source": "nominatim",
+   "osm": "way/576806537",
+   "match": "Kew Bridge, Kew, London Borough of Hounslow, Greater London, England, TW9 3AW, United Kingdom"
+  },
+  {
+   "id": "greenwich-pier",
+   "name": "Greenwich (Greenwich Reach / Greenwich Pier)",
+   "lon": -0.009413,
+   "lat": 51.484061,
+   "source": "nominatim",
+   "osm": "node/560020876",
+   "match": "Greenwich Pier, Greenwich Foot Tunnel, Greenwich Town Centre, Greenwich Peninsula, Royal Borough of Greenwich, Greater London, England, SE10 9HT, United Kingdom"
+  },
+  {
+   "id": "isle-of-dogs",
+   "name": "Isle of Dogs",
+   "lon": -0.016885,
+   "lat": 51.497845,
+   "source": "nominatim",
+   "osm": "node/27365042",
+   "match": "Isle of Dogs, London Borough of Tower Hamlets, Greater London, England, E14 9DH, United Kingdom",
+   "note": "OSM place=suburb node."
+  },
+  {
+   "id": "lloyds-bank-lombard-street",
+   "name": "Lloyds Bank head office, 71 Lombard Street",
+   "lon": -0.087,
+   "lat": 51.5128,
+   "source": "osm-interpolated",
+   "match": "Lombard Street, north side, immediately east of Change Alley",
+   "note": "No. 71 is not mapped as an address in OSM. Position interpolated from OSM street numbering in a map extract: 72-74 Lombard St at -0.08768 and 60 Lombard St at -0.08645, both north side (numbering runs east along the south side and back west along the north). The Lloyds head-office block ran through to 17 Cornhill."
+  },
+  {
+   "id": "clarence-gate-gardens",
+   "name": "9 Clarence Gate Gardens, Marylebone",
+   "lon": -0.159013,
+   "lat": 51.523403,
+   "source": "nominatim",
+   "osm": "way/232938687",
+   "match": "Clarence Gate Gardens, 127-147, Glentworth Street, Marylebone, City of Westminster, Greater London, England, NW1 6AP, United Kingdom"
+  },
+  {
+   "id": "crawford-mansions",
+   "name": "Crawford Mansions, Crawford Street",
+   "lon": -0.16489,
+   "lat": 51.519009,
+   "source": "nominatim",
+   "osm": "way/208347361",
+   "match": "Crawford Mansions, Crawford Street, Paddington, City of Westminster, W1H",
+   "note": "Building outline; Eliot lived at flat 18, Crawford Mansions, 1916-20."
+  },
+  {
+   "id": "bank-station",
+   "name": "Bank station",
+   "lon": -0.088,
+   "lat": 51.513,
+   "source": "wikipedia",
+   "match": "Wikipedia: Bank and Monument stations",
+   "note": "Nominatim returns only shops for \"Bank station\"; coordinate from the Wikipedia article (3-decimal precision, ~50 m)."
+  },
+  {
+   "id": "billingsgate",
+   "name": "Billingsgate (old fish market, Lower Thames Street)",
+   "lon": -0.084023,
+   "lat": 51.508977,
+   "source": "nominatim",
+   "osm": "way/145631775",
+   "match": "Old Billingsgate Market, 10, Lower Thames Street, Leadenhall Market, Monument, City of London, Greater London, England, EC3R 8BU, United Kingdom",
+   "note": "Old Billingsgate Market building (fish market until 1982)."
+  },
+  {
+   "id": "southwark-bridge",
+   "name": "Southwark Bridge",
+   "lon": -0.094095,
+   "lat": 51.508845,
+   "source": "nominatim",
+   "osm": "way/378492763",
+   "match": "Southwark Bridge, Borough Market, Bankside, Southwark, London Borough of Southwark, Greater London, England, SE1 9HL, United Kingdom"
+  },
+  {
+   "id": "cannon-street-railway-bridge",
+   "name": "Cannon Street railway bridge",
+   "lon": -0.091847,
+   "lat": 51.508368,
+   "source": "nominatim",
+   "osm": "way/96718195",
+   "match": "Cannon Street Railway Bridge, Steelyard Passage, Bank, City of London, Greater London, England, EC4R 3TE, United Kingdom"
+  },
+  {
+   "id": "wiltons-music-hall",
+   "name": "Wilton's Music Hall",
+   "lon": -0.066889,
+   "lat": 51.510636,
+   "source": "nominatim",
+   "osm": "way/264532955",
+   "match": "Wilton's Music Hall, 1, Graces Alley, East Smithfield, St. George in the East, Wapping, London Borough of Tower Hamlets, Greater London, England, E1 8JB, United Kingdom"
+  },
+  {
+   "id": "hogarth-press",
+   "name": "Hogarth Press, Hogarth House, Paradise Road, Richmond",
+   "lon": -0.301687,
+   "lat": 51.460381,
+   "source": "nominatim",
+   "osm": "way/864162421",
+   "match": "Leonard House, 34, Paradise Road, Richmond, TW9",
+   "note": "Hogarth House, 34 Paradise Road (the Woolfs' home and press 1915-24); the OSM building is currently named Leonard House."
+  }
+ ],
+ "wider": [
+  {
+   "id": "margate",
+   "name": "Margate (Nayland Rock shelter, Margate seafront)",
+   "lon": 1.373081,
+   "lat": 51.38687,
+   "source": "nominatim",
+   "osm": "way/137818155",
+   "match": "Nayland Rock Shelter, Westbrook Promenade, Margate Old Town, Westbrook, Margate, Thanet, England, CT9 5AE, United Kingdom",
+   "note": "Nayland Rock Shelter on the seafront promenade, where Eliot drafted part III in October-November 1921."
+  },
+  {
+   "id": "starnberger-see",
+   "name": "Starnberger See (Starnberg, Bavaria)",
+   "lon": 11.308363,
+   "lat": 47.90927,
+   "source": "nominatim",
+   "osm": "relation/168892",
+   "match": "Starnberger See, Seeshaupt (VGem), Landkreis Starnberg, Bayern, Deutschland",
+   "note": "Lake centroid; Starnberg town is at the northern tip (about 11.34, 47.997)."
+  },
+  {
+   "id": "hofgarten-munich",
+   "name": "Hofgarten, Munich",
+   "lon": 11.580466,
+   "lat": 48.142677,
+   "source": "nominatim",
+   "osm": "way/150797532",
+   "match": "Hofgarten, Altstadt-Lehel, München, Bayern, Deutschland"
+  },
+  {
+   "id": "lausanne-ouchy",
+   "name": "Lausanne (Ouchy, Lake Geneva)",
+   "lon": 6.627441,
+   "lat": 46.506676,
+   "source": "nominatim",
+   "osm": "way/44772362",
+   "match": "Château d'Ouchy, 2, Place du Port, Lausanne, Vaud",
+   "note": "Lakefront at Ouchy, Lausanne, on Lac Léman."
+  },
+  {
+   "id": "smyrna-izmir",
+   "name": "Smyrna (İzmir)",
+   "lon": 27.128469,
+   "lat": 38.419254,
+   "source": "nominatim",
+   "osm": "node/428039507",
+   "match": "İzmir, Konak, İzmir, Ege Bölgesi, 35250, Türkiye"
+  },
+  {
+   "id": "carthage",
+   "name": "Carthage (Tunisia)",
+   "lon": 10.330992,
+   "lat": 36.854808,
+   "source": "nominatim",
+   "osm": "node/1136727225",
+   "match": "قرطاج, تونس, ولاية تونس, 2016, تونس"
+  },
+  {
+   "id": "mylae-milazzo",
+   "name": "Mylae (Milazzo, Sicily)",
+   "lon": 15.241513,
+   "lat": 38.220805,
+   "source": "nominatim",
+   "osm": "relation/39568",
+   "match": "Milazzo, Messina, Sicilia, 98057, Italia"
+  },
+  {
+   "id": "jerusalem",
+   "name": "Jerusalem",
+   "lon": 35.225786,
+   "lat": 31.778847,
+   "source": "nominatim",
+   "osm": "relation/1381350",
+   "match": "ירושלים | القدس, נפת ירושלים, מחוז ירושלים, ישראל"
+  },
+  {
+   "id": "athens",
+   "name": "Athens",
+   "lon": 23.734832,
+   "lat": 37.975565,
+   "source": "nominatim",
+   "osm": "node/441183",
+   "match": "Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 57, Ελλάς"
+  },
+  {
+   "id": "alexandria",
+   "name": "Alexandria",
+   "lon": 29.895172,
+   "lat": 31.199181,
+   "source": "nominatim",
+   "osm": "node/27565020",
+   "match": "الإسكندرية, 21519, مصر"
+  },
+  {
+   "id": "vienna",
+   "name": "Vienna",
+   "lon": 16.372504,
+   "lat": 48.208354,
+   "source": "nominatim",
+   "osm": "relation/109166",
+   "match": "Wien, Österreich"
+  },
+  {
+   "id": "thebes-greece",
+   "name": "Thebes (Greece)",
+   "lon": 23.317561,
+   "lat": 38.32007,
+   "source": "nominatim",
+   "osm": "node/154086178",
+   "match": "Θήβα, Δημοτική Ενότητα Θηβαίων, Δήμος Θηβαίων, Περιφερειακή Ενότητα Βοιωτίας, Περιφέρεια Στερεάς Ελλάδας, Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδος, 322 00, Ελλάς"
+  },
+  {
+   "id": "cumae",
+   "name": "Cumae (Cuma, near Naples)",
+   "lon": 14.051369,
+   "lat": 40.849528,
+   "source": "nominatim",
+   "osm": "node/1039278068",
+   "match": "Acropoli di Cuma, Pozzuoli, Napoli, Campania",
+   "note": "Acropolis of Cumae archaeological site (Sibyl's cave)."
+  },
+  {
+   "id": "paris-pound",
+   "name": "Paris (Pound's flat, 70 bis rue Notre-Dame-des-Champs)",
+   "lon": 2.33145,
+   "lat": 48.842894,
+   "source": "nominatim",
+   "osm": "node/805874330",
+   "match": "70, Rue Notre-Dame-des-Champs, Paris 6e Arrondissement",
+   "note": "Address node for no. 70; 70 bis adjoins it."
+  },
+  {
+   "id": "st-louis",
+   "name": "St Louis, Missouri (Eliot's birthplace)",
+   "lon": -90.214947,
+   "lat": 38.63445,
+   "source": "nominatim",
+   "osm": "way/153868639",
+   "match": "2635, Locust Street, Midtown, Saint Louis, Missouri",
+   "note": "Site of Eliot's birthplace (house demolished)."
+  },
+  {
+   "id": "gloucester-ma",
+   "name": "Gloucester, Massachusetts (Eastern Point)",
+   "lon": -70.650357,
+   "lat": 42.597272,
+   "source": "nominatim",
+   "osm": "way/251517991",
+   "match": "Edgemoor Road, Gloucester, Essex County, Massachusetts",
+   "note": "Street centroid; the Eliot family summer house \"The Downs\" is at 18 Edgemoor Road, Eastern Point."
+  },
+  {
+   "id": "cape-ann",
+   "name": "Cape Ann",
+   "lon": -70.715107,
+   "lat": 42.625302,
+   "source": "nominatim",
+   "osm": "relation/20082341",
+   "match": "Cape Ann, Gloucester, Essex County, Massachusetts, United States",
+   "note": "OSM natural=peninsula feature."
+  },
+  {
+   "id": "quebec",
+   "name": "Quebec (Eliot's note: hermit-thrush \"in Quebec County\")",
+   "lon": -71.208406,
+   "lat": 46.813743,
+   "source": "nominatim",
+   "osm": "relation/2319206",
+   "match": "Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canada",
+   "note": "Quebec City; Eliot's note to line 356 says he heard the hermit-thrush \"in Quebec County\"."
+  },
+  {
+   "id": "varanasi",
+   "name": "Benares / Varanasi (the Ganges)",
+   "lon": 83.007629,
+   "lat": 25.335649,
+   "source": "nominatim",
+   "osm": "node/287687798",
+   "match": "Varanasi, Sadar, Varanasi, Uttar Pradesh, 221001, India"
+  },
+  {
+   "id": "himalaya",
+   "name": "The Himalaya (Himavant)",
+   "lon": 86.916337,
+   "lat": 27.985688,
+   "source": "nominatim",
+   "osm": "node/3791305957",
+   "match": "Himalayas (natural=mountain_range node), Solukhumbu, Nepal",
+   "note": "Representative point on a 2,400 km range (OSM mountain_range node near Everest); an alternative OSM place=region centroid is at 80.573, 30.523."
+  },
+  {
+   "id": "bradford",
+   "name": "Bradford (Yorkshire)",
+   "lon": -1.751919,
+   "lat": 53.794423,
+   "source": "nominatim",
+   "osm": "node/26701367",
+   "match": "Bradford, West Yorkshire, England, BD1 1PH, United Kingdom"
+  },
+  {
+   "id": "sydney",
+   "name": "Sydney, Australia",
+   "lon": 151.208285,
+   "lat": -33.869844,
+   "source": "nominatim",
+   "osm": "relation/5750005",
+   "match": "Sydney, New South Wales, Australia"
+  },
+  {
+   "id": "vilnius",
+   "name": "Lithuania (Vilnius)",
+   "lon": 25.282911,
+   "lat": 54.687046,
+   "source": "nominatim",
+   "osm": "relation/1529146",
+   "match": "Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva"
+  },
+  {
+   "id": "munich",
+   "name": "Munich",
+   "lon": 11.575382,
+   "lat": 48.137108,
+   "source": "nominatim",
+   "osm": "relation/62428",
+   "match": "München, Bayern, Deutschland"
+  },
+  {
+   "id": "greenwich-palace",
+   "name": "Greenwich Palace (Old Royal Naval College)",
+   "lon": -0.006632,
+   "lat": 51.481784,
+   "source": "nominatim",
+   "osm": "way/35535194",
+   "match": "Old Royal Naval College, College Approach, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Greater London, England, SE10 9HY, United Kingdom",
+   "note": "The Old Royal Naval College occupies the site of the Tudor Greenwich Palace (Placentia)."
+  },
+  {
+   "id": "maremma",
+   "name": "Maremma (Tuscany)",
+   "lon": 11.109508,
+   "lat": 42.63035,
+   "source": "nominatim",
+   "osm": "relation/4279861",
+   "match": "Parco Naturale della Maremma, Grosseto, Toscana, Italia",
+   "note": "Parco Naturale della Maremma, near Grosseto, as a representative point for the region."
+  },
+  {
+   "id": "siena",
+   "name": "Siena",
+   "lon": 11.331653,
+   "lat": 43.318554,
+   "source": "nominatim",
+   "osm": "relation/42398",
+   "match": "Siena, Toscana, 53100, Italia",
+   "note": "Comune of Siena (first Nominatim hit was the province centroid, 20 km off)."
+  },
+  {
+   "id": "bayreuth",
+   "name": "Bayreuth",
+   "lon": 11.574354,
+   "lat": 49.944634,
+   "source": "nominatim",
+   "osm": "relation/62640",
+   "match": "Bayreuth, Bayern, Deutschland"
+  }
+ ],
+ "projection": {
+  "type": "equirectangular",
+  "crs": "WGS84 (EPSG:4326) input coordinates, [lon, lat]",
+  "note": "Simple equirectangular (plate carree) projection for a London map. Convert with x = (lon - lon0) * cos(51.5 deg) and y = lat - lat0, then scale x and y by the SAME pixels-per-degree factor S so that distances are locally true (1 unit = 1 degree of latitude = ~110.6 km). cos(51.5 deg) = 0.6225.",
+  "london_bbox": {
+   "lon_min": -0.33,
+   "lon_max": 0.1,
+   "lat_min": 51.43,
+   "lat_max": 51.57
+  },
+  "lon0": -0.33,
+  "lat0": 51.43,
+  "lat_ref_deg": 51.5,
+  "cos_lat_ref": 0.6225,
+  "x_extent": 0.26768,
+  "y_extent": 0.14,
+  "aspect_ratio_x_over_y": 1.912,
+  "metres_per_degree_lat": 110574,
+  "metres_per_degree_lon_at_51_5": 69298,
+  "formula": {
+   "x": "(lon - lon0) * 0.6225",
+   "y": "lat - lat0",
+   "screen": "px = x * S; py = (y_extent - y) * S  (y flipped for screen coordinates); S = pixels per degree, identical for both axes"
+  },
+  "example": "For a 1000 px wide canvas: S = 1000 / x_extent = 3735.8 px/deg, giving a canvas height of 523 px."
+ }
+}

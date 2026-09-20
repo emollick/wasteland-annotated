@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "petronius",
+    "work": "Satyricon, ch. 48 (Trimalchio on the Sibyl at Cumae; the epigraph)",
+    "author": "Petronius",
+    "url": "https://www.thelatinlibrary.com/petronius1.html",
+    "host": "thelatinlibrary.com",
+    "verified": true,
+    "deep_link_note": "Latin text; single page holding the Cena Trimalchionis, no chapter anchors -- search for 'Sibyllam quidem Cumis'. Perseus has no working Latin Satyricon (2007.01.0026 returns an invalid-query error).",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5225/pg5225-images.html#linkp090",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "English (W. C. Firebaugh, 1922), Gutenberg #5225; #linkp090 is the illustration anchor immediately before 'CHAPTER THE FORTY-EIGHTH'."
+      },
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0027%3Atext%3DSatyricon%3Asection%3D48",
+        "host": "perseus.tufts.edu",
+        "verified": true,
+        "note": "English (Heseltine, Loeb 1913), section 48 ('the Sibyl hanging in a bottle')."
+      }
+    ]
+  },
+  {
+    "id": "dante-purg26",
+    "work": "Purgatorio XXVI (Arnaut Daniel: 'Ara vos prec'; 'Poi s'ascose nel foco che li affina'; l. 117 'fu miglior fabbro del parlar materno')",
+    "author": "Dante Alighieri",
+    "url": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXVI",
+    "host": "it.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Italian text of the whole canto (Wikisource has no line anchors; use browser find).",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1002/pg1002-images.html#CantoII.XXVI",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Longfellow translation (Gutenberg #1002); anchor #CantoII.XXVI is the canto heading."
+      },
+      {
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/purgatorio/xxvi/",
+        "host": "digitaldante.columbia.edu",
+        "verified": false,
+        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+      },
+      {
+        "url": "https://dante.princeton.edu/pdp/",
+        "host": "dante.princeton.edu",
+        "verified": false,
+        "note": "Princeton Dante Project: home page verified (200) but cantos are served by a POST form (GetCantoSection.pl), so no stable deep link."
+      }
+    ]
+  },
+  {
+    "id": "dante-inf3",
+    "work": "Inferno III 55-57 ('si lunga tratta / di gente')",
+    "author": "Dante Alighieri",
+    "url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_III",
+    "host": "it.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Italian text of the whole canto (Wikisource has no line anchors; use browser find).",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1001/pg1001-images.html#CantoI.III",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Longfellow translation (Gutenberg #1001); anchor #CantoI.III is the canto heading."
+      },
+      {
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/iii/",
+        "host": "digitaldante.columbia.edu",
+        "verified": false,
+        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+      },
+      {
+        "url": "https://dante.princeton.edu/pdp/",
+        "host": "dante.princeton.edu",
+        "verified": false,
+        "note": "Princeton Dante Project: home page verified (200) but cantos are served by a POST form (GetCantoSection.pl), so no stable deep link."
+      }
+    ]
+  },
+  {
+    "id": "dante-inf4",
+    "work": "Inferno IV 25-27 (the sighs, 'sospiri')",
+    "author": "Dante Alighieri",
+    "url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_IV",
+    "host": "it.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Italian text of the whole canto (Wikisource has no line anchors; use browser find).",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1001/pg1001-images.html#CantoI.IV",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Longfellow translation (Gutenberg #1001); anchor #CantoI.IV is the canto heading."
+      },
+      {
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/iv/",
+        "host": "digitaldante.columbia.edu",
+        "verified": false,
+        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+      },
+      {
+        "url": "https://dante.princeton.edu/pdp/",
+        "host": "dante.princeton.edu",
+        "verified": false,
+        "note": "Princeton Dante Project: home page verified (200) but cantos are served by a POST form (GetCantoSection.pl), so no stable deep link."
+      }
+    ]
+  },
+  {
+    "id": "dante-purg5",
+    "work": "Purgatorio V 130-136 (La Pia: 'Siena mi fe', disfecemi Maremma')",
+    "author": "Dante Alighieri",
+    "url": "https://it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_V",
+    "host": "it.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Italian text of the whole canto (Wikisource has no line anchors; use browser find).",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1002/pg1002-images.html#CantoII.V",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Longfellow translation (Gutenberg #1002); anchor #CantoII.V is the canto heading."
+      },
+      {
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/purgatorio/v/",
+        "host": "digitaldante.columbia.edu",
+        "verified": false,
+        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+      },
+      {
+        "url": "https://dante.princeton.edu/pdp/",
+        "host": "dante.princeton.edu",
+        "verified": false,
+        "note": "Princeton Dante Project: home page verified (200) but cantos are served by a POST form (GetCantoSection.pl), so no stable deep link."
+      }
+    ]
+  },
+  {
+    "id": "dante-inf33",
+    "work": "Inferno XXXIII 46 (Ugolino: 'e io senti' chiavar l'uscio di sotto')",
+    "author": "Dante Alighieri",
+    "url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXXIII",
+    "host": "it.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Italian text of the whole canto (Wikisource has no line anchors; use browser find).",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1001/pg1001-images.html#CantoI.XXXIII",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Longfellow translation (Gutenberg #1001); anchor #CantoI.XXXIII is the canto heading."
+      },
+      {
+        "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/xxxiii/",
+        "host": "digitaldante.columbia.edu",
+        "verified": false,
+        "note": "Italian + commentary; NOT verified: site sits behind an Anubis anti-bot challenge and returned only the challenge page."
+      },
+      {
+        "url": "https://dante.princeton.edu/pdp/",
+        "host": "dante.princeton.edu",
+        "verified": false,
+        "note": "Princeton Dante Project: home page verified (200) but cantos are served by a POST form (GetCantoSection.pl), so no stable deep link."
+      }
+    ]
+  },
+  {
+    "id": "chaucer",
+    "work": "The Canterbury Tales, General Prologue, opening ('Whan that Aprill with his shoures soote')",
+    "author": "Geoffrey Chaucer",
+    "url": "https://en.wikisource.org/wiki/The_Canterbury_Tales_(unsourced)/General_Prologue",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Full Middle English General Prologue; poem opens the page.",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#prologue",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Skeat's edition (Chaucer's Works vol. 4, Gutenberg #22120); anchor #prologue."
+      },
+      {
+        "url": "https://chaucer.fas.harvard.edu/pages/general-prologue-0",
+        "host": "chaucer.fas.harvard.edu",
+        "verified": false,
+        "note": "Harvard interlinear translation; NOT verified (HTTP 403 to automated fetch)."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/poems/43926/the-canterbury-tales-general-prologue",
+        "host": "poetryfoundation.org",
+        "verified": false,
+        "note": "NOT verified (HTTP 403 to automated fetch)."
+      }
+    ]
+  },
+  {
+    "id": "whitman-lilacs",
+    "work": "When Lilacs Last in the Dooryard Bloom'd",
+    "author": "Walt Whitman",
+    "url": "https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Memories_of_President_Lincoln/When_Lilacs_Last_in_the_Dooryard_Bloom%27d",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Full poem (1882 Leaves of Grass); hermit-thrush lines present.",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1322/pg1322-images.html#link2H_4_0185",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Leaves of Grass (Gutenberg #1322); anchor #link2H_4_0185 is the poem heading."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/poems/45480/when-lilacs-last-in-the-dooryard-bloomd",
+        "host": "poetryfoundation.org",
+        "verified": false,
+        "note": "NOT verified (HTTP 403)."
+      },
+      {
+        "url": "https://whitmanarchive.org/published/LG/1891/poems/196",
+        "host": "whitmanarchive.org",
+        "verified": false,
+        "note": "NOT verified (HTTP 403)."
+      }
+    ]
+  },
+  {
+    "id": "ezekiel2",
+    "work": "Ezekiel 2:1 ('Son of man, stand upon thy feet')",
+    "author": "King James Bible",
+    "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Ezekiel#Chapter_2",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Anchor #Chapter_2 exists on the page; text checked: 'Son of man, stand upon thy feet'.",
+    "also": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Ezekiel%202&version=KJV",
+        "host": "biblegateway.com",
+        "verified": true,
+        "note": "KJV, same passage."
+      }
+    ]
+  },
+  {
+    "id": "ezekiel37",
+    "work": "Ezekiel 37 (the valley of dry bones)",
+    "author": "King James Bible",
+    "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Ezekiel#Chapter_37",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Anchor #Chapter_37 exists on the page; text checked: 'can these bones live'.",
+    "also": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Ezekiel%2037&version=KJV",
+        "host": "biblegateway.com",
+        "verified": true,
+        "note": "KJV, same passage."
+      }
+    ]
+  },
+  {
+    "id": "ecclesiastes12",
+    "work": "Ecclesiastes 12 ('the grasshopper shall be a burden')",
+    "author": "King James Bible",
+    "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes#Chapter_12",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Anchor #Chapter_12 exists on the page; text checked: 'the grasshopper shall be a burden'.",
+    "also": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes%2012&version=KJV",
+        "host": "biblegateway.com",
+        "verified": true,
+        "note": "KJV, same passage."
+      }
+    ]
+  },
+  {
+    "id": "isaiah",
+    "work": "Isaiah 32:2 ('the shadow of a great rock in a weary land') and 38:1 ('Set thine house in order')",
+    "author": "King James Bible",
+    "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#Chapter_32",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Anchor #Chapter_32 exists on the page; text checked for both verses; 38:1 is at #Chapter_38 on the same page.",
+    "also": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Isaiah%2032%3A2&version=KJV",
+        "host": "biblegateway.com",
+        "verified": true,
+        "note": "KJV, same passage."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#Chapter_38",
+        "host": "en.wikisource.org",
+        "verified": true,
+        "note": "Isaiah 38 ('Set thine house in order')."
+      },
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Isaiah%2038%3A1&version=KJV",
+        "host": "biblegateway.com",
+        "verified": true,
+        "note": "Isaiah 38:1, KJV."
+      }
+    ]
+  },
+  {
+    "id": "luke24",
+    "work": "Luke 24:13-35 (the road to Emmaus)",
+    "author": "King James Bible",
+    "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Luke#Chapter_24",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Anchor #Chapter_24 exists on the page; text checked: 'Emmaus'.",
+    "also": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Luke%2024%3A13-35&version=KJV",
+        "host": "biblegateway.com",
+        "verified": true,
+        "note": "KJV, same passage."
+      }
+    ]
+  },
+  {
+    "id": "psalm137",
+    "work": "Psalm 137 ('By the rivers of Babylon')",
+    "author": "King James Bible",
+    "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#Psalm_137",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Anchor #Psalm_137 exists on the page; text checked: 'By the rivers of Babylon'.",
+    "also": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Psalm%20137&version=KJV",
+        "host": "biblegateway.com",
+        "verified": true,
+        "note": "KJV, same passage."
+      }
+    ]
+  },
+  {
+    "id": "tristan",
+    "work": "Tristan und Isolde, libretto: Act I sailor's song ('Frisch weht der Wind der Heimat zu, mein irisch Kind') and Act III 'Öd und leer das Meer!'",
+    "author": "Richard Wagner",
+    "url": "https://projekt-gutenberg.org/authors/wilhelm-richard-wagner/books/tristan-und-isolde/chapter/4/",
+    "host": "projekt-gutenberg.org",
+    "verified": true,
+    "deep_link_note": "German libretto; chapter/4 = Dritter Aufzug (shepherd: 'Öd und leer das Meer!'); chapter/2 = Erster Aufzug (sailor's song). No line anchors.",
+    "also": [
+      {
+        "url": "https://projekt-gutenberg.org/authors/wilhelm-richard-wagner/books/tristan-und-isolde/chapter/2/",
+        "host": "projekt-gutenberg.org",
+        "verified": true,
+        "note": "Act I, sailor's song ('Frisch weht der Wind der Heimat zu: mein irisch Kind')."
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/16250/pg16250-images.html#id-9025434410772395411",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "English: 'Tristan and Isolda: Opera in Three Acts' (Gutenberg #16250); anchor = 'ACT III.' heading; shepherd's line rendered 'Blank appears the sea!'; Act I sailor sings 'my Irish child'."
+      },
+      {
+        "url": "https://de.wikisource.org/wiki/Tristan_und_Isolde",
+        "host": "de.wikisource.org",
+        "verified": false,
+        "note": "German Wikisource does not hold the libretto (404)."
+      }
+    ]
+  },
+  {
+    "id": "gotterdammerung",
+    "work": "Götterdämmerung, Act III scene 1, the Rhinemaidens ('Weialala leia, wallala leialala')",
+    "author": "Richard Wagner",
+    "url": "https://projekt-gutenberg.org/authors/wilhelm-richard-wagner/books/goetterdaemmerung/chapter/11/",
+    "host": "projekt-gutenberg.org",
+    "verified": true,
+    "deep_link_note": "German libretto; chapter/11 = Dritter Aufzug, Erste Szene; refrain 'Weialala leia, wallala leialala' present.",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/49507/pg49507-images.html#THE_THIRD_ACTb",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "English: 'Siegfried & The Twilight of the Gods' (Margaret Armour tr., Rackham illus., Gutenberg #49507); #THE_THIRD_ACTb = Twilight of the Gods, third act, opening with the three Rhine-maidens (refrain not transliterated as 'Weialala')."
+      },
+      {
+        "url": "https://de.wikisource.org/wiki/G%C3%B6tterd%C3%A4mmerung",
+        "host": "de.wikisource.org",
+        "verified": false,
+        "note": "Not held on German Wikisource (404)."
+      }
+    ]
+  },
+  {
+    "id": "baudelaire-sept-vieillards",
+    "work": "Les Fleurs du mal: 'Les Sept Vieillards' ('Fourmillante cité, cité pleine de rêves') and 'Au Lecteur' ('Hypocrite lecteur, - mon semblable, - mon frère!')",
+    "author": "Charles Baudelaire",
+    "url": "https://fr.wikisource.org/wiki/Les_Fleurs_du_mal/1861/Les_Sept_Vieillards",
+    "host": "fr.wikisource.org",
+    "verified": true,
+    "deep_link_note": "1861 edition text of 'Les Sept Vieillards'.",
+    "also": [
+      {
+        "url": "https://fr.wikisource.org/wiki/Les_Fleurs_du_mal/1861/Au_lecteur",
+        "host": "fr.wikisource.org",
+        "verified": true,
+        "note": "'Au Lecteur' (1861 edition)."
+      },
+      {
+        "url": "https://fleursdumal.org/poem/221",
+        "host": "fleursdumal.org",
+        "verified": true,
+        "note": "'Les Sept Vieillards' with English translations (Aggeler, Campbell, Millay, Sturm). Verified via WebFetch only: plain curl gets an Altcha bot-verification page."
+      },
+      {
+        "url": "https://fleursdumal.org/poem/099",
+        "host": "fleursdumal.org",
+        "verified": true,
+        "note": "'Au Lecteur' with nine English translations. Verified via WebFetch only (bot check for curl)."
+      }
+    ]
+  },
+  {
+    "id": "webster-white-devil",
+    "work": "The White Devil V.iv, Cornelia's dirge ('Call for the robin-redbreast and the wren'); and The Devil's Law-Case III.ii ('Is the wind in that door still?')",
+    "author": "John Webster",
+    "url": "https://www.gutenberg.org/cache/epub/12915/pg12915-images.html#id01097",
+    "host": "gutenberg.org",
+    "verified": true,
+    "deep_link_note": "The White Devil (Gutenberg #12915); #id01097 is the paragraph anchor a few lines above 'Call for the robin redbreast, and the wren' (Act V, Scene IV). The 'wind in that door' line is NOT in this play: it is spoken by the Second Surgeon in The Devil's Law-Case III.ii.",
+    "also": [
+      {
+        "url": "https://archive.org/details/worksofjohnwebst00websrich/page/n158",
+        "host": "archive.org",
+        "verified": true,
+        "note": "Dyce's Works of John Webster (1859 Routledge one-volume ed.); leaf 158 = The Devil's Law-Case III.ii, 'Second Sur. Is the wind in that door still?' (located by archive.org search-inside)."
+      },
+      {
+        "url": "https://archive.org/details/worksofjohnwebst00websrich/page/n79",
+        "host": "archive.org",
+        "verified": true,
+        "note": "Same volume, leaf 79: the White Devil dirge 'Call for the robin-red-breast'."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/The_Hundred_Best_Poems_(lyrical)_in_the_English_language_-_second_series/Call_for_the_robin-red-breast",
+        "host": "en.wikisource.org",
+        "verified": true,
+        "note": "The dirge alone, as an anthology piece."
+      },
+      {
+        "url": "https://archive.org/details/deuilslawcaseorw00webs",
+        "host": "archive.org",
+        "verified": true,
+        "note": "1623 quarto of The Devil's Law-Case (Boston Public Library scan); OCR too poor to locate the line."
+      }
+    ]
+  },
+  {
+    "id": "shakespeare-tempest",
+    "work": "The Tempest I.ii ('Full fathom five thy father lies'; 'Sitting on a bank, / Weeping again the king my father's wreck'; 'This music crept by me upon the waters')",
+    "author": "William Shakespeare",
+    "url": "https://shakespeare.mit.edu/tempest/tempest.1.2.html",
+    "host": "shakespeare.mit.edu",
+    "verified": true,
+    "deep_link_note": "Scene page (Moby text); checked for 'Full fathom five'.",
+    "also": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/the-tempest/read/1/2/",
+        "host": "folger.edu",
+        "verified": false,
+        "note": "Folger Shakespeare reader: page returns 200 but the play text is loaded client-side, so the passage could not be confirmed by fetch."
+      }
+    ]
+  },
+  {
+    "id": "shakespeare-antony",
+    "work": "Antony and Cleopatra II.ii ('The barge she sat in, like a burnish'd throne')",
+    "author": "William Shakespeare",
+    "url": "https://shakespeare.mit.edu/cleopatra/cleopatra.2.2.html",
+    "host": "shakespeare.mit.edu",
+    "verified": true,
+    "deep_link_note": "Scene page (Moby text); checked for 'burnish'd throne'.",
+    "also": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/antony-and-cleopatra/read/2/2/",
+        "host": "folger.edu",
+        "verified": false,
+        "note": "Folger Shakespeare reader: page returns 200 but the play text is loaded client-side, so the passage could not be confirmed by fetch."
+      }
+    ]
+  },
+  {
+    "id": "shakespeare-hamlet",
+    "work": "Hamlet IV.v (Ophelia: 'Good night, ladies; good night, sweet ladies')",
+    "author": "William Shakespeare",
+    "url": "https://shakespeare.mit.edu/hamlet/hamlet.4.5.html",
+    "host": "shakespeare.mit.edu",
+    "verified": true,
+    "deep_link_note": "Scene page (Moby text); checked for 'Good night, ladies'.",
+    "also": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/4/5/",
+        "host": "folger.edu",
+        "verified": false,
+        "note": "Folger Shakespeare reader: page returns 200 but the play text is loaded client-side, so the passage could not be confirmed by fetch."
+      }
+    ]
+  },
+  {
+    "id": "shakespeare-coriolanus",
+    "work": "Coriolanus (for 'a broken Coriolanus')",
+    "author": "William Shakespeare",
+    "url": "https://shakespeare.mit.edu/coriolanus/full.html",
+    "host": "shakespeare.mit.edu",
+    "verified": true,
+    "deep_link_note": "Scene page (Moby text); checked for '(whole play)'.",
+    "also": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/",
+        "host": "folger.edu",
+        "verified": false,
+        "note": "Folger Shakespeare reader: page returns 200 but the play text is loaded client-side, so the passage could not be confirmed by fetch."
+      }
+    ]
+  },
+  {
+    "id": "virgil-aeneid1",
+    "work": "Aeneid I 726-727 ('dependent lychni laquearibus aureis')",
+    "author": "Virgil",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0055%3Abook%3D1%3Acard%3D723",
+    "host": "perseus.tufts.edu",
+    "verified": true,
+    "deep_link_note": "Latin (Greenough ed.), card beginning at line 723; 'laquearibus' present.",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/228/pg228-images.html#chap01",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Dryden's translation, Book I (Gutenberg #228): 'From gilded roofs depending lamps display'."
+      },
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0054%3Abook%3D1%3Acard%3D723",
+        "host": "perseus.tufts.edu",
+        "verified": true,
+        "note": "English (Theodore C. Williams), same card."
+      }
+    ]
+  },
+  {
+    "id": "milton-pl4",
+    "work": "Paradise Lost IV 140 ('A Silvan Scene')",
+    "author": "John Milton",
+    "url": "https://en.wikisource.org/wiki/Paradise_Lost_(1674)/Book_IV",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "1674 text of Book IV; 'Silvan Scene' present.",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/26/pg26-images.html#chap04",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Gutenberg #26, Book IV anchor #chap04 ('A sylvan scene')."
+      },
+      {
+        "url": "https://milton.host.dartmouth.edu/reading_room/pl/book_4/text.shtml",
+        "host": "milton.host.dartmouth.edu",
+        "verified": true,
+        "note": "John Milton Reading Room (Dartmouth), annotated Book IV; 'Silvan Scene' present."
+      }
+    ]
+  },
+  {
+    "id": "ovid-met6",
+    "work": "Metamorphoses VI 424-674 (Tereus, Procne and Philomela)",
+    "author": "Ovid",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0029%3Abook%3D6%3Acard%3D424",
+    "host": "perseus.tufts.edu",
+    "verified": true,
+    "deep_link_note": "Latin (Magnus ed.), card from line 424 (Philomela episode).",
+    "also": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D6%3Acard%3D424",
+        "host": "perseus.tufts.edu",
+        "verified": true,
+        "note": "English, Brookes More (1922), same card."
+      },
+      {
+        "url": "https://archive.org/details/ovidgoldingmetamorphosis/page/n184",
+        "host": "archive.org",
+        "verified": true,
+        "note": "Golding's 1567 translation, leaf 184 (Philomela; located by search-inside)."
+      },
+      {
+        "url": "https://archive.org/details/shakespearesovid00oviduoft",
+        "host": "archive.org",
+        "verified": true,
+        "note": "Rouse's 1904 edition of Golding ('Shakespeare's Ovid')."
+      }
+    ]
+  },
+  {
+    "id": "ovid-met3",
+    "work": "Metamorphoses III 316-338 (Tiresias)",
+    "author": "Ovid",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0029%3Abook%3D3%3Acard%3D316",
+    "host": "perseus.tufts.edu",
+    "verified": true,
+    "deep_link_note": "Latin, card beginning at line 316 (Tiresias).",
+    "also": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D3%3Acard%3D316",
+        "host": "perseus.tufts.edu",
+        "verified": true,
+        "note": "English, Brookes More, same card."
+      }
+    ]
+  },
+  {
+    "id": "middleton-wbw",
+    "work": "Women Beware Women II.ii (the chess game)",
+    "author": "Thomas Middleton",
+    "url": "https://archive.org/details/worksthomasmidd08bullgoog/page/n282",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "Bullen's Works of Thomas Middleton, vol. VI (1885), Harvard copy; leaf 282 = II.ii 'Another apartment in Livia's house: a chess-table', chess game through leaf 296 (located by search-inside). tech.org/~cleary texts are gone (404); not on Gutenberg or Wikisource.",
+    "also": [
+      {
+        "url": "https://archive.org/details/twonewplayesvizm00midd",
+        "host": "archive.org",
+        "verified": true,
+        "note": "1657 first edition ('Two New Playes'), Boston Public Library scan."
+      }
+    ]
+  },
+  {
+    "id": "middleton-game-at-chess",
+    "work": "A Game at Chess",
+    "author": "Thomas Middleton",
+    "url": "https://archive.org/details/cu31924013133453/page/n12",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "Bullen's Works of Thomas Middleton, vol. VII (1885), Cornell copy; the play begins at leaf 12.",
+    "also": [
+      {
+        "url": "https://archive.org/details/bim_early-english-books-1475-1640_a-game-at-chess-as-it-wa_middleton-thomas_1625",
+        "host": "archive.org",
+        "verified": true,
+        "note": "1625 quarto (Early English Books microfilm scan)."
+      }
+    ]
+  },
+  {
+    "id": "spenser-prothalamion",
+    "work": "Prothalamion ('Sweet Thames, run softly, till I end my song')",
+    "author": "Edmund Spenser",
+    "url": "https://en.wikisource.org/wiki/The_Works_of_Edmund_Spenser/Prothalamion",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Full poem; refrain present.",
+    "also": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/45193/prothalamion",
+        "host": "poetryfoundation.org",
+        "verified": false,
+        "note": "NOT verified (HTTP 403)."
+      }
+    ]
+  },
+  {
+    "id": "marvell-coy-mistress",
+    "work": "To His Coy Mistress",
+    "author": "Andrew Marvell",
+    "url": "https://en.wikisource.org/wiki/Miscellaneous_Poems_(Marvell)/To_his_Coy_Mistress",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "1681 Miscellaneous Poems text; 'winged Charriot' present.",
+    "also": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/44688/to-his-coy-mistress",
+        "host": "poetryfoundation.org",
+        "verified": false,
+        "note": "NOT verified (HTTP 403)."
+      }
+    ]
+  },
+  {
+    "id": "day-parliament-of-bees",
+    "work": "The Parliament of Bees (Character I: 'A noise of horns and hunting, which shall bring / Actaeon to Diana in the spring')",
+    "author": "John Day",
+    "url": "https://archive.org/details/worksofjohndayno00dayjrich/page/n122",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "Bullen's Works of John Day (1881); the play ('Prorex. Character I') begins at leaf 122 (located by search-inside).",
+    "also": [
+      {
+        "url": "https://archive.org/details/parliamentofbeesjohndaye1641",
+        "host": "archive.org",
+        "verified": true,
+        "note": "1641 quarto (Bryn Mawr scan)."
+      }
+    ]
+  },
+  {
+    "id": "verlaine-parsifal",
+    "work": "'Parsifal' (from Amour, 1888: 'Et, ô ces voix d'enfants chantant dans la coupole!')",
+    "author": "Paul Verlaine",
+    "url": "https://fr.wikisource.org/wiki/Amour_(Verlaine)/Parsifal",
+    "host": "fr.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Sonnet page; last line present."
+  },
+  {
+    "id": "goldsmith-vicar",
+    "work": "The Vicar of Wakefield, ch. 24 ('When lovely woman stoops to folly')",
+    "author": "Oliver Goldsmith",
+    "url": "https://www.gutenberg.org/cache/epub/2667/pg2667-images.html#chap24",
+    "host": "gutenberg.org",
+    "verified": true,
+    "deep_link_note": "Gutenberg #2667; anchor #chap24 = CHAPTER XXIV, which contains the song."
+  },
+  {
+    "id": "augustine-confessions",
+    "work": "Confessions III.1 ('To Carthage then I came') and X.34 ('Thou pluckest me out')",
+    "author": "Augustine of Hippo (tr. E. B. Pusey)",
+    "url": "https://www.gutenberg.org/cache/epub/3296/pg3296-images.html#link2H_4_0003",
+    "host": "gutenberg.org",
+    "verified": true,
+    "deep_link_note": "Pusey translation (Gutenberg #3296); #link2H_4_0003 = BOOK III ('To Carthage I came, where there sang all around me in my ears a cauldron of unholy loves'); Book X is #link2H_4_0010 ('Thou pluckest me out, O Lord').",
+    "also": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/3296/pg3296-images.html#link2H_4_0010",
+        "host": "gutenberg.org",
+        "verified": true,
+        "note": "Book X (Pusey)."
+      },
+      {
+        "url": "https://ccel.org/ccel/augustine/confessions.vi.html",
+        "host": "ccel.org",
+        "verified": true,
+        "note": "CCEL Book Three -- NB this is Outler's translation ('I came to Carthage'), not Pusey's."
+      },
+      {
+        "url": "https://ccel.org/ccel/augustine/confessions.xiii.html",
+        "host": "ccel.org",
+        "verified": true,
+        "note": "CCEL Book Ten (Outler: 'Thou dost continually pluck them out')."
+      }
+    ]
+  },
+  {
+    "id": "buddha-fire-sermon",
+    "work": "Buddhism in Translations, section 73, 'The Fire-Sermon' ('All things, O priests, are on fire')",
+    "author": "Henry Clarke Warren",
+    "url": "https://en.wikisource.org/wiki/Buddhism_in_Translations/Chapter_4#The_Fire-sermon",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Chapter IV transcription; section anchor #The_Fire-sermon exists and the sermon text is present.",
+    "also": [
+      {
+        "url": "https://archive.org/details/buddhismintransl00warruoft/page/351",
+        "host": "archive.org",
+        "verified": true,
+        "note": "1922 printing; the Fire-Sermon is section 73, p. 351."
+      },
+      {
+        "url": "https://sacred-texts.com/bud/bits/bits073.htm",
+        "host": "sacred-texts.com",
+        "verified": false,
+        "note": "NOT verified: sacred-texts.com serves a Cloudflare JavaScript challenge to automated fetches."
+      }
+    ]
+  },
+  {
+    "id": "brihadaranyaka",
+    "work": "Brihadaranyaka Upanishad V.2 (the thunder's 'Da, da, da': datta, dayadhvam, damyata)",
+    "author": "Max Müller (tr.), Sacred Books of the East vol. 15",
+    "url": "https://archive.org/details/p2upanishads00mluoft/page/n247",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "The Upanishads, Part II (SBE 15, 1884), Toronto scan; leaf 247 = Brihadaranyaka V, 2 ('The threefold descendants of Prajapati ... Da ... Damyata'), located by search-inside.",
+    "also": [
+      {
+        "url": "https://archive.org/details/wg915/page/n247",
+        "host": "archive.org",
+        "verified": true,
+        "note": "Another SBE 15 scan, same leaf."
+      },
+      {
+        "url": "https://sacred-texts.com/hin/sbe15/index.htm",
+        "host": "sacred-texts.com",
+        "verified": false,
+        "note": "NOT verified (Cloudflare challenge)."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15",
+        "host": "en.wikisource.org",
+        "verified": true,
+        "note": "Wikisource SBE 15 index exists but only Katha, Mundaka and Prasna are transcribed -- no Brihadaranyaka."
+      }
+    ]
+  },
+  {
+    "id": "weston",
+    "work": "From Ritual to Romance (1920)",
+    "author": "Jessie L. Weston",
+    "url": "https://www.gutenberg.org/cache/epub/4090/pg4090-images.html",
+    "host": "gutenberg.org",
+    "verified": true,
+    "deep_link_note": "Whole book; chapter anchors #chap01 ... #chap13."
+  },
+  {
+    "id": "frazer",
+    "work": "The Golden Bough (1922 abridgement), chs. 29-33 (Adonis) and 34-37 (Attis); and Adonis, Attis, Osiris",
+    "author": "James George Frazer",
+    "url": "https://www.gutenberg.org/cache/epub/3623/pg3623-images.html#chapter29",
+    "host": "gutenberg.org",
+    "verified": true,
+    "deep_link_note": "Gutenberg #3623 (abridged ed.); #chapter29 = 'The Myth of Adonis'; #chapter32 = 'The Ritual of Adonis'.",
+    "also": [
+      {
+        "url": "https://archive.org/details/india.history.resource.93574",
+        "host": "archive.org",
+        "verified": true,
+        "note": "Adonis, Attis, Osiris, 3rd ed. (1914), Golden Bough Part IV."
+      }
+    ]
+  },
+  {
+    "id": "hesse-blick-ins-chaos",
+    "work": "Blick ins Chaos (1920; 'Die Brüder Karamasoff oder der Untergang Europas') / In Sight of Chaos (1923, tr. Stephen Hudson)",
+    "author": "Hermann Hesse",
+    "url": "https://archive.org/details/bub_gb_vKbrAc4LfyYC/page/n8",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "German, 1922 printing ('drei Aufsätze'), Google-digitized; leaf 8 = start of 'Die Brüder Karamasoff oder der Untergang Europas'.",
+    "also": [
+      {
+        "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha103104591",
+        "host": "onlinebooks.library.upenn.edu",
+        "verified": true,
+        "note": "Online Books Page entry for In Sight of Chaos (Seldwyla, 1923), linking to HathiTrust record 103104591 (full view, US access only)."
+      },
+      {
+        "url": "https://catalog.hathitrust.org/Record/103104591",
+        "host": "catalog.hathitrust.org",
+        "verified": false,
+        "note": "HathiTrust record; NOT verified (HTTP 403 to automated fetch). No archive.org copy found."
+      }
+    ]
+  },
+  {
+    "id": "bradley",
+    "work": "Appearance and Reality, ch. XXIII, p. 346 ('My external sensations are no less private to myself than are my thoughts or my feelings')",
+    "author": "F. H. Bradley",
+    "url": "https://archive.org/details/appearanceandrea00braduoft/page/346",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "2nd ed., 1916 printing (Toronto scan); passage confirmed on p. 346 in the OCR text, chapter XXIII 'Body and Soul'.",
+    "also": [
+      {
+        "url": "https://archive.org/details/appearancerealit0000brad",
+        "host": "archive.org",
+        "verified": true,
+        "note": "First edition, 1893."
+      }
+    ]
+  },
+  {
+    "id": "froude-elizabeth",
+    "work": "History of England, reign of Elizabeth, vol. I ch. IV (De Quadra to Philip II: 'In the afternoon we were in a barge, watching the games on the river')",
+    "author": "J. A. Froude",
+    "url": "https://archive.org/details/reignofelizabeth01frouuoft/page/244",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "Everyman ed. 'The Reign of Elizabeth' vol. 1 (1911); the De Quadra letter is on p. 244, chapter IV (confirmed in OCR). Gutenberg has only vols. II-III of the History (no Elizabeth volumes).",
+    "also": [
+      {
+        "url": "https://archive.org/details/india.history.resource.74123",
+        "host": "archive.org",
+        "verified": true,
+        "note": "History of England, Reign of Elizabeth vol. I (1863 ed.)."
+      }
+    ]
+  },
+  {
+    "id": "pervigilium-veneris",
+    "work": "Pervigilium Veneris ('Quando fiam uti chelidon'; refrain 'Cras amet qui numquam amavit')",
+    "author": "Anonymous (Latin, 2nd-4th c.)",
+    "url": "https://la.wikisource.org/wiki/Pervigilium_Veneris",
+    "host": "la.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Latin text.",
+    "also": [
+      {
+        "url": "https://www.thelatinlibrary.com/pervig.html",
+        "host": "thelatinlibrary.com",
+        "verified": true,
+        "note": "Latin text."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Sappho_and_the_Vigil_of_Venus/The_Vigil_of_Venus",
+        "host": "en.wikisource.org",
+        "verified": true,
+        "note": "English verse translation by Arthur S. Way."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/The_Poetical_Works_of_Thomas_Parnell/Poem_9",
+        "host": "en.wikisource.org",
+        "verified": true,
+        "note": "Thomas Parnell's 18th-c. translation, 'The Vigil of Venus'."
+      }
+    ]
+  },
+  {
+    "id": "nerval-desdichado",
+    "work": "'El Desdichado' ('Le Prince d'Aquitaine à la tour abolie')",
+    "author": "Gérard de Nerval",
+    "url": "https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/El_Desdichado",
+    "host": "fr.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Les Chimères text.",
+    "also": [
+      {
+        "url": "https://fr.wikisource.org/wiki/El_Desdichado",
+        "host": "fr.wikisource.org",
+        "verified": true,
+        "note": "Alternate page for the sonnet."
+      }
+    ]
+  },
+  {
+    "id": "kyd-spanish-tragedy",
+    "work": "The Spanish Tragedy IV.i (Hieronimo: 'Why then, I'll fit you')",
+    "author": "Thomas Kyd",
+    "url": "https://www.gutenberg.org/cache/epub/6043/pg6043-images.html#link2H_4_0026",
+    "host": "gutenberg.org",
+    "verified": true,
+    "deep_link_note": "Gutenberg #6043; #link2H_4_0026 = Act IV, Scene 1 (line reads 'HIERO. While then ile fit you; say no more')."
+  },
+  {
+    "id": "london-bridge",
+    "work": "'London Bridge Is Falling Down' (nursery rhyme)",
+    "author": "Anonymous",
+    "url": "https://en.wikisource.org/wiki/Tommy_Thumb%27s_Pretty_Song_Book/London_Bridge",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Early printed version ('London Bridge is broken down', c. 1744).",
+    "also": [
+      {
+        "url": "https://en.wikisource.org/wiki/A_Book_of_Nursery_Rhymes/Part_V",
+        "host": "en.wikisource.org",
+        "verified": true,
+        "note": "Charles Welsh, A Book of Nursery Rhymes (1905): 'London bridge is broken down' (rhyme no. 110)."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/London_Bridge",
+        "host": "en.wikisource.org",
+        "verified": true,
+        "note": "Wikisource versions/index page for the rhyme."
+      }
+    ]
+  },
+  {
+    "id": "sappho-104",
+    "work": "Sappho fr. 104a (Hesperus, 'bringing back all that bright dawn scattered')",
+    "author": "Sappho (tr. Edwin Marion Cox)",
+    "url": "https://en.wikisource.org/wiki/The_Poems_of_Sappho/Chapter_3",
+    "host": "en.wikisource.org",
+    "verified": true,
+    "deep_link_note": "Cox, The Poems of Sappho (1925) with Greek text and translation; the Hesperus fragment reads 'Evening, thou that bringest all that bright morning scattered ...'. No convenient Perseus page for this fragment; sacred-texts blocked.",
+    "also": [
+      {
+        "url": "https://sacred-texts.com/cla/sappho/index.htm",
+        "host": "sacred-texts.com",
+        "verified": false,
+        "note": "NOT verified (Cloudflare challenge)."
+      }
+    ]
+  },
+  {
+    "id": "shackleton-south",
+    "work": "South (1919), ch. X ('it seemed to me often that we were four, not three')",
+    "author": "Ernest Shackleton",
+    "url": "https://www.gutenberg.org/cache/epub/5199/pg5199-images.html#chap10",
+    "host": "gutenberg.org",
+    "verified": true,
+    "deep_link_note": "Gutenberg #5199; #chap10 = CHAPTER X (the crossing of South Georgia), which contains the sentence."
+  },
+  {
+    "id": "chapman-birds",
+    "work": "Handbook of Birds of Eastern North America (1895), Hermit Thrush entry",
+    "author": "Frank M. Chapman",
+    "url": "https://archive.org/details/handbookofbirdso00chaprich/page/400",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "1895 first edition; species account '759b. Turdus aonalaschkae pallasii. HERMIT THRUSH' is on p. 400 (confirmed in OCR).",
+    "also": [
+      {
+        "url": "https://archive.org/details/handbookofbirdso00chapuoft",
+        "host": "archive.org",
+        "verified": true,
+        "note": "1907 printing (Toronto)."
+      }
+    ]
+  },
+  {
+    "id": "dickens-omf",
+    "work": "Our Mutual Friend, Book I ch. 16 ('He do the Police in different voices')",
+    "author": "Charles Dickens",
+    "url": "https://www.gutenberg.org/cache/epub/883/pg883-images.html#link2HCH0016",
+    "host": "gutenberg.org",
+    "verified": true,
+    "deep_link_note": "Gutenberg #883; #link2HCH0016 = Book I, Chapter XVI ('Minders and Re-minders'), which has the sentence."
+  },
+  {
+    "id": "conrad-hod",
+    "work": "Heart of Darkness, part III ('The horror! The horror!')",
+    "author": "Joseph Conrad",
+    "url": "https://www.gutenberg.org/cache/epub/219/pg219-images.html#link2H_4_0003",
+    "host": "gutenberg.org",
+    "verified": true,
+    "deep_link_note": "Gutenberg #219; #link2H_4_0003 = section III, which contains Kurtz's last words."
+  },
+  {
+    "id": "shakespearian-rag",
+    "work": "'That Shakespearian Rag' (1912), words by Gene Buck and Herman Ruby, music by David Stamper",
+    "author": "Buck, Ruby and Stamper",
+    "url": "https://yorkspace.library.yorku.ca/items/62165c1c-bb33-4b9a-9c6b-6992f4546e08",
+    "host": "yorkspace.library.yorku.ca",
+    "verified": true,
+    "deep_link_note": "York University (Clara Thomas Archives) sheet-music record with downloadable PDF of the 1912 Jos. W. Stern score (handle http://hdl.handle.net/10315/26982 resolves here).",
+    "also": [
+      {
+        "url": "https://theworld.com/~raparker/exploring/thewasteland/nontable/sqo_rag.html",
+        "host": "theworld.com",
+        "verified": true,
+        "note": "Rick Parker's 'Exploring The Waste Land': lyrics transcribed (after Michael North)."
+      },
+      {
+        "url": "https://levysheetmusic.mse.jhu.edu/collection-search?search_api_fulltext=Shakespearian",
+        "host": "levysheetmusic.mse.jhu.edu",
+        "verified": false,
+        "note": "Lester S. Levy collection search; NOT verified (Cloudflare challenge). No archive.org copy found."
+      }
+    ]
+  },
+  {
+    "id": "st-magnus",
+    "work": "The Proposed Demolition of Nineteen City Churches (London County Council, 1920)",
+    "author": "London County Council",
+    "url": "https://archive.org/details/cu31924015376233/page/n42",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "Cornell scan of the 1920 report; leaf 42 = the St. Magnus the Martyr entry (plates at leaves 36-37).",
+    "also": [
+      {
+        "url": "https://www.stmagnusmartyr.org.uk/",
+        "host": "stmagnusmartyr.org.uk",
+        "verified": true,
+        "note": "Church website (history pages quote Eliot's 'Inexplicable splendour of Ionian white and gold'). Verified via WebFetch only: curl receives HTTP 403."
+      }
+    ]
+  },
+  {
+    "id": "deussen",
+    "work": "Sechzig Upanishad's des Veda (1897), Brihadaranyaka V.2",
+    "author": "Paul Deussen",
+    "url": "https://archive.org/details/sechzigupanishad00deusuoft/page/n519",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "1921 printing (Toronto scan); leaf 519 = Brihadaranyaka V, 2 ('Drei Arten von Söhnen des Prajapati ... damyata'), located by search-inside.",
+    "also": [
+      {
+        "url": "https://digi.ub.uni-heidelberg.de/diglit/deussen1897",
+        "host": "digi.ub.uni-heidelberg.de",
+        "verified": false,
+        "note": "Heidelberg digitization of the 1897 edition; NOT verified (Anubis bot challenge)."
+      }
+    ]
+  },
+  {
+    "id": "ezra-pound-letters",
+    "work": "Letter to T. S. Eliot, Paris, 24 December 1921 ('Complimenti, you bitch. I am wracked by the seven jealousies'), no. 181 in The Letters of Ezra Pound 1907-1941, ed. D. D. Paige",
+    "author": "Ezra Pound",
+    "url": "https://archive.org/details/LettersOfEzraPound1907-1941/page/234",
+    "host": "archive.org",
+    "verified": true,
+    "deep_link_note": "Faber (1951) edition scan; letter 181 'To T. S. Eliot' with the sentence confirmed in the OCR text, printed around pp. 234-235 (Harcourt 1950 ed.: p. 169). Caveat: this is a community upload of a book still in copyright, so cite it as a reference rather than a reading text.",
+    "also": [
+      {
+        "url": "https://collections.library.yale.edu/catalog/17104124",
+        "host": "collections.library.yale.edu",
+        "verified": false,
+        "note": "Yale Library catalog record '[TL from Pound to T. S. Eliot]' (Beinecke); NOT verified -- the site returned an empty response to automated fetch."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/collections/158307/waste-land-exhibit",
+        "host": "poetryfoundation.org",
+        "verified": false,
+        "note": "Poetry Foundation exhibit 'Better Craftsmen, Not Gods' quotes the letter; NOT verified (HTTP 403)."
+      }
+    ]
+  }
+]

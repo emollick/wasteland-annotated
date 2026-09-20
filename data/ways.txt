@@ -1,0 +1,249 @@
+part: 1
+title: Ten ways into The Burial of the Dead
+---
+kind: listen
+title: Hear it before you read it
+lens: listen
+body: Virginia Woolf, who heard Eliot read the poem at dinner in June 1922, wrote in her diary that "he sang it & chanted it rhythmed it." Start with his own voice: the listening room has his recordings, and the first section is where the chant is plainest. Then read the seventy-six lines silently and notice where his stresses fell.
+---
+kind: lens
+title: Count the speakers
+lens: voices
+body: Switch on Voices and the section splits into at least nine: the poem's own voice, Marie, a stranger in a café, a prophet, a sailor in Wagner, a girl with hyacinths, someone who could not speak, a clairvoyante, a commuter. The typescript's title was "He Do the Police in Different Voices." Ask, of each, whether it is quoting someone else.
+---
+kind: do
+title: Lay out the cards
+lens: cards
+body: Madame Sosostris deals seven cards and one vision. Turn them over one at a time on the table and read the note on each. Then ask what she leaves out: no Hanged Man, no water except the kind that drowns.
+---
+kind: map
+title: Walk the commute
+lens: places
+body: London Bridge, King William Street, St Mary Woolnoth, the stroke of nine. It is a route of about six hundred yards, the one Eliot walked to Lloyds Bank. Follow it on the map, then read lines 60–68 as a man who has just walked it in fog.
+---
+kind: source
+title: Put Chaucer beside it
+source: chaucer
+body: Read the first twelve lines of the General Prologue, then Eliot's first seven. Same month, same rain, same roots. Decide what has changed between 1387 and 1922, and whether it is the weather or the people.
+---
+kind: lens
+title: Follow the water
+lens: water
+body: Spring rain, forgetful snow, a shower of rain, dry stone, no sound of water, a handful of dust, a drowned sailor, "Fear death by water." The section's weather is its argument. The Water lens tints every line by what it is made of.
+---
+kind: path
+title: Meet the dead
+path: dead
+body: Dante's crowd at the gate of Hell, Limbo's sighs, Webster's dirge, the corpse in the garden, Frazer's buried god. A short walk through the section's underworld, with the source passages open.
+---
+kind: draft
+title: Read what was cut
+lens: drafts
+body: The section did not begin with April. It began with fifty-four lines of a night out in Boston. The drafts view shows where the cut fell, and what the poem gained by starting exhausted.
+---
+kind: lens
+title: Leave the German alone
+lens: tongues
+body: Four lines of Wagner and one café sentence are left untranslated. Switch on Tongues to see the translations, then switch it off and read the section as someone in 1922 without German would have read it: as sound, and as a wall.
+---
+kind: ask
+title: Three questions with no answer
+body: When were you "neither living nor dead"? What corpse have you planted in a garden, and have you checked on it? Whose shadow at evening rises to meet you? The section asks them; it does not answer. Neither need you, yet.
+===
+part: 2
+title: Nine ways into A Game of Chess
+---
+kind: listen
+title: Hear the two women
+lens: listen
+body: Fiona Shaw's performance is the one to watch for this section: the woman in the chair and the woman in the pub are the same voice at two social altitudes. Alec Guinness does the pub with a Cockney the Eliots' maid would have recognised.
+---
+kind: source
+title: Start with Cleopatra's barge
+source: shakespeare-antony
+body: Read Enobarbus's speech, then lines 77–110 with it beside you. Every gilded thing in the room is a thing from the river; every change Eliot makes is a demotion. Then find the other two queens hidden in the furniture, Dido and Eve.
+---
+kind: lens
+title: Read the man's silence
+lens: voices
+body: With Voices on, everything in quotation marks is hers and everything without is his, unspoken. His answers are all quotations. Read only his lines, in order, and you have a man made entirely of other people's sentences.
+---
+kind: do
+title: Play the rag
+lens: listen
+body: "That Shakespearian Rag" was a real song of 1912 and there are recordings. Play it, then read lines 128–130 with Eliot's extra syllable in "Shakespeherian." The syncopation is the joke, and the joke is what he hums instead of speaking.
+---
+kind: source
+title: Find Philomel above the mantel
+source: ovid-met6
+body: Ovid's story of Tereus, Procne and Philomela, and Lyly's "jug jug" song, are the two texts under lines 99–103. Read them, then trace the nightingale through the rest of the poem: lines 203–206, and the swallow at 429.
+---
+kind: lens
+title: Watch the clock
+lens: clock
+body: Hot water at ten, a closed car at four, to-night, tomorrow, HURRY UP PLEASE ITS TIME, good night. The section is a timetable. The clock shows every hour the poem names; most of them are here.
+---
+kind: draft
+title: Vivien's pencil
+lens: drafts
+body: Eliot's wife read this section in typescript, wrote "WONDERFUL" beside the pub scene, supplied one of its best lines, and asked for one line about "ivory men" to be removed. The drafts view says which.
+---
+kind: path
+title: The women, one after another
+path: women
+body: A lady on a throne, a raped girl turned bird, a woman with bad nerves, Lil with her teeth out, her friend, Ophelia. Eliot's note says "all the women are one woman." Walk through them and decide whether you believe him.
+---
+kind: ask
+title: Who is not in the room
+body: Two people in a room; one talks, one thinks. Who is not there? Whose bones were lost in rats' alley? Whose eyes were the pearls? The section's subject is an absence, and the quotations are its shape.
+===
+part: 3
+title: Eleven ways into The Fire Sermon
+---
+kind: map
+title: Follow the river
+lens: places
+body: From the river's tent by Richmond to Greenwich Reach past the Isle of Dogs, by way of a canal behind a gasworks, the Cannon Street Hotel, the Strand, Lower Thames Street and St Magnus Martyr. The map has the real course of the Thames; the section moves down it with the tide.
+---
+kind: source
+title: Spenser first, then the litter
+source: spenser-prothalamion
+body: Read the first stanza of the Prothalamion with its refrain, then lines 173–184. Eliot keeps the refrain and takes away the wedding, the nymphs and the flowers, and lists instead what is not in the river.
+---
+kind: lens
+title: See who speaks
+lens: voices
+body: Voices marks the fisher on the bank, a soldiers' song, Verlaine, a nightingale, Mr. Eugenides, Tiresias, the typist, the walker, three Thames-daughters, Augustine and the Buddha. It is the section with the most voices and the most quotation marks, and the one Eliot said Tiresias holds together.
+---
+kind: source
+title: The Fire Sermon itself
+source: buddha-fire-sermon
+body: Read the Buddha's sermon, in the translation Eliot used at Harvard, before the section, not after. Then everything in it, the river, the typist, the barges, the cities, is seen "on fire," and the four "burning"s at the end are the sermon's own refrain.
+---
+kind: draft
+title: Pound's pencil on the typist
+lens: drafts
+body: The typist scene was longer, and Pound cut it hard, writing "verse not interesting enough as verse to warrant so much of it" in the margin. The drafts view shows his marks and the seventy lines of Popean couplets about Fresca that once opened the section.
+---
+kind: listen
+title: The Rhine-daughters, then the Thames-daughters
+lens: listen
+body: Wagner's three Rhine-daughters open the last act of Götterdämmerung singing "Weialala leia." Listen to the scene, then read lines 266–306 aloud. The short lines are a swimming rhythm, and the three modern daughters take their turns like the three in the opera.
+---
+kind: place
+title: Margate
+lens: places
+body: "On Margate Sands. / I can connect / Nothing with nothing." Eliot wrote much of this section in a public shelter on the Margate seafront in October 1921, on sick leave from the bank. The shelter is still there. The map has it.
+---
+kind: lens
+title: Fire
+lens: water
+body: The Water lens has a third colour for fire. In this section it appears at the end only, and all at once. Watch the river run through the whole section and then burn.
+---
+kind: path
+title: Every bird
+path: birds
+body: The nightingale, the gulls, the cock, the hermit-thrush, the swallow. The birds are the poem's musicians, and their songs are all complaints. A short walk with recordings where they exist.
+---
+kind: source
+title: Tiresias in Ovid
+source: ovid-met3
+body: Eliot's note quotes nineteen lines of Latin about a man who was a woman for seven years. Read them in English, then read the typist scene again as something seen by a person who has been both people on the divan.
+---
+kind: ask
+title: Whose side is the poem on
+body: The typist "smooths her hair with automatic hand, / And puts a record on the gramophone." Contempt, or the only mercy in the poem? Readers have argued for a century. Read lines 249–256 once each way.
+===
+part: 4
+title: Six ways into Death by Water
+---
+kind: source
+title: Read it in French first
+source: dans-le-restaurant
+body: The ten lines are Eliot's translation of the last stanza of his own French poem of 1918. Read the French, then the English, and note what was dropped (the tin, Cornwall) and what was added ("Gentile or Jew").
+---
+kind: draft
+title: The eighty-three drowned lines
+lens: drafts
+body: In the typescript the section was a ninety-three-line voyage out of Gloucester, Massachusetts, ending on an iceberg. Pound cut it to ten and then had to talk Eliot out of cutting those too: "Phlebas is an integral part of the poem . . . Must stay in."
+---
+kind: path
+title: The drowned, from the cards to the current
+path: water
+body: "Fear death by water" (55), the pearls that were his eyes (48, 125), Ophelia (172), the king's wreck (191), and then Phlebas. The Water pathway collects them.
+---
+kind: source
+title: Ariel's song
+source: shakespeare-tempest
+body: "Full fathom five thy father lies." Read the song, then Phlebas. Shakespeare's drowned man suffers "a sea-change / Into something rich and strange." Eliot's has his bones picked in whispers. Decide which is the kinder.
+---
+kind: listen
+title: Ten lines, six readers
+lens: listen
+body: The section is short enough to compare readers: Eliot's flat delivery, Guinness's elegy, Irons's, Shaw's. Listen to all the versions you can find, back to back. It takes a few minutes and it tells you what tone the lines will bear.
+---
+kind: ask
+title: Consider Phlebas
+body: "Consider Phlebas, who was once handsome and tall as you." The last line addresses whoever turns a wheel and looks to windward: sailors, drivers, anyone steering anything. Consider him. That is the whole instruction.
+===
+part: 5
+title: Twelve ways into What the Thunder Said
+---
+kind: listen
+title: Eliot reading the thunder
+lens: listen
+body: Eliot's own recordings are at their strangest here: the "DA" is spoken flat, without drama, and "Shantih" three times as a murmur. Listen to the last thirty lines before reading the notes on them.
+---
+kind: lens
+title: Water at last
+lens: water
+body: The section is the poem's longest drought and its only rain. The Water lens shows twenty-nine lines of rock and then, at line 395, "Bringing rain." Everything after that is wet.
+---
+kind: do
+title: Hear the hermit-thrush
+lens: listen
+body: "Drip drop drip drop drop drop drop." Eliot's note names the bird and quotes the field guide. A recording is in the listening room. Play it, then read line 358. His transcription is accurate.
+---
+kind: source
+title: The road to Emmaus, and South Georgia
+source: shackleton-south
+body: Two texts under "Who is the third who walks always beside you?": Luke 24 and Shackleton's account of crossing South Georgia in 1916, when three men each felt a fourth. Read both. The hooded figure is a risen god and a hallucination of exhausted men, and the poem will not say which.
+---
+kind: lens
+title: Eight languages
+lens: tongues
+body: The last eight lines are in English, Italian, Latin, French, English, English, Sanskrit, Sanskrit, with Provençal in the note. Switch on Tongues, read the translations, then read the lines again as a person who has none of them: as a noise made by a civilisation.
+---
+kind: do
+title: Unstack the fragments
+lens: fragments
+body: "These fragments I have shored against my ruins." The Fragments view pulls the last lines apart one at a time, each back to its source, so that you can see the wall the poet says he propped them against.
+---
+kind: source
+title: What the thunder actually said
+source: brihadaranyaka
+body: Read the Upanishad's fable: one syllable, three hearers, three meanings. Then notice that Eliot changes the order of the commands and confesses, after each, how it was not kept.
+---
+kind: map
+title: From Margate to the Ganges
+lens: places
+body: The section's places are Jerusalem, Athens, Alexandria, Vienna, London, the Ganges and the Himalaya. The world map draws the poem's journey east in a single line.
+---
+kind: path
+title: Every 'nothing'
+path: nothing
+body: "I knew nothing," "Nothing again nothing," "Do you know nothing?," "Nothing with nothing," "expect / Nothing." The pathway follows the word through the poem to its last appearance.
+---
+kind: draft
+title: OK from here on
+lens: drafts
+body: Pound's note at the head of the section reads "OK from here on I think." He cut almost nothing. Eliot wrote it in a few weeks at Lausanne and said afterwards it was "the only part that justifies the whole, at all."
+---
+kind: lens
+title: The last voices
+lens: voices
+body: The Fisher King, a nursery rhyme, Dante, an anonymous Latin poet, Nerval, the poet himself, Kyd's mad Hieronimo, an Upanishad. Voices colours each of the last eight lines differently. Read them as a chorus and as a man talking to himself.
+---
+kind: ask
+title: Peace, or the word for it
+body: "Shantih shantih shantih." A benediction, or a man saying "peace" until he sleeps? Eliot's 1922 note called the English "a feeble translation." Read the last line once as a blessing and once as a lullaby, and keep the one that lets you close the book.

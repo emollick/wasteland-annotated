@@ -1,0 +1,212 @@
+id: sweet-thames
+line: 176
+to: 184
+anchor: Sweet Thames, run softly, till I end my song.
+kind: echo
+source: spenser-prothalamion
+title: Spenser's wedding river
+quote: Sweete Themmes runne softly, till I end my Song.
+body:
+The refrain of Spenser's <i>Prothalamion</i> (1596), a "spousal verse" for a double wedding in which nymphs gather flowers on the Thames bank and two swans float down to Essex House. Spenser's river is a procession; Eliot's is the morning after. "The nymphs are departed" and so have "their friends, the loitering heirs of city directors," the young men of the summer, leaving no bottles, papers or cigarette ends because the season is over. October: "the last fingers of leaf / Clutch and sink into the wet bank." The whole section was drafted at Margate and Lausanne in the autumn of 1921, and it is the only part of the poem with a season you can feel on your skin.
+---
+id: leman
+line: 182
+anchor: By the waters of Leman I sat down and wept
+kind: echo
+source: psalm137
+title: Babylon, Geneva, and a lover
+quote: By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
+body:
+Psalm 137, the exiles' psalm, with one word changed. Leman is Lac Léman, Lake Geneva, on whose shore at Lausanne Eliot spent November and December 1921 under the care of Dr Roger Vittoz, writing most of Parts III to V. "Leman" is also an old English word for a lover or mistress. The line is the poem's most private moment and its most public: a man on sick leave from a bank, weeping by a Swiss lake, in the words of a people carried off to Babylon.
+---
+id: at-my-back
+line: 185
+to: 186
+anchor: But at my back in a cold blast I hear
+kind: echo
+source: marvell-coy-mistress
+title: Time's chariot, twice
+quote: But at my back I always hear<br>Time’s wingèd chariot hurrying near;<br>And yonder all before us lie<br>Deserts of vast eternity.
+body:
+Marvell, "To His Coy Mistress" (published 1681). Eliot's note attaches it to line 196, where the phrase comes round again and turns into Sweeney's motor horns; here, first time through, what the speaker hears at his back is not a chariot but "the rattle of the bones, and chuckle spread from ear to ear," a skull's grin. Marvell's poem is a seduction: hurry, because we die. Eliot's borrowings from it, both times, skip the seduction and keep the dying.
+---
+id: fishing-canal
+line: 189
+to: 195
+anchor: While I was fishing in the dull canal
+kind: echo
+source: shakespeare-tempest
+title: Ferdinand on the bank, and the Fisher King
+quote: Sitting on a bank,<br>Weeping again the king my father’s wrack,<br>This music crept by me upon the waters,<br>Allaying both their fury and my passion<br>With its sweet air.
+body:
+Ferdinand in <i>The Tempest</i>, Act I scene ii, just before Ariel sings "Full fathom five." Eliot's fisherman is both Ferdinand, mourning a drowned king, and Weston's Fisher King, whose wound has dried up his country; and he is doing it "round behind the gashouse," by a canal, in winter, which is not where either of them belongs. The poem adds a brother to Shakespeare's father: "the king my brother's wreck / And on the king my father's death before him." Then the rat again (line 115 sent you here), and the bones in the "little low dry garret," and the white naked bodies on the ground, which are the war dead, or the swimmers of last summer, or both.
+---
+id: mrs-porter
+line: 198
+to: 201
+anchor: Sweeney to Mrs. Porter in the spring
+kind: echo
+source: day-parliament-of-bees
+title: Actaeon, Diana, Sweeney, Mrs Porter
+quote: When of the sudden, listening, you shall hear,<br>A noise of horns and hunting, which shall bring<br>Actaeon to Diana in the spring,<br>Where all shall see her naked skin . . .
+body:
+John Day's <i>The Parliament of Bees</i> (printed 1641), quoted in Eliot's note. Actaeon, out hunting, sees the goddess Diana bathing and is turned into a stag and torn apart by his own hounds. In Eliot the horns are motor horns, the hunter is Sweeney, the ape-necked man of his 1920 poems, the goddess is Mrs Porter, and the bathing is a foot-wash in soda water. The three-line song is real: Eliot's note says it "was reported to me from Sydney, Australia," and it was a soldiers' song of the Gallipoli campaign, sung about a Cairo brothel-keeper, in versions considerably less printable than this one. Which makes the next line, in French, the most violent cut in the poem.
+---
+id: verlaine
+line: 202
+anchor: Et O ces voix d’enfants, chantant dans la coupole!
+kind: echo
+source: verlaine-parsifal
+lang: French
+title: The children's voices in the dome
+quote: Parsifal a vaincu les Filles, leur gentil<br>Babil et la luxure amusante — et sa pente<br>Vers la Chair de garçon vierge que cela tente<br>D’aimer les seins légers et ce gentil babil; . . .<br>— Et, ô ces voix d’enfants chantant dans la coupole!
+trans: Parsifal has overcome the Maidens, their pretty chatter and amusing lust, and his own leaning, a virgin boy's flesh tempted to love light breasts and that pretty chatter; . . . And, oh, those children's voices singing in the dome!
+body:
+The last line of Verlaine's sonnet "Parsifal" (1886), written after Wagner's opera, in which the pure knight resists the Flower-maidens and Kundry, heals the wounded king Amfortas and adores the Grail while boys' voices sing from the dome of the temple. In Wagner, Parsifal's feet are washed before the ceremony. Eliot puts the choirboys directly after Mrs Porter and her daughter washing their feet in soda water. The Grail chapel and the brothel are one line apart, and the line between them is in another language, as if the poem could not say it in English.
+---
+id: tereu
+line: 206
+to: 206
+anchor: Tereu
+kind: echo
+source: lyly-campaspe
+title: The bird names her rapist
+quote: What bird so sings, yet so does wail?<br>O ’tis the ravish’d nightingale.<br>Jug, jug, jug, jug, tereu! she cries,<br>And still her woes at midnight rise.
+body:
+John Lyly's song from <i>Campaspe</i> (1584), the source of the Elizabethan convention that the nightingale sings "jug jug" and "tereu," which is the vocative of Tereus: the bird calling the name of the man who cut out her tongue. Four lines, three birds' worth of noise, then the name. "So rudely forc'd" is line 100 with its spelling roughened. The nightingale's song in this poem is never lovely. It is evidence.
+---
+id: eugenides
+line: 209
+to: 214
+anchor: Mr. Eugenides, the Smyrna merchant
+kind: gloss
+title: The one-eyed merchant, in person
+image: smyrna-1920
+body:
+Eugenides means "well-born." Smyrna, now İzmir, was the great port of Asia Minor and shipped the currants that London's bakers used; a pocketful is a sample. "C.i.f. London: documents at sight" is the trade shorthand for cost, insurance and freight paid to London, with the shipping documents handed over when the sight draft is paid, language Eliot handled daily at Lloyds. (His own note expands the abbreviation slightly wrongly, as "carriage and insurance free," a banker's slip that the editors of the poem have enjoyed ever since.) "Demotic French" is the Levant's trading language. The Cannon Street Hotel stood in front of Cannon Street station, the terminus for the boat trains to the Continent, and was the usual place for City men to meet foreign clients; a weekend at the Metropole, the big hotel on the Brighton seafront, is a proposition, and has generally been read as a homosexual one.
+
+He is the one-eyed merchant of Madame Sosostris's pack (one-eyed because a card shows a face in profile), and, Eliot's note says, he "melts into the Phoenician Sailor." The Phoenicians were the traders of the ancient Mediterranean; Weston argued that the Grail mysteries travelled Europe's trade routes with Syrian merchants. In September 1922, between the poem's completion and its publication, Smyrna burned.
+---
+id: violet-hour
+line: 215
+to: 223
+anchor: At the violet hour
+kind: echo
+source: sappho-104
+title: Evening brings everything home
+quote: Ἔσπερε πάντα φέρων ὄσα φαίνολις ἐσκέδασ’ Αὔως,<br>φέρεις ὄιν, φέρεις αἶγα, φέρεις ἄπυ μάτερι παῖδα.
+trans: Evening star, bringing back everything that shining dawn scattered: you bring the sheep, you bring the goat, you bring the child back to its mother.
+body:
+Sappho's fragment on Hesperus, behind "the evening hour that strives / Homeward, and brings the sailor home from sea." Eliot's note apologises that his lines "may not appear as exact as Sappho's" and explains that he had in mind the longshore fisherman coming in at nightfall, which is to say his own boyhood summers at Gloucester, Massachusetts. Stevenson's "Requiem" ("Home is the sailor, home from sea") is in there too. The violet hour is the poem's hour: twilight, the office emptying, "the human engine" idling "like a taxi throbbing waiting." It comes back as "violet air" and "violet light" in the collapsing cities of Part V.
+---
+id: tiresias
+line: 218
+to: 219
+anchor: I Tiresias
+kind: echo
+source: ovid-met3
+title: The man who had been a woman
+image: tiresias
+body:
+Ovid, <i>Metamorphoses</i> III, which Eliot's long note quotes in Latin: Tiresias struck two coupling snakes with his stick and was turned into a woman for seven years; striking them again, he became a man. Jupiter and Juno, arguing over which sex has more pleasure in love, called him in as the one witness who knew. He sided with Jupiter (women do). Juno blinded him; Jupiter, unable to undo another god's act, gave him foresight instead. He is the blind prophet of Thebes in <i>Oedipus</i>, and the dead seer Odysseus consults in the underworld: "I who have sat by Thebes below the wall / And walked among the lowest of the dead."
+
+Eliot's note makes him "the most important personage in the poem, uniting all the rest . . . the two sexes meet in Tiresias. What Tiresias <i>sees</i>, in fact, is the substance of the poem." The note is the closest thing the poem has to a stated design, and the drafts show that the design came late: Tiresias was there in the typescript, but the claim for him was written for the notes. Take it seriously and the poem has a single consciousness; take it as one more voice and it doesn't. Pound, in the margin of the typescript, was impatient with the seer's hedging: "make up yr. mind you Tiresias if you know know damn well or else you dont."
+---
+id: typist
+line: 222
+to: 248
+anchor: The typist home at teatime
+kind: gloss
+title: The typist and the clerk
+body:
+The most argued-over scene in the poem. A typist in a bedsit, her underwear ("combinations," one-piece, and "stays") drying out of the window, her dinner from tins, her divan a bed by night; a "small house agent's clerk," pimpled ("carbuncular"), with the confidence of new money, "a silk hat on a Bradford millionaire" (the Yorkshire wool towns made fortunes in the war); a seduction that is really an assault met with indifference. Tiresias watches, "foresuffered all," and blesses the clerk's exit with a rhyme.
+
+It is written in rhymed quatrains, abab, and the rhymes are doing the judging: "guesses / caresses," "tired / undesired," "at once / no response." The typescript had more of them, and Pound cut hard. His marginal verdict on the passage: "verse not interesting enough as verse to warrant so much of it." Against Eliot's tentative "perhaps" in one line he wrote "Perhaps be damned." What survived is the poem's cruellest writing, and the cruelty is aimed as much at the eighteenth-century manner it imitates as at the two people on the divan. Whether Tiresias is compassionate or a voyeur is a question the poem asks about you.
+---
+id: lovely-woman
+line: 253
+to: 256
+anchor: When lovely woman stoops to folly
+kind: echo
+source: goldsmith-vicar
+title: Goldsmith's song, and a gramophone
+quote: When lovely woman stoops to folly,<br>And finds too late that men betray,<br>What charm can soothe her melancholy,<br>What art can wash her guilt away?<br><br>The only art her guilt to cover,<br>To hide her shame from every eye,<br>To give repentance to her lover,<br>And wring his bosom, is—to die.
+body:
+Olivia's song in <i>The Vicar of Wakefield</i> (1766), chapter 24, sung after her seduction. In Goldsmith the fallen woman's only art is to die. In Eliot she "smooths her hair with automatic hand, / And puts a record on the gramophone." The gramophone is the poem's newest object, and "automatic" is its most modern word: the eighteenth-century ballad meter runs on into a room where nobody feels anything and a machine does the singing. Whether you hear that as contempt for her or relief for her decides how you read the poem.
+---
+id: strand
+line: 257
+to: 265
+anchor: This music crept by me upon the waters
+kind: place
+image: st-magnus-interior
+title: From the Strand to Lower Thames Street
+body:
+Ferdinand's line from <i>The Tempest</i> again (Eliot's note: "as above"), and then a walk: along the Strand, up Queen Victoria Street, which runs from Blackfriars to the Bank, and down to Lower Thames Street, where Billingsgate fish market stood and the "fishmen" drank at noon. The mandoline is real; so is the pub. And so is St Magnus the Martyr, Wren's church at the foot of the old London Bridge, rebuilt 1671–87, with a white and gold interior of Ionic columns. In 1920 a report of the London County Council, <i>The Proposed Demolition of Nineteen City Churches</i>, listed it for demolition; Eliot's note is a protest, and the church is still there. "Inexplicable splendour" is the first unqualified praise of anything in the poem, and it is given to a building on a street of fish.
+---
+id: thames-daughters
+line: 266
+to: 278
+anchor: The river sweats
+kind: echo
+source: gotterdammerung
+title: The Rhine-daughters on the Thames
+image: rhinemaidens
+body:
+"Weialala leia / Wallala leialala" is the refrain of the three Rhine-daughters in Wagner's <i>Götterdämmerung</i>, Act III scene i, as they swim in the river lamenting the gold that was stolen from them at the beginning of the <i>Ring</i>. Eliot's note says the Song of the Thames-daughters begins here, and that from line 292 to 306 they speak in turn. First the river as it was in 1921: sweating oil and tar, worked by sailing barges with red sails drifting down Greenwich Reach past the Isle of Dogs, the loop of docks on the river's north bank. The lines shorten to two and three words, a water-rhythm, and the river's own noise takes over.
+---
+id: elizabeth-leicester
+line: 279
+to: 291
+anchor: Elizabeth and Leicester
+kind: echo
+source: froude-elizabeth
+title: The Queen and Lord Robert, in a barge
+image: elizabeth-leicester
+quote: In the afternoon we were in a barge, watching the games on the river. (The queen) was alone with Lord Robert and myself on the poop, when they began to talk nonsense, and went so far that Lord Robert at last said, as I was on the spot there was no reason why they should not be married if the queen pleased.
+body:
+Eliot's note quotes Froude's <i>History of England</i>, which quotes a letter of 1561 from Álvaro de la Quadra, the Spanish ambassador, to Philip II, about Elizabeth I flirting with Robert Dudley, later Earl of Leicester, on the Thames. The stern "formed / A gilded shell," the red and gold, the peal of bells from the "White towers" (the Tower of London's keep), the south-west wind: it is Cleopatra's barge again, real this time, and going nowhere, since the queen never married. The second Rhine-daughters' refrain closes the sixteenth century, and the three modern daughters begin.
+---
+id: highbury
+line: 293
+to: 295
+anchor: Highbury bore me. Richmond and Kew
+kind: echo
+source: dante-purg5
+title: La Pia's line, on a north London girl
+quote: “Ricorditi di me, che son la Pia;<br>Siena mi fé, disfecemi Maremma:<br>salsi colui che ’nnanellata pria<br>disposando m’avea con la sua gemma.”
+trans: “Remember me, who am La Pia; Siena made me, Maremma unmade me: he knows it who, having first put a ring on me, wedded me with his gem.”
+body:
+<i>Purgatorio</i> V, 133–136. La Pia dei Tolomei of Siena, murdered, it was said, by her husband in his castle in the Maremma marshes, asks Dante for remembrance in a single sentence. Eliot's first Thames-daughter has her grammar exactly: born in Highbury (a north London suburb of trams and dusty trees), "undone" at Richmond and Kew, the pleasure reaches upriver where Londoners went boating, "Supine on the floor of a narrow canoe." Four lines carry the whole of a cheap seduction and the whole of Dante's line, and the girl does not even get a name.
+---
+id: moorgate
+line: 296
+to: 299
+anchor: My feet are at Moorgate, and my heart
+kind: voice
+title: The second daughter
+body:
+Moorgate, in the City, where the clerks work. "After the event / He wept. He promised 'a new start.' / I made no comment. What should I resent?" The most terrible short speech in the poem, because it asks for nothing. He wept; she did not. It is the typist's "Well now that's done" without even the relief.
+---
+id: margate
+line: 300
+to: 305
+anchor: On Margate Sands.
+kind: place
+image: margate-sands
+title: Where the poem was written
+body:
+The third daughter speaks from Margate, the Kentish seaside resort at the mouth of the Thames estuary. Eliot went there in October 1921, on three months' sick leave from the bank, and stayed until mid-November at the Albemarle Hotel in Cliftonville; he sat in a public shelter on the front, the Nayland Rock shelter, which still stands, and wrote, he told Sydney Schiff on 4 November, "a rough draft of part of part III." "I can connect / Nothing with nothing" is the daughter's confession and the poet's. The "broken fingernails of dirty hands" and "My people humble people who expect / Nothing" are what he saw on the beach at the end of the season. The song runs down to "la la" and stops.
+---
+id: carthage
+line: 307
+to: 311
+anchor: To Carthage then I came
+kind: echo
+source: augustine-confessions
+title: Augustine and the Buddha, burning
+quote: To Carthage then I came, where a cauldron of unholy loves sang all about mine ears.
+body:
+The opening of Book III of Augustine's <i>Confessions</i> (c. 400), in E. B. Pusey's translation (1838), the Latin of which puns: Carthago, sartago, a frying pan. Augustine arrived in the city as a student and threw himself into love affairs and the theatre. Then the Buddha's Fire Sermon, which gives the section its title: "All things, O priests, are on fire . . . The eye is on fire; forms are on fire . . . with the fire of passion, with the fire of hatred, with the fire of infatuation." Eliot read it at Harvard in Henry Clarke Warren's <i>Buddhism in Translations</i> (1896). Then Augustine again, Book X: "I entangle my steps with these outward beauties, but Thou pluckest me out, O Lord, Thou pluckest me out."
+
+Eliot's note says that putting "these two representatives of eastern and western asceticism" together "as the culmination of this part of the poem, is not an accident." The lines fall apart as you read them: a sentence, a word four times, a prayer, a prayer with its end torn off, one word alone. The fire that burns here is lust. The fire at line 428 refines.

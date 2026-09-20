@@ -1,0 +1,69 @@
+id: title-draft
+part: 0
+line: 0
+title: The title that was crossed out
+body:
+Across the top of the typescript of the first two parts Eliot wrote "He Do the Police in Different Voices," from Dickens's <i>Our Mutual Friend</i>. "The Waste Land" replaced it, with Weston's Grail country and Malory's "waste land" of the Dolorous Stroke behind it. The Dickens title survives in the notes only as a habit of mind: the poem reads the world's news aloud in every voice it can do.
+---
+id: epigraph-draft
+part: 0
+line: 0
+title: The epigraph that was replaced
+body:
+Kurtz's "The horror! the horror!" from Conrad's <i>Heart of Darkness</i> stood at the head of the typescript. Pound doubted Conrad was "weighty enough to stand the citation"; Eliot called it "much the most appropriate I can find, and somewhat elucidative," and then substituted the Sibyl from Petronius. The change turns a dying man's verdict on his life into an immortal's wish to be done with hers.
+---
+id: boston
+part: 1
+line: 1
+title: Before "April": a night in Boston
+body:
+The typescript of Part I opens with fifty-four lines in a loose, chatty verse about a night out with the boys in Boston: drinks at "Tom's place," a burlesque show, a girl, a run from a policeman, a sunrise walk home. The whole passage is struck through in pencil, apparently by Eliot before Pound saw it. What remains begins already tired, and "April is the cruellest month" is the second first line the poem had. Pound's comments on the rest of Part I are light; he queried a few words and let the section stand.
+---
+id: in-the-cage
+part: 2
+line: 77
+title: "In the Cage"
+body:
+Part II was titled "In the Cage" in the typescript, after Henry James's story of a telegraphist who reads other people's messages, and was renamed "A Game of Chess" before publication. Pound's marginalia on the opening description are the poem's most famous editing: against the ornate lines he wrote "too tum-pum at a stretch," and beside Eliot's "Filled all the desert with inviolable voice" he wrote nothing, because it was right. Where Eliot had written "Where the dead men lost their bones" in a slightly different form, and where the nervous dialogue ran on, Pound cut phrases rather than lines. Vivien Eliot read the section too: she wrote "WONDERFUL" beside the pub scene, marked "Yes" and "& wonderful" in the margins, contributed "What you get married for if you don't want children?" and asked for "The ivory men make company between us" to be removed after line 137. Eliot restored that line from memory in a manuscript copy he made in 1960.
+---
+id: fresca
+part: 3
+line: 173
+title: The seventy lines about Fresca
+body:
+"The Fire Sermon" began, in typescript, with about seventy lines of heroic couplets describing a fashionable woman, Fresca, waking, breakfasting in bed, reading Richardson on the lavatory and writing a letter. It was a deliberate imitation of Pope's <i>Rape of the Lock</i> and Swift's dressing-room poems. Pound struck it all out. Eliot recalled his reason in 1946: "Pope has done this so well that you cannot do it better; and if you mean this as a burlesque, you had better suppress it, for you cannot parody Pope unless you can write better verse than Pope, and you can't." The section now begins with the river.
+---
+id: typist-draft
+part: 3
+line: 215
+title: Pound and the typist
+body:
+The typist scene was longer, in quatrains throughout, with more circumstantial detail about the clerk (his hair, his evening, his "one bold stare" was there) and more hedging from Tiresias. Pound's pencil comments on these pages are the ones everyone quotes: "verse not interesting enough as verse to warrant so much of it"; "Perhaps be damned" against a line with "perhaps" in it; and, beside Tiresias's foretelling, "make up yr. mind / you Tiresias / if you know / know damn well / or / else / you / dont." The clerk's original exit had him urinating in the street; Pound cut it. A passage after the typist, beginning "London, the swarming life you kill and breed," addressed the city directly and went too.
+---
+id: thames-draft
+part: 3
+line: 266
+title: The Thames-daughters, lengthened and shortened
+body:
+The river song and the three daughters' speeches survive much as drafted. Pound's marks here are approving; he wrote "OK" and "echt" against the short-lined river passage. Eliot's note in the printed edition, numbering the daughters' turns, was written later, for the book.
+---
+id: sea-voyage
+part: 4
+line: 312
+title: The voyage that was cut
+body:
+"Death by Water" was ninety-three lines in the typescript. It began as a sea narrative in the voice of a New England fisherman: a schooner sailing out of Gloucester, Massachusetts, past the Dry Salvages, drink and cards on board, a night of hard sailing, sirens, an iceberg, the wreck. Its models were the Ulysses of <i>Inferno</i> XXVI and Tennyson's "Ulysses." Pound marked most of it "Bad" and cut everything but the last ten lines. Eliot, unnerved, asked "Perhaps better omit Phlebas also???" Pound's reply: "I DO advise keeping Phlebas. In fact I more'n advise. Phlebas is an integral part of the poem; the card pack introduces him, the drowned phoen. sailor, and he is needed ABSOloootly where he is. Must stay in." The folder of drafts also holds "Dirge," a nasty parody of Ariel's song about a drowned Jew named Bleistein, which Pound marked "??doubtful" and which was left out.
+---
+id: ok-from-here
+part: 5
+line: 322
+title: "OK from here on I think"
+body:
+At the head of Part V Pound wrote "OK from here on I think," and cut almost nothing. Eliot wrote the section at Lausanne in November and December 1921, fast, and later said it had come "in a trance." Three of its passages are older than the rest: the woman with the long black hair and the bats with baby faces (lines 378–385) come from a fragment beginning "So through the evening, through the violet air"; the "red rock" of Part I came from "The Death of Saint Narcissus" (1915); and Phlebas from "Dans le Restaurant" (1918).
+---
+id: manuscript-fate
+part: 5
+line: 434
+title: What happened to the papers
+body:
+Eliot gave the typescript, with Pound's and Vivien's pencil on it, to John Quinn, the New York lawyer and collector who had handled his American publishing, in 1922; Quinn insisted on paying $140 for it. After Quinn's death in 1924 it vanished. His niece sold it to the New York Public Library in 1958, and the library announced the acquisition in 1968, three years after Eliot's death. Valerie Eliot's facsimile edition of 1971 printed every page. The papers are in the Berg Collection; the cuts, and Pound's pencil, are the reason the poem is 434 lines long and not 800.

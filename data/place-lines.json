@@ -1,0 +1,287 @@
+{
+ "note": "Which lines name which places. ids match research/thames.json.",
+ "london": {
+  "london-bridge": {
+   "lines": [
+    62,
+    427
+   ],
+   "label": "London Bridge"
+  },
+  "king-william-street": {
+   "lines": [
+    66
+   ],
+   "label": "King William Street"
+  },
+  "st-mary-woolnoth": {
+   "lines": [
+    67
+   ],
+   "label": "St Mary Woolnoth"
+  },
+  "lloyds-bank-lombard-street": {
+   "lines": [
+    68
+   ],
+   "label": "Lloyds Bank, Lombard Street",
+   "eliot": true
+  },
+  "cannon-street-station": {
+   "lines": [
+    213
+   ],
+   "label": "Cannon Street Hotel"
+  },
+  "strand": {
+   "lines": [
+    258
+   ],
+   "label": "The Strand"
+  },
+  "queen-victoria-street": {
+   "lines": [
+    258
+   ],
+   "label": "Queen Victoria Street"
+  },
+  "lower-thames-street": {
+   "lines": [
+    260
+   ],
+   "label": "Lower Thames Street"
+  },
+  "st-magnus-the-martyr": {
+   "lines": [
+    264
+   ],
+   "label": "St Magnus Martyr"
+  },
+  "billingsgate": {
+   "lines": [
+    263
+   ],
+   "label": "Billingsgate"
+  },
+  "greenwich-pier": {
+   "lines": [
+    275
+   ],
+   "label": "Greenwich Reach"
+  },
+  "isle-of-dogs": {
+   "lines": [
+    276
+   ],
+   "label": "Isle of Dogs"
+  },
+  "greenwich-palace": {
+   "lines": [
+    279
+   ],
+   "label": "Greenwich Palace"
+  },
+  "highbury": {
+   "lines": [
+    293
+   ],
+   "label": "Highbury"
+  },
+  "richmond-bridge": {
+   "lines": [
+    293,
+    294
+   ],
+   "label": "Richmond"
+  },
+  "kew-bridge": {
+   "lines": [
+    293
+   ],
+   "label": "Kew"
+  },
+  "moorgate-station": {
+   "lines": [
+    296
+   ],
+   "label": "Moorgate"
+  },
+  "clarence-gate-gardens": {
+   "lines": [],
+   "label": "9 Clarence Gate Gardens",
+   "eliot": true
+  },
+  "crawford-mansions": {
+   "lines": [],
+   "label": "Crawford Mansions",
+   "eliot": true
+  },
+  "hogarth-press": {
+   "lines": [],
+   "label": "Hogarth House, Richmond",
+   "eliot": true
+  },
+  "wiltons-music-hall": {
+   "lines": [],
+   "label": "Wilton’s Music Hall",
+   "eliot": true
+  }
+ },
+ "world": {
+  "margate": {
+   "lines": [
+    300
+   ],
+   "label": "Margate Sands"
+  },
+  "starnberger-see": {
+   "lines": [
+    8
+   ],
+   "label": "Starnbergersee"
+  },
+  "hofgarten-munich": {
+   "lines": [
+    10
+   ],
+   "label": "Hofgarten, Munich"
+  },
+  "lausanne-ouchy": {
+   "lines": [
+    182
+   ],
+   "label": "Leman (Lausanne)"
+  },
+  "smyrna-izmir": {
+   "lines": [
+    209
+   ],
+   "label": "Smyrna"
+  },
+  "carthage": {
+   "lines": [
+    307
+   ],
+   "label": "Carthage"
+  },
+  "mylae-milazzo": {
+   "lines": [
+    70
+   ],
+   "label": "Mylae"
+  },
+  "jerusalem": {
+   "lines": [
+    375
+   ],
+   "label": "Jerusalem"
+  },
+  "athens": {
+   "lines": [
+    375
+   ],
+   "label": "Athens"
+  },
+  "alexandria": {
+   "lines": [
+    375
+   ],
+   "label": "Alexandria"
+  },
+  "vienna": {
+   "lines": [
+    376
+   ],
+   "label": "Vienna"
+  },
+  "thebes-greece": {
+   "lines": [
+    245
+   ],
+   "label": "Thebes"
+  },
+  "cumae": {
+   "lines": [
+    0
+   ],
+   "label": "Cumae"
+  },
+  "vilnius": {
+   "lines": [
+    12
+   ],
+   "label": "Lithuania"
+  },
+  "bradford": {
+   "lines": [
+    234
+   ],
+   "label": "Bradford"
+  },
+  "sydney": {
+   "lines": [
+    199
+   ],
+   "label": "Sydney"
+  },
+  "varanasi": {
+   "lines": [
+    396
+   ],
+   "label": "Ganga"
+  },
+  "himalaya": {
+   "lines": [
+    398
+   ],
+   "label": "Himavant"
+  },
+  "siena": {
+   "lines": [
+    293
+   ],
+   "label": "Siena (La Pia)"
+  },
+  "maremma": {
+   "lines": [
+    293
+   ],
+   "label": "Maremma (La Pia)"
+  },
+  "paris-pound": {
+   "lines": [],
+   "label": "Paris: Pound’s flat",
+   "eliot": true
+  },
+  "st-louis": {
+   "lines": [],
+   "label": "St Louis: born 1888",
+   "eliot": true
+  },
+  "gloucester-ma": {
+   "lines": [
+    419
+   ],
+   "label": "Gloucester, Mass.",
+   "eliot": true
+  },
+  "quebec": {
+   "lines": [
+    357
+   ],
+   "label": "Quebec (the hermit-thrush)"
+  },
+  "bayreuth": {
+   "lines": [
+    277
+   ],
+   "label": "Bayreuth"
+  },
+  "munich": {
+   "lines": [
+    10
+   ],
+   "label": "Munich"
+  }
+ }
+}
