@@ -62,21 +62,29 @@ kind: source
 title: Start with Cleopatra's barge
 source: shakespeare-antony
 body: Read Enobarbus's speech from <i>Antony and Cleopatra</i> (it is in the library), then lines 77–110 with it beside you, and see what each of Eliot's changes does to Shakespeare's picture: the barge comes indoors and down in scale. Then find the two other women in the room's details, Dido at line 92 and Eve at line 98.
+sources: Shakespeare, Antony and Cleopatra II.ii
+Virgil, Aeneid I 726
+Milton, Paradise Lost IV 140
 ---
 kind: lens
 title: Read the man's silence
 lens: voices
 body: With Voices on, lines 111–138 divide: everything in quotation marks is hers, spoken; everything without is his and, by the usual reading, unspoken. Read only his lines, in order.
+sources: Unger (1966)
 ---
 kind: do
 title: The rag of 1912
 lens: listen
 body: "That Shakespearian Rag" was a real song of 1912. No recording of the day has been found; the sheet music is in the listening room. Read its chorus, then lines 128–130 with Eliot's extra syllable in "Shakespeherian": it gives the word the song's syncopation, and the man hums it instead of answering.
+sources: Buck, Ruby and Stamper, "That Shakespearian Rag" (1912)
+Guerrieri (2017)
 ---
 kind: source
 title: Find Philomel above the mantel
 source: ovid-met6
 body: Eliot's note sends you to Ovid's story of Tereus, Procne and Philomela; John Lyly's nightingale song from his play <i>Campaspe</i> (1584) is the plainest example of the Elizabethan convention, the nightingale's "jug jug", that line 103 uses. Read both, then follow the nightingale through the rest of the poem: lines 203–206, and the swallow at line 429.
+sources: Ovid, Metamorphoses VI 424–674
+Lyly, Campaspe V.i
 ---
 kind: lens
 title: Watch the clock
@@ -87,6 +95,9 @@ kind: draft
 title: Vivien Eliot's pencil
 lens: drafts
 body: Eliot's wife read this section in typescript. Beside the nervous dialogue she wrote "WONDERFUL"; she supplied two lines of the pub scene; and she asked for a line about "ivory men" to be taken out. The drafts view says which.
+sources: Facsimile (1971), the typescript of Part II
+Ricks and McCue, textual notes on lines 120–139, 153 and 164
+Litz (1973)
 ---
 kind: path
 title: The women, one after another
@@ -96,6 +107,8 @@ body: The lady in the chair, who speaks at line 111; Philomel, raped and turned 
 kind: ask
 title: Who is not in the room
 body: Two people in a room; one talks, one thinks. Who is not there? Whose bones were lost in rats' alley? Whose eyes were the pearls? Two of his unspoken answers point to the dead: the men of the trenches, and the drowned father in Ariel's song from <i>The Tempest</i>.
+sources: Shakespeare, The Tempest I.ii
+Chasseaud (2006)
 ===
 part: 3
 title: Ways into The Fire Sermon
@@ -161,30 +174,43 @@ kind: source
 title: Read it in French first
 source: dans-le-restaurant
 body: The ten lines are Eliot's translation of the last stanza of his own French poem "Dans le Restaurant", published in 1918. Read the French, then the English, and note what was dropped (the tin, Cornwall, the offhand "Figurez-vous donc") and what was added ("Gentile or Jew", and the whole address to the man at the wheel).
+sources: The Little Review, September 1918, pp. 12–13
+Poems (1920), "Dans le Restaurant"
 ---
 kind: draft
 title: The voyage Pound cut
 lens: drafts
 body: In the typescript this section was a sea voyage of some ninety lines, from the Dry Salvages off Cape Ann to the fishing banks, ending in ice. Pound cut it to the last ten lines and then had to talk Eliot out of cutting those too: "Phlebas is an integral part of the poem . . . Must stay in."
+sources: Facsimile (1971), the typescript of Part IV, and p. 129
+Pound, Letters, ed. Paige, no. 183
+Perloff (1981)
 ---
 kind: path
 title: The drowned before Phlebas
 path: water
 body: Before it reaches Phlebas the poem has warned of drowning and shown the drowned: "Fear death by water" (55); the pearls that were his eyes (48, 125); Ophelia's good night (172), said not long before she drowns; and "the king my brother's wreck" (191). The Water pathway takes them in order.
+sources: Shakespeare, The Tempest I.ii
+Shakespeare, Hamlet IV.v and IV.vii
 ---
 kind: source
 title: Ariel's song
 source: shakespeare-tempest
 body: "Full fathom five thy father lies." Read Ariel's song, then Phlebas. Shakespeare's drowned man is not in fact drowned, and the song has him suffer "a sea-change / Into something rich and strange". Eliot's Phlebas is a fortnight dead, and the current picks his bones in whispers.
+sources: Shakespeare, The Tempest I.ii
 ---
 kind: listen
 title: Hear it read
 lens: listen
 body: Ten lines are short enough to hear several readers one after another. The listening room has six readers of Part IV: Eliot himself (in 1933, and again in the 1940s), Alec Guinness, Jeremy Irons, Fiona Shaw, Edoardo Ballerini and Elizabeth Klett. Start with Eliot's own reading and hear the others against it.
+sources: The Poetry Archive
+PennSound
 ---
 kind: ask
 title: Consider Phlebas
 body: "Consider Phlebas, who was once handsome and tall as you." The last three lines turn from the drowned man to whoever is at a ship's wheel, "Gentile or Jew", and through him to the reader. In 1956 Herbert Musurillo compared the section to the epitaphs for drowned sailors in the <i>Greek Anthology</i>, which speak to the sailor passing by. The last line has the shape of the warning on an old gravestone: as you are now, so once was I.
+sources: Greek Anthology VII 282
+Musurillo (1956)
+Deutsch (1952)
 ===
 part: 5
 title: Ways into What the Thunder Said
@@ -193,6 +219,9 @@ kind: listen
 title: Eliot reading the thunder
 lens: listen
 body: Eliot recorded the whole poem in 1933 and again in 1946; both are in the listening room, with Part V as he read it in Washington in 1947. Listen from line 400, where the thunder speaks, to the end.
+sources: The Poetry Archive
+PennSound
+Library of Congress, recording of 23 May 1947
 ---
 kind: lens
 title: Water in Part V
@@ -203,11 +232,14 @@ kind: do
 title: Hear the hermit-thrush
 lens: listen
 body: "Drip drop drip drop drop drop drop." Eliot's note names the bird and quotes Chapman's field guide on its song; "water-dripping" is not Chapman's phrase. A recording is in the listening room. Play it, then read line 358.
+sources: Chapman, Handbook (1895), p. 400
 ---
 kind: source
 title: The road to Emmaus, and South Georgia
 source: shackleton-south
 body: Eliot gives two sources for "Who is the third who walks always beside you?": in his headnote, the journey to Emmaus of Luke 24; in his note on the line, Shackleton's account in <i>South</i> of crossing South Georgia in May 1916, when each of three men felt a fourth walking with them. Both are in the library.
+sources: King James Bible, Luke 24:13–31
+Shackleton, South, ch. X
 ---
 kind: lens
 title: The languages of the last lines
@@ -223,21 +255,28 @@ kind: source
 title: The fable in the Upanishad
 source: brihadaranyaka
 body: The library has the passage of the <i>Bṛhadāraṇyaka Upaniṣad</i> that Eliot's note cites: the thunder says "Da," and gods, men and demons each hear a different word in it. Eliot changes the order of the three words and follows each with a passage of his own.
+sources: Bṛhadāraṇyaka Upaniṣad V.2
 ---
 kind: map
 title: The places in Part V
 lens: places
 body: The section names Jerusalem, Athens, Alexandria, Vienna and London in two lines, then the Ganges and the Himalaya, then London Bridge and Aquitaine. The world map shows the cities, the river and the mountain, and two places from Eliot's life: Quebec, where his note says he heard the hermit-thrush, and Cape Ann, where he sailed as a boy.
+sources: T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
 ---
 kind: path
 title: Every 'nothing'
 path: nothing
-body: "I knew nothing," "Nothing again nothing," "Do you know nothing?," "Nothing with nothing," "expect / Nothing." The pathway follows the word through the poem. It is not said in Part V; the last stop, at line 402, is the thunder's question, "what have we given?"
+body: "I knew nothing," "Nothing again nothing," "Do you know nothing?," "Nothing with nothing," "expect / Nothing." The pathway follows the word through the poem. It is not said in Part V; the pathway ends at line 305, with the third Thames-daughter on Margate Sands.
 ---
 kind: draft
 title: OK from here on
 lens: drafts
-body: Pound's note at the head of the typescript of Part V reads "OK from here on I think," and he cut almost nothing. Eliot wrote the section at Lausanne between late November 1921 and the New Year, and told Bertrand Russell in October 1923 that it was "the only part which justifies the whole, at all."
+body: Pound's note at the head of the typescript of Part V reads "OK from here on I think," and he cut almost nothing. Eliot wrote the section at Lausanne between late November 1921 and the New Year, and told Bertrand Russell in October 1923 that it was "the only part that justifies the whole, at all."
+sources: Facsimile (1971), the introduction, and the typescript of Part V
+Keane (2011)
+The Spectator, 1 January 1972
+Rainey, Revisiting The Waste Land
+Leithauser and Dyer (1982)
 ---
 kind: lens
 title: The last voices
@@ -247,3 +286,4 @@ body: The Voices lens gives lines 424 to 426 to the Fisher King, lines 427 to 43
 kind: ask
 title: The last word
 body: "Shantih shantih shantih." Eliot's note calls it the formal ending of an Upanishad; in 1922 he called "The Peace which passeth understanding" a feeble translation of the word, and from 1925 "our equivalent." Is the line a blessing on the poem, or a man saying the word to himself?
+sources: Poems 1909–1925, The Waste Land, the note on line 433

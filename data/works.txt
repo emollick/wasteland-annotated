@@ -1,0 +1,435 @@
+id: waste-land-1922
+short: The Waste Land (1922)
+full: T. S. Eliot, <i>The Waste Land</i> (New York: Boni and Liveright, 1922), the first edition in book form and the first printing with Eliot's notes; the text the site prints.
+url: https://archive.org/details/wasteland01elio
+---
+id: dial-1922
+short: The Dial, November 1922
+full: T. S. Eliot, "The Waste Land," <i>The Dial</i> 73, no. 5 (November 1922), 473–85; the first American printing, without notes.
+url: https://archive.org/details/sim_dial_1922-11_73
+---
+id: poems-1909-1925
+short: Poems 1909–1925
+full: T. S. Eliot, <i>Poems 1909–1925</i> (London: Faber and Gwyer, 1925), the first printing of the dedication to Pound and of the revised notes.
+url: https://archive.org/details/bwb_KR-589-929
+---
+id: poems-1920
+short: Poems (1920)
+full: T. S. Eliot, <i>Poems</i> (New York: Alfred A. Knopf, 1920), which prints "Dans le Restaurant."
+url: https://en.wikisource.org/wiki/Poems_(Eliot,_1920)
+---
+id: little-review-1918
+short: The Little Review, September 1918
+full: T. S. Eliot, "Dans le Restaurant," <i>The Little Review</i> 5, no. 5 (September 1918), 12–13, the poem's first printing.
+url: https://modjourn.org/issue/bdr515237/
+---
+id: eliot-pascal-1931
+short: Eliot, "The Pensées of Pascal" (1931)
+full: T. S. Eliot, introduction to Pascal's <i>Pensées</i>, trans. W. F. Trotter, Everyman's Library 874 (London: Dent, 1931); collected as "The 'Pensées' of Pascal" in <i>Selected Essays</i> (1932). Described, not quoted at length: a text after 1929.
+---
+id: eliot-after-strange-gods
+short: Eliot, After Strange Gods (1934)
+full: T. S. Eliot, <i>After Strange Gods: A Primer of Modern Heresy</i> (London: Faber, 1934), the Page-Barbour lectures of 1933. Quoted in a phrase only.
+---
+id: eliot-pound-1946
+short: Eliot, "Ezra Pound," Poetry (1946)
+full: T. S. Eliot, "Ezra Pound," <i>Poetry</i> 68, no. 6 (September 1946), 326–38. Quoted in a phrase only.
+---
+id: paris-review-1959
+short: Paris Review interview (1959)
+full: "T. S. Eliot: The Art of Poetry No. 1," interview by Donald Hall, <i>The Paris Review</i> 21 (Spring–Summer 1959). Described, not quoted at length.
+url: https://www.theparisreview.org/interviews/4738/the-art-of-poetry-no-1-t-s-eliot
+---
+id: letters-1
+short: Letters, vol. 1
+full: <i>The Letters of T. S. Eliot</i>, vol. 1: <i>1898–1922</i>, rev. ed., ed. Valerie Eliot and Hugh Haughton (London: Faber, 2009). Letters after 1929 are described, not quoted at length; this volume's are of 1922 and before.
+---
+id: facsimile
+short: Facsimile (1971)
+full: <i>The Waste Land: A Facsimile and Transcript of the Original Drafts Including the Annotations of Ezra Pound</i>, ed. Valerie Eliot (London: Faber; New York: Harcourt Brace Jovanovich, 1971). Page numbers are the same in the reprints. The drafts are described, or quoted in a phrase.
+---
+id: ricks-mccue
+short: Ricks and McCue
+full: <i>The Poems of T. S. Eliot</i>, vol. I: <i>Collected and Uncollected Poems</i>, ed. Christopher Ricks and Jim McCue (London: Faber, 2015). Cited by the line its commentary on <i>The Waste Land</i> is keyed to, or by the headnote.
+---
+id: rainey-annotated
+short: Rainey, Annotated Waste Land
+full: <i>The Annotated Waste Land with Eliot's Contemporary Prose</i>, ed. Lawrence Rainey, 2nd ed. (New Haven: Yale University Press, 2006; first ed. 2005). Cited by the line its annotation is keyed to.
+---
+id: rainey-revisiting
+short: Rainey, Revisiting The Waste Land
+full: Lawrence Rainey, <i>Revisiting The Waste Land</i> (New Haven: Yale University Press, 2005), chapter 1 on the dating of the manuscripts.
+---
+id: southam
+short: Southam, Guide
+full: B. C. Southam, <i>A Student's Guide to the Selected Poems of T. S. Eliot</i>, 6th ed. (London: Faber, 1994); the American edition is titled <i>A Guide to the Selected Poems of T. S. Eliot</i> (San Diego: Harcourt Brace, 1996). Cited by the line its note is keyed to.
+---
+id: pound-letters
+short: Pound, Letters, ed. Paige
+full: <i>The Letters of Ezra Pound 1907–1941</i>, ed. D. D. Paige (New York: Harcourt, Brace, 1950; London: Faber, 1951); the exchange with Eliot on the poem is letters 181–183.
+url: https://archive.org/details/dli.ernet.2932
+---
+id: kenner-1959
+short: Kenner (1959)
+full: Hugh Kenner, <i>The Invisible Poet: T. S. Eliot</i> (New York: McDowell, Obolensky, 1959).
+---
+id: miller-1977
+short: Miller (1977)
+full: James E. Miller, Jr., <i>T. S. Eliot's Personal Waste Land: Exorcism of the Demons</i> (University Park: Pennsylvania State University Press, 1977).
+---
+id: unger-1981
+short: Unger (1981)
+full: Leonard Unger, <i>Eliot's Compound Ghost: Influence and Confluence</i> (University Park: Pennsylvania State University Press, 1981), where the "withered stumps of time" are set beside the mutilated Lavinia of <i>Titus Andronicus</i>.
+---
+id: guerrieri-2017
+short: Guerrieri (2017)
+full: Matthew Guerrieri, "That old classical drag," <i>Soho the Dog</i> (his blog), 10 March 2017, on "That Shakespearian Rag" and the poem.
+url: https://www.sohothedog.com/2017/03/10/that-old-classical-drag/
+---
+id: ellmann-1971
+short: Ellmann (1971)
+full: Richard Ellmann, "The First Waste Land—I," <i>The New York Review of Books</i>, 18 November 1971.
+url: https://www.nybooks.com/articles/1971/11/18/the-first-waste-landi/
+---
+id: wilson-1971
+short: Edmund Wilson (1971)
+full: Edmund Wilson, "The First Waste Land—II," <i>The New York Review of Books</i>, 18 November 1971.
+url: https://www.nybooks.com/articles/1971/11/18/the-first-waste-landii/
+---
+id: spectator-1972
+short: The Spectator, 1 January 1972
+full: Gabriel Pearson, "Eliot and Pound," review of the facsimile, <i>The Spectator</i>, 1 January 1972, 26.
+url: https://archive.spectator.co.uk/article/1st-january-1972/26/eliot-and-pound
+---
+id: perloff-1981
+short: Perloff (1981)
+full: Marjorie Perloff, <i>The Poetics of Indeterminacy: Rimbaud to Cage</i> (Princeton: Princeton University Press, 1981), in its account of the drafts of <i>The Waste Land</i> and Pound's cuts.
+---
+id: martz-1993
+short: Martz (1993)
+full: Louis L. Martz, "Origins of Form in <i>Four Quartets</i>," in <i>Words in Time: New Essays on Eliot's Four Quartets</i>, ed. Edward Lobb (London: Athlone Press; Ann Arbor: University of Michigan Press, 1993).
+---
+id: schuchard-classroom
+short: Schuchard, "Eliot in the Wartime Classroom"
+full: Ronald Schuchard, "Eliot in the Wartime Classroom, 1916–1919," T. S. Eliot Foundation website; the essay is drawn from his <i>Eliot's Dark Angel</i> (Oxford University Press, 1999).
+url: https://tseliot.com/foundation/eliot-in-the-wartime-classroom-1916-1919/
+---
+id: eliot-foundation-gloucester
+short: T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
+full: "T. S. Eliot's Gloucester," T. S. Eliot Foundation website.
+url: https://tseliot.com/foundation/t-s-eliots-gloucester/
+---
+id: musurillo-1956
+short: Musurillo (1956)
+full: Herbert Musurillo, "A Note on <i>The Waste Land</i> (Part IV)," <i>Classical Philology</i> 51, no. 3 (July 1956), 174–75.
+---
+id: menand-1997
+short: Menand (1997)
+full: Louis Menand, "How Eliot Became Eliot," <i>The New York Review of Books</i>, 15 May 1997.
+url: https://www.nybooks.com/articles/1997/05/15/how-eliot-became-eliot/
+---
+id: keane-2011
+short: Keane (2011)
+full: Patrick J. Keane, "Convergences: Memories Involving The Waste Land Manuscript," <i>Numéro Cinq</i>, 22 February 2011.
+url: https://numerocinqmagazine.com/2011/02/22/convergences-memories-involving-the-waste-land-manuscript-an-essay-by-patrick-j-keane/
+---
+id: gold-2000
+short: Gold (2000)
+full: Matthew K. Gold, "The Expert Hand and the Obedient Heart: Dr. Vittoz, T. S. Eliot, and the Therapeutic Possibilities of <i>The Waste Land</i>," <i>Journal of Modern Literature</i> 23, nos. 3–4 (Summer 2000), 519–33.
+url: https://mkgold.net/wp-content/uploads/2009/02/mkgold-jml.pdf
+---
+id: leithauser-1982
+short: Leithauser and Dyer (1982)
+full: Gladys Garner Leithauser and Nadine Cowan Dyer, "Bertrand Russell and T. S. Eliot: Their Dialogue," <i>Russell: The Journal of the Bertrand Russell Archives</i>, n.s. 2, no. 1 (1982), 7–28.
+url: https://scispace.com/pdf/bertrand-russell-and-t-s-eliot-their-dialogue-2o4mm35jvo.pdf
+---
+id: chasseaud-2006
+short: Chasseaud (2006)
+full: Peter Chasseaud, <i>Rats Alley: Trench Names of the Western Front, 1914–1918</i> (Stroud: Spellmount, 2006).
+---
+id: chapman-1895
+short: Chapman, Handbook (1895)
+full: Frank M. Chapman, <i>Handbook of Birds of Eastern North America</i> (New York: D. Appleton, 1895), the book Eliot's note on line 357 quotes; the passage on the hermit thrush's song, in the account signed by Eugene P. Bicknell that Chapman prints, is on p. 400.
+url: https://archive.org/details/handbookofbirdso00chaprich
+---
+id: weston
+short: Weston, From Ritual to Romance
+full: Jessie L. Weston, <i>From Ritual to Romance</i> (Cambridge: Cambridge University Press, 1920). Cited by chapter.
+url: https://www.gutenberg.org/ebooks/4090
+---
+id: frazer-abridged
+short: Frazer, The Golden Bough (1922)
+full: Sir James George Frazer, <i>The Golden Bough: A Study in Magic and Religion</i>, abridged edition (London: Macmillan, 1922). Cited by chapter.
+url: https://www.gutenberg.org/ebooks/3623
+---
+id: ovid-met
+short: Ovid, Metamorphoses
+full: Ovid, <i>Metamorphoses</i>, cited by book and line; the Latin from the Latin Library, the English from Frank Justus Miller's Loeb translation (1916).
+url: https://www.thelatinlibrary.com/ovid.html
+---
+id: dante
+short: Dante
+full: Dante Alighieri, <i>La Divina Commedia</i>, cited by cantica, canto and line; the Italian from the Italian Wikisource text.
+url: https://it.wikisource.org/wiki/Divina_Commedia
+---
+id: kjv
+short: King James Bible
+full: <i>The Holy Bible</i>, Authorised (King James) Version (1611), cited by book, chapter and verse.
+url: https://en.wikisource.org/wiki/Bible_(King_James)
+---
+id: bcp
+short: Book of Common Prayer
+full: <i>The Book of Common Prayer</i> (1662), the Psalter (Coverdale's psalms) and the Order for the Burial of the Dead.
+url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer
+---
+id: webster-white-devil
+short: Webster, The White Devil
+full: John Webster, <i>The White Devil</i> (1612), cited by act and scene.
+url: https://www.gutenberg.org/ebooks/12915
+---
+id: webster-devils-law-case
+short: Webster, The Devil's Law-Case
+full: John Webster, <i>The Devil's Law-Case</i> (1623), Act III scene ii, in <i>The Dramatic Works of John Webster</i>, ed. William Hazlitt, vol. III (London: Reeves and Turner, 1897).
+url: https://archive.org/details/dramaticworksofj03webs_0
+---
+id: middleton-wbw
+short: Middleton, Women Beware Women
+full: Thomas Middleton, <i>Women Beware Women</i> (written c. 1621; printed 1657), Act II scene ii, in <i>The Works of Thomas Middleton</i>, ed. Alexander Dyce, vol. IV (London, 1840).
+url: https://www.gutenberg.org/ebooks/75606
+---
+id: shakespeare
+short: Shakespeare
+full: William Shakespeare, cited by play, act and scene: <i>The Tempest</i>, <i>Antony and Cleopatra</i>, <i>Hamlet</i>, <i>Coriolanus</i>, <i>Titus Andronicus</i>; the text of the Moby Shakespeare (the Globe edition) at MIT.
+url: https://shakespeare.mit.edu/
+---
+id: milton
+short: Milton, Paradise Lost
+full: John Milton, <i>Paradise Lost</i> (1667), Book IV, line 140.
+url: https://www.gutenberg.org/ebooks/26
+---
+id: virgil
+short: Virgil, Aeneid
+full: Virgil, <i>Aeneid</i>, Book I, line 726.
+url: https://www.thelatinlibrary.com/vergil/aen1.shtml
+---
+id: lyly
+short: Lyly, Campaspe
+full: John Lyly, <i>Campaspe</i> (1584), the songs first printed in <i>Sixe Court Comedies</i> (1632); in <i>The Complete Works of John Lyly</i>, ed. R. Warwick Bond, vol. II (Oxford: Clarendon Press, 1902).
+url: https://archive.org/details/johnlylyworks02bonduoft
+---
+id: hesse
+short: Hesse, Blick ins Chaos
+full: Hermann Hesse, <i>Blick ins Chaos: Drei Aufsätze</i> (Bern: Seldwyla, 1920); English as <i>In Sight of Chaos</i>, trans. Stephen Hudson (Zurich: Seldwyla, 1923).
+url: https://archive.org/details/bub_gb_vKbrAc4LfyYC
+---
+id: shackleton
+short: Shackleton, South
+full: Sir Ernest Shackleton, <i>South: The Story of Shackleton's Last Expedition 1914–1917</i> (London: Heinemann, 1919), chapter X.
+url: https://www.gutenberg.org/ebooks/5199
+---
+id: upanishad
+short: Bṛhadāraṇyaka Upaniṣad
+full: <i>Bṛhadāraṇyaka Upaniṣad</i> V.2, in <i>The Upanishads</i>, part II, trans. F. Max Müller, Sacred Books of the East 15 (Oxford: Clarendon Press, 1884).
+url: https://archive.org/details/p2upanishads00mluoft
+---
+id: bradley
+short: Bradley, Appearance and Reality
+full: F. H. Bradley, <i>Appearance and Reality: A Metaphysical Essay</i>, 2nd ed. (London: Swan Sonnenschein, 1897; first ed. 1893), p. 346, the page Eliot's note quotes; the copy consulted is the sixth impression of the second edition (London: George Allen and Unwin, 1916), in which the passage is on p. 346.
+url: https://archive.org/details/appearanceandrea00braduoft
+---
+id: pervigilium
+short: Pervigilium Veneris
+full: <i>Pervigilium Veneris</i>, an anonymous Latin poem, lines 89–93 (the last stanza).
+url: https://la.wikisource.org/wiki/Pervigilium_Veneris
+---
+id: nerval
+short: Nerval, "El Desdichado"
+full: Gérard de Nerval, "El Desdichado," in <i>Les Chimères</i> (1854).
+url: https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/El_Desdichado
+---
+id: kyd
+short: Kyd, The Spanish Tragedy
+full: Thomas Kyd, <i>The Spanish Tragedy</i> (c. 1587), Act IV scene i; the 1615 quarto's title page.
+url: https://www.gutenberg.org/ebooks/6043
+---
+id: tennyson
+short: Tennyson
+full: Alfred Tennyson, <i>The Princess</i> (1847), the song "O Swallow, Swallow"; <i>Maud</i> (1855), Part II, section V.
+url: https://www.gutenberg.org/ebooks/791
+---
+id: swinburne
+short: Swinburne, "Itylus"
+full: Algernon Charles Swinburne, "Itylus," in <i>Poems and Ballads</i> (1866).
+url: https://en.wikisource.org/wiki/Poems_and_Ballads_(Swinburne)/Itylus
+---
+id: whitman
+short: Whitman, "When Lilacs Last in the Dooryard Bloom'd"
+full: Walt Whitman, "When Lilacs Last in the Dooryard Bloom'd," in <i>Sequel to Drum-Taps</i> (1865); <i>Leaves of Grass</i> (1881–82).
+url: https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Memories_of_President_Lincoln/When_Lilacs_Last_in_the_Dooryard_Bloom%27d
+---
+id: gomme
+short: Gomme, Traditional Games
+full: Alice Bertha Gomme, <i>The Traditional Games of England, Scotland, and Ireland</i>, vol. I (London: David Nutt, 1894), "London Bridge," pp. 333–49.
+url: https://archive.org/details/traditionalgames01gommuoft
+---
+id: licensing-act-1921
+short: Licensing Act 1921
+full: Licensing Act 1921 (11 & 12 Geo. 5, c. 42).
+url: https://www.legislation.gov.uk/ukpga/Geo5/11-12/42
+---
+id: hamlet-q1
+short: Hamlet, first quarto (1603)
+full: <i>The Tragicall Historie of Hamlet</i> (London, 1603), the first quarto, whose stage direction reads "Enter Ofelia playing on a Lute, and her haire downe singing."
+url: https://en.wikisource.org/wiki/Hamlet,_First_Quarto,_1603_(Huntington_Shelfmark_69304)
+---
+id: poetry-archive
+short: The Poetry Archive
+full: The Poetry Archive, "T. S. Eliot," the note on its recording of <i>The Waste Land</i>, dated 1933 (once thought to be 1935).
+url: https://poetryarchive.org/poet/t-s-eliot/
+---
+id: pennsound
+short: PennSound
+full: PennSound, University of Pennsylvania, "T. S. Eliot," the Columbia recordings.
+url: https://writing.upenn.edu/pennsound/x/Eliot.php
+---
+id: loc-1947
+short: Library of Congress, recording of 23 May 1947
+full: Library of Congress, Archive of Recorded Poetry and Literature, T. S. Eliot reading at the National Gallery of Art, 23 May 1947.
+url: https://www.loc.gov/item/95770483/
+---
+id: buck-ruby-stamper-1912
+short: Buck, Ruby and Stamper, "That Shakespearian Rag" (1912)
+full: Gene Buck and Herman Ruby (words) and Dave Stamper (music), <i>That Shakesperian Rag</i> (New York: Jos. W. Stern & Co., 1912), sheet music; the copy in the Clara Thomas Archives, York University Libraries.
+url: https://yorkspace.library.yorku.ca/items/62165c1c-bb33-4b9a-9c6b-6992f4546e08
+---
+id: ise
+short: Internet Shakespeare Editions
+full: <i>Internet Shakespeare Editions</i> (University of Victoria), old-spelling transcriptions of the First Folio (1623) and the quartos, with through line numbers (TLN).
+url: https://internetshakespeare.uvic.ca/
+---
+id: cambridge-companion-waste-land-2015
+short: Cambridge Companion to The Waste Land (2015)
+full: <i>The Cambridge Companion to The Waste Land</i>, ed. Gabrielle McIntire (Cambridge: Cambridge University Press, 2015); ch. 7, Jewel Spears Brooker, "Dialectical Collaboration: Editing The Waste Land".
+---
+id: cambridge-companion-ww1-poetry-2013
+short: Cambridge Companion to the Poetry of the First World War (2013)
+full: <i>The Cambridge Companion to the Poetry of the First World War</i>, ed. Santanu Das (Cambridge: Cambridge University Press, 2013).
+---
+id: hansard
+short: Hansard
+full: <i>Parliamentary Debates</i> (Hansard), House of Lords, fifth series, read in the Historic Hansard transcripts; each debate is cited by date, volume and column.
+url: https://api.parliament.uk/historic-hansard/
+---
+id: fuld-1966
+short: Fuld (1966)
+full: James J. Fuld, <i>The Book of World-Famous Music: Classical, Popular and Folk</i> (New York: Crown, 1966; revised editions, New York: Dover, 1971, 1985, 1995), the entries "Goodnight Ladies" and "Merrily We Roll Along".
+---
+id: ballad-index
+short: Waltz and Engle, Traditional Ballad Index
+full: Robert B. Waltz and David G. Engle, <i>The Traditional Ballad Index</i> (online), the entry "Goodnight Ladies".
+url: https://balladindex.org/Ballads/FSWB258A.html
+---
+id: williams-1968
+short: Williams (1968)
+full: Helen Williams, <i>T. S. Eliot: The Waste Land</i> (London: Edward Arnold, 1968).
+---
+id: wilks-1971
+short: Wilks (1971)
+full: A. John Wilks, <i>A Critical Commentary on T. S. Eliot's "The Waste Land"</i> (London: Macmillan, 1971).
+---
+id: unger-1966
+short: Unger (1966)
+full: Leonard Unger, <i>T. S. Eliot: Moments and Patterns</i> (Minneapolis: University of Minnesota Press, 1966).
+---
+id: litz-1973
+short: Litz (1973)
+full: <i>Eliot in His Time: Essays on the Occasion of the Fiftieth Anniversary of The Waste Land</i>, ed. A. Walton Litz (Princeton: Princeton University Press, 1973).
+---
+id: montgomery-1979
+short: Montgomery (1979)
+full: Marion Montgomery, <i>Eliot's Reflective Journey to the Garden</i> (Troy, N.Y.: Whitston, 1979).
+---
+id: gish-1988
+short: Gish (1988)
+full: Nancy K. Gish, <i>The Waste Land: A Poem of Memory and Desire</i> (Boston: Twayne, 1988).
+---
+id: thormahlen-1978
+short: Thormählen (1978)
+full: Marianne Thormählen, <i>The Waste Land: A Fragmentary Wholeness</i> (Lund: Gleerup, 1978).
+---
+id: cox-hinchliffe-1968
+short: Cox and Hinchliffe (1968)
+full: <i>T. S. Eliot: The Waste Land: A Casebook</i>, ed. C. B. Cox and Arnold P. Hinchliffe (London: Macmillan, 1968).
+---
+id: ocallaghan-2009
+short: O'Callaghan (2009)
+full: Michelle O'Callaghan, <i>Thomas Middleton, Renaissance Dramatist</i> (Edinburgh: Edinburgh University Press, 2009), ch. 8, "Politics and Theatre: A Game at Chess".
+---
+id: charney-1988
+short: Charney (1988)
+full: Maurice Charney, <i>Hamlet's Fictions</i> (New York and London: Routledge, 1988).
+---
+id: middleton-wbw-gill-1968
+short: Women Beware Women, ed. Gill (1968)
+full: Thomas Middleton, <i>Women Beware Women</i>, ed. Roma Gill, New Mermaids (London: Ernest Benn, 1968).
+---
+id: greek-anthology
+short: Greek Anthology
+full: <i>The Greek Anthology</i>, with an English translation by W. R. Paton, vol. II, Loeb Classical Library (London: William Heinemann; New York: G. P. Putnam's Sons, 1917); the sepulchral epigrams for the drowned are in book VII.
+url: https://archive.org/details/greekanthologyii0002pato
+---
+id: eliot-dry-salvages
+short: Eliot, The Dry Salvages (1941)
+full: T. S. Eliot, <i>The Dry Salvages</i> (London: Faber and Faber, 1941), the headnote placing the rocks, with their beacon, off the north-east coast of Cape Ann, Massachusetts. Described, not quoted: a text after 1929.
+---
+id: deutsch-1952
+short: Deutsch (1952)
+full: Babette Deutsch, <i>Poetry in Our Time</i> (New York: Henry Holt, 1952).
+---
+id: eliot-pound-selected-1928
+short: Eliot, introduction to Pound's Selected Poems (1928)
+full: T. S. Eliot, introduction to Ezra Pound, <i>Selected Poems</i>, ed. T. S. Eliot (London: Faber and Gwyer, 1928). Quoted in a phrase only.
+---
+id: chandran-2005
+short: Chandran (2005)
+full: K. Narayana Chandran, "T. S. Eliot and W. E. Henley: A Source for the 'Water-dripping Song' in <i>The Waste Land</i>," <i>English Language Notes</i> 43, no. 1 (September 2005), 59–62.
+---
+id: mccue-2014
+short: McCue (2014)
+full: Jim McCue, "Did Eliot Mis-ascribe the 'Water-dripping Song' in <i>The Waste Land</i>?," <i>Notes and Queries</i> 61, no. 1 (March 2014), 118–19.
+---
+id: irmscher-2014
+short: Irmscher (2014)
+full: Christoph Irmscher, "Listening to Eliot's Thrush," <i>Partial Answers: Journal of Literature and the History of Ideas</i> 12, no. 2 (June 2014), 231–49.
+---
+id: all-about-birds
+short: All About Birds, "Hermit Thrush"
+full: Cornell Lab of Ornithology, <i>All About Birds</i>, "Hermit Thrush: Sounds."
+url: https://www.allaboutbirds.org/guide/Hermit_Thrush/sounds
+---
+id: hesse-criterion-1922
+short: Hesse, "Recent German Poetry" (1922)
+full: Hermann Hesse, "Recent German Poetry," <i>The Criterion</i> 1, no. 1 (October 1922), 89–93.
+url: https://theworld.com/~raparker/exploring/tseliot/people/hesse.html
+---
+id: ramayana
+short: Ramayana
+full: Vālmīki, <i>The Rámáyan of Válmíki</i>, translated into English verse by Ralph T. H. Griffith, 5 vols (London: Trübner; Benares: E. J. Lazarus, 1870–1874); bk. I, canto XXXVI, "The Birth of Gangá."
+url: https://www.gutenberg.org/ebooks/24869
+---
+id: deussen-1897
+short: Deussen, Sechzig Upanishad's
+full: Paul Deussen, <i>Sechzig Upanishad's des Veda</i>, aus dem Sanskrit übersetzt (Leipzig: F. A. Brockhaus, 1897), the translation Eliot's note on line 401 names.
+url: https://archive.org/details/sechzigupanishad00deusuoft
+---
+id: eliot-knowledge-experience
+short: Eliot, Knowledge and Experience (1964)
+full: T. S. Eliot, <i>Knowledge and Experience in the Philosophy of F. H. Bradley</i> (London: Faber and Faber; New York: Farrar, Straus and Company, 1964), the Harvard dissertation of 1916.
+---
+id: opie-1951
+short: Opie (1951)
+full: Iona and Peter Opie, <i>The Oxford Dictionary of Nursery Rhymes</i> (Oxford: Clarendon Press, 1951), the entry "London Bridge is broken down."
+---
+id: ara-vos-prec
+short: Ara Vos Prec (1920)
+full: T. S. Eliot, <i>Ara Vos Prec</i> (London: The Ovid Press, 1920); the title page misprints the title "Ara Vus Prec."

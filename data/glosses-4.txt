@@ -9,7 +9,14 @@ title: Eliot translating Eliot
 quote: Phlébas, le Phénicien, pendant quinze jours noyé,<br>Oubliait les cris des mouettes et la houle de Cornouaille,<br>Et les profits et les pertes, et la cargaison d’étain:<br>Un courant de sous-mer l’emporta très loin,<br>Le repassant aux étapes de sa vie antérieure.<br>Figurez-vous donc, c’était un sort pénible;<br>Cependant, ce fut jadis un bel homme, de haute taille.
 trans: Phlebas the Phoenician, drowned a fortnight, forgot the cries of the gulls and the swell off Cornwall, and the profits and the losses, and the cargo of tin: an undersea current carried him very far away, taking him back through the stages of his former life. Just imagine, it was a hard fate; and yet he was once a handsome man, and tall.
 body:
-The ten lines are Eliot's English version of the last stanza of his French poem "Dans le Restaurant", written in 1917 and published in 1918. Eliot gave no note on any line of Part IV, the only section without one, but two of his other notes cover it. The note on line 46 says that "Death by Water is executed in Part IV": Phlebas is the drowned Phoenician Sailor of Madame Sosostris's pack (47), the card that comes with Ariel's line about Ferdinand's drowned father, "Those are pearls that were his eyes" (48). The note on line 218 says that the one-eyed merchant "melts into the Phoenician Sailor", who "is not wholly distinct from Ferdinand Prince of Naples". "Gentile or Jew" pairs the two as St Paul often does (for instance Romans 2:9–10), and is generally taken to mean everyone. The wheel is a ship's wheel, and because Madame Sosostris also turns up "the Wheel" (51), readers hear the Wheel of Fortune in it too. Frazer describes an effigy of Adonis that the women of Alexandria carried to the shore and committed to the sea (Weston has the same rite in brief), and many critics have set Phlebas beside it; Eliot's notes do not.
+The ten lines are Eliot's English version of the last stanza of his French poem "Dans le Restaurant", written in 1917 or 1918 and published in September 1918. Eliot gave no note on any line of Part IV, the only section without one, but two of his other notes cover it. The note on line 46 says that "Death by Water is executed in Part IV": Phlebas is the drowned Phoenician Sailor of Madame Sosostris's pack (47), the card that comes with Ariel's line about Ferdinand's drowned father, "Those are pearls that were his eyes" (48). The note on line 218 says that the one-eyed merchant "melts into the Phoenician Sailor", who "is not wholly distinct from Ferdinand Prince of Naples". "Gentile or Jew" pairs the two as St Paul often does (for instance Romans 2:9–10), and is generally taken to mean everyone. The wheel is a ship's wheel, and because Madame Sosostris also turns up "the Wheel" (51), readers hear the Wheel of Fortune in it too. Frazer describes an effigy of Adonis that the women of Alexandria carried to the shore and committed to the sea (Weston has the same rite in brief), and many critics have set Phlebas beside it; Eliot's notes do not.
+sources: The Little Review, September 1918, pp. 12–13
+King James Bible, Romans 2:9–10
+Frazer, The Golden Bough (1922), ch. XXXII
+Weston, From Ritual to Romance, ch. IV
+Schuchard, "Eliot in the Wartime Classroom"
+Martz (1993)
+Southam, Guide, note on Part IV
 ---
 id: death-by-water-draft
 line: 312
@@ -18,3 +25,9 @@ kind: draft
 title: Some ninety lines, cut to ten
 body:
 In the typescript this section ran to some ninety lines, of which the published ten are the last. Before them came a sea voyage told by one of the crew of a fishing schooner: out past the Dry Salvages, the rocks off Cape Ann, to the fishing banks, where the gear fails, a song is heard one night on watch, and the ship drives towards a wall of ice and is lost. Eliot said later that the passage had been inspired by the Ulysses canto of Dante's <i>Inferno</i>. Pound wrote "Bad" on the manuscript and, once he had the typescript, went through the voyage line by line and spared so little that in the end the whole of it went; the ten lines on Phlebas survived. Eliot asked, "Perhaps better omit Phlebas also???" Pound replied: "I DO advise keeping Phlebas. In fact I more'n advise. Phlebas is an integral part of the poem; the card pack introduces him, the drowned phoen. sailor. And he is needed ABSOlootly where he is. Must stay in."
+sources: Facsimile (1971), the typescript of Part IV, and p. 129
+Pound, Letters, ed. Paige, nos. 182–183
+Paris Review interview (1959)
+Ellmann (1971)
+Perloff (1981)
+T. S. Eliot Foundation, "T. S. Eliot's Gloucester"

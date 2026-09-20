@@ -30,6 +30,15 @@ In the typescript Part II was headed "In the Cage"; it was renamed "A Game of Ch
 Ezra Pound went through the typescript. Against the opening lines he wrote "too tum-pum at a stretch", and Eliot cut "swinging" from line 78, which is why that line is a foot short. In the dialogue that follows, the typescript had the man think that the two of them "met first" in rats' alley; the phrase was cut. The typescript's answer to "What is the wind doing?" was two lines about the wind carrying away the dead; the published text has "Nothing again nothing". Pound also queried "closed carriage" as dated; it became "a closed car" (line 136).
 
 Eliot's wife Vivien read the section too. Against the opening she wrote that she did not see what he had in mind; beside the nervous dialogue, "WONDERFUL" and, up the margin, "Yes & wonderful wonderful"; at the end of the pub scene, "Splendid last lines". Two lines of the pub scene are hers, pencilled in the margin: 153, "If you dont like it you can get on with it", and 164, "What you get married for if you dont want children?", which replaced a line of Eliot's own. She asked for a line after 137, "The ivory men make company between us", to be taken out, and it was; Eliot wrote it back in from memory in a fair copy he made in 1960 to be sold for the London Library.
+sources: Facsimile (1971), pp. 10–11
+Ricks and McCue, textual notes on lines 77–79, 78 and 120–122
+Pound, Letters, ed. Paige, nos. 181–183
+Miller (1977)
+Gish (1988)
+Thormählen (1978)
+Montgomery (1979)
+Cambridge Companion to The Waste Land (2015), ch. 7 (Brooker)
+Cox and Hinchliffe (1968)
 ---
 id: fresca
 part: 3
@@ -58,13 +67,28 @@ line: 312
 title: The voyage that was cut
 body:
 "Death by Water" ran to some ninety lines in the typescript, of which the published ten are the last. It opened with rhymed quatrains about a sailor on shore leave and went on, in blank verse, to a fishing voyage told by one of the crew. The schooner goes out past the Dry Salvages, the rocks off Cape Ann, to the fishing banks. On the way out the gear fails; at the banks the fish run well; one night on watch the narrator hears three women singing high up the mast; then a wall of ice stands dead ahead and the ship is lost. Eliot said later that the passage had been inspired by the Ulysses canto of Dante's <i>Inferno</i>; critics hear Tennyson's "Ulysses" in it as well. Pound wrote "Bad" on the manuscript, adding that he could not attack it until he had a typescript, and on the typescript he went through the voyage line by line and spared so little that in the end the whole of it went; the ten lines on Phlebas were left. Eliot asked, "Perhaps better omit Phlebas also???" Pound replied: "I DO advise keeping Phlebas. In fact I more'n advise. Phlebas is an integral part of the poem; the card pack introduces him, the drowned phoen. sailor. And he is needed ABSOlootly where he is. Must stay in." Among the short poems Eliot thought of adding to the sequence was "Dirge", a parody of Ariel's song in which the drowned man is Bleistein, the Jewish caricature of "Burbank with a Baedeker" (1919), and Ariel's sea-change becomes decay. Pound advised leaving the additions out, and Eliot agreed.
+sources: Facsimile (1971), the typescript of Part IV, and p. 129
+Pound, Letters, ed. Paige, nos. 181–183
+Paris Review interview (1959)
+Eliot, The Dry Salvages (1941), headnote
+Ellmann (1971)
+Edmund Wilson (1971)
+Perloff (1981)
 ---
 id: ok-from-here
 part: 5
 line: 322
 title: "OK from here on I think"
 body:
-At the head of the typescript of Part V Pound wrote "OK from here on I think," and cut almost nothing; he had cut heavily in the earlier parts. Eliot wrote the section at Lausanne between 22 November 1921 and 2 January 1922, while under treatment by Dr Roger Vittoz. In an essay on Pascal in 1931 he wrote that in some forms of illness "long passages may be produced which require little or no retouch," a sentence readers have applied to Part V, though Eliot did not. Several passages of the poem are older than 1921. Lines 322 to 330 draw on a fragment beginning "After the turning of the inspired days," and lines 378 to 385 on another beginning "So through the evening, through the violet air," both printed in the 1971 facsimile; the "red rock" of Part I came from "The Death of Saint Narcissus" (1915), and Phlebas from "Dans le Restaurant" (1918).
+At the head of the typescript of Part V Pound wrote "OK from here on I think," and cut almost nothing; he had cut heavily in the earlier parts. Eliot wrote the section at Lausanne between late November 1921 and 2 January 1922, while under treatment by Dr Roger Vittoz. In an essay on Pascal in 1931 he wrote that in some forms of illness "long passages may be produced which require little or no retouch," a sentence readers have applied to Part V, though Eliot did not. Several passages of the poem are older than 1921. Lines 322 to 330 draw on a fragment beginning "After the turning of the inspired days," and lines 378 to 385 on another beginning "So through the evening, through the violet air," both printed in the 1971 facsimile; the "red rock" of Part I came from "The Death of Saint Narcissus" (1915), and Phlebas from "Dans le Restaurant" (1918).
+sources: Facsimile (1971), the typescript of Part V, and pp. 108–109 and 112
+Keane (2011)
+The Spectator, 1 January 1972
+Gold (2000)
+Rainey, Revisiting The Waste Land
+Eliot, "The Pensées of Pascal" (1931)
+Miller (1977)
+Ricks and McCue, textual history, notes on lines 322 and 377–378
 ---
 id: manuscript-fate
 part: 5
@@ -72,3 +96,7 @@ line: 434
 title: What happened to the papers
 body:
 In October 1922 Eliot gave the drafts, with Pound's pencil and his wife Vivien's on them, to John Quinn, the New York lawyer and collector who had negotiated his American contracts; Quinn accepted them on condition that he could buy the notebook of Eliot's early poems, for which he paid $140. After Quinn's death in 1924 the papers passed to his sister and then to her daughter, Mary Conroy, and were thought lost. She found them in storage in the early 1950s and sold them to the Berg Collection of the New York Public Library in 1958; the library announced the acquisition in October 1968, nearly four years after Eliot's death. Valerie Eliot's facsimile edition of 1971 printed every page. Eliot himself said in 1946 that the poem had left Pound's hands "reduced to about half its size."
+sources: Menand (1997)
+Edmund Wilson (1971)
+Facsimile (1971), introduction
+Eliot, "Ezra Pound," Poetry (1946)

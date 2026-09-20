@@ -7,6 +7,12 @@ source: luke24
 title: The Passion
 body:
 Lines 322 to 330 look back on the arrest, trial and death of Christ without naming him. The torchlight is the arrest in the garden at night, when Judas comes "with lanterns and torches and weapons" (John 18:3). The gardens are Gethsemane, where he prayed "being in an agony" (Luke 22:44). John says of that night, when Peter stood warming himself at a fire in the high priest's courtyard, that "it was cold" (18:18). "The shouting and the crying" is the crowd; "Prison and palace" has been read as the high priest's house and Pilate's. No Gospel has thunder at the crucifixion (Matthew has an earthquake, 27:51); the "thunder of spring over distant mountains" is the poem's own. The lines stop at the death: "He who was living is now dead." Eliot's headnote to Part V names three themes for what follows: "the journey to Emmaus, the approach to the Chapel Perilous (see Miss Weston's book) and the present decay of eastern Europe." He wrote the section at Lausanne between late November 1921 and the first days of 1922. Pound, who had cut heavily in the earlier parts, wrote at the head of the typescript "OK from here on I think."
+sources: King James Bible, John 18:3 and 18:18, Luke 22:44, Matthew 27:51
+Facsimile (1971), the typescript of Part V
+Keane (2011)
+The Spectator, 1 January 1972
+Gold (2000)
+Rainey, Revisiting The Waste Land
 ---
 id: no-water
 line: 331
@@ -18,6 +24,15 @@ body:
 From line 331 to line 359 there is no punctuation, and the lines keep returning to two words, "rock" and "water." Eliot's headnote gives the first part of the section three themes: the journey to Emmaus, the approach to the Chapel Perilous, and "the present decay of eastern Europe." The road through the mountains can be read as any of them. Lines 346 to 358 imagine the water that is not there, and end with the sound of a bird.
 
 Eliot's note on line 357 names the bird, the hermit-thrush, "which I have heard in Quebec County," and quotes Chapman's <i>Handbook of Birds of Eastern North America</i> (1895) on the "purity and sweetness of tone" of its song. His copy of Chapman was a present from his mother for his fourteenth birthday, in 1902. The note calls the bird's "water-dripping song" justly celebrated; the phrase is not Chapman's, and no source for it is agreed; ornithologists describe the song as a series of flute-like phrases. Commentators also point to the hermit-thrush of Whitman's "When Lilacs Last in the Dooryard Bloom'd," the elegy often cited for the lilacs of line 2; Eliot said in 1928 that he had not read Whitman until late in life. Recordings of the bird are in the listening room.
+sources: Chapman, Handbook (1895), p. 400
+Whitman, "When Lilacs Last in the Dooryard Bloom'd", section 4
+Eliot, introduction to Pound's Selected Poems (1928)
+T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
+Southam, Guide, note on line 357
+Chandran (2005)
+McCue (2014)
+Irmscher (2014)
+All About Birds, "Hermit Thrush"
 ---
 id: third
 line: 360
@@ -29,6 +44,8 @@ title: Emmaus, and the men on South Georgia
 quote: I know that during that long and racking march of thirty-six hours over the unnamed mountains and glaciers of South Georgia it seemed to me often that we were four, not three.
 body:
 In Luke 24, on the day of the resurrection, two disciples walking to Emmaus are joined by a stranger, "but their eyes were holden that they should not know him"; he expounds the scriptures to them, breaks bread at supper, and is gone: "he vanished out of their sight." Eliot's note gives the second source from memory ("I forget which, but I think one of Shackleton's"): the crossing of South Georgia by Shackleton, Worsley and Crean on 19 and 20 May 1916, at the end of the <i>Endurance</i> expedition, told in Shackleton's <i>South</i> (1919). Each of the three men felt that a fourth was walking with them, and said nothing of it until afterwards. Eliot's note on the Tarot pack at line 46 says he associates the Hanged Man "with the hooded figure in the passage of the disciples to Emmaus in Part V"; that is the card Madame Sosostris could not find. Some readers also hear Tiresias in "I do not know whether a man or a woman"; Eliot's notes do not say so.
+sources: King James Bible, Luke 24:13–31
+Shackleton, South, ch. X
 ---
 id: hordes
 line: 368
@@ -42,6 +59,10 @@ quote: Schon ist halb Europa, schon ist zumindest der halbe Osten Europas auf de
 trans: Already half of Europe, already at least half of eastern Europe, is on the way to chaos, driving drunk in holy delusion along the edge of the abyss and singing as it goes, singing drunken hymns as Dmitri Karamazov sang. The bourgeois laughs at these songs, offended; the saint and the seer hear them with tears.
 body:
 Eliot's note on these lines quotes Hermann Hesse's <i>Blick ins Chaos</i> (Bern, 1920), three essays, two of them on Dostoevsky; the passage is the close of the first, "The Brothers Karamazov, or the Downfall of Europe." Eliot wrote to Hesse in March 1922 to praise the book, visited him at Montagnola on 28 May 1922, and printed him in the first number of <i>The Criterion</i>, October 1922, beside <i>The Waste Land</i>. The headnote calls this theme "the present decay of eastern Europe," and the "hooded hordes swarming / Over endless plains" are usually taken to refer to it. "Maternal lamentation" has been connected with the women who "bewailed and lamented" Christ on the way to the cross (Luke 23:27–28). Lines 375 to 377 name five cities and then "Unreal," the word of "Unreal City" at lines 60 and 207, this time with no city after it.
+sources: Hesse, Blick ins Chaos, "Die Brüder Karamasoff oder der Untergang Europas"
+Letters, vol. 1, Eliot to Hermann Hesse, 13 March 1922
+Hesse, "Recent German Poetry" (1922)
+King James Bible, Luke 23:27–28
 ---
 id: bats
 line: 378
@@ -51,6 +72,9 @@ kind: draft
 title: From an earlier fragment
 body:
 These lines rework an earlier fragment among Eliot's papers, beginning "So through the evening, through the violet air," which is printed in the 1971 facsimile of the drafts. The woman fiddling on her hair, the bats with baby faces, the towers upside down, the bells and the voices from cisterns and wells are already there. The bells that "kept the hours" repeat line 67, where Saint Mary Woolnoth kept them; the "violet hour" of lines 215 and 220 becomes "violet light." Commentators hear Jeremiah 2:13, "broken cisterns, that can hold no water," in "empty cisterns and exhausted wells"; Eliot's notes do not mention it.
+sources: Facsimile (1971), p. 112
+Ricks and McCue, textual history, note on lines 377–378
+King James Bible, Jeremiah 2:13
 ---
 id: chapel
 line: 389
@@ -61,6 +85,9 @@ source: weston
 title: The Chapel Perilous
 body:
 Weston's chapter "The Perilous Chapel" collects the versions of an adventure in which the knight, sheltering in a chapel in a waste place, finds a dead body on the altar, or sees a black hand put out the candle and hears "strange and threatening voices"; she reads it as a test of initiation on the way to the Grail. In the poem the chapel is empty, without windows, its door swinging: "Dry bones can harm no one." "Co co rico" is the French spelling of a cock-crow. Commentators compare the cock that crowed at Peter's denial (Matthew 26:74) and the cock of <i>Hamlet</i> I.i, "the trumpet to the morn," at whose crowing the ghost fades. The "damp gust / Bringing rain" is the first rain in the poem since the shower of line 9. The poem does not say that it falls; at line 397 the leaves are still waiting for it.
+sources: Weston, From Ritual to Romance, ch. XIII
+King James Bible, Matthew 26:74
+Shakespeare, Hamlet I.i
 ---
 id: ganga
 line: 396
@@ -71,6 +98,8 @@ lang: Sanskrit
 title: The river and the mountain
 body:
 Ganga is the Ganges; Himavant, "the snowy," is the Himalaya, in the Ramayana and the Puranas the mountain who is the goddess Ganga's father. The scene moves from the chapel in the mountains to India before the monsoon breaks. Then the thunder speaks, in Sanskrit, which Eliot studied for two years at Harvard, 1911 to 1913, under Charles Lanman. In <i>After Strange Gods</i> (1934) he wrote that those years, and a year of Patañjali's metaphysics under James Woods, "left me in a state of enlightened mystification."
+sources: Ramayana, bk. I, canto XXXVI
+Eliot, After Strange Gods (1934)
 ---
 id: da
 line: 401
@@ -83,6 +112,8 @@ title: What the thunder said
 quote: The threefold offspring of Prajāpati, gods, men and demons, dwelt with their father as students. When they had finished, the gods said: Teach us. He spoke one syllable, “Da,” and asked: Did you understand? They said: We understood; you told us, <i>dāmyata</i>, restrain yourselves. Then the men: Teach us. “Da.” We understood; you told us, <i>datta</i>, give. Then the demons: Teach us. “Da.” We understood; you told us, <i>dayadhvam</i>, be compassionate. This is what the divine voice, the thunder, repeats: da, da, da: restrain yourselves, give, be compassionate.
 body:
 <i>Bṛhadāraṇyaka Upaniṣad</i> V.2, given above in paraphrase; Eliot's note numbers it "5, 1." Gods, men and demons ask their father Prajāpati for teaching. To each he says "Da," and each hears a different word in it: the gods <i>dāmyata</i>, restrain yourselves; the men <i>datta</i>, give; the demons <i>dayadhvam</i>, be compassionate. "The divine voice of thunder repeats the same, Da Da Da" (Max Müller's translation, 1884). Eliot's note glosses the three as "Give, sympathise, control" and points to Deussen's German translation of 1897. The poem takes the words in the order <i>datta, dayadhvam, damyata</i> and follows each with a passage in its own voice; in the usual reading each passage admits that the command was not kept.
+sources: Bṛhadāraṇyaka Upaniṣad V.2
+Deussen, Sechzig Upanishad's
 ---
 id: datta
 line: 402
@@ -94,6 +125,7 @@ title: Give
 quote: . . . they’ll remarry<br>Ere the worm pierce your winding-sheet, ere the spider<br>Make a thin curtain for your epitaphs.
 body:
 The one thing given is "The awful daring of a moment's surrender / Which an age of prudence can never retract," and "by this, and this only, we have existed." It is not in the obituaries, nor in "memories draped by the beneficent spider," nor "under seals broken by the lean solicitor," the will opened after a death. For the spider Eliot's note quotes Flamineo in Webster's <i>The White Devil</i>, Act V scene vi, on widows who remarry "ere the spider / Make a thin curtain for your epitaphs."
+sources: Webster, The White Devil V.vi
 ---
 id: dayadhvam
 line: 412
@@ -107,6 +139,10 @@ quote: e io senti’ chiavar l’uscio di sotto<br>a l’orribile torre; ond’i
 trans: and I heard them nailing up the door below of the horrible tower; at which I looked into the faces of my sons without a word.
 body:
 <i>Inferno</i> XXXIII, 46 to 48: Count Ugolino, shut in a tower at Pisa with his sons and grandsons to starve, hears the door below "chiavar," which can mean nailed up or locked; Eliot's "key" takes the second sense. Eliot's note adds a page of <i>Appearance and Reality</i> (1893) by F. H. Bradley, on whom Eliot wrote his Harvard dissertation: "My external sensations are no less private to myself than are my thoughts or my feelings . . . the whole world for each is peculiar and private to that soul." Eliot's note sets Bradley's closed circle beside the "prison" of lines 414 and 415, where the key is thought of, not turned. Coriolanus is Shakespeare's Roman general, banished from Rome for his contempt of its people; he leads its enemies against it, yields at last to his mother's plea to spare it, and is killed for yielding. "A broken Coriolanus" is revived here only "for a moment," by "aetherial rumours," at nightfall.
+sources: Dante, Inferno XXXIII 46–48
+Bradley, Appearance and Reality, p. 346
+Shakespeare, Coriolanus III.iii, V.iii and V.vi
+Eliot, Knowledge and Experience (1964)
 ---
 id: damyata
 line: 419
@@ -116,6 +152,8 @@ kind: gloss
 title: Control
 body:
 The third word is answered by a boat under control: "The boat responded / Gaily, to the hand expert with sail and oar," on a calm sea. Eliot sailed off Gloucester and Cape Ann, Massachusetts, in the summers of his youth, and the boat is generally taken as a memory of it; the Dry Salvages of his later poem lie off that coast. The sentence that follows is conditional, "your heart would have responded / Gaily, when invited," and the "you" is not named.
+sources: Eliot, The Dry Salvages (1941), headnote
+T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
 ---
 id: fisher-king
 line: 424
@@ -128,6 +166,9 @@ quote: Set thine house in order: for thou shalt die, and not live.
 cite: Isaiah 38:1
 body:
 Eliot's note points to Weston's chapter on the Fisher King, the wounded keeper of the Grail whose land lies waste with him. Weston argues that his title comes from the fish as an ancient symbol of life, and dismisses the romances' own explanation, that the king fishes for pastime because his wound keeps him from riding, as a later invention. "Shall I at least set my lands in order?" echoes Isaiah 38:1, the prophet's message to the dying king Hezekiah: "Set thine house in order: for thou shalt die, and not live." Hezekiah turned his face to the wall and wept, and was given fifteen more years. Eliot's notes do not mention Isaiah; the poem says "lands," not "house," and the question gets no answer.
+sources: Weston, From Ritual to Romance, ch. IX
+King James Bible, Isaiah 38:1–5
+Kenner (1959)
 ---
 id: fragments
 line: 431
@@ -151,3 +192,17 @@ body:
 <b>Datta. Dayadhvam. Damyata.</b> The thunder's three words, repeated without the passages that answered them.
 
 <b>Shantih shantih shantih.</b> Eliot's note: "Repeated as here, a formal ending to an Upanishad." "The Peace which passeth understanding" is Philippians 4:7 in the words of the Anglican blessing; the 1922 note called it "a feeble translation of the content of this word," and from <i>Poems 1909–1925</i> (1925) the note reads "our equivalent to this word."
+sources: Opie (1951), "London Bridge is broken down"
+Gomme, Traditional Games, vol. I, pp. 333–349
+Dante, Purgatorio XXVI 140–148
+Ara Vos Prec (1920)
+Pervigilium Veneris, lines 89–93
+Poems 1909–1925, The Waste Land, line 428 and the note on line 433
+Rainey, Annotated Waste Land, note on line 428
+Tennyson, The Princess, Part IV
+Swinburne, "Itylus"
+Ovid, Metamorphoses VI
+Nerval, "El Desdichado"
+Kyd, The Spanish Tragedy IV.i, and the title page of the 1615 quarto
+King James Bible, Philippians 4:7
+Book of Common Prayer, the Order for Holy Communion, the Blessing
