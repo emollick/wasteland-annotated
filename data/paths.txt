@@ -24,10 +24,10 @@ line: 139
 text: A pub at closing time. The poem's most ordinary speech, and its most overheard. The publican's shout is also the poem's clock running out.
 ---
 line: 215
-text: Tiresias, who has been both a man and a woman, watches a typist's evening. Eliot's note says what he sees "is the substance of the poem." Decide whether you believe the note.
+text: Tiresias, who in Ovid was a woman for seven years, watches the typist and her visitor. Eliot's note at 218 says what Tiresias sees "is the substance of the poem", a claim critics have disputed.
 ---
 line: 266
-text: The river sings. The lines shorten to two words. This is the poem as music: read it for rhythm before sense.
+text: The Thames-daughters' song, in short lines, with the refrain of Wagner's Rhine-daughters (Eliot's note gives <i>Götterdämmerung</i>, III, i). Worth reading aloud.
 ---
 line: 312
 text: Ten lines. A drowned man. The tarot's warning fulfilled, gently. Read it twice.
@@ -64,16 +64,16 @@ line: 172
 text: Ophelia leaves the pub. Her next scene is the brook.
 ---
 line: 176
-text: "Sweet Thames, run softly." A wedding river with the wedding removed.
+text: "Sweet Thames, run softly, till I end my song": Spenser's refrain from the <i>Prothalamion</i>, a wedding poem. Here the nymphs "are departed" and the river "bears no" litter.
 ---
 line: 182
-text: "By the waters of Leman I sat down and wept." Babylon's river, and Lake Geneva, where the poem was written.
+text: "By the waters of Leman I sat down and wept." Psalm 137 in the Prayer Book wording, "By the waters of Babylon we sat down and wept", with Lake Geneva (Lac Léman) in Babylon's place. Eliot finished the poem at Lausanne, on the lake, in the winter of 1921–22.
 ---
 line: 189
-text: Fishing in the dull canal. The Fisher King by the gasworks.
+text: "While I was fishing in the dull canal", behind the gashouse. The fisher is usually taken as the Fisher King of Weston's book, whose wound lays his land waste.
 ---
 line: 266
-text: "The river sweats / Oil and tar." The Thames as it was in 1921, then as it was in 1561.
+text: "The river sweats / Oil and tar." The working Thames of Eliot's day; then, at 279, Elizabeth's barge in 1561, from the Spanish ambassador's letter that Eliot's note quotes.
 ---
 line: 312
 text: Phlebas. The current under sea. The tarot fulfilled.
@@ -180,16 +180,16 @@ line: 172
 text: Ophelia, leaving.
 ---
 line: 199
-text: Mrs Porter and her daughter, in a soldiers' song.
+text: Mrs Porter and her daughter, from a bawdy song of Australian troops that Eliot's note says reached him from Sydney.
 ---
 line: 222
-text: The typist, who "smooths her hair with automatic hand."
+text: The typist, who "smoothes her hair with automatic hand."
 ---
 line: 279
-text: Elizabeth, in a barge with Leicester, talking nonsense.
+text: Elizabeth and Leicester in a barge, where they "began to talk nonsense" (the Spanish ambassador's words, in Eliot's note).
 ---
 line: 292
-text: Three Thames-daughters: Highbury, Moorgate, Margate. And La Pia of Siena behind the first.
+text: The three Thames-daughters, who Eliot's note says speak in turn, from Highbury, Moorgate and Margate. The first echoes La Pia in Dante, "Siena made me, Maremma unmade me" (Eliot's note at 293).
 ---
 line: 368
 text: "Murmur of maternal lamentation." The women at the cross, and the mothers of Europe.
@@ -217,28 +217,28 @@ line: 70
 text: Mylae, the sea battle of 260 BC.
 ---
 line: 182
-text: Leman: Lausanne, where the poem was finished.
+text: Leman is Lake Geneva. Eliot was at Lausanne, on the lake, from late November 1921 to early January 1922, and finished the poem there.
 ---
 line: 209
-text: Smyrna, which burned in September 1922.
+text: Smyrna, now İzmir, the chief port of Asia Minor, through which the Levant's dried fruit was shipped; Eliot's note on 211 gives his reading of the line's trade shorthand.
 ---
 line: 213
-text: The Cannon Street Hotel, and a weekend at the Metropole, Brighton.
+text: The Cannon Street Hotel, at the City station; and a weekend at the Metropole, usually taken as the Brighton hotel.
 ---
 line: 245
-text: Thebes, Tiresias's city.
+text: Thebes, in Greece, Tiresias's city.
 ---
 line: 258
-text: The Strand, Queen Victoria Street, Lower Thames Street, St Magnus Martyr.
+text: The Strand, Queen Victoria Street, Lower Thames Street and, by London Bridge, Wren's church of St Magnus Martyr (Eliot's note at 264).
 ---
 line: 275
-text: Greenwich Reach, the Isle of Dogs.
+text: Downstream of the City: Greenwich Reach, with the Isle of Dogs on its north bank.
 ---
 line: 293
-text: Highbury, Richmond, Kew, Moorgate, Margate.
+text: Highbury, in north London; Richmond and Kew, up the river; Moorgate, in the City; Margate, on the Kent coast.
 ---
 line: 307
-text: Carthage, Augustine's cauldron.
+text: Carthage, where Augustine went as a student; his <i>Confessions</i> call it "a cauldron of unholy loves" (Eliot's note).
 ---
 line: 375
 text: "Jerusalem Athens Alexandria / Vienna London / Unreal."
@@ -257,7 +257,7 @@ line: 99
 text: Philomel, the nightingale, "Jug Jug."
 ---
 line: 203
-text: "Twit twit twit / Jug jug jug jug jug jug." The nightingale again, and "Tereu," the name of her rapist.
+text: "Twit twit twit / Jug jug jug jug jug jug." The nightingale again (line 100), singing the words Elizabethan poets gave her song; "Tereu" is both one of those words and the name of Tereus, who raped her.
 ---
 line: 313
 text: "the cry of gulls," which Phlebas forgot.
@@ -359,10 +359,10 @@ line: 139
 text: Ellen Kellond, the Eliots' maid, who told them about Lil.
 ---
 line: 182
-text: Lausanne, November and December 1921: Dr Vittoz, the lake, Parts IV and V.
+text: Eliot spent late November and December 1921 at Lausanne, on Lake Geneva, in the care of the nerve doctor Roger Vittoz, and wrote Parts IV and V there.
 ---
 line: 300
-text: Margate, October 1921: the Nayland Rock shelter, fifty lines of Part III.
+text: Eliot spent three weeks at Margate in October and November 1921, on sick leave from the bank, and drafted "some fifty lines" of Part III in a shelter on the front, probably the Nayland Rock shelter, listed in 2009, which still stands. The lines are thought to be the river song and the Thames-daughters' speeches.
 ---
 line: 312
 text: Gloucester, Massachusetts: the drowned sailor's original voyage, cut by Pound.

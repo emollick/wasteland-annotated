@@ -103,56 +103,56 @@ title: Eleven ways into The Fire Sermon
 kind: map
 title: Follow the river
 lens: places
-body: From the river's tent by Richmond to Greenwich Reach past the Isle of Dogs, by way of a canal behind a gasworks, the Cannon Street Hotel, the Strand, Lower Thames Street and St Magnus Martyr. The map has the real course of the Thames; the section moves down it with the tide.
+body: The section names, in order, a canal behind a gashouse, the Cannon Street Hotel, the Strand, Queen Victoria Street and Lower Thames Street with St Magnus Martyr, Greenwich Reach and the Isle of Dogs, and in the daughters' speeches Highbury, Richmond and Kew, Moorgate and Margate. The map has the real course of the Thames, with each of these on it.
 ---
 kind: source
-title: Spenser first, then the litter
+title: Spenser's refrain
 source: spenser-prothalamion
-body: Read the first stanza of the Prothalamion with its refrain, then lines 173–184. Eliot keeps the refrain and takes away the wedding, the nymphs and the flowers, and lists instead what is not in the river.
+body: Spenser's <i>Prothalamion</i> (1596) is a poem for a double wedding on the Thames, and its refrain, "Sweete Themmes runne softly, till I end my Song", closes each stanza. Read its first stanza, then lines 173–184. Eliot takes the refrain at 176 and 183 and varies it at 184; Spenser's nymphs gather flowers by the river, Eliot's "are departed", and his river "bears no" bottles, papers or cigarette ends.
 ---
 kind: lens
 title: See who speaks
 lens: voices
-body: Voices marks the fisher on the bank, a soldiers' song, Verlaine, a nightingale, Mr. Eugenides, Tiresias, the typist, the walker, three Thames-daughters, Augustine and the Buddha. It is the section with the most voices and the most quotation marks, and the one Eliot said Tiresias holds together.
+body: The Voices lens marks each speaker and each quoted voice: the "I" who fishes by the canal, the Mrs. Porter song, Verlaine's line, the nightingale, Mr. Eugenides (reported, not quoted), Tiresias, the typist, the "I" of Lower Thames Street, the three Thames-daughters, Augustine and the Buddha. Tiresias speaks only in this section; Eliot's note calls him "the most important personage in the poem, uniting all the rest".
 ---
 kind: source
 title: The Fire Sermon itself
 source: buddha-fire-sermon
-body: Read the Buddha's sermon, in the translation Eliot used at Harvard, before the section, not after. Then everything in it, the river, the typist, the barges, the cities, is seen "on fire," and the five "burning"s at the end are the sermon's own refrain.
+body: Eliot's note sends the reader to the Buddha's Fire Sermon in Henry Clarke Warren's <i>Buddhism in Translations</i> (1896) and calls it as important as the Sermon on the Mount. It is short. In it the Buddha says of the eye, the ear, the tongue, the body and the mind that each "is on fire", with the fire of passion, of hatred and of infatuation. The section's title is the sermon's, and "burning", five times at 308–311, is the poem's word for the sermon's "on fire".
 ---
 kind: draft
 title: Pound's pencil on the typist
 lens: drafts
-body: The typist scene was longer, and Pound cut it hard, writing "verse not interesting enough as verse to warrant so much of it" in the margin. The drafts view shows his marks and the seventy lines of Popean couplets about Fresca that once opened the section.
+body: In the typescript the typist scene was longer, in regular quatrains, and Pound cut it heavily, writing in the margin that the verse was "not interesting enough as verse" for so much of it. The drafts page describes his marks, and the seventy or so lines of couplets in Pope's manner, about a fashionable woman called Fresca, that opened the section until he struck them out.
 ---
 kind: listen
 title: The Rhine-daughters, then the Thames-daughters
 lens: listen
-body: Wagner's three Rhine-daughters open the last act of Götterdämmerung singing "Weialala leia." Listen to the scene, then read lines 266–306 aloud. The short lines are a swimming rhythm, and the three modern daughters take their turns like the three in the opera.
+body: Act III of Wagner's <i>Götterdämmerung</i> opens with the three Rhine-daughters swimming and singing of their stolen gold; "Weialala leia, wallala leialala" is their refrain, and the Thames-daughters take it at 277–278 and 290–291. Listen to the scene, then read lines 266–306. Eliot's note says his three daughters "speak in turn" from 292 to 306.
 ---
 kind: place
 title: Margate
 lens: places
-body: "On Margate Sands. / I can connect / Nothing with nothing." Eliot wrote much of this section in a public shelter on the Margate seafront in October 1921, on sick leave from the bank. The shelter is still there. The map has it.
+body: "On Margate Sands. / I can connect / Nothing with nothing." Eliot spent three weeks at Margate, from late October to mid-November 1921, on three months' sick leave from Lloyds Bank. In a letter from there, to Sydney Schiff, he said he had drafted "some fifty lines" of this part, sitting in a shelter on the front. The Nayland Rock shelter on the seafront, listed in 2009 as the likely place, still stands. The map has it.
 ---
 kind: lens
 title: Fire
 lens: water
-body: The Water lens has a third colour for fire. In this section it appears at the end only, and all at once. Watch the river run through the whole section and then burn.
+body: The Water lens marks fire in a third colour. In this section it falls on the last four lines only, where "burning", from the Buddha's sermon of the title, follows Augustine's "To Carthage then I came". Eliot's note says the placing of these two together "is not an accident".
 ---
 kind: path
 title: Every bird
 path: birds
-body: The nightingale, the gulls, the cock, the hermit-thrush, the swallow. The birds are the poem's musicians, and their songs are all complaints. A short walk with recordings where they exist.
+body: The Birds pathway stops at each bird in the poem in order: the nightingale (here at 203–206, and in Part II), the gulls of Part IV, the hermit-thrush and the cock of Part V, and the swallow at 429, with recordings where they exist.
 ---
 kind: source
 title: Tiresias in Ovid
 source: ovid-met3
-body: Eliot's note quotes nineteen lines of Latin about a man who was a woman for seven years. Read them in English, then read the typist scene again as something seen by a person who has been both people on the divan.
+body: Eliot's note at 218 quotes nineteen lines of Ovid (<i>Metamorphoses</i> III, 320–338). Tiresias, who had lived seven years as a woman, is asked to settle Jupiter and Juno's dispute over which sex has the greater pleasure in love. Juno blinds him for his answer and Jupiter gives him foresight. The library gives lines 324–331, on the serpents he struck and the change of sex that followed, in Latin and English. Read them, then the typist scene, which Tiresias says he has "foresuffered".
 ---
 kind: ask
 title: Whose side is the poem on
-body: The typist "smooths her hair with automatic hand, / And puts a record on the gramophone." Contempt, or the only mercy in the poem? Readers have argued for a century. Read lines 249–256 once each way.
+body: The typist "smoothes her hair with automatic hand, / And puts a record on the gramophone" (255–256). Eliot's note gives Goldsmith's song, in which the woman who "stoops to folly" has nothing left but to die; Eliot's typist, instead, puts a record on. Critics have read the scene as contempt for her, and as the nearest the poem comes to pity; those who read it as pity point to Tiresias's "foresuffered all" (243).
 ===
 part: 4
 title: Six ways into Death by Water
