@@ -4,6 +4,8 @@ line: 0
 title: The earlier title
 body:
 The typescripts of Parts I and II carry the heading “He Do the Police in Different Voices,” with “Part I” and “Part II” beneath it. The words are Betty Higden’s, in Dickens’s <i>Our Mutual Friend</i> (Book I, chapter 16). She is praising Sloppy, the foundling who lives with her and turns her mangle, for the way he reads the police news aloud from the paper, doing the voices: “You mightn’t think it, but Sloppy is a beautiful reader of a newspaper. He do the Police in different voices.” The title page of the typescript reads “The Waste Land,” and his headnote to the notes says that the title, the plan and a good deal of the incidental symbolism were suggested by Jessie L. Weston’s book on the Grail legend, <i>From Ritual to Romance</i>. Dickens is not mentioned in the notes.
+sources: Dickens, Our Mutual Friend, bk. I, ch. 16
+Facsimile (1971), pp. 4 and 10
 ---
 id: epigraph-draft
 part: 0
@@ -11,6 +13,12 @@ line: 0
 title: The epigraph that was replaced
 body:
 The title page of the typescript carries, under “The Waste Land,” a passage from Conrad’s <i>Heart of Darkness</i> ending with the dying Kurtz’s words, “The horror! the horror!” Pound wrote, on 24 January 1922, that he doubted Conrad was “weighty enough to stand the citation”; Eliot answered that it was “much the most appropriate I can find, and somewhat elucidative”; Pound then told him to do as he liked about Conrad. Eliot nevertheless replaced it with the sentence from Petronius’s <i>Satyricon</i> in which Trimalchio, the host of the dinner, says that he saw the Sibyl of Cumae hanging in a jar, and that when the boys asked her what she wanted she answered, “I want to die.” The Sibyl had been granted long life, but not youth; the story is told in Ovid, <i>Metamorphoses</i> XIV.
+sources: Conrad, Heart of Darkness, ch. 3
+Petronius, Satyricon 48
+Ovid, Metamorphoses XIV 130–153
+Facsimile (1971), title page of the typescript
+Letters, vol. 1, Ezra Pound to Eliot, 24 January 1922, and Eliot's reply
+Pound, Letters, ed. Paige, nos. 181–183
 ---
 id: boston
 part: 1
@@ -19,6 +27,10 @@ title: The cancelled opening: a night out in Boston
 body:
 Decision after round three: the scholar's order taken (Wilson's: Tom's place, the show, Myrtle's, the policeman on the way out, the man he knows, the walk home at sunrise), which also agrees with the gloss on line 1; the reader's semicolons kept, so that the bed, the bath and the breakfast do not run into the walk home.
 In the typescript, Part I opens with fifty-four lines about a night out in Boston, told by one of a party of young men in loose, chatty verse: drinks at "Tom's place"; a show; a call at Myrtle's, where he is refused but given a bed, a bath and breakfast; a brush with a policeman on the way out, which a man he knows smooths over; and a walk home at sunrise. The lines are struck through in pencil. Valerie Eliot's facsimile (1971) attributes the cancellation to Eliot, and Pound's annotations begin only after the cancelled lines; whether Pound read them is not recorded. "April is the cruellest month" stood at the top of the typescript's second page. Pound wrote little on the rest of Part I: he queried a few words and let the section stand.
+sources: Facsimile (1971), the typescript of Part I
+Edmund Wilson (1971)
+Ellmann (1971)
+Litz (1973)
 ---
 id: in-the-cage
 part: 2
@@ -46,6 +58,11 @@ line: 173
 title: The seventy lines about Fresca
 body:
 In the typescript "The Fire Sermon" opened with some seventy lines of heroic couplets on a fashionable woman, Fresca: her waking, her breakfast in bed, her visit to the "needful stool" with a novel of Richardson's, her letter, her bath, her reading. Eliot said later that it was written in imitation of Pope's <i>Rape of the Lock</i>; critics also compare Swift's dressing-room poems. Pound struck it out. Eliot recalled in 1946 that Pound's objection was that Pope had done this so well it could not be done better, and that one cannot parody Pope without writing better verse than Pope, "and you can't". The printed section begins with the river. On Rainey's dating of the drafts, its opening lines, 173–182, were the last lines written for the poem, in Paris in January 1922.
+sources: Facsimile (1971), introduction and the typescript of Part III
+Ricks and McCue, textual history of The Waste Land, 5. The "Fresca couplets"
+Eliot, "Ezra Pound," Poetry (1946)
+Paris Review interview (1959)
+Rainey, Revisiting The Waste Land, ch. 1
 ---
 id: typist-draft
 part: 3
@@ -53,6 +70,10 @@ line: 215
 title: Pound and the typist
 body:
 In the typescript the scene ran in regular quatrains and was longer. The draft gave the clerk his age, a spotty face, greasy hair, table manners and boasts, and gave the typist a kimono and a Japanese print. Tiresias hedged with "Perhaps a cheap house agent's clerk", one of those loiterers who might have been seen anywhere. Pound wrote that the verse was "not interesting enough as verse" for so much of it. Against the hedge he wrote "Perhaps be damned", and beside the typist's "one half-formed thought may pass" (printed at 251 as "allows one half-formed thought to pass") he told Tiresias to make up his mind whether he knew or not. The clerk's exit, a couplet in which he stopped at a corner to urinate and spit, was marked by Pound and dropped; the dots at 248 fall where it stood. A passage that stood before the scene, addressed to London ("London, the swarming life you kill and breed"), went too.
+sources: Facsimile (1971), the typescript of Part III
+Facsimile (1971), p. 47
+Ricks and McCue, commentary on lines 222–230
+Ricks and McCue, commentary on line 251
 ---
 id: thames-draft
 part: 3
@@ -60,6 +81,9 @@ line: 266
 title: The Thames-daughters in draft
 body:
 The river song, the Elizabeth and Leicester lines and the three daughters' speeches are generally taken to be the "some fifty lines" Eliot drafted at Margate in November 1921. They reached print with few marks from Pound, and the words he did write here, "OK" and "echt" (genuine), are approving. Eliot's own revision shortened the first daughter's speech. His note, which identifies three daughters who "speak in turn" from 292 to 306, was added, like all the notes, for the book edition of December 1922.
+sources: Facsimile (1971), pp. 48–53
+Letters, vol. 1, Eliot to Sydney Schiff, 4 November 1921
+Rainey, Revisiting The Waste Land, ch. 1
 ---
 id: sea-voyage
 part: 4

@@ -11,24 +11,32 @@ text: The speaker changes here. Marie's talk stops and a prophet's voice begins,
 ---
 line: 35
 text: Between the two passages from <i>Tristan</i> (31–34 and 42), someone remembers coming back late from a garden with a companion and being unable to speak or see. Who the two are is not said.
+sources: Wagner, Tristan und Isolde, I.i and III.i
 ---
 line: 43
 text: Madame Sosostris is a comic fortune-teller with a cold, but some of the cards she deals come back later in the poem, and Eliot's note on line 46 says which. The card she cannot find is the Hanged Man.
 ---
 line: 60
 text: The place is real: London Bridge, King William Street, St Mary Woolnoth and its clock. The crowd crossing the bridge is also Dante's crowd of the dead; Eliot's notes on lines 63 and 64 give the passages. His note on line 60 quotes Baudelaire, whose Paris is a city where a ghost stops a passer-by in daylight.
+sources: Dante, Inferno III 55–57
+Dante, Inferno IV 25–27
+Baudelaire, Les Fleurs du mal, "Les Sept Vieillards," lines 1–2
 ---
 line: 111
 text: A conversation in which only one person speaks. Read her lines aloud and his silently. The title comes from Middleton's play, where a game of chess downstairs covers what is done to a woman upstairs (the note at line 137).
+sources: Middleton, Women Beware Women II.ii
 ---
 line: 139
 text: A pub at closing time. A woman tells a friend what she said to Lil, whose husband is back from the army. The line in capitals is the landlord calling time.
 ---
 line: 215
 text: Tiresias, who in Ovid was a woman for seven years, watches the typist and her visitor. Eliot's note at 218 says what Tiresias sees "is the substance of the poem", a claim critics have disputed.
+sources: Ovid, Metamorphoses III 316–338
+Thormählen (1978)
 ---
 line: 266
 text: The Thames-daughters' song, in short lines, with the refrain of Wagner's Rhine-daughters (Eliot's note gives <i>Götterdämmerung</i>, III, i). Worth reading aloud.
+sources: Wagner, Götterdämmerung, III.i
 ---
 line: 312
 text: The poem's shortest section gives ten lines to a drowned sailor. Madame Sosostris warned of this in Part I: "Fear death by water" (55).
@@ -208,48 +216,64 @@ why: The places the poem names, from the Starnbergersee to the Ganges, taken in 
 ---
 line: 8
 text: The Starnbergersee, the lake south-west of Munich, and the Hofgarten, a garden in the city centre. Eliot spent the summer of 1911 in Munich.
+sources: Letters, vol. 1, Jean Verdenal to Eliot, [July? 1911]
 ---
 line: 12
 text: Lithuania is named in the poem's one line of German that is not from Wagner: "I am not Russian at all, I come from Lithuania, real German."
+sources: Southam, Guide, note on line 12
 ---
 line: 60
 text: "Unreal City" is London. Eliot's note quotes Baudelaire on Paris, the "swarming city, city full of dreams, where the ghost in broad daylight accosts the passer-by."
+sources: Baudelaire, Les Fleurs du mal, "Les Sept Vieillards," lines 1–2
 ---
 line: 66
 text: King William Street and St Mary Woolnoth: the commuters' way into the City from London Bridge. Eliot's bank stood by the church, and his note on line 68 says he "often noticed" the dead sound at nine.
+sources: T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
+Rainey, Annotated Waste Land, note on line 67
+Southam, Guide, note on line 67
 ---
 line: 70
 text: Mylae, the sea battle of 260 BC between Rome and Carthage.
+sources: Brooks (1939)
 ---
 line: 182
 text: Leman is Lake Geneva. Eliot was at Lausanne, on the lake, from late November 1921 to early January 1922, and wrote Parts IV and V there.
+sources: Letters, vol. 1, Eliot to Ottoline Morrell, 30 November 1921
+Rainey, Revisiting The Waste Land, ch. 1
 ---
 line: 209
 text: Smyrna, now İzmir, the chief port of Asia Minor, through which the Levant's dried fruit was shipped; Eliot's note on 211 gives his reading of the line's trade shorthand.
+sources: Rainey, Annotated Waste Land, note on line 209
 ---
 line: 213
 text: The Cannon Street Hotel, at the City station; and a weekend at the Metropole, usually taken as the Brighton hotel.
+sources: Southam, Guide, notes on lines 213–214
 ---
 line: 245
 text: Thebes, in Greece, Tiresias's city.
 ---
 line: 258
 text: The Strand, Queen Victoria Street, Lower Thames Street and, by London Bridge, Wren's church of St Magnus Martyr (Eliot's note at 264).
+sources: LCC, Nineteen City Churches (1920), the entry for St Magnus the Martyr
 ---
 line: 275
 text: Downstream of the City: Greenwich Reach, with the Isle of Dogs on its north bank.
+sources: Rainey, Annotated Waste Land, note on lines 275–276
+Southam, Guide, note on line 275
 ---
 line: 293
 text: Highbury, in north London; Richmond and Kew, up the river; Moorgate, in the City; Margate, on the Kent coast.
 ---
 line: 307
 text: Carthage, where Augustine went as a student; his <i>Confessions</i> call it "a cauldron of unholy loves" (Eliot's note).
+sources: Augustine, Confessions, bk. III
 ---
 line: 375
 text: "Jerusalem Athens Alexandria / Vienna London / Unreal."
 ---
 line: 396
 text: Ganga and Himavant: the Ganges and the Himalaya. After them the poem names only London Bridge and Aquitaine.
+sources: Southam, Guide, notes on lines 396–397
 ===
 id: birds
 title: Birds
@@ -351,30 +375,61 @@ why: Places and dates in Eliot’s life behind particular lines, from Gloucester
 ---
 line: 8
 text: Munich, summer 1911: the Hofgarten and its colonnade, and the Starnbergersee, where Ludwig II of Bavaria was found drowned in 1886.
+sources: Letters, vol. 1, Jean Verdenal to Eliot, [July? 1911]
 ---
 line: 35
 text: The hyacinth garden. Two people from Eliot's life have been proposed for it: Emily Hale, in Lyndall Gordon's reading of the letters Eliot wrote her, and Jean Verdenal, whom Eliot remembered in 1934 crossing the Luxembourg Gardens "waving a branch of lilac". The poem names neither.
+sources: Eliot, "A Commentary," Criterion, April 1934
+Miller (1977)
+Gordon, The Hyacinth Girl
 ---
 line: 66
 text: Lloyds Bank's head office, at 71 Lombard Street, a few doors from St Mary Woolnoth. Eliot's note on line 68 says the dead sound on the final stroke of nine was "a phenomenon which I have often noticed."
+sources: Matthews, The Bankers' Clearing House (1921), Appendix I
+T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
+Rainey, Annotated Waste Land, note on line 67
+Southam, Guide, note on line 67
 ---
 line: 111
 text: The Eliots' flat at 9 Clarence Gate Gardens, by Regent's Park, where he and his wife Vivien were both ill in 1921.
+sources: Letters, vol. 1, Eliot to his mother, [23 August 1921]
+Letters, vol. 1, Eliot to Julian Huxley, 26 October 1921
+Crawford, Young Eliot
 ---
 line: 139
 text: Ellen Kellond, the Eliots' maid, whose story this was: Eliot called the passage "pure Ellen Kellond".
+sources: Facsimile (1971), p. 127
 ---
 line: 182
 text: Eliot spent late November and December 1921 at Lausanne, on Lake Geneva, in the care of the nerve doctor Roger Vittoz, and wrote Parts IV and V there.
+sources: Letters, vol. 1, Eliot to Ottoline Morrell, 30 November 1921
+Letters, vol. 1, Eliot to Sydney Waterlow, 19 December 1921
+Rainey, Revisiting The Waste Land, ch. 1
 ---
 line: 300
-text: Eliot spent three weeks at Margate in October and November 1921, on sick leave from the bank, and drafted "some fifty lines" of Part III in a shelter on the front, probably the Nayland Rock shelter, listed in 2009, which still stands. The lines are thought to be the river song and the Thames-daughters' speeches.
+text: Eliot spent four weeks at Margate, from 15 October to 12 November 1921, on sick leave from the bank, and drafted "some fifty lines" of Part III in a shelter on the front, probably the Nayland Rock shelter, listed in 2009, which still stands. The lines are thought to be the river song and the Thames-daughters' speeches.
+sources: Letters, vol. 1, Eliot to Sydney Schiff, 4 November 1921
+Facsimile (1971), the pencil drafts of Part III
+Rainey, Revisiting The Waste Land, ch. 1
+Historic England, list entry 1393490
+The Observer, 12 July 2009
 ---
 line: 312
 text: The voyage Pound cut from this section set out past the Dry Salvages, rocks off Cape Ann in Massachusetts. Eliot's family spent its summers at Gloucester, on the cape, when he was a boy.
+sources: Facsimile (1971), the typescript of Part IV
+Eliot, The Dry Salvages (1941), headnote
+Ellmann (1971)
+T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
 ---
 line: 419
 text: Probably a boat off Cape Ann, where Eliot sailed in the summers of his youth.
+sources: T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
 ---
 line: 0
-text: Paris, January 1922. Eliot stopped there on his way back from Lausanne, and Pound went through the typescript with him, cutting it hard. The dedication came later. In 1923 Eliot wrote "il miglior fabbro" in Pound's copy, and from 1925 it was printed with the poem. The words are Dante's, for the poet Arnaut Daniel, and mean the better craftsman.
+text: Paris, January 1922. Eliot stopped there on his way back from Lausanne, and Pound went through the typescript with him, cutting it hard. The dedication came later. In January 1923 Eliot inscribed Pound's copy to him as "miglior fabbro", and from 1925 the dedication was printed with the poem. The words are Dante's, for the poet Arnaut Daniel, and mean the better craftsman.
+sources: Dante, Purgatorio XXVI 117
+Poems 1909–1925
+Facsimile (1971), the typescripts with Pound's annotations
+King's College, Cambridge, "The Waste Land at 100"
+Rainey, Revisiting The Waste Land, ch. 1
+Southam, Guide, note on the dedication

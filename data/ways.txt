@@ -5,11 +5,14 @@ kind: listen
 title: Hear it before you read it
 lens: listen
 body: Virginia Woolf, who heard Eliot read the poem at dinner in June 1922, wrote in her diary that "he sang it & chanted it rhythmed it." Start with his own voice: the listening room has his recordings. Then read the seventy-six lines silently and notice where his stresses fell.
+sources: Woolf, Diary, vol. 2, 23 June 1922
 ---
 kind: lens
 title: Count the speakers
 lens: voices
 body: Switch on Voices and the section splits into ten: the poem's own voice, Marie, a voice in German, a prophet, a sailor and a shepherd from Wagner, a girl with hyacinths, someone who could not speak, a clairvoyante, and a walker in the City. The typescript of this section was headed "He Do the Police in Different Voices", a phrase from Dickens. For each voice, ask whether it is quoting someone else.
+sources: Facsimile (1971), the typescript of Part I
+Dickens, Our Mutual Friend, bk. I, ch. 16
 ---
 kind: do
 title: Turn the tarot cards
@@ -20,11 +23,14 @@ kind: map
 title: Follow the route in Part I
 lens: places
 body: Lines 60–68 follow a route: over London Bridge, "up the hill and down King William Street", and past St Mary Woolnoth as its clock strikes nine. It is about half a mile, the way into the City that thousands of clerks walked every morning from London Bridge station. Eliot's bank stood at the end of it, and his note on line 68 calls the dead sound on the final stroke "a phenomenon which I have often noticed". Follow it on the map, then read the lines again with the walk in mind.
+sources: Eliot, "What Dante Means to Me" (1950)
+T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
 ---
 kind: source
 title: Put Chaucer beside it
 source: chaucer
 body: Read the first twelve lines of the General Prologue, then Eliot's first seven. Both begin with April, with rain, and with roots. Decide what has changed between Chaucer's April and Eliot's.
+sources: Chaucer, General Prologue, lines 1–12
 ---
 kind: lens
 title: Follow the water
@@ -40,6 +46,9 @@ kind: draft
 title: Read what was cut
 lens: drafts
 body: The section did not begin with April. In the typescript it began with fifty-four lines about a night out in Boston, which were cut. The drafts view shows where the cut fell. Read the cancelled opening and then line 1, and decide what the change did.
+sources: Facsimile (1971), the typescript of Part I
+Edmund Wilson (1971)
+Litz (1973)
 ---
 kind: lens
 title: Read it without the translations
@@ -122,6 +131,7 @@ kind: source
 title: Spenser's refrain
 source: spenser-prothalamion
 body: Spenser's <i>Prothalamion</i> (1596) is a poem for a double wedding on the Thames, and its refrain, "Sweete Themmes runne softly, till I end my Song", closes each stanza. Read its first stanza, then lines 173–184. Eliot takes the refrain at 176 and 183 and varies it at 184; Spenser's nymphs gather flowers by the river, Eliot's "are departed", and his river "bears no" bottles, papers or cigarette ends.
+sources: Spenser, Prothalamion, line 18
 ---
 kind: lens
 title: See who speaks
@@ -132,26 +142,35 @@ kind: source
 title: The Fire Sermon itself
 source: buddha-fire-sermon
 body: Eliot's note sends the reader to the Buddha's Fire Sermon in Henry Clarke Warren's <i>Buddhism in Translations</i> (1896) and calls it as important as the Sermon on the Mount. It is short. In it the Buddha says of the eye, the ear, the tongue, the body and the mind that each "is on fire", with the fire of passion, of hatred and of infatuation. The section's title is the sermon's, and "burning", five times at 308–311, is the poem's word for the sermon's "on fire".
+sources: Warren, Buddhism in Translations, § 73, pp. 351–353
 ---
 kind: draft
 title: Pound's pencil on the typist
 lens: drafts
 body: In the typescript the typist scene was longer, in regular quatrains, and Pound cut it heavily, writing in the margin that the verse was "not interesting enough as verse" for so much of it. The drafts page describes his marks, and the seventy or so lines of couplets in Pope's manner, about a fashionable woman called Fresca, that opened the section until he struck them out.
+sources: Facsimile (1971), the typescript of Part III
+Ricks and McCue, commentary on lines 222–230
 ---
 kind: listen
 title: The Rhine-daughters, then the Thames-daughters
 lens: listen
 body: Act III of Wagner's <i>Götterdämmerung</i> opens with the three Rhine-daughters swimming and singing of their stolen gold; "Weialala leia, wallala leialala" is their refrain, and the Thames-daughters take it at 277–278 and 290–291. Listen to the scene, then read lines 266–306. Eliot's note says his three daughters "speak in turn" from 292 to 306.
+sources: Wagner, Götterdämmerung III.i
 ---
 kind: place
 title: Margate
 lens: places
-body: "On Margate Sands. / I can connect / Nothing with nothing." Eliot spent three weeks at Margate, from late October to mid-November 1921, on three months' sick leave from Lloyds Bank. In a letter from there, to Sydney Schiff, he said he had drafted "some fifty lines" of this part, sitting in a shelter on the front. The Nayland Rock shelter on the seafront, listed in 2009 as the likely place, still stands. The map has it.
+body: "On Margate Sands. / I can connect / Nothing with nothing." Eliot spent four weeks at Margate, from 15 October to 12 November 1921, on three months' sick leave from Lloyds Bank. In a letter from there, to Sydney Schiff, he said he had drafted "some fifty lines" of this part, sitting in a shelter on the front. The Nayland Rock shelter on the seafront, listed in 2009 as the likely place, still stands. The map has it.
+sources: Letters, vol. 1, Eliot to Sydney Schiff, 4 November 1921
+Letters, vol. 1, chronology, October–November 1921
+Historic England, list entry 1393490
 ---
 kind: lens
 title: Fire
 lens: water
 body: The Water lens marks fire in a third colour. In this section it falls on the last four lines only, where "burning", from the Buddha's sermon of the title, follows Augustine's "To Carthage then I came". Eliot's note says the placing of these two together "is not an accident".
+sources: Warren, Buddhism in Translations, § 73, pp. 351–353
+Augustine, Confessions III.1
 ---
 kind: path
 title: Every bird
@@ -162,10 +181,12 @@ kind: source
 title: Tiresias in Ovid
 source: ovid-met3
 body: Eliot's note at 218 quotes nineteen lines of Ovid (<i>Metamorphoses</i> III, 320–338). Tiresias, who had lived seven years as a woman, is asked to settle Jupiter and Juno's dispute over which sex has the greater pleasure in love. Juno blinds him for his answer and Jupiter gives him foresight. The library gives lines 324–331, on the serpents he struck and the change of sex that followed, in Latin and English. Read them, then the typist scene, which Tiresias says he has "foresuffered".
+sources: Ovid, Metamorphoses III 320–338
 ---
 kind: ask
 title: Whose side is the poem on
 body: The typist "smoothes her hair with automatic hand, / And puts a record on the gramophone" (255–256). Eliot's note gives Goldsmith's song, in which the woman who "stoops to folly" has nothing left but to die; Eliot's typist, instead, puts a record on. Critics have read the scene as contempt for her, and as the nearest the poem comes to pity; those who read it as pity point to Tiresias's "foresuffered all" (243).
+sources: Goldsmith, The Vicar of Wakefield, ch. 24
 ===
 part: 4
 title: Ways into Death by Water
