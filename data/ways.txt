@@ -1,54 +1,54 @@
 part: 1
-title: Ten ways into The Burial of the Dead
+title: Ways into The Burial of the Dead
 ---
 kind: listen
 title: Hear it before you read it
 lens: listen
-body: Virginia Woolf, who heard Eliot read the poem at dinner in June 1922, wrote in her diary that "he sang it & chanted it rhythmed it." Start with his own voice: the listening room has his recordings, and the first section is where the chant is plainest. Then read the seventy-six lines silently and notice where his stresses fell.
+body: Virginia Woolf, who heard Eliot read the poem at dinner in June 1922, wrote in her diary that "he sang it & chanted it rhythmed it." Start with his own voice: the listening room has his recordings. Then read the seventy-six lines silently and notice where his stresses fell.
 ---
 kind: lens
 title: Count the speakers
 lens: voices
-body: Switch on Voices and the section splits into at least nine: the poem's own voice, Marie, a stranger in a café, a prophet, a sailor in Wagner, a girl with hyacinths, someone who could not speak, a clairvoyante, a commuter. The typescript's title was "He Do the Police in Different Voices." Ask, of each, whether it is quoting someone else.
+body: Switch on Voices and the section splits into ten: the poem's own voice, Marie, a voice in German, a prophet, a sailor and a shepherd from Wagner, a girl with hyacinths, someone who could not speak, a clairvoyante, and a walker in the City. The typescript of this section was headed "He Do the Police in Different Voices", a phrase from Dickens. For each voice, ask whether it is quoting someone else.
 ---
 kind: do
-title: Lay out the cards
+title: Turn the tarot cards
 lens: cards
-body: Madame Sosostris deals seven cards and one vision. Turn them over one at a time on the table and read the note on each. Then ask what she leaves out: no Hanged Man, no water except the kind that drowns.
+body: Madame Sosostris turns up six cards, fails to find a seventh, and reports one vision. Turn them over one at a time on the table and read the note on each. Then ask what she leaves out. The seventh card, the one she cannot find, is the Hanged Man, and the only water in her reading is the kind that drowns: a drowned sailor, and "Fear death by water."
 ---
 kind: map
-title: Walk the commute
+title: Follow the route in Part I
 lens: places
-body: London Bridge, King William Street, St Mary Woolnoth, the stroke of nine. It is a route of about six hundred yards, the one Eliot walked to Lloyds Bank. Follow it on the map, then read lines 60–68 as a man who has just walked it in fog.
+body: Lines 60–68 follow a route: over London Bridge, "up the hill and down King William Street", and past St Mary Woolnoth as its clock strikes nine. It is about half a mile, the way into the City that thousands of clerks walked every morning from London Bridge station. Eliot's bank stood at the end of it, and his note on line 68 calls the dead sound on the final stroke "a phenomenon which I have often noticed". Follow it on the map, then read the lines again with the walk in mind.
 ---
 kind: source
 title: Put Chaucer beside it
 source: chaucer
-body: Read the first twelve lines of the General Prologue, then Eliot's first seven. Same month, same rain, same roots. Decide what has changed between 1387 and 1922, and whether it is the weather or the people.
+body: Read the first twelve lines of the General Prologue, then Eliot's first seven. Both begin with April, with rain, and with roots. Decide what has changed between Chaucer's April and Eliot's.
 ---
 kind: lens
 title: Follow the water
 lens: water
-body: Spring rain, forgetful snow, a shower of rain, dry stone, no sound of water, a handful of dust, a drowned sailor, "Fear death by water." The section's weather is its argument. The Water lens tints every line by what it is made of.
+body: Part I names water, or the lack of it, again and again: spring rain and forgetful snow in the first seven lines, a shower over the Starnbergersee, a dry stone with no sound of water, a handful of dust, a drowned sailor, and then "Fear death by water." The Water lens tints the lines that name water and the lines that name its absence.
 ---
 kind: path
 title: Meet the dead
 path: dead
-body: Dante's crowd at the gate of Hell, Limbo's sighs, Webster's dirge, the corpse in the garden, Frazer's buried god. A short walk through the section's underworld, with the source passages open.
+body: The Dead pathway goes through Part I with the sources open beside the lines: Dante's crowd at the gate of Hell and the sighs in Limbo, Webster's dirge, the corpse in Stetson's garden, and the buried god of Frazer's <i>Golden Bough</i>.
 ---
 kind: draft
 title: Read what was cut
 lens: drafts
-body: The section did not begin with April. It began with fifty-four lines of a night out in Boston. The drafts view shows where the cut fell, and what the poem gained by starting exhausted.
+body: The section did not begin with April. In the typescript it began with fifty-four lines about a night out in Boston, which were cut. The drafts view shows where the cut fell. Read the cancelled opening and then line 1, and decide what the change did.
 ---
 kind: lens
-title: Leave the German alone
+title: Read it without the translations
 lens: tongues
-body: Five lines of Wagner, one café sentence and a line of Baudelaire are left untranslated. Switch on Tongues to see the translations, then switch it off and read the section as someone in 1922 without German would have read it: as sound, and as a wall.
+body: Five lines of Wagner (31–34 and 42), a sentence of German at line 12 and a line of French at line 76 are left untranslated. Switch on Tongues to see what they say, then switch it off and read the section as a reader with no German or French would have read it in 1922, hearing those lines without understanding them.
 ---
 kind: ask
 title: Three questions with no answer
-body: When were you "neither living nor dead"? What corpse have you planted in a garden, and have you checked on it? Whose shadow at evening rises to meet you? The section asks them; it does not answer. Neither need you, yet.
+body: Part I asks questions it does not answer: what roots clutch and what branches grow out of this stony rubbish (19–20); where are you lingering (34, in Wagner's German); has the corpse in the garden begun to sprout (72). One way in is to read the section with those questions open.
 ===
 part: 2
 title: Ways into A Game of Chess
