@@ -156,7 +156,7 @@ const sourceById = Object.fromEntries(sources.map(s => [s.id, s]));
 const waysRaw = read(path.join(DATA, 'ways.txt')).split(/^===\s*$/m).map(sec => parseRecords(sec));
 const ways = waysRaw.map(recs => ({ part: +recs[0].part, title: typo(recs[0].title), items: recs.slice(1).map(it => typoFields(it, ['title', 'body'])) }));
 const pathsRaw = read(path.join(DATA, 'paths.txt')).split(/^===\s*$/m).map(sec => parseRecords(sec));
-const paths = pathsRaw.map(recs => ({ id: recs[0].id, title: typo(recs[0].title), intro: typo(recs[0].intro), stops: recs.slice(1).map(s => ({ line: +s.line, text: typo(s.text) })) }));
+const paths = pathsRaw.map(recs => ({ id: recs[0].id, title: typo(recs[0].title), intro: typo(recs[0].intro), why: typo(recs[0].why || ''), stops: recs.slice(1).map(s => ({ line: +s.line, text: typo(s.text) })) }));
 const drafts = parseRecords(read(path.join(DATA, 'drafts.txt')));
 for (const d of drafts) { typoFields(d, ['title', 'body']); d.line = +d.line; d.part = +d.part; d.body = paragraphs(d.body); }
 
@@ -310,11 +310,10 @@ function renderPoemPage() {
   body += `<header class="titlepage" id="top">
   <div class="fog" aria-hidden="true"></div>
   <div class="tp-inner">
-    ${plates.title ? `<div class="plate plate-title">${inlineSVG(plates.title, 'plate-svg')}</div>` : ''}
-    <p class="tp-epigraph" lang="la">${markupLine('Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.', (tongueByLine[0] || []).filter(t => t.lang !== 'it').flatMap(t => findAll('Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.', t.text).map(idx => ({ start: idx, end: idx + t.text.length, tag: 't', data: t }))))}<a class="g tp-g" href="#epigraph" data-g="epigraph" data-kind="echo" aria-label="${page('epigraph-mark')}">·</a></p>
     <h1 class="tp-title"><a class="g" href="#title" data-g="title" data-kind="gloss">The Waste Land</a></h1>
     <p class="tp-author">T. S. Eliot</p>
     <p class="tp-year">1922</p>
+    <p class="tp-epigraph" lang="la">${markupLine('Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.', (tongueByLine[0] || []).filter(t => t.lang !== 'it').flatMap(t => findAll('Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.', t.text).map(idx => ({ start: idx, end: idx + t.text.length, tag: 't', data: t }))))}<a class="g tp-g" href="#epigraph" data-g="epigraph" data-kind="echo" aria-label="${page('epigraph-mark')}">·</a></p>
     <p class="tp-dedication"><i>For Ezra Pound</i><br><i><a class="g" href="#dedication" data-g="dedication" data-kind="echo"><span class="t" data-lang="it" data-trans="the better craftsman">il miglior fabbro</span></a></i></p>
     <p class="tp-sub">${page('tp-sub')}</p>
     <p class="tp-begin"><a href="#part-1">${page('tp-begin')}</a> <span class="tp-or">${page('tp-or')}</span> <a href="#L1" data-path="first">${page('tp-begin-path')}</a> <span class="tp-or">${page('tp-or')}</span> <a href="#L1" data-slow="1">${page('tp-begin-slow')}</a></p>
@@ -332,8 +331,24 @@ function renderPoemPage() {
     <div class="tools">
       ${[['slow', page('tool-slow')], ['cards', page('tool-cards')], ['fragments', page('tool-fragments')], ['sortes', page('tool-sortes')], ['concordance', page('tool-concordance')], ['heart', page('tool-heart')], ['walk', page('tool-walk')]].map(([k, t]) => `<button type="button" class="tool" data-tool="${k}">${t}</button>`).join('')}
     </div>
+    <a class="rb-help" href="#howto">${page('rb-help')}</a>
   </div>
 </div>`;
+
+  // ways to read it
+  const howLens = ['plain', 'echoes', 'notes', 'voices', 'tongues', 'water', 'places', 'clock', 'drafts'];
+  const howTools = ['slow', 'cards', 'fragments', 'sortes', 'concordance', 'heart', 'walk'];
+  body += `<section class="howto" id="howto" aria-labelledby="howto-title">
+  <div class="howto-inner">
+    <h2 class="howto-title" id="howto-title">${page('howto-title')}</h2>
+    <p class="howto-lede">${page('howto-lede')}</p>
+    <div class="howto-cols">
+      <div class="howto-col"><h3 class="howto-sub">${page('howto-read')}</h3><ol class="howto-list">${howLens.map((k, i) => `<li><button type="button" class="howto-item" data-lens="${k}"><span class="hi-key">${i + 1}</span><span class="hi-name">${page('lens-' + k)}</span><span class="hi-desc">${page('lens-' + k + '-why')}</span></button></li>`).join('')}</ol></div>
+      <div class="howto-col"><h3 class="howto-sub">${page('howto-tools')}</h3><ol class="howto-list">${howTools.map(k => `<li><button type="button" class="howto-item" data-tool="${k}"><span class="hi-name">${page('tool-' + k)}</span><span class="hi-desc">${page('tool-' + k + '-why')}</span></button></li>`).join('')}</ol></div>
+      <div class="howto-col howto-col-paths"><h3 class="howto-sub">${page('howto-paths')}</h3><ol class="howto-list">${paths.map(p => `<li><button type="button" class="howto-item" data-path="${p.id}"><span class="hi-name">${p.title}</span><span class="hi-desc">${p.why}</span><span class="hi-count">${page('howto-stops').replace('{n}', p.stops.length)}</span></button></li>`).join('')}</ol></div>
+    </div>
+  </div>
+</section>`;
 
   body += `<div class="spine" id="spine" aria-hidden="true"></div>`;
   body += `<div class="page">`;
@@ -342,10 +357,9 @@ function renderPoemPage() {
     const w = ways.find(x => x.part === p.num);
     body += `<section class="part" id="part-${p.num}" data-part="${p.num}">`;
     if (plates['part-' + p.num]) body += `<div class="plate" data-src="art/plate-part-${p.num}.svg" style="--ar:${aspectOf(plates['part-' + p.num])}" aria-hidden="true"></div>`;
-    body += `<h2 class="part-title"><span class="numeral" aria-hidden="true">${p.numeral}</span><span class="part-name">${p.numeral}. ${p.name}</span></h2>`;
+    body += `<h2 class="part-title"><span class="part-name">${p.numeral}. ${p.name}</span></h2>`;
     if (w) body += `<div class="ways"><button type="button" class="ways-toggle" aria-expanded="false" data-part="${p.num}">${w.title}</button><div class="ways-panel" hidden><ol class="ways-list">${w.items.map(it => `<li class="way way-${it.kind}"><button type="button" class="way-title" ${it.lens ? `data-lens="${it.lens}"` : ''} ${it.path ? `data-path="${it.path}"` : ''} ${it.source ? `data-source="${it.source}"` : ''}>${it.title}</button><p>${it.body}</p></li>`).join('')}</ol></div></div>`;
-    const orn = ornaments[p.num];
-    body += p.stanzas.map((st, si) => `<div class="stanza">${st.map((l, li) => renderLine(l, si === 0 && li === 0 ? initials[p.num] : null)).join('\n')}</div>`).join(orn ? `<div class="orn">${inlineSVG(orn, 'orn-svg')}</div>` : '\n');
+    body += p.stanzas.map((st, si) => `<div class="stanza">${st.map((l, li) => renderLine(l, null)).join('\n')}</div>`).join('\n');
     body += `</section>`;
   }
   if (tailpiece) body += `<div class="tailpiece">${inlineSVG(tailpiece, 'tail-svg')}</div>`;
@@ -362,7 +376,7 @@ function renderPoemPage() {
   const data = {
     lines: allLines.map(l => ({ n: l.n, t: l.text, p: parts.find(p => l.n >= p.first && l.n <= p.last).num })),
     parts: parts.map(p => ({ num: p.num, numeral: p.numeral, name: p.name, first: p.first, last: p.last })),
-    glosses: glosses.map(g => ({ id: g.id, line: g.line, to: g.to || null, kind: g.kind, title: g.title, quote: g.quote || '', trans: g.trans || '', cite: g.cite || '', body: g.body, source: g.source || null, image: g.image || null, lang: g.lang || null })),
+    glosses: glosses.map(g => ({ id: g.id, line: g.line, to: g.to || null, kind: g.kind, title: g.title, quote: g.quote || '', trans: g.trans || '', cite: g.cite || '', body: g.body, source: g.source || null, image: g.image || null, plate: g.plate || null, lang: g.lang || null })),
     sources: Object.fromEntries(sources.map(s => [s.id, { id: s.id, title: s.title, author: s.author, date: s.date, lang: s.lang, kind: s.kind, what: s.what, lines: s.lines, passage: s.passage || '', trans: s.trans || '', note: s.note, links: s.links.map(l => ({ label: l.host ? `${l.work || s.title} at ${l.host}` : (l.work || s.title), url: l.url, note: l.deep_link_note || '' })) }])),
     notes: notesData.notes, headnote: notesData.headnote, part5note: notesData.part5note,
     voices: voicesData.voices, voiceOf, elements: { of: elOf, labels: elements.labels }, tongues: tonguesData.langs,
@@ -623,7 +637,7 @@ function renderListenPage() {
 // ---------- paths page ----------
 function renderPathsPage() {
   let body = `<main class="prose paths"><h1 class="pagetitle">${page('paths-title')}</h1><p class="lede">${page('paths-lede')}</p><div class="path-list">`;
-  for (const p of paths) body += `<a class="path-card" href="index.html#path=${p.id}"><h2>${p.title}</h2><p>${p.intro}</p><p class="stops">${p.stops.length} stops</p></a>`;
+  for (const p of paths) body += `<a class="path-card" href="index.html#path=${p.id}"><h2>${p.title}</h2><p class="why">${p.why}</p><p>${p.intro}</p><p class="stops">${p.stops.length} stops</p></a>`;
   body += `</div></main>`;
   fs.writeFileSync(path.join(SITE, 'paths.html'), head(page('title-paths')) + `<body class="paths-page">${runningHead('paths.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
 }

@@ -14,6 +14,7 @@ line: 0
 anchor: Nam Sibyllam
 kind: echo
 source: petronius
+plate: title
 title: The Sibyl in her jar
 quote: “Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.”
 trans: “For I myself, with my own eyes, saw the Sibyl at Cumae hanging in a jar, and when the boys said to her, ‘Sibyl, what do you want?’ she answered, ‘I want to die.’”

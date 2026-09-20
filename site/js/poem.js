@@ -56,6 +56,12 @@
       host.insertAdjacentElement('afterend', card);
     }
   }
+  function foldOthers(keep) {
+    if (!wide()) return;
+    for (const c of $$('.card', margin)) { if (c === keep || !['gloss', 'place'].includes(c.dataset.ckind)) continue; c.classList.add('folded'); }
+    if (keep) keep.classList.remove('folded');
+    relayout();
+  }
   function clearCards(kind) {
     for (const c of $$('.card')) { if (!kind || c.dataset.ckind === kind) { if (!c.dataset.pin) c.remove(); } }
     for (const a of $$('.g.open')) if (!kind || kind === 'gloss') a.classList.remove('open');
@@ -78,21 +84,27 @@
     const card = document.createElement('aside');
     card.className = `card kind-${g.kind}`;
     card.dataset.ckind = 'gloss'; card.dataset.g = g.id;
-    card.innerHTML = `<button class="card-close" aria-label="${ui('close')}">×</button><span class="card-kind">${kindLabel}${lines ? ' · <span class="lines">' + lines + '</span>' : ''}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote"${g.lang ? ` lang="${{ German: 'de', French: 'fr', Italian: 'it', Latin: 'la', Greek: 'grc', Sanskrit: 'sa' }[g.lang] || ''}"` : ''}>${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}${g.cite ? `<p class="card-cite">${g.cite}</p>` : ''}${g.image ? imageFig(g.image) : ''}<div class="card-body">${g.body}</div>${g.source ? sourceBlock(g.source) : ''}`;
+    card.innerHTML = `<button class="card-close" aria-label="${ui('close')}">×</button><span class="card-kind">${kindLabel}${lines ? ' · <span class="lines">' + lines + '</span>' : ''}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote"${g.lang ? ` lang="${{ German: 'de', French: 'fr', Italian: 'it', Latin: 'la', Greek: 'grc', Sanskrit: 'sa' }[g.lang] || ''}"` : ''}>${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}${g.cite ? `<p class="card-cite">${g.cite}</p>` : ''}${g.image ? imageFig(g.image) : ''}${g.plate ? `<div class="card-plate" data-svg="art/plate-${esc(g.plate)}.svg" aria-hidden="true"></div>` : ''}<div class="card-body">${g.body}</div>${g.source ? sourceBlock(g.source) : ''}`;
     return card;
   }
   function openGloss(id, anchorEl, opts = {}) {
     const g = glossById[id]; if (!g) return;
     const existing = $(`.card[data-g="${id}"]`);
+    if (existing && existing.classList.contains('folded')) { foldOthers(existing); return; }
     if (existing && !opts.keep) { existing.remove(); anchorEl && anchorEl.classList.remove('open'); relayout(); return; }
     if (existing) return;
     const card = glossCard(g);
     const a = anchorEl || $(`.g[data-g="${id}"]`);
     if (a) a.classList.add('open');
     placeCard(card, a || lineEl(g.line) || poem);
+    foldOthers(card);
+    if (wide() && a && a.closest('.titlepage')) setTimeout(() => card.scrollIntoView({ block: 'center', behavior: reduce ? 'auto' : 'smooth' }), 80);
+    $$('.card-plate[data-svg]', card).forEach(f => fetchSVG(f.dataset.svg).then(t => { if (t) { f.innerHTML = t; relayout(); } }));
     if (!wide() && opts.scroll !== false) card.scrollIntoView({ block: 'nearest', behavior: reduce ? 'auto' : 'smooth' });
   }
   document.addEventListener('click', e => {
+    const folded = e.target.closest('.card.folded');
+    if (folded && !e.target.closest('.card-close')) { foldOthers(folded); return; }
     const close = e.target.closest('.card-close');
     if (close) { const c = close.closest('.card'); const id = c.dataset.g; if (id) $$(`.g[data-g="${id}"]`).forEach(a => a.classList.remove('open')); c.remove(); relayout(); return; }
     const a = e.target.closest('a.g');
@@ -118,11 +130,13 @@
     const head = document.createElement('aside');
     head.className = 'card kind-note'; head.dataset.ckind = 'note';
     head.innerHTML = `<span class="card-kind">${ui('notes-head-title')}</span><div class="card-body"><p>${ui('notes-head-text')}</p></div>`;
-    placeCard(head, lineEl(1), true);
+    placeCard(head, legendAnchor(), true);
     for (const nt of D.notes) { const el = lineEl(nt.line); if (el) placeCard(noteCard(nt), el); }
   }
 
   /* ---------- legends ---------- */
+  function legendAnchor() { return lineEl(state.lensAnchor || 1) || lineEl(1); }
+  function showEchoes() { placeCard(legendCard(ui('legend-echoes'), `<p>${ui('legend-echoes-text')}</p>`, 'kind-echo'), legendAnchor(), true); }
   function legendCard(title, html, cls = '') {
     const card = document.createElement('aside');
     card.className = 'card ' + cls; card.dataset.ckind = 'legend';
@@ -148,7 +162,7 @@
     const html = `<p>${ui('legend-voices-text')}</p><p class="follow-note">${ui('voices-follow-hint')}</p><ul>${Object.entries(D.voices).map(([k, v]) => `<li data-v="${k}"><span class="sw" style="background:${v.color}"></span>${v.label}<span class="cnt">${counts[k] || 0}</span></li>`).join('')}</ul>`;
     const card = legendCard(ui('legend-voices'), html, 'kind-voice');
     card.addEventListener('click', e => { const li = e.target.closest('li[data-v]'); if (li) follow(li.dataset.v); });
-    placeCard(card, lineEl(1), true);
+    placeCard(card, legendAnchor(), true);
     if (state.follow) { const f = state.follow; state.follow = null; follow(f); }
   }
   function follow(v) {
@@ -178,7 +192,7 @@
     const counts = {};
     for (const t of $$('.t')) counts[t.dataset.lang] = (counts[t.dataset.lang] || 0) + 1;
     const html = `<p>${ui('legend-tongues-text')}</p><ul>${Object.entries(D.tongues).map(([k, v]) => `<li><span class="sw" style="background:${v.color}"></span>${v.label}<span class="cnt">${counts[k] || 0}</span></li>`).join('')}</ul>`;
-    placeCard(legendCard(ui('legend-tongues'), html, 'kind-tongue'), lineEl(1), true);
+    placeCard(legendCard(ui('legend-tongues'), html, 'kind-tongue'), legendAnchor(), true);
     // reveal all translations at once for the epigraph
   }
   function hideTongues() { $$('.trans-line').forEach(t => t.remove()); }
@@ -188,7 +202,7 @@
     for (const v of Object.values(D.elements.of)) for (const k of v.split(' ')) c[k]++;
     const total = D.lines.length;
     const html = `<p>${ui('legend-water-text')}</p><div class="gauge"><span style="width:${c.water / total * 100}%;background:var(--water)"></span><span style="width:${c.dry / total * 100}%;background:var(--dry)"></span><span style="width:${c.fire / total * 100}%;background:var(--fire)"></span></div><ul><li><span class="sw" style="background:var(--water)"></span>${D.elements.labels.water}<span class="cnt">${c.water} lines</span></li><li><span class="sw" style="background:var(--dry)"></span>${D.elements.labels.dry}<span class="cnt">${c.dry}</span></li><li><span class="sw" style="background:var(--fire)"></span>${D.elements.labels.fire}<span class="cnt">${c.fire}</span></li><li><span class="sw" style="background:var(--paper-3)"></span>${ui('water-neither')}<span class="cnt">${total - c.water - c.dry - c.fire}</span></li></ul><p class="lines">${ui('legend-water-note')}</p>`;
-    placeCard(legendCard(ui('legend-water'), html), lineEl(1), true);
+    placeCard(legendCard(ui('legend-water'), html), legendAnchor(), true);
   }
 
   /* ---------- places ---------- */
@@ -200,10 +214,11 @@
     const lines = info.lines.filter(n => n > 0).map(n => `<a href="#L${n}">line ${n}</a>`).join(', ');
     card.innerHTML = `<button class="card-close" aria-label="${ui('close')}">×</button><span class="card-kind">${ui('kind-place')}</span><span class="card-title">${esc(info.label)}</span><div class="card-body"><p>${lines ? ui('place-named').replace('{lines}', lines) : ''}${xy ? ` <span class="lines">${xy[1].toFixed(3)}°, ${xy[0].toFixed(3)}°.</span>` : ''}</p><p><a href="map.html#${id}">${ui('place-map-link')}</a></p></div>`;
     placeCard(card, anchorEl);
+    foldOthers(card);
   }
   function showPlaces() {
     const html = `<p>${ui('legend-places-text')}</p><p>${ui('legend-places-link')}</p>`;
-    placeCard(legendCard(ui('legend-places'), html, 'kind-place'), lineEl(1), true);
+    placeCard(legendCard(ui('legend-places'), html, 'kind-place'), legendAnchor(), true);
   }
 
   /* ---------- clock ---------- */
@@ -225,7 +240,7 @@
     const seasonsList = D.times.seasons.map(s => `<li><a href="#L${s.line}">${esc(s.text)}</a><span class="cnt">l. ${s.line}</span></li>`).join('');
     const hoursList = D.times.hours.slice().sort((a, b) => a.hour - b.hour).map(h => `<li><a href="#L${h.line}">${esc(h.text)}</a><span class="cnt">l. ${h.line}</span></li>`).join('');
     const html = `<p>${ui('legend-clock-text')}</p>${svg}<p><b>${ui('clock-hours')}</b></p><ul>${hoursList}</ul><p><b>${ui('clock-seasons')}</b></p><ul>${seasonsList}</ul>`;
-    const card = legendCard(ui('legend-clock'), html); placeCard(card, lineEl(1), true);
+    const card = legendCard(ui('legend-clock'), html); placeCard(card, legendAnchor(), true);
     card.addEventListener('click', e => { const h = e.target.closest('.hour'); if (h) go(+h.dataset.line); });
   }
   function hideClock() { for (const w of $$('.tm')) w.replaceWith(...w.childNodes); }
@@ -252,7 +267,7 @@
       host.insertAdjacentElement('beforebegin', g);
     }
     const html = `<p>${ui('legend-drafts-text')}</p><p><a href="drafts.html">${ui('legend-drafts-link')}</a>.</p>`;
-    placeCard(legendCard(ui('legend-drafts'), html, 'kind-draft'), lineEl(1), true);
+    placeCard(legendCard(ui('legend-drafts'), html, 'kind-draft'), legendAnchor(), true);
     relayout();
   }
   function hideDrafts() { $$('.ghost').forEach(g => g.remove()); }
@@ -261,11 +276,13 @@
   function setLens(k, opts = {}) {
     if (!LENS_KEYS.includes(k)) return;
     const prev = state.lens;
+    state.lensAnchor = opts.init ? 1 : nearestLine();
     state.lens = k; body.dataset.lens = k;
     $$('.lens').forEach(b => b.setAttribute('aria-checked', b.dataset.lens === k));
     // teardown
     hideVoices(); hideTongues(); hideClock(); hideDrafts();
     clearCards('note'); clearCards('legend'); clearCards('place');
+    if (k === 'echoes') showEchoes();
     if (k === 'notes') showNotes();
     if (k === 'voices') showVoices();
     if (k === 'tongues') showTongues();
@@ -275,6 +292,7 @@
     if (k === 'drafts') showDrafts();
     paintSpine();
     relayout();
+    if (!opts.init && prev !== k && state.lensAnchor > 1) go(state.lensAnchor, false);
     try { localStorage.setItem('wl-lens', k); } catch (e) { }
   }
   $$('.lens').forEach(b => b.addEventListener('click', () => setLens(b.dataset.lens)));
@@ -503,11 +521,11 @@
 
   /* ---------- pathways ---------- */
   function showWalkChooser() {
-    const html = `<ul class="walk-list">${D.paths.map(p => `<li><button data-path="${p.id}">${p.title}</button><p>${p.intro}</p></li>`).join('')}</ul>`;
+    const html = `<ul class="walk-list">${D.paths.map(p => `<li><button data-path="${p.id}"><span class="wl-title">${p.title}</span><span class="wl-why">${p.why || ''}</span><span class="wl-count">${ui('walk-stops').replace('{n}', p.stops.length)}</span></button></li>`).join('')}</ul>`;
     const ov = overlay(ui('walk-title'), ui('walk-sub'), html);
     ov.addEventListener('click', e => { const b = e.target.closest('button[data-path]'); if (b) { closeOverlay(); startWalk(b.dataset.path); } });
   }
-  function startWalk(id, at = 0) {
+  function startWalk(id, at = -1) {
     const p = D.paths.find(x => x.id === id); if (!p) return;
     stopWalk();
     state.walk = { p, i: at };
@@ -518,10 +536,19 @@
   }
   function renderWalk() {
     const w = $('#walk'); if (!w || !state.walk) return;
-    const { p, i } = state.walk; const s = p.stops[i];
+    const { p, i } = state.walk;
+    if (i < 0) {
+      w.className = 'walk intro';
+      w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${ui('walk-title')}</p><p class="walk-head">${p.title}</p>${p.why ? `<p class="walk-why">${p.why}</p>` : ''}<p class="walk-text">${p.intro}</p><div class="walk-nav"><button class="next begin">${ui('walk-begin')}</button><span class="pos">${ui('walk-stops').replace('{n}', p.stops.length)}</span></div>`;
+      w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.next')) { state.walk.i = 0; renderWalk(); } };
+      $$('.line.cur').forEach(l => l.classList.remove('cur'));
+      return;
+    }
+    w.className = 'walk';
+    const s = p.stops[i];
     const part = s.line ? partOf(s.line) : null;
-    w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${p.title} · ${i + 1} of ${p.stops.length}</p><p class="walk-head">${s.line ? `Line ${s.line}${part ? ' · ' + part.numeral : ''}` : ui('walk-title-page')}</p><p class="walk-text">${s.text}</p><div class="walk-nav"><button class="prev" ${i === 0 ? 'disabled' : ''}>${ui('walk-back')}</button><button class="next">${i === p.stops.length - 1 ? ui('walk-finish') : ui('walk-next')}</button><span class="pos">${p.intro.split('.')[0]}.</span></div>`;
-    w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.prev')) { state.walk.i = Math.max(0, i - 1); renderWalk(); } else if (e.target.closest('.next')) { if (i === p.stops.length - 1) { stopWalk(); return; } state.walk.i = i + 1; renderWalk(); } };
+    w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${p.title} · ${i + 1} of ${p.stops.length}</p><p class="walk-head">${s.line ? `Line ${s.line}${part ? ' · ' + part.numeral : ''}` : ui('walk-title-page')}</p><p class="walk-text">${s.text}</p><div class="walk-nav"><button class="prev">${ui('walk-back')}</button><button class="next">${i === p.stops.length - 1 ? ui('walk-finish') : ui('walk-next')}</button></div>`;
+    w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.prev')) { state.walk.i = i - 1; renderWalk(); } else if (e.target.closest('.next')) { if (i === p.stops.length - 1) { stopWalk(); return; } state.walk.i = i + 1; renderWalk(); } };
     $$('.line.cur').forEach(l => l.classList.remove('cur'));
     if (s.line) { const el = lineEl(s.line); el && el.classList.add('cur'); go(s.line, false); } else { window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' }); }
   }
@@ -592,11 +619,15 @@
   window.addEventListener('hashchange', route);
   // title page path link
   $$('a[data-path]').forEach(a => a.addEventListener('click', e => { e.preventDefault(); startWalk(a.dataset.path); }));
+  // ways to read it
+  $$('.howto-item[data-lens]').forEach(b => b.addEventListener('click', () => { setLens(b.dataset.lens); go(1, false); }));
+  $$('.howto-item[data-tool]').forEach(b => b.addEventListener('click', () => openTool(b.dataset.tool)));
+  $$('.howto-item[data-path]').forEach(b => b.addEventListener('click', () => startWalk(b.dataset.path)));
 
   /* ---------- init ---------- */
   buildSpine();
   let saved = null; try { saved = localStorage.getItem('wl-lens'); } catch (e) { }
-  setLens(saved && LENS_KEYS.includes(saved) ? saved : 'echoes');
+  setLens(saved && LENS_KEYS.includes(saved) ? saved : 'echoes', { init: true });
   updateCursor();
   route();
 })();

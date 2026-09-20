@@ -589,3 +589,95 @@ text: Part V was, Eliot wrote, “not only the best part, but the only part that
 id: about-credits-empty
 where: the About page: the line shown under the pictures heading if there were no pictures
 text: Credits appear here as pictures are added.
+---
+id: howto-title
+where: the poem page: the heading of the "ways to read it" section under the title page
+text: Ways to read it
+---
+id: howto-lede
+where: the poem page: the paragraph under that heading
+text: The poem on this page is the text of 1922, with Eliot’s notes at the end. The lenses mark words in the text and put notes beside the lines. The tools present the poem in other forms, a line or a word at a time. The pathways lead through it on one subject, stop by stop. Choose here, or from the bar above at any point in the poem.
+---
+id: howto-read
+where: the poem page, ways to read it: the heading of the column of lenses
+text: Read with
+---
+id: howto-tools
+where: the poem page, ways to read it: the heading of the column of tools
+text: Tools
+---
+id: howto-paths
+where: the poem page, ways to read it: the heading of the column of pathways
+text: Pathways
+---
+id: howto-stops
+where: the poem page, ways to read it: the count under each pathway; {n} is the number
+text: {n} stops
+---
+id: rb-help
+where: the bar of lenses and tools: the small link at its right end, which leads to the ways-to-read section
+text: What these do
+---
+id: lens-plain-why
+where: ways to read it: the sentence under Plain
+text: The 1922 text with nothing marked, for reading the poem through before anything else.
+---
+id: lens-echoes-why
+where: ways to read it: the sentence under Sources
+text: Words underlined in violet open the passage Eliot took and the book it comes from, so that a line can be read beside what it quotes; the fainter underlines open plain notes.
+---
+id: lens-notes-why
+where: ways to read it: the sentence under Notes
+text: The notes Eliot printed with the poem, set beside the lines they refer to as well as at the end.
+---
+id: lens-voices-why
+where: ways to read it: the sentence under Voices
+text: Each line coloured by its speaker, with a legend; choose one voice and follow it through the poem.
+---
+id: lens-tongues-why
+where: ways to read it: the sentence under Languages
+text: The German, French, Italian, Latin, Greek and Sanskrit in the poem, with the cries of birds, bells and the river marked beside them; click a phrase for its translation under the line.
+---
+id: lens-water-why
+where: ways to read it: the sentence under Water
+text: The lines that mention water, drought or fire, tinted by kind, and how many there are of each.
+---
+id: lens-places-why
+where: ways to read it: the sentence under Places
+text: The places the poem names, marked in the text; click one for a card with its lines and a link to it on the map.
+---
+id: lens-clock-why
+where: ways to read it: the sentence under Clock
+text: The times of day and the seasons the poem gives, marked in the text, the hours set on a dial and the seasons listed beneath it.
+---
+id: lens-drafts-why
+where: ways to read it: the sentence under Drafts
+text: What Ezra Pound cut, and what Eliot and his wife Vivien changed, in the typescript, described at the lines it affected.
+---
+id: tool-slow-why
+where: ways to read it: the sentence under Read line by line
+text: One line at a time, with its notes; go on when you like, or let the page run.
+---
+id: tool-cards-why
+where: ways to read it: the sentence under Turn the tarot cards
+text: The tarot pack of Madame Sosostris in Part I, made for this edition. Turn a card to read what it shows and which lines it comes from.
+---
+id: tool-fragments-why
+where: ways to read it: the sentence under Unstack the last lines
+text: The last eight lines set out one by one, each with its language and, for the seven that are quotations, its source.
+---
+id: tool-sortes-why
+where: ways to read it: the sentence under Draw a line at random
+text: One line of the poem chosen by chance, with its note; draw again as often as you like.
+---
+id: tool-concordance-why
+where: ways to read it: the sentence under Find a word
+text: Every line in which a word occurs, to see how the poem uses it.
+---
+id: tool-heart-why
+where: ways to read it: the sentence under Learn it by heart
+text: Words are blanked out in stages you choose, every third, then every second, then all but the first of each line, so that you can test yourself until you can say the lines without looking.
+---
+id: tool-walk-why
+where: ways to read it: the sentence under Take a pathway
+text: A sequence of stops through the poem on one subject, with a note at each. The pathways are listed below.

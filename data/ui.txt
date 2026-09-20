@@ -573,3 +573,19 @@ text: Stop
 id: slow-auto-start
 where: the Line by line bar: the button that lets the reading walk on by itself
 text: Move on by itself
+---
+id: walk-begin
+where: Take a pathway: the button on the guide’s first panel that starts the stops
+text: Begin
+---
+id: walk-stops
+where: Take a pathway: the count of stops shown for each pathway; {n} is the number
+text: {n} stops
+---
+id: legend-echoes
+where: Sources lens: the label of the card that explains it
+text: Sources
+---
+id: legend-echoes-text
+where: Sources lens: the sentence on that card
+text: The words underlined in violet are quotations and allusions. Click one to open the passage it comes from, with the book it is in.
