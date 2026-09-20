@@ -7,7 +7,7 @@
 const fs = require('fs'), path = require('path');
 const ROOT = path.join(__dirname, '..');
 const DATA = path.join(ROOT, 'data');
-const OUT = process.env.COMMENTARY_DIR || '/mnt/project-files/commentary';
+const OUT = process.env.COMMENTARY_DIR || (fs.existsSync('/mnt/project-files/commentary') ? '/mnt/project-files/commentary' : path.join(ROOT, 'commentary'));
 const read = f => fs.readFileSync(f, 'utf8');
 const exists = f => { try { fs.accessSync(f); return true; } catch { return false; } };
 const PARTS = [[1, 1, 76], [2, 77, 172], [3, 173, 311], [4, 312, 321], [5, 322, 434]];

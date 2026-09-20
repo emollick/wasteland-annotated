@@ -1,0 +1,75 @@
+part: 5
+title: Ways into What the Thunder Said
+---
+kind: listen
+title: Eliot reading the thunder
+lens: listen
+body: Eliot recorded the whole poem in 1933 and again in 1946; both are in the listening room, with Part V as he read it in Washington in 1947. Listen from line 400, where the thunder speaks, to the end.
+sources: The Poetry Archive
+PennSound
+Library of Congress, recording of 23 May 1947
+---
+kind: lens
+title: Water in Part V
+lens: water
+body: The Water lens tints every line that is about water or the want of it. From line 331 to line 394 there is no water. At line 395 a gust brings rain, and at 397 the leaves are still waiting for it; at 419 a boat answers "the hand expert with sail and oar" on a calm sea; at 425 the arid plain is behind the fisherman.
+---
+kind: do
+title: Hear the hermit-thrush
+lens: listen
+body: "Drip drop drip drop drop drop drop." Eliot's note names the bird and quotes Chapman's field guide on its song; "water-dripping" is not Chapman's phrase. A recording is in the listening room. Play it, then read line 358.
+sources: Chapman, Handbook (1895), p. 400
+---
+kind: source
+title: The road to Emmaus, and South Georgia
+source: shackleton-south
+body: Eliot gives two sources for "Who is the third who walks always beside you?": in his headnote, the journey to Emmaus of Luke 24; in his note on the line, Shackleton's account in <i>South</i> of crossing South Georgia in May 1916, when each of three men felt a fourth walking with them. Both are in the library.
+sources: King James Bible, Luke 24:13–31
+Shackleton, South, ch. X
+---
+kind: lens
+title: The languages of the last lines
+lens: tongues
+body: The last eight lines are in English, Italian, Latin, French, English, English, Sanskrit, Sanskrit; Eliot's note on line 428 adds Provençal. The Tongues lens gives the translations.
+---
+kind: do
+title: Unstack the last lines
+lens: fragments
+body: "These fragments I have shored against my ruins." The Fragments view takes the last lines one at a time and gives each its source.
+---
+kind: source
+title: The fable in the Upanishad
+source: brihadaranyaka
+body: The library has the passage of the <i>Bṛhadāraṇyaka Upaniṣad</i> that Eliot's note cites: the thunder says "Da," and gods, men and demons each hear a different word in it. Eliot changes the order of the three words and follows each with a passage of his own.
+sources: Bṛhadāraṇyaka Upaniṣad V.2
+---
+kind: map
+title: The places in Part V
+lens: places
+body: The section names Jerusalem, Athens, Alexandria, Vienna and London in two lines, then the Ganges and the Himalaya, then London Bridge and Aquitaine. The world map shows the cities, the river and the mountain, and two places from Eliot's life: Quebec, where his note says he heard the hermit-thrush, and Cape Ann, where he sailed as a boy.
+sources: T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
+---
+kind: path
+title: Every 'nothing'
+path: nothing
+body: "I knew nothing," "Nothing again nothing," "Do you know nothing?," "Nothing with nothing," "expect / Nothing." The pathway follows the word through the poem. It is not said in Part V; the pathway ends at line 305, with the third Thames-daughter on Margate Sands.
+---
+kind: draft
+title: OK from here on
+lens: drafts
+body: Pound's note at the head of the typescript of Part V reads "OK from here on I think," and he cut almost nothing. Eliot wrote the section at Lausanne between late November 1921 and the New Year, and told Bertrand Russell in October 1923 that it was "the only part that justifies the whole, at all."
+sources: Facsimile (1971), the introduction, and the typescript of Part V
+Keane (2011)
+The Spectator, 1 January 1972
+Rainey, Revisiting The Waste Land
+Leithauser and Dyer (1982)
+---
+kind: lens
+title: The last voices
+lens: voices
+body: The Voices lens gives lines 424 to 426 to the Fisher King, lines 427 to 432 to the fragments, and the last two lines to the Upanishad. The fragments are, in order, a nursery rhyme, Dante, a Latin poet and Tennyson, Nerval, the poet himself, Kyd's Hieronimo.
+---
+kind: ask
+title: The last word
+body: "Shantih shantih shantih." Eliot's note calls it the formal ending of an Upanishad; in 1922 he called "The Peace which passeth understanding" a feeble translation of the word, and from 1925 "our equivalent." Is the line a blessing on the poem, or a man saying the word to himself?
+sources: Poems 1909–1925, The Waste Land, the note on line 433

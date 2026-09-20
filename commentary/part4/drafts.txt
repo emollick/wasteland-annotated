@@ -1,0 +1,13 @@
+id: sea-voyage
+part: 4
+line: 312
+title: The voyage that was cut
+body:
+"Death by Water" ran to some ninety lines in the typescript, of which the published ten are the last. It opened with rhymed quatrains about a sailor on shore leave and went on, in blank verse, to a fishing voyage told by one of the crew. The schooner goes out past the Dry Salvages, the rocks off Cape Ann, to the fishing banks. On the way out the gear fails; at the banks the fish run well; one night on watch the narrator hears three women singing high up the mast; then a wall of ice stands dead ahead and the ship is lost. Eliot said later that the passage had been inspired by the Ulysses canto of Dante's <i>Inferno</i>; critics hear Tennyson's "Ulysses" in it as well. Pound wrote "Bad" on the manuscript, adding that he could not attack it until he had a typescript, and on the typescript he went through the voyage line by line and spared so little that in the end the whole of it went; the ten lines on Phlebas were left. Eliot asked, "Perhaps better omit Phlebas also???" Pound replied: "I DO advise keeping Phlebas. In fact I more'n advise. Phlebas is an integral part of the poem; the card pack introduces him, the drowned phoen. sailor. And he is needed ABSOlootly where he is. Must stay in." Among the short poems Eliot thought of adding to the sequence was "Dirge", a parody of Ariel's song in which the drowned man is Bleistein, the Jewish caricature of "Burbank with a Baedeker" (1919), and Ariel's sea-change becomes decay. Pound advised leaving the additions out, and Eliot agreed.
+sources: Facsimile (1971), the typescript of Part IV, and p. 129
+Pound, Letters, ed. Paige, nos. 181–183
+Paris Review interview (1959)
+Eliot, The Dry Salvages (1941), headnote
+Ellmann (1971)
+Edmund Wilson (1971)
+Perloff (1981)

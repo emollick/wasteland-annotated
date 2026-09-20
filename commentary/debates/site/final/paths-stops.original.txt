@@ -1,0 +1,564 @@
+id: first-1
+path: first (A first reading)
+line: 1
+text: Start with the sound. Read the first seven lines aloud. Five of the seven lines end on a hanging participle: breeding, mixing, stirring, covering, feeding. The poem is about things that will not finish.
+---
+id: first-2
+path: first (A first reading)
+line: 19
+text: A new voice. Nobody announces the change; the tone does. This is the poem's method for four hundred lines: voices arrive and leave without introduction.
+---
+id: first-3
+path: first (A first reading)
+line: 35
+text: The one moment of feeling in Part I. Between two lines of Wagner, someone remembers being unable to speak. Hold on to "the heart of light, the silence."
+---
+id: first-4
+path: first (A first reading)
+line: 43
+text: A comic fortune-teller who is also the poem's prophet. Everything she deals comes true. Note the card she cannot find.
+---
+id: first-5
+path: first (A first reading)
+line: 60
+text: The real London: a bridge, a street, a clock. And the dead, from Dante, walking over it to work. The poem's trick, learned from Baudelaire, is that both are true at once.
+---
+id: first-6
+path: first (A first reading)
+line: 111
+text: A conversation in which only one person speaks. Read her lines aloud and his silently. The section's title, A Game of Chess, is about moves made without speaking.
+---
+id: first-7
+path: first (A first reading)
+line: 139
+text: A pub at closing time. The poem's most ordinary speech, and its most overheard. The publican's shout is also the poem's clock running out.
+---
+id: first-8
+path: first (A first reading)
+line: 215
+text: Tiresias, who has been both a man and a woman, watches a typist's evening. Eliot's note says what he sees "is the substance of the poem." Decide whether you believe the note.
+---
+id: first-9
+path: first (A first reading)
+line: 266
+text: The river sings. The lines shorten to two words. This is the poem as music: read it for rhythm before sense.
+---
+id: first-10
+path: first (A first reading)
+line: 312
+text: Ten lines. A drowned man. The tarot's warning fulfilled, gently. Read it twice.
+---
+id: first-11
+path: first (A first reading)
+line: 331
+text: Rock and no water for twenty-nine lines. Let it be as dry as it is. The rain, when it comes at line 395, is two words long.
+---
+id: first-12
+path: first (A first reading)
+line: 427
+text: The last eight lines are a stack of quotations in five languages. Do not look them up yet. Read them as a noise, then use the Fragments view to take the stack apart.
+---
+id: water-1
+path: water (Water)
+line: 4
+text: "Dull roots with spring rain." The first water is unwelcome.
+---
+id: water-2
+path: water (Water)
+line: 24
+text: "the dry stone no sound of water." The first drought, and the first of the poem's many sounds of water that are not there.
+---
+id: water-3
+path: water (Water)
+line: 42
+text: "Oed' und leer das Meer." The sea, empty. Wagner's shepherd sees no ship.
+---
+id: water-4
+path: water (Water)
+line: 47
+text: The drowned Phoenician Sailor, and Ariel's pearls. The first death by water is a card.
+---
+id: water-5
+path: water (Water)
+line: 55
+text: "Fear death by water." The reading's one instruction, and the reverse of what the Grail legend advises.
+---
+id: water-6
+path: water (Water)
+line: 125
+text: The pearls again, in a room with no water in it but the hot water at ten.
+---
+id: water-7
+path: water (Water)
+line: 172
+text: Ophelia leaves the pub. Her next scene is the brook.
+---
+id: water-8
+path: water (Water)
+line: 176
+text: "Sweet Thames, run softly." A wedding river with the wedding removed.
+---
+id: water-9
+path: water (Water)
+line: 182
+text: "By the waters of Leman I sat down and wept." Babylon's river, and Lake Geneva, where the poem was written.
+---
+id: water-10
+path: water (Water)
+line: 189
+text: Fishing in the dull canal. The Fisher King by the gasworks.
+---
+id: water-11
+path: water (Water)
+line: 266
+text: "The river sweats / Oil and tar." The Thames as it was in 1921, then as it was in 1561.
+---
+id: water-12
+path: water (Water)
+line: 312
+text: Phlebas. The current under sea. The tarot fulfilled.
+---
+id: water-13
+path: water (Water)
+line: 331
+text: "Here is no water but only rock." The longest drought.
+---
+id: water-14
+path: water (Water)
+line: 353
+text: "If there were the sound of water only." A hymn to a sound that is not there, ending in a bird that imitates water.
+---
+id: water-15
+path: water (Water)
+line: 395
+text: "Bringing rain." Two words. The only rain that falls.
+---
+id: water-16
+path: water (Water)
+line: 396
+text: "Ganga was sunken." The monsoon waiting over the Himalaya.
+---
+id: water-17
+path: water (Water)
+line: 419
+text: "The boat responded." Water at last as something that answers a hand.
+---
+id: water-18
+path: water (Water)
+line: 424
+text: "I sat upon the shore / Fishing, with the arid plain behind me." The last water and the last drought, in one sentence.
+---
+id: dead-1
+path: dead (The dead)
+line: 0
+text: The Sibyl, who cannot die, in her jar.
+---
+id: dead-2
+path: dead (The dead)
+line: 2
+text: "Lilacs out of the dead land." The dead land is the first thing named after April.
+---
+id: dead-3
+path: dead (The dead)
+line: 23
+text: "the dead tree gives no shelter." Ezekiel's valley, Ecclesiastes' long home.
+---
+id: dead-4
+path: dead (The dead)
+line: 39
+text: "I was neither / Living nor dead." The hyacinth garden.
+---
+id: dead-5
+path: dead (The dead)
+line: 62
+text: Dante's crowd on London Bridge: "I had not thought death had undone so many."
+---
+id: dead-6
+path: dead (The dead)
+line: 71
+text: "That corpse you planted last year in your garden." Frazer's buried god, in a suburb.
+---
+id: dead-7
+path: dead (The dead)
+line: 74
+text: Webster's dirge for unburied men, with the wolf turned into a dog.
+---
+id: dead-8
+path: dead (The dead)
+line: 115
+text: "rats' alley / Where the dead men lost their bones." The trenches.
+---
+id: dead-9
+path: dead (The dead)
+line: 194
+text: "bones cast in a little low dry garret, / Rattled by the rat's foot only, year to year."
+---
+id: dead-10
+path: dead (The dead)
+line: 245
+text: Tiresias, who "walked among the lowest of the dead."
+---
+id: dead-11
+path: dead (The dead)
+line: 312
+text: Phlebas, "a fortnight dead."
+---
+id: dead-12
+path: dead (The dead)
+line: 328
+text: "He who was living is now dead / We who were living are now dying."
+---
+id: dead-13
+path: dead (The dead)
+line: 388
+text: "the tumbled graves, about the chapel." The Chapel Perilous, and "Dry bones can harm no one."
+---
+id: dead-14
+path: dead (The dead)
+line: 407
+text: "our obituaries." What the dead leave: memories, wills, empty rooms.
+---
+id: dead-15
+path: dead (The dead)
+line: 412
+text: Ugolino, hearing the door of the tower nailed shut.
+---
+id: women-1
+path: women (The women)
+line: 0
+text: The Sibyl, kept in a bottle, asked by boys what she wants.
+---
+id: women-2
+path: women (The women)
+line: 13
+text: Marie, on the sled, frightened and free.
+---
+id: women-3
+path: women (The women)
+line: 35
+text: The hyacinth girl. Two lines, in quotation marks, and a garden.
+---
+id: women-4
+path: women (The women)
+line: 43
+text: Madame Sosostris, with a cold, afraid of the police, right about everything.
+---
+id: women-5
+path: women (The women)
+line: 49
+text: Belladonna, the Lady of the Rocks: a card, a poison, a painting.
+---
+id: women-6
+path: women (The women)
+line: 77
+text: The lady in the chair: Cleopatra's barge, Dido's ceiling, Eve's garden, made into furniture.
+---
+id: women-7
+path: women (The women)
+line: 99
+text: Philomel, raped and turned into a nightingale, singing "Jug Jug to dirty ears."
+---
+id: women-8
+path: women (The women)
+line: 111
+text: The woman with bad nerves, who wants to be spoken to.
+---
+id: women-9
+path: women (The women)
+line: 139
+text: Lil, thirty-one, five children, no teeth, and her friend, who tells her the truth.
+---
+id: women-10
+path: women (The women)
+line: 172
+text: Ophelia, leaving.
+---
+id: women-11
+path: women (The women)
+line: 199
+text: Mrs Porter and her daughter, in a soldiers' song.
+---
+id: women-12
+path: women (The women)
+line: 222
+text: The typist, who "smooths her hair with automatic hand."
+---
+id: women-13
+path: women (The women)
+line: 279
+text: Elizabeth, in a barge with Leicester, talking nonsense.
+---
+id: women-14
+path: women (The women)
+line: 292
+text: Three Thames-daughters: Highbury, Moorgate, Margate. And La Pia of Siena behind the first.
+---
+id: women-15
+path: women (The women)
+line: 368
+text: "Murmur of maternal lamentation." The women at the cross, and the mothers of Europe.
+---
+id: women-16
+path: women (The women)
+line: 378
+text: The woman who draws her long black hair out tight and plays it.
+---
+id: cities-1
+path: cities (Cities)
+line: 8
+text: The Starnberger See and the Hofgarten: Munich, where Eliot spent August 1911.
+---
+id: cities-2
+path: cities (Cities)
+line: 12
+text: Lithuania, by way of a sentence in German.
+---
+id: cities-3
+path: cities (Cities)
+line: 60
+text: "Unreal City": London, from Baudelaire's Paris.
+---
+id: cities-4
+path: cities (Cities)
+line: 66
+text: King William Street and St Mary Woolnoth. Eliot's route to work.
+---
+id: cities-5
+path: cities (Cities)
+line: 70
+text: Mylae, the sea battle of 260 BC.
+---
+id: cities-6
+path: cities (Cities)
+line: 182
+text: Leman: Lausanne, where the poem was finished.
+---
+id: cities-7
+path: cities (Cities)
+line: 209
+text: Smyrna, which burned in September 1922.
+---
+id: cities-8
+path: cities (Cities)
+line: 213
+text: The Cannon Street Hotel, and a weekend at the Metropole, Brighton.
+---
+id: cities-9
+path: cities (Cities)
+line: 245
+text: Thebes, Tiresias's city.
+---
+id: cities-10
+path: cities (Cities)
+line: 258
+text: The Strand, Queen Victoria Street, Lower Thames Street, St Magnus Martyr.
+---
+id: cities-11
+path: cities (Cities)
+line: 275
+text: Greenwich Reach, the Isle of Dogs.
+---
+id: cities-12
+path: cities (Cities)
+line: 293
+text: Highbury, Richmond, Kew, Moorgate, Margate.
+---
+id: cities-13
+path: cities (Cities)
+line: 307
+text: Carthage, Augustine's cauldron.
+---
+id: cities-14
+path: cities (Cities)
+line: 375
+text: "Jerusalem Athens Alexandria / Vienna London / Unreal."
+---
+id: cities-15
+path: cities (Cities)
+line: 396
+text: Ganga and Himavant. The poem's last places are a river and a mountain.
+---
+id: birds-1
+path: birds (Birds)
+line: 23
+text: "the cricket no relief." Not a bird, but the first singer, from Ecclesiastes.
+---
+id: birds-2
+path: birds (Birds)
+line: 99
+text: Philomel, the nightingale, "Jug Jug."
+---
+id: birds-3
+path: birds (Birds)
+line: 203
+text: "Twit twit twit / Jug jug jug jug jug jug." The nightingale again, and "Tereu," the name of her rapist.
+---
+id: birds-4
+path: birds (Birds)
+line: 313
+text: "the cry of gulls," which Phlebas forgot.
+---
+id: birds-5
+path: birds (Birds)
+line: 354
+text: "Not the cicada." Another singer that is not a bird and not water.
+---
+id: birds-6
+path: birds (Birds)
+line: 357
+text: The hermit-thrush, whose "water-dripping song" Eliot heard in Quebec. Listen to it.
+---
+id: birds-7
+path: birds (Birds)
+line: 380
+text: "bats with baby faces." Not birds. Included for the wings.
+---
+id: birds-8
+path: birds (Birds)
+line: 392
+text: "Only a cock stood on the rooftree / Co co rico co co rico." Peter's cock, Hamlet's, and the French farmyard.
+---
+id: birds-9
+path: birds (Birds)
+line: 429
+text: "O swallow swallow." Procne, Philomel's sister, at the end.
+---
+id: nothing-1
+path: nothing (Nothing)
+line: 40
+text: "I knew nothing, / Looking into the heart of light, the silence."
+---
+id: nothing-2
+path: nothing (Nothing)
+line: 120
+text: "Nothing again nothing."
+---
+id: nothing-3
+path: nothing (Nothing)
+line: 122
+text: "Do you know nothing? Do you see nothing? Do you remember / Nothing?"
+---
+id: nothing-4
+path: nothing (Nothing)
+line: 126
+text: "Is there nothing in your head?"
+---
+id: nothing-5
+path: nothing (Nothing)
+line: 302
+text: "I can connect / Nothing with nothing."
+---
+id: nothing-6
+path: nothing (Nothing)
+line: 305
+text: "My people humble people who expect / Nothing."
+---
+id: nothing-7
+path: nothing (Nothing)
+line: 402
+text: "what have we given?" The question that answers the word.
+---
+id: eyes-1
+path: eyes (Eyes)
+line: 0
+text: "oculis meis vidi": with my own eyes I saw the Sibyl.
+---
+id: eyes-2
+path: eyes (Eyes)
+line: 39
+text: "my eyes failed."
+---
+id: eyes-3
+path: eyes (Eyes)
+line: 48
+text: "Those are pearls that were his eyes."
+---
+id: eyes-4
+path: eyes (Eyes)
+line: 52
+text: "the one-eyed merchant."
+---
+id: eyes-5
+path: eyes (Eyes)
+line: 65
+text: "each man fixed his eyes before his feet."
+---
+id: eyes-6
+path: eyes (Eyes)
+line: 81
+text: "Another hid his eyes behind his wing."
+---
+id: eyes-7
+path: eyes (Eyes)
+line: 138
+text: "Pressing lidless eyes."
+---
+id: eyes-8
+path: eyes (Eyes)
+line: 215
+text: "when the eyes and back / Turn upward from the desk."
+---
+id: eyes-9
+path: eyes (Eyes)
+line: 218
+text: "I Tiresias, though blind."
+---
+id: eyes-10
+path: eyes (Eyes)
+line: 232
+text: "with one bold stare."
+---
+id: eyes-11
+path: eyes (Eyes)
+line: 360
+text: "Who is the third who walks always beside you?" Eyes that do not know him.
+---
+id: eliot-1
+path: eliot (The poem in Eliot's life)
+line: 8
+text: Munich, August 1911: the Hofgarten's colonnade, the lake where a king drowned.
+---
+id: eliot-2
+path: eliot (The poem in Eliot's life)
+line: 35
+text: The hyacinth garden: Emily Hale in Boston, or Jean Verdenal in the Luxembourg Gardens with a branch of lilac.
+---
+id: eliot-3
+path: eliot (The poem in Eliot's life)
+line: 66
+text: Lloyds Bank, Lombard Street, across the road from St Mary Woolnoth. The clock struck nine as he arrived.
+---
+id: eliot-4
+path: eliot (The poem in Eliot's life)
+line: 111
+text: The flat at 9 Clarence Gate Gardens. Vivien's nerves and his.
+---
+id: eliot-5
+path: eliot (The poem in Eliot's life)
+line: 139
+text: Ellen Kellond, the Eliots' maid, who told them about Lil.
+---
+id: eliot-6
+path: eliot (The poem in Eliot's life)
+line: 182
+text: Lausanne, November and December 1921: Dr Vittoz, the lake, Parts IV and V.
+---
+id: eliot-7
+path: eliot (The poem in Eliot's life)
+line: 300
+text: Margate, October 1921: the Nayland Rock shelter, fifty lines of Part III.
+---
+id: eliot-8
+path: eliot (The poem in Eliot's life)
+line: 312
+text: Gloucester, Massachusetts: the drowned sailor's original voyage, cut by Pound.
+---
+id: eliot-9
+path: eliot (The poem in Eliot's life)
+line: 419
+text: A boat off Cape Ann, the summers of his boyhood.
+---
+id: eliot-10
+path: eliot (The poem in Eliot's life)
+line: 0
+text: Paris, January 1922: Pound's flat, the pencil, "il miglior fabbro."

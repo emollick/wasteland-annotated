@@ -1,0 +1,298 @@
+id: eliot-1933-poetryarchive
+group: eliot
+title: Eliot reads the whole poem, 1933
+who: T. S. Eliot
+when: Columbia University, 1933
+host: The Poetry Archive
+embed: none
+body: The earliest recording, cut on aluminium discs at Columbia University by W. Cabell Greet and George W. Hibbitt of Barnard College, in the year Eliot spent in America as Norton Professor at Harvard. Eliot was forty-four; the voice is younger and lighter than in the later recording. The Poetry Archive plays it in five parts on its own site, one page for each: {parts}. The Archive dates it 1933 and says the date was once thought to be 1935, crediting Lacy Rumsey of the ENS de Lyon for the correction; PennSound, which holds the same Columbia series, labels it 1935.
+sources: The Poetry Archive
+PennSound
+Eliot, The Use of Poetry and the Use of Criticism (1933)
+---
+id: eliot-1933-faber-soundcloud
+group: eliot
+title: The opening lines, from the 1933 reading
+who: T. S. Eliot
+when: 1933; posted by Faber in 2011
+host: SoundCloud (Faber)
+embed: auto
+body: Sixty-four seconds of the Columbia recording, the opening lines of The Burial of the Dead, which Faber posted in April 2011 when its app of the poem was being made.
+sources: Faber (SoundCloud), “T.S. Eliot reads The Waste Land (The Burial of the Dead, extract)”
+The Poetry Archive
+The Waste Land app (2011)
+---
+id: eliot-1935-pennsound-columbia
+group: eliot
+title: The 1933 reading again, at PennSound
+who: T. S. Eliot
+when: Labelled 1935 by PennSound
+host: PennSound, University of Pennsylvania
+embed: none
+body: The same Columbia series in two complete versions of different lengths, about twenty-five and twenty-eight minutes, each divided by section, on PennSound’s own page. PennSound holds it with the permission of the Eliot estate, for study and teaching. It gives the date as 1935, though its own headnote says the Columbia recordings were made in 1933, 1935 and later; the Poetry Archive, which credits the redating to 1933 to Lacy Rumsey, refers readers to Richard Swigg’s <i>Quick, Said the Bird</i> and Jason Camlot’s <i>Phonopoetics</i> for more on the recording.
+sources: PennSound
+The Poetry Archive
+Swigg (2012)
+Camlot (2019)
+---
+id: eliot-later-harperaudio-archive
+group: eliot
+title: Eliot reads the whole poem, the later recording
+who: T. S. Eliot
+when: The Caedmon recording, usually dated 1946; this copy put out online in January 1994
+label: later
+host: Internet Archive
+embed: auto
+body: The later recording, the one issued on record. Harper & Row, which bought the Caedmon label in 1987 and became HarperCollins, reissued it under its Harper Audio name. This copy was put out by Harper Audio on 18 January 1994 through the Internet Multicasting Service, which had started an early internet radio station the year before, on its Internet Town Hall channel, as sound files at 8 kHz; HarperCollins consented to that distribution only. The Internet Archive keeps it as a thirty-one-minute MP3. The sound is poor, about the quality of a telephone line. The Poetry Archive dates the recording 1946; the item itself gives no year.
+sources: Harper Audio (1994)
+Mitgang, New York Times, 27 August 1987
+The Poetry Archive
+---
+id: eliot-1947-loc-national-gallery
+group: eliot
+title: Part V, read at the National Gallery, 1947
+who: T. S. Eliot
+when: 23 May 1947, Washington
+host: Library of Congress
+embed: none
+body: A reading Eliot gave at the National Gallery of Art in Washington on 23 May 1947, with his own comments. Of The Waste Land he read only Part V; the rest of the recording is Prufrock, La Figlia che Piange, Sweeney Among the Nightingales, the Ariel poems, Landscapes, the last part of Ash-Wednesday and East Coker. The Library of Congress keeps it in its Archive of Recorded Poetry and Literature, and it streams on the Library’s page.
+sources: Library of Congress, recording of 23 May 1947
+---
+id: guinness-argo-full-bookyards
+group: readers
+title: Alec Guinness reads the whole poem, 1975
+who: Alec Guinness
+when: Argo’s double album of 1975
+host: YouTube
+embed: none
+body: Guinness’s readings of The Waste Land and Four Quartets were issued by Argo in its series British Poets of Our Time, made with the Arts Council of Great Britain and the BBC; the double album of 1975 gathers them with eight shorter pieces, Prufrock and Journey of the Magi among them. The copy online is a listener’s upload to YouTube, so it is linked from here and not played on this page.
+sources: Guinness, Argo album (1975)
+---
+id: irons-atkins-bbc-radio4-2012
+group: readers
+title: Jeremy Irons reads the poem, BBC Radio 4, 2017
+who: Jeremy Irons, presented by Martha Kearney with Jeanette Winterson, Rowan Williams and Jackie Kay
+when: Broadcast 1 January 2017
+host: BBC
+embed: https://archive.org/embed/BBC_Radio_4_FM_20170101_140000_Jeremy_Irons_Reads_TS_Eliot
+body: Irons reads the poem on his own in this Radio 4 programme, broadcast on 1 January 2017 and kept by the Internet Archive in a recording made off the air. It was the third of five programmes in which Martha Kearney and her guests introduced his readings of Eliot; the guests here are Jeanette Winterson, Rowan Williams and Jackie Kay. Five years earlier, on 30 March 2012, Irons and Eileen Atkins had shared the poem’s voices between them in another Radio 4 broadcast, introduced by Rowan Williams, Jackie Kay, Matthew Hollis and Sean O’Brien. The BBC’s page for that reading, linked here, has the details and no audio; the copies of it on YouTube are listeners’ uploads and are not played here.
+sources: BBC Radio 4, 1 January 2017
+jeremyirons.net, 20 January 2017
+BBC Radio 4, 30 March 2012
+---
+id: irons-cusack-borris-festival
+group: readers
+title: Jeremy Irons and Sinéad Cusack, live
+who: Jeremy Irons and Sinéad Cusack
+when: Festival of Writing and Ideas, Borris House, County Carlow, June 2022
+host: YouTube (the festival’s channel)
+embed: auto
+body: In June 2022, the poem’s centenary year, Irons and Cusack read it at the festival, introduced by James Lever. The festival’s own recording, posted in 2023, runs fifty-two minutes, with the introduction and the audience left in.
+sources: Festival of Writing and Ideas, June 2022
+---
+id: shaw-bbc-newsnight-clip
+group: readers
+title: Fiona Shaw performs it: a minute from Newsnight
+who: Fiona Shaw, directed by Deborah Warner
+when: Newsnight, January 2015; the staging dates from 1995, the film from 1996
+host: YouTube (BBC)
+embed: auto
+body: Deborah Warner directed Fiona Shaw in the poem as a piece of theatre, with Shaw alone on a bare stage taking every voice. It opened in Brussels in May 1995 and toured, and {link:shaw-warner-film-cannes-1996|Warner’s film of it, made for the BBC, was shown at Cannes} in May 1996. In 1997 the staging ran at Wilton’s Music Hall in the East End, which is why that hall is on the site’s map. The clip here is the BBC’s own, of Shaw performing part of the poem on Newsnight in January 2015, fifty years after Eliot’s death. The film itself circulates only in unofficial copies, which are not played here.
+sources: Playbill, 28 October 1996
+Festival de Cannes, The Waste Land (1996)
+Playbill, 8 December 1997
+Wilton's Music Hall, The Waste Land (1997)
+Newsnight, 19 January 2015
+---
+id: shaw-faber-waste-land-app
+group: readers
+title: The Waste Land app, 2011
+who: Faber and Touch Press
+when: June 2011; updated for the centenary in January 2022 and released for iPhone
+host: App Store
+embed: https://www.youtube-nocookie.com/embed/rlhosnfP-Jw
+body: An edition of the poem for the iPad, made by Faber and Touch Press. It contains a performance by Fiona Shaw filmed for it; readings synchronised to the text by Eliot (two recordings), Ted Hughes, Alec Guinness, Viggo Mortensen, and Jeremy Irons with Eileen Atkins; the manuscript pages; and more than thirty-five short filmed commentaries, with Seamus Heaney and Jeanette Winterson among the speakers. The film below is Touch Press’s own demonstration of the app, not a reading of the poem.
+sources: The Waste Land app (2011)
+Touch Press, A walk through The Waste Land
+---
+id: hughes-faber-soundcloud
+group: readers
+title: Ted Hughes reads the pub scene from A Game of Chess
+who: Ted Hughes
+when: From the Penguin/Faber audiobook of 1996; an extract
+host: SoundCloud (Faber)
+embed: auto
+body: The pub scene at the end of A Game of Chess, from Hughes’s reading of the whole poem for the Penguin/Faber audiobook of 1996. Faber posted the extract in April 2011, when its app was being made.
+sources: Faber (SoundCloud), “Ted Hughes reads The Waste Land (A Game of Chess, extract)”
+Ted Hughes reads The Waste Land (1996)
+---
+id: mortensen-faber-soundcloud
+group: readers
+title: Viggo Mortensen reads the opening of The Fire Sermon
+who: Viggo Mortensen
+when: Recorded in 2011 for the app; an extract
+host: SoundCloud (Faber)
+embed: auto
+body: An extract, the opening of The Fire Sermon, from the river to the fishing in the dull canal. Mortensen recorded the whole poem for Faber’s app in 2011; Faber posted this in April of that year.
+sources: Faber (SoundCloud), “Viggo Mortensen reads The Waste Land (The Fire Sermon, extract)”
+The Waste Land app (2011)
+---
+id: ballerini-faber-centenary-soundcloud
+group: readers
+title: Edoardo Ballerini, the centenary audiobook
+who: Edoardo Ballerini
+when: Faber and the T. S. Eliot Foundation, January 2022
+host: SoundCloud (Faber)
+embed: auto
+body: An extract from the audiobook made for the poem’s hundredth year. Ballerini also read the whole poem for {link:ballerini-queens-public-library-2022|the Queens Public Library} that year, with a conversation after.
+sources: Faber (SoundCloud), “The Waste Land audio extract read by Edoardo Ballerini”
+Ballerini, The Waste Land audiobook (2022)
+Queens Public Library, Ballerini reading (2022)
+---
+id: librivox-klett-2011
+group: readers
+title: Elizabeth Klett reads the whole poem, for LibriVox
+who: Elizabeth Klett
+when: 2011
+host: Internet Archive
+embed: auto
+body: A LibriVox volunteer recording of the whole poem, released into the public domain, so anyone may copy and reuse it.
+sources: LibriVox, The Waste Land (2011)
+---
+id: tristan-1928-bayreuth-act1-sailor
+group: music
+title: “Frisch weht der Wind”: the sailor’s song, Bayreuth 1928
+who: Gustav Rödin, young sailor; Bayreuth Festival under Karl Elmendorff
+when: Recorded at the festival in July 1928, on Columbia 78s
+host: Internet Archive
+embed: auto
+body: Lines 31 to 34 quote the young sailor’s song at the start of Wagner’s Tristan und Isolde, sung unaccompanied from aloft, as if from the mast; Isolde, below, takes it as mockery of her. In the Archive’s track list the song is “Westwärts schweift der Blick”, track 2, and its return “Frisch weht der Wind”, track 5. The surface noise of the 78s is left in.
+sources: Wagner, Tristan und Isolde I.i
+Tristan (Bayreuth, 1928), first act
+---
+id: tristan-1928-bayreuth-act3-shepherd
+group: music
+title: “Öd’ und leer das Meer”: the shepherd in Tristan, Act III
+who: Hans Beer, shepherd; Rudolf Bockelmann, Kurwenal
+when: The same 1928 Bayreuth set
+host: Internet Archive
+embed: auto
+body: Line 42 quotes the shepherd’s answer to Kurwenal, Tristan’s servant, at the start of the last act of Tristan und Isolde: he has looked out to sea for Isolde’s ship and there is nothing. The prelude, track 52, and the shepherd’s cor anglais tune, track 53, come before it; the exchange is track 54.
+sources: Wagner, Tristan und Isolde III.i
+Tristan (Bayreuth, 1928), third act
+---
+id: gotterdammerung-solti-1964-rhinemaidens
+group: music
+title: Weialala leia: the Rhinemaidens
+who: Lucia Popp, Gwyneth Jones and Maureen Guy; Vienna Philharmonic under Georg Solti
+when: Recorded in 1964; the London Records (Decca) LP set of 1965, digitised by the Boston Public Library
+host: Internet Archive
+embed: auto
+body: The Thames-daughters’ refrain at lines 277 to 278 and 290 to 291 quotes the Rhinemaidens’ cry from the last act of Wagner’s Götterdämmerung, where they rise from the river to beg Siegfried for the ring. The scene begins on side nine, “Act III Scene 1”.
+sources: Wagner, Götterdämmerung III.i
+Götterdämmerung (Solti, London Records, 1965)
+---
+id: shakespearian-rag-york-sheet-music
+group: music
+title: That Shakesperian Rag, 1912: the sheet music
+who: Music by Dave Stamper, words by Gene Buck and Herman Ruby
+when: Jos. W. Stern and Co., New York, 1912
+host: York University Libraries
+embed: none
+body: Line 128’s “O O O O that Shakespeherian Rag” adds a syllable to a popular song of 1912, usually said to have been sung in that year’s Ziegfeld Follies, though no performance in the show has been traced; the cover spells it “Shakesperian”. York University in Toronto has the sheet music, scanned with its cover. No recording from the time has turned up in the Library of Congress or the Internet Archive.
+sources: Buck, Ruby and Stamper, "That Shakespearian Rag" (1912)
+McElderry (1957)
+Guerrieri (2017)
+---
+id: xc899696-hermit-thrush-quebec
+group: birds
+title: A hermit thrush in Québec
+who: Recorded by Denis Provencher
+when: 1 May 2024, in the Laurentians
+host: xeno-canto
+embed: auto
+body: Eliot’s note on line 357: “the hermit-thrush which I have heard in Quebec County.” This one was singing on a May evening in the Laurentians, north of Montreal. Licensed CC BY-NC-SA.
+---
+id: xc715748-hermit-thrush-by-sa
+group: birds
+title: A hermit thrush in Nova Scotia
+who: Recorded by Doug Hynes
+when: 6 July 2021, Sand Pond National Wildlife Area
+host: xeno-canto
+embed: auto
+body: A second recording. Eliot’s note on line 357 speaks of the hermit-thrush’s “water-dripping song”; the bird sings at lines 356 to 358. Licensed CC BY-SA, so this one may be reused with credit and under the same licence.
+---
+id: xc664726-hermit-thrush-halley
+group: birds
+title: A hermit thrush in Pennsylvania
+who: Recorded by Matthew R. Halley
+when: 14 July 2019, Warren County
+host: xeno-canto
+embed: auto
+body: A longer recording, two minutes and forty seconds. In his note on line 357 Eliot quotes Chapman’s Handbook of Birds of Eastern North America: “Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequaled.” Cornell’s Macaulay Library has {link:macaulay-hermit-thrush-song-article|an article on how the song differs across the continent}, with recordings from 1951 and 2006.
+sources: Chapman, Handbook (1895), p. 400
+Macaulay Library (2017)
+---
+id: bl-1922-first-edition-archive-duke
+group: pages
+title: The first edition, 1922: Duke’s copy
+who: Boni and Liveright, New York
+when: December 1922, one of a thousand numbered copies
+host: Internet Archive
+embed: auto
+body: The book this site follows, scanned page by page by Duke University Libraries. The marginal line numbers are printed every ten lines. On page 42 the line “If there were water” is set as if it were the end of the line before it, carried over for want of room, and the numbering skips it. From there the 1922 numbers run one behind the count used here.
+sources: The Waste Land (1922), p. 42
+---
+id: bl-1922-first-edition-archive-byu
+group: pages
+title: The fourth printing, 1930: Brigham Young University’s copy
+who: Horace Liveright, New York
+when: April 1930, from the 1922 setting of type
+host: Internet Archive
+embed: none
+body: The library’s record calls this copy no. 596 of the thousand and cites Gallup A6a, the 1922 edition’s entry in Donald Gallup’s bibliography of Eliot, while also noting a fourth printing. It is not a second scan of the first printing. The title page reads Horace Liveright, the verso “Fourth Printing, April, 1930”, and it has no limitation statement, the note that numbered each copy of the first printing. The pages are the 1922 setting of type, page for page and with the same marginal numbers; “hot water” at line 135 and “Heimat” at line 32, where letters are missing in the Duke copy, print cleanly here. Copies of the first printing exist in two states: in the earlier, line 339 reads “Dead mountain mouth of carious teeth”; in the later the a of “mountain” had dropped out and it reads “mount in”. Duke’s copy is the later state, and this printing still reads “mount in”.
+sources: The Waste Land, fourth printing (1930)
+The Waste Land (1922)
+Gallup, A6a
+---
+id: dial-november-1922-archive
+group: pages
+title: The Dial, November 1922
+who: The Dial Publishing Company, New York
+when: November 1922, pages 473 to 485
+host: Internet Archive
+embed: auto
+body: The poem as it first reached American readers, without the notes, in the magazine that gave Eliot its two-thousand-dollar award that year. Here the first line’s “cruellest” is spelled “cruelest”, with one l. The poem’s earliest printing of all was in The Criterion, the London magazine Eliot edited, in October 1922; that issue is on HathiTrust, where it can be read in full from the United States.
+sources: The Dial, November 1922, pp. 473–485
+The Dial, December 1922, Comment
+Rainey, Revisiting The Waste Land, ch. 2
+The Criterion, October 1922
+HathiTrust, The Criterion, vol. 1
+---
+id: nypl-digital-waste-land-typescript
+group: pages
+title: The manuscript, with Pound’s annotations
+who: T. S. Eliot, annotated by Ezra Pound and Vivien Eliot
+when: 1921 to 1922
+host: New York Public Library, Berg Collection
+embed: none
+body: The typescript and manuscript pages, with Pound’s cuts and comments and notes by Eliot’s wife Vivien, which Eliot sent in October 1922 to John Quinn, the New York lawyer and collector. After Quinn’s death they passed to his sister and then to his niece, who sold them to the New York Public Library’s Berg Collection in 1958; the library announced the purchase in 1968, after Eliot’s death. The library has digitised the pages but shows the images only in the building, so the link here goes to its record, not to the pages. The way to read them is the facsimile edition that Eliot’s widow, Valerie Eliot, published in 1971, reissued by Faber in 2022 with the pages in colour.
+sources: NYPL, The Waste Land typescript
+Facsimile (1971), introduction
+Ellmann (1971)
+Keane (2011)
+Facsimile, Faber colour edition (2022)
+---
+id: frazer-adonis-attis-osiris-1906
+group: pages
+title: Frazer’s Adonis, Attis, Osiris
+who: Sir James George Frazer
+when: First edition, 1906
+host: Internet Archive
+embed: auto
+body: Eliot’s headnote names “the two volumes Adonis, Attis, Osiris”, which are Part IV of the third edition of The Golden Bough (1914). This is the book’s first edition of 1906, in one volume. It gives Frazer’s account of the dying and reviving gods, the gardens of Adonis and the images of the god thrown into the sea, first set out in The Golden Bough of 1890 and enlarged here. The other book the headnote names, Jessie Weston’s From Ritual to Romance, is {link:gutenberg-4090-weston|on Project Gutenberg}, and so is {link:gutenberg-3623-frazer-golden-bough|the one-volume Golden Bough} of 1922.
+sources: Frazer, Adonis, Attis, Osiris, preface, p. v
+Frazer, The Golden Bough, part IV (1914)
+Frazer, The Golden Bough (1922)
+Weston, From Ritual to Romance
+---

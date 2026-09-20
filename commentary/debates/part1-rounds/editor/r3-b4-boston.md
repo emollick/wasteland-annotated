@@ -1,0 +1,5 @@
+### draft boston
+Decision: the scholar's Myrtle correction taken (she refuses him but gives him a bed, a bath and breakfast), and the night's events given as a list without an order, since the two scholars' accounts, both from Edmund Wilson's review of the facsimile, do not agree on where the policeman comes; the cancellation kept as the gloss on line 1 has it.
+TITLE: The cancelled opening: a night out in Boston
+BODY:
+In the typescript, Part I opens with fifty-four lines about a night out in Boston, told by one of a party of young men in loose, chatty verse: drinks at "Tom's place," a show, a brush with a policeman that a man he knows smooths over, a call at Myrtle's, where he is refused but given a bed, a bath and breakfast, and a walk home at sunrise. The lines are struck through in pencil. Valerie Eliot's facsimile (1971) attributes the cancellation to Eliot, and Pound's annotations begin only after the cancelled lines; whether Pound read them is not recorded. "April is the cruellest month" stood at the top of the typescript's second page. Pound wrote little on the rest of Part I: he queried a few words and let the section stand.

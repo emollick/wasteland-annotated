@@ -1,0 +1,25 @@
+id: ok-from-here
+part: 5
+line: 322
+title: "OK from here on I think"
+body:
+At the head of the typescript of Part V Pound wrote "OK from here on I think," and cut almost nothing; he had cut heavily in the earlier parts. Eliot wrote the section at Lausanne between late November 1921 and 2 January 1922, while under treatment by Dr Roger Vittoz. In an essay on Pascal in 1931 he wrote that in some forms of illness "long passages may be produced which require little or no retouch," a sentence readers have applied to Part V, though Eliot did not. Several passages of the poem are older than 1921. Lines 322 to 330 draw on a fragment beginning "After the turning of the inspired days," and lines 378 to 385 on another beginning "So through the evening, through the violet air," both printed in the 1971 facsimile; the "red rock" of Part I came from "The Death of Saint Narcissus" (1915), and Phlebas from "Dans le Restaurant" (1918).
+sources: Facsimile (1971), the typescript of Part V, and pp. 108–109 and 112
+Keane (2011)
+The Spectator, 1 January 1972
+Gold (2000)
+Rainey, Revisiting The Waste Land
+Eliot, "The Pensées of Pascal" (1931)
+Miller (1977)
+Ricks and McCue, textual history, notes on lines 322 and 377–378
+---
+id: manuscript-fate
+part: 5
+line: 434
+title: What happened to the papers
+body:
+In October 1922 Eliot gave the drafts, with Pound's pencil and his wife Vivien's on them, to John Quinn, the New York lawyer and collector who had negotiated his American contracts; Quinn accepted them on condition that he could buy the notebook of Eliot's early poems, for which he paid $140. After Quinn's death in 1924 the papers passed to his sister and then to her daughter, Mary Conroy, and were thought lost. She found them in storage in the early 1950s and sold them to the Berg Collection of the New York Public Library in 1958; the library announced the acquisition in October 1968, nearly four years after Eliot's death. Valerie Eliot's facsimile edition of 1971 printed every page. Eliot himself said in 1946 that the poem had left Pound's hands "reduced to about half its size."
+sources: Menand (1997)
+Edmund Wilson (1971)
+Facsimile (1971), introduction
+Eliot, "Ezra Pound," Poetry (1946)

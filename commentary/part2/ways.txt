@@ -1,0 +1,59 @@
+part: 2
+title: Ways into A Game of Chess
+---
+kind: listen
+title: Hear the two women
+lens: listen
+body: Fiona Shaw's filmed performance of the whole poem, directed by Deborah Warner, is the one to watch for this section: one actor speaking for the woman in the chair and the woman in the pub. For the pub scene, hear also Alec Guinness's reading on the Argo record.
+---
+kind: source
+title: Start with Cleopatra's barge
+source: shakespeare-antony
+body: Read Enobarbus's speech from <i>Antony and Cleopatra</i> (it is in the library), then lines 77–110 with it beside you, and see what each of Eliot's changes does to Shakespeare's picture: the barge comes indoors and down in scale. Then find the two other women in the room's details, Dido at line 92 and Eve at line 98.
+sources: Shakespeare, Antony and Cleopatra II.ii
+Virgil, Aeneid I 726
+Milton, Paradise Lost IV 140
+---
+kind: lens
+title: Read the man's silence
+lens: voices
+body: With Voices on, lines 111–138 divide: everything in quotation marks is hers, spoken; everything without is his and, by the usual reading, unspoken. Read only his lines, in order.
+sources: Unger (1966)
+---
+kind: do
+title: The rag of 1912
+lens: listen
+body: "That Shakespearian Rag" was a real song of 1912. No recording of the day has been found; the sheet music is in the listening room. Read its chorus, then lines 128–130 with Eliot's extra syllable in "Shakespeherian": it gives the word the song's syncopation, and the man hums it instead of answering.
+sources: Buck, Ruby and Stamper, "That Shakespearian Rag" (1912)
+Guerrieri (2017)
+---
+kind: source
+title: Find Philomel above the mantel
+source: ovid-met6
+body: Eliot's note sends you to Ovid's story of Tereus, Procne and Philomela; John Lyly's nightingale song from his play <i>Campaspe</i> (1584) is the plainest example of the Elizabethan convention, the nightingale's "jug jug", that line 103 uses. Read both, then follow the nightingale through the rest of the poem: lines 203–206, and the swallow at line 429.
+sources: Ovid, Metamorphoses VI 424–674
+Lyly, Campaspe V.i
+---
+kind: lens
+title: Watch the clock
+lens: clock
+body: The poem gives three hours by the clock; two of them are here, ten and four (lines 135–136), and the third is nine, at line 68. The section also has "tonight", "tomorrow" and closing time, called five times. The Clock lens marks every time of day the poem names.
+---
+kind: draft
+title: Vivien Eliot's pencil
+lens: drafts
+body: Eliot's wife read this section in typescript. Beside the nervous dialogue she wrote "WONDERFUL"; she supplied two lines of the pub scene; and she asked for a line about "ivory men" to be taken out. The drafts view says which.
+sources: Facsimile (1971), the typescript of Part II
+Ricks and McCue, textual notes on lines 120–139, 153 and 164
+Litz (1973)
+---
+kind: path
+title: The women, one after another
+path: women
+body: The lady in the chair, who speaks at line 111; Philomel, raped and turned into a bird; Lil, and the friend who tells her story; Ophelia. Eliot's note to line 218 says "all the women are one woman". Walk through them and decide whether you believe him.
+---
+kind: ask
+title: Who is not in the room
+body: Two people in a room; one talks, one thinks. Who is not there? Whose bones were lost in rats' alley? Whose eyes were the pearls? Two of his unspoken answers point to the dead: the men of the trenches, and the drowned father in Ariel's song from <i>The Tempest</i>.
+sources: Shakespeare, The Tempest I.ii
+Chasseaud (2006)

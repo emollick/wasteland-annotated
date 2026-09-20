@@ -1,0 +1,481 @@
+{
+ "voices": {
+  "poem": {
+   "label": "The poem's own voice",
+   "color": "#1B1917",
+   "note": "The voice that opens the poem, describes the room in Part II, elegises Phlebas, and speaks the thunder's glosses. It is never quite a person."
+  },
+  "marie": {
+   "label": "Marie",
+   "color": "#B4626A",
+   "note": "A displaced Austrian aristocrat, talking over coffee. Lines 8–18, with one stranger's sentence at line 12."
+  },
+  "stranger": {
+   "label": "A voice in the café",
+   "color": "#8A6D9A",
+   "note": "One sentence in German, overheard: line 12."
+  },
+  "prophet": {
+   "label": "The prophet",
+   "color": "#A3442B",
+   "note": "Ezekiel's and Isaiah's voice, addressing the 'son of man' from under the red rock. Lines 19–30."
+  },
+  "sailor": {
+   "label": "Wagner's sailor",
+   "color": "#4C6E85",
+   "note": "The young sailor singing from the masthead in Tristan, Act I. Lines 31–34."
+  },
+  "hyacinth": {
+   "label": "The hyacinth girl",
+   "color": "#6E5A9E",
+   "note": "Two lines in quotation marks, 35–36."
+  },
+  "lover": {
+   "label": "The one who could not speak",
+   "color": "#3D3A46",
+   "note": "Lines 37–41: the poem's one admission of feeling."
+  },
+  "shepherd": {
+   "label": "Wagner's shepherd",
+   "color": "#4C6E85",
+   "note": "Four words from Tristan, Act III: line 42."
+  },
+  "sosostris": {
+   "label": "Madame Sosostris",
+   "color": "#8C6D1F",
+   "note": "The clairvoyante, dealing the cards. Lines 46–59, framed by the poem's voice at 43–46."
+  },
+  "walker": {
+   "label": "The walker in the City",
+   "color": "#2F4858",
+   "note": "The 'I' who crosses London Bridge in the fog, cries out to Stetson, meets Mr. Eugenides, and walks from the Strand to Lower Thames Street. Lines 60–76, 207–211, 257–265."
+  },
+  "she": {
+   "label": "The woman with bad nerves",
+   "color": "#B4626A",
+   "note": "In quotation marks throughout lines 111–134: she speaks aloud."
+  },
+  "he": {
+   "label": "The man who does not answer",
+   "color": "#3D3A46",
+   "note": "Lines 115–138, without quotation marks: he thinks, in other people's lines."
+  },
+  "pub": {
+   "label": "Lil's friend, in the pub",
+   "color": "#9A5B2B",
+   "note": "The Cockney monologue, lines 139–171."
+  },
+  "publican": {
+   "label": "The publican",
+   "color": "#1B1917",
+   "note": "HURRY UP PLEASE ITS TIME, five times."
+  },
+  "ophelia": {
+   "label": "Ophelia",
+   "color": "#4C6E85",
+   "note": "Line 172, from Hamlet, on her way to the water."
+  },
+  "fisher": {
+   "label": "The fisher on the bank",
+   "color": "#4A6B5A",
+   "note": "Spenser's poet, Ferdinand and the Fisher King in one voice: lines 173–198."
+  },
+  "song": {
+   "label": "A song, overheard",
+   "color": "#8A6D9A",
+   "note": "The soldiers' song about Mrs Porter (199–201); Verlaine's line (202); the rag (128–130)."
+  },
+  "nightingale": {
+   "label": "The nightingale",
+   "color": "#6E5A9E",
+   "note": "Lines 203–206: Philomel, in bird-language."
+  },
+  "eugenides": {
+   "label": "Mr. Eugenides",
+   "color": "#8C6D1F",
+   "note": "His invitation, reported: lines 212–214."
+  },
+  "tiresias": {
+   "label": "Tiresias",
+   "color": "#4A3560",
+   "note": "Lines 215–251 and 253–256: the blind seer who has been both sexes and watches the typist's evening."
+  },
+  "typist": {
+   "label": "The typist",
+   "color": "#B4626A",
+   "note": "One half-formed thought aloud: line 252."
+  },
+  "thames": {
+   "label": "The Thames-daughters, together",
+   "color": "#4C6E85",
+   "note": "The river's song, lines 266–291, with the Rhine-daughters' refrain."
+  },
+  "thames1": {
+   "label": "First Thames-daughter",
+   "color": "#5B7F96",
+   "note": "Highbury, Richmond and Kew: lines 292–295."
+  },
+  "thames2": {
+   "label": "Second Thames-daughter",
+   "color": "#4C6E85",
+   "note": "Moorgate: lines 296–299."
+  },
+  "thames3": {
+   "label": "Third Thames-daughter",
+   "color": "#3F5C70",
+   "note": "Margate Sands: lines 300–306."
+  },
+  "ascetic": {
+   "label": "Augustine and the Buddha",
+   "color": "#A3442B",
+   "note": "Lines 307–311: two ascetics, one word between them."
+  },
+  "pilgrim": {
+   "label": "The pilgrim on the road",
+   "color": "#7A5C2E",
+   "note": "The voice in the mountains without water, asking who walks beside you: lines 331–366."
+  },
+  "seer": {
+   "label": "The one who sees the cities fall",
+   "color": "#4A3560",
+   "note": "Lines 367–395: the hooded hordes, the falling towers, the nightmare, the empty chapel."
+  },
+  "thunder": {
+   "label": "The thunder",
+   "color": "#1B1917",
+   "note": "DA. Three times."
+  },
+  "fisherking": {
+   "label": "The Fisher King",
+   "color": "#4A6B5A",
+   "note": "Lines 424–426, and the fragments that follow: 'I sat upon the shore.'"
+  },
+  "fragments": {
+   "label": "The fragments",
+   "color": "#8A6D9A",
+   "note": "Lines 427–432: a nursery rhyme, Dante, a Latin poet, Nerval, the poet, Kyd, in that order."
+  },
+  "upanishad": {
+   "label": "The Upanishad",
+   "color": "#8C6D1F",
+   "note": "Datta. Dayadhvam. Damyata. Shantih shantih shantih."
+  }
+ },
+ "spans": [
+  [
+   1,
+   7,
+   "poem"
+  ],
+  [
+   8,
+   11,
+   "marie"
+  ],
+  [
+   12,
+   12,
+   "stranger"
+  ],
+  [
+   13,
+   18,
+   "marie"
+  ],
+  [
+   19,
+   30,
+   "prophet"
+  ],
+  [
+   31,
+   34,
+   "sailor"
+  ],
+  [
+   35,
+   36,
+   "hyacinth"
+  ],
+  [
+   37,
+   41,
+   "lover"
+  ],
+  [
+   42,
+   42,
+   "shepherd"
+  ],
+  [
+   43,
+   46,
+   "poem"
+  ],
+  [
+   46,
+   59,
+   "sosostris"
+  ],
+  [
+   60,
+   76,
+   "walker"
+  ],
+  [
+   77,
+   110,
+   "poem"
+  ],
+  [
+   111,
+   114,
+   "she"
+  ],
+  [
+   115,
+   116,
+   "he"
+  ],
+  [
+   117,
+   117,
+   "she"
+  ],
+  [
+   118,
+   118,
+   "he"
+  ],
+  [
+   119,
+   119,
+   "she"
+  ],
+  [
+   120,
+   120,
+   "he"
+  ],
+  [
+   121,
+   123,
+   "she"
+  ],
+  [
+   124,
+   125,
+   "he"
+  ],
+  [
+   126,
+   126,
+   "she"
+  ],
+  [
+   127,
+   130,
+   "he"
+  ],
+  [
+   131,
+   134,
+   "she"
+  ],
+  [
+   135,
+   138,
+   "he"
+  ],
+  [
+   139,
+   140,
+   "pub"
+  ],
+  [
+   141,
+   141,
+   "publican"
+  ],
+  [
+   142,
+   151,
+   "pub"
+  ],
+  [
+   152,
+   152,
+   "publican"
+  ],
+  [
+   153,
+   164,
+   "pub"
+  ],
+  [
+   165,
+   165,
+   "publican"
+  ],
+  [
+   166,
+   167,
+   "pub"
+  ],
+  [
+   168,
+   169,
+   "publican"
+  ],
+  [
+   170,
+   171,
+   "pub"
+  ],
+  [
+   172,
+   172,
+   "ophelia"
+  ],
+  [
+   173,
+   198,
+   "fisher"
+  ],
+  [
+   199,
+   202,
+   "song"
+  ],
+  [
+   203,
+   206,
+   "nightingale"
+  ],
+  [
+   207,
+   211,
+   "walker"
+  ],
+  [
+   212,
+   214,
+   "eugenides"
+  ],
+  [
+   215,
+   251,
+   "tiresias"
+  ],
+  [
+   252,
+   252,
+   "typist"
+  ],
+  [
+   253,
+   256,
+   "tiresias"
+  ],
+  [
+   257,
+   265,
+   "walker"
+  ],
+  [
+   266,
+   291,
+   "thames"
+  ],
+  [
+   292,
+   295,
+   "thames1"
+  ],
+  [
+   296,
+   299,
+   "thames2"
+  ],
+  [
+   300,
+   306,
+   "thames3"
+  ],
+  [
+   307,
+   311,
+   "ascetic"
+  ],
+  [
+   312,
+   321,
+   "poem"
+  ],
+  [
+   322,
+   330,
+   "poem"
+  ],
+  [
+   331,
+   366,
+   "pilgrim"
+  ],
+  [
+   367,
+   395,
+   "seer"
+  ],
+  [
+   396,
+   400,
+   "poem"
+  ],
+  [
+   401,
+   401,
+   "thunder"
+  ],
+  [
+   402,
+   410,
+   "poem"
+  ],
+  [
+   411,
+   411,
+   "thunder"
+  ],
+  [
+   412,
+   417,
+   "poem"
+  ],
+  [
+   418,
+   418,
+   "thunder"
+  ],
+  [
+   419,
+   423,
+   "poem"
+  ],
+  [
+   424,
+   426,
+   "fisherking"
+  ],
+  [
+   427,
+   432,
+   "fragments"
+  ],
+  [
+   433,
+   434,
+   "upanishad"
+  ]
+ ]
+}

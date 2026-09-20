@@ -1,0 +1,43 @@
+# Batch 3, as it now stands (after round three)
+
+### unreal-city
+TITLE: Baudelaire's swarming city
+BODY:
+The opening of "Les Sept Vieillards" ("The Seven Old Men"), in the <i>Tableaux parisiens</i> section of <i>Les Fleurs du mal</i>. The poet, walking through a dirty yellow fog, meets the same hideous old man seven times over. In a talk on Dante in 1950 ("What Dante Means to Me") Eliot said that Baudelaire had shown him what poetry could make of the modern city, the fusion of "the sordidly realistic and the phantasmagoric".
+
+The brown fog is London's coal-smoke fog. Eliot went in to the City through it from March 1917, when he joined Lloyds Bank in Lombard Street. "Unreal City" returns at line 207, under the same fog at noon, and as the single word "Unreal" at line 377.
+
+### london-bridge-dead
+TITLE: The crowd at the gate of Hell
+BODY:
+<i>Inferno</i> III, 55–57. Just inside the gate of Hell, before the river Acheron, Dante sees the souls of those who lived "without infamy and without praise" (III, 36), refused by Heaven and by Hell alike, and is astonished at how many there are. Line 64, "Sighs, short and infrequent, were exhaled," comes from the next canto, Limbo, where the unbaptised and the virtuous pagans live, in Dante's words, "without hope, in desire", and there is no weeping, only sighs that make the eternal air tremble (IV, 25–42). Eliot said in 1950 that he had altered the line about the sighs on purpose, and that he gave the references in his notes so that a reader who recognised a borrowing would know he was meant to recognise it. In the same talk he called this crowd "my city clerks trooping over London Bridge from the railway station to their offices". He was one of them. Lloyds Bank, where he worked from 1917 to 1925, was in Lombard Street, a few doors from the top of King William Street.
+
+### woolnoth
+TITLE: St Mary Woolnoth
+BODY:
+King William Street runs up from London Bridge to the Bank of England, and at its top, on the corner of Lombard Street, stands Nicholas Hawksmoor's St Mary Woolnoth (1716–27), a squat church with two flat-topped turrets and its stone cut in deep bands. Lloyds Bank's head office, at 71 Lombard Street, stood a few doors along from the church. Eliot worked there from March 1917 to November 1925; his hours, he told his mother in 1917, were "from 9.15 to 5". His note on line 68 says only: "A phenomenon which I have often noticed."
+
+When the City and South London Railway built Bank station beneath the church in 1897–1900, the bodies in the crypt were reburied in the City of London Cemetery at Manor Park, and the crypt became the station's booking hall.
+
+### stetson
+TITLE: Stetson, and the ships at Mylae
+BODY:
+Mylae was the battle of 260 BC, early in the First Punic War, in which Rome beat Carthage at sea for the first time; the identification is F. O. Matthiessen's (1935). Cleanth Brooks (1939) read the Punic War as a trade war, and so as a parallel to the war of 1914–18: in his words, "all the wars are one war". The speaker greets a friend in the City of London, a few years after the Armistice, as someone who was "in the ships" with him at Mylae. The meeting is in King William Street, where the crowd has just arrived, not on the bridge.
+
+Stetson is an American name and the name of an American hat. He has often been taken for Pound, who wore a wide-brimmed hat; Southam's <i>Guide</i> records the identification. Valerie Eliot, answering it in a letter to the <i>Times Literary Supplement</i> (11 May 1973), wrote that Eliot was not referring to anyone in particular but "simply meant any superior bank clerk", a man in a bowler hat, black jacket and striped trousers. Southam's <i>Guide</i> also records a suggestion that links the name to the felt slouch hat, a kind of stetson, worn by the Australian and New Zealand troops of 1914–18; Stetson himself has been linked by Robert Crawford (1987) and Donald Childs (1988) to Kipling's bank clerk Charlie Mears, in "The Finest Story in the World", who remembers rowing in an ancient galley. Nothing in the poem requires him to be any of these.
+
+### corpse
+TITLE: The buried god
+BODY:
+In <i>Adonis, Attis, Osiris</i>, the two volumes of <i>The Golden Bough</i> that Eliot's headnote names as "Atthis Adonis Osiris", Frazer describes two rites of gods who die and return. The "gardens of Adonis" were pots of earth sown with quick-sprouting wheat and barley, tended for eight days, then carried out with the images of the dead god and thrown into the sea or into springs. Effigies of Osiris made of earth and corn were buried at the Egyptian festival of sowing and taken up when the grain had sprouted. Corn-stuffed figures of the god have also been found in tombs. The sprouting of the grain, Frazer says, signified his resurrection. Eliot's headnote promises that readers of Frazer will "immediately recognise in the poem certain references to vegetation ceremonies". This is the plainest of them. The questions are the ones a man asks a neighbour about his bulbs.
+
+### dog
+TITLE: Webster's dirge, altered
+BODY:
+Cornelia's song over her murdered son Marcello in Webster's <i>The White Devil</i> (1612), Act V scene iv. The stage direction says she sings it "in several forms of distraction". Eliot alters the couplet in six places. Webster's "But keep the wolf far thence" becomes "Oh keep the Dog far hence", the Dog with a capital; "foe to men" becomes "friend to men"; "For" becomes "Or", and "them" becomes "it". In Webster the wolf digs up the unburied dead; in Eliot the danger to the corpse in the garden is the dog, man's friend. Cleanth Brooks (1939) read the capitalised Dog as humanitarianism, the modern concern for man that digs up what was buried and so prevents its return; some annotators see the Dog Star, Sirius, whose rising marked the flooding of the Nile in the Egyptian calendar Frazer describes. Eliot's own account of such borrowing is in "Philip Massinger" (1920): "Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different."
+
+### hypocrite-lecteur
+TITLE: The reader accused
+TRANS: It is Boredom! Eye charged with an involuntary tear, he dreams of scaffolds while smoking his hookah. You know him, reader, this delicate monster, hypocrite reader, my likeness, my brother!
+BODY:
+The last line of "Au Lecteur", the poem that opens <i>Les Fleurs du mal</i> (1857) and that Eliot's note calls its preface. Baudelaire's catalogue of vices ends with the ugliest of them, Ennui, and then turns on the reader as an accomplice. In the 1922 text the line is spoken to Stetson: it is the last line of the speech that begins at line 69, inside its quotation marks, and it opens with "You!". But Baudelaire's line is spoken to the reader, and a reader who knows it is addressed as well. Eliot said in 1950 that he gave the references in his notes so that a reader who recognised an allusion would know it was meant.

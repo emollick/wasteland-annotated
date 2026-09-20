@@ -1,0 +1,93 @@
+path: first
+line: 331
+text: No water from here to line 359. At line 395 a gust brings rain.
+---
+path: first
+line: 427
+text: The last eight lines are mostly quotations, in five languages. The Fragments view gives each its source.
+---
+path: water
+line: 331
+text: "Here is no water but only rock." Rock and no water to line 359, and no rain until the gust of line 395.
+---
+path: water
+line: 353
+text: "If there were the sound of water only." Lines 353 to 359 imagine the sound of water and end on the hermit-thrush, whose song Eliot's note calls "water-dripping."
+---
+path: water
+line: 395
+text: "Bringing rain." The first rain since line 9. The poem does not show it fall.
+---
+path: water
+line: 396
+text: "Ganga was sunken." The Ganges low, and black clouds gathering over Himavant, the Himalaya. The thunder that speaks next is from the Upanishad named in Eliot's note.
+---
+path: water
+line: 419
+text: "The boat responded." A calm sea, and a boat under control.
+---
+path: water
+line: 424
+text: "I sat upon the shore / Fishing, with the arid plain behind me." The Fisher King, by water, with the waste land behind him.
+---
+path: dead
+line: 328
+text: "He who was living is now dead / We who were living are now dying."
+---
+path: dead
+line: 388
+text: "the tumbled graves, about the chapel." The Chapel Perilous, and "Dry bones can harm no one."
+---
+path: dead
+line: 407
+text: "our obituaries." What the dead leave: memories, wills, empty rooms.
+---
+path: dead
+line: 412
+text: Ugolino, hearing the door of the tower locked, or nailed, below him.
+---
+path: women
+line: 368
+text: "Murmur of maternal lamentation." Commentators connect it with the women who lamented on the way to the cross (Luke 23:27) and with the headnote's "present decay of eastern Europe."
+---
+path: women
+line: 378
+text: The woman who draws her long black hair out tight and plays it.
+---
+path: cities
+line: 375
+text: "Jerusalem Athens Alexandria / Vienna London / Unreal."
+---
+path: cities
+line: 396
+text: Ganga and Himavant: the Ganges and the Himalaya. After them the poem names only London Bridge and Aquitaine.
+sources: Southam, Guide, notes on lines 396–397
+---
+path: birds
+line: 354
+text: "Not the cicada." Not a bird: the dry sound that is there instead of water.
+---
+path: birds
+line: 357
+text: The hermit-thrush, whose "water-dripping song" Eliot heard in Quebec. Three recordings of it are in <a href="listen.html#rec-xc899696-hermit-thrush-quebec">the listening room</a>.
+---
+path: birds
+line: 380
+text: "bats with baby faces." Not birds, but they whistle and beat their wings.
+---
+path: birds
+line: 392
+text: "Co co rico": the French spelling of a cock-crow. Readers have heard in it the cock of Peter's denial and the cock of <i>Hamlet</i> I.i.
+---
+path: birds
+line: 429
+text: "O swallow swallow." Procne, sister of the Philomel of lines 99 and 203.
+---
+path: eyes
+line: 360
+text: "Who is the third who walks always beside you?" Luke 24:16: "their eyes were holden that they should not know him."
+---
+path: eliot
+line: 419
+text: Probably a boat off Cape Ann, where Eliot sailed in the summers of his youth.
+sources: T. S. Eliot Foundation, "T. S. Eliot's Gloucester"

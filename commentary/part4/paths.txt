@@ -1,0 +1,23 @@
+path: first
+line: 312
+text: The poem's shortest section gives ten lines to a drowned sailor. Madame Sosostris warned of this in Part I: "Fear death by water" (55).
+---
+path: water
+line: 312
+text: Phlebas is the drowned Phoenician Sailor of the tarot reading (47); here the current under sea picks his bones.
+---
+path: dead
+line: 312
+text: By the time his section opens Phlebas has been dead a fortnight. The drowning itself is never shown.
+---
+path: birds
+line: 313
+text: Phlebas, a fortnight drowned, has forgotten "the cry of gulls".
+---
+path: eliot
+line: 312
+text: The voyage Pound cut from this section set out past the Dry Salvages, rocks off Cape Ann in Massachusetts. Eliot's family spent its summers at Gloucester, on the cape, when he was a boy.
+sources: Facsimile (1971), the typescript of Part IV
+Eliot, The Dry Salvages (1941), headnote
+Ellmann (1971)
+T. S. Eliot Foundation, "T. S. Eliot's Gloucester"

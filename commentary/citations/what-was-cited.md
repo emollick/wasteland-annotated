@@ -1,0 +1,31 @@
+# The sources behind the notes: what was cited, and what could not be
+
+Live at https://the-waste-land.netlify.app since 22:08 UTC on 20 September 2026.
+
+## Where the references appear
+
+Every card on the poem page (the glosses, the voices, the ways in), every record on the Library, Listen and Drafts pages, and every stop of the pathways that are staying (A first reading, Cities, The poem in Eliot's life) ends with a References line: the works in short form, separated by semicolons, each linked to a Works cited list at the foot of the Library page. That list gives each work in full, with a link to the copy consulted where one is free to read. 236 records carry references, 733 citations in all, to 224 works.
+
+## How the sources were found and checked
+
+The debate records named what the scholars checked, and that was the starting point. Primary texts were opened where they are free online: Gutenberg, Wikisource, the Latin Library, Perseus, the archive.org scans of the older editions (Dyce's Webster, Bullen's Middleton, Bond's Lyly, Wharton's Sappho, Toynbee's Dante dictionary, Gomme's Traditional Games), the Historic Hansard transcripts, the Modernist Journals Project's Little Review, the library catalogues, and the hosts of the recordings.
+
+The commentaries still in copyright (Ricks and McCue, Southam, Rainey, the 1971 facsimile, the Letters, Grover Smith, Brooks, Kenner, Gardner, Unger, Litz, Thormählen, Gish, Miller and the rest) are not free to read. Each reading attributed to one of them was confirmed in the scanned lending copies through Open Library's search inside, which returns the sentence but not the printed page. So those works are cited by the line their note is keyed to ("Southam, Guide, note on line 69"; "Ricks and McCue, textual note on lines 120–139"), by chapter, or by a letter's writer, recipient and date; a page number is given only where the page was seen. Nothing is cited that was not opened or confirmed. Where a detail of an edition could not be confirmed (a series number, a translator's name, a place of publication) it was left out rather than guessed. Eliot's texts after 1929 are described or quoted in a phrase, as before.
+
+The works list itself was checked entry by entry against catalogues and the works: sixty corrections, among them wrong archive.org scans (the Dial, The Spirit of Romance, John Day), wrong Gutenberg numbers (Kipling, the Rider-Waite key, the Prayer Book), wrong editions linked (the 1922 first printing; Poems 1909–1925), the title of Gold's article, the Guardian for the Observer, Unger's Moments and Patterns (1966) for his Eliot's Compound Ghost (1981), which is where the Lavinia reading is.
+
+## What could not be cited
+
+About 117 claims stay uncited. Each is listed under its record in the reports (commentary/citations/part1.report.md to part5, library, site-other and stops) with the book that would settle it: Part I 21, Part II 19, Part III 23, Part IV 3, Part V 14, the Library 24, the recordings and voices 9, the pathway stops 4.
+
+Most are of one kind: a sentence that says "commentators read", "is usually taken as" or "editors cite", for which no scanned commentary produced the sentence by search. Examples: the Wheel of Fortune heard in Phlebas's wheel; Stetson as Baudelaire's ghost; the Tarot's Tower behind Nerval's "tour abolie"; Hieronimo's play in four languages set beside the poem; the Tower of London behind the "white towers"; Tiresias heard in "I do not know whether a man or a woman". Ricks and McCue's commentary on the lines would settle nearly all of them, and it never surfaced in search (only the edition's textual notes and chronology did). The rest are dictionary senses (laquearia, standards, demobbed, leman), a few dates that rest on Wikipedia alone (Ludwig II found drowned in 1886; the Cannon Street Hotel's business meetings; 260 BC for Mylae), the Lloyds office at 71 Lombard Street (a 1921 list of clearing banks gives that address for Lloyds' head office, and is now cited, but nothing places Eliot's department there), and the details of the three xeno-canto recordings, whose site refuses requests.
+
+## Errors the checking found
+
+Nineteen in the notes, all reported to the build thread, which corrected fifteen on the site: "David" for Dave Stamper; the stale sentence about a Nothing stop at line 402; "which" for "that" in the Russell letter; Dans le Restaurant "written in 1917" (Southam says 1918; now "1917 or 1918"); the unsupported "22 November 1921" for Eliot's arrival at Lausanne (now "late November"); the 1935 PennSound record's account of the Poetry Archive's note; "Caedmon issued it first"; Sappho's two lines "preserved by Demetrius" (the second half of the first line comes from the Etymologicum Magnum); Eliot's bank hours "9.15 to 5" (his own words, in "The Aims of Education": 9.15 to 5.30, and one Saturday in four); the crypt works "1897–1900" (1897–8); fortune-tellers "prosecuted in the 1920s" (liable under the Vagrancy Act until 1951); the dedication date credited to Ricks and McCue; "il miglior fabbro" in Pound's copy (Southam's transcription has no "il"); Margate "three weeks, from late October" (15 October to 12 November 1921, four weeks).
+
+Left as they were, with the reason: the Columbia recording's date (the Poetry Archive says 1933, PennSound 1935; both are cited); the Hughes audiobook's date (1996 or 1997); Paige's December date for Pound's letter of 24 January 1922 (the note's date is right); Gutenberg's "IT'S" against the 1922 printings' "ITS" (the gloss is right); Stevenson's "Home is the sailor" (comma or semicolon by edition). One sentence stays unverified rather than corrected: that the Schiff letter called the Margate lines "a rough draft of part of part III".
+
+## Still to come
+
+The thematic pathways being written in their own thread carry references in the same form, and their works join the list when they land.

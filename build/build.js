@@ -5,7 +5,7 @@ const ROOT = path.join(__dirname, '..');
 const DATA = path.join(ROOT, 'data');
 const RESEARCH = path.join(ROOT, 'research');
 const SITE = path.join(ROOT, 'site');
-const ART = '/mnt/project-files/art';
+const ART = fs.existsSync('/mnt/project-files/art') ? '/mnt/project-files/art' : path.join(ROOT, 'art'); // the shared copy while the project runs; the repository's own copy otherwise
 
 const read = f => fs.readFileSync(f, 'utf8');
 const exists = f => { try { fs.accessSync(f); return true; } catch { return false; } };

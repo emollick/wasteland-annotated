@@ -1,0 +1,5 @@
+### draft boston
+Decision: rewrite. "Burlesque", "a run from a policeman", "what remains begins already tired" and "the second first line" go; the facsimile named as the source; the cancellation stated as the facsimile and Wilson state it; the sequence of the night made to agree with the gloss on line 1, which both sides have settled.
+TITLE: The cancelled opening: a night out in Boston
+BODY:
+In the typescript, Part I opens with fifty-four lines about a night out in Boston, told by one of a party of young men in loose, chatty verse: drinks at "Tom's place," a show, a call on a woman who turns him away, a policeman who picks him up and a man he knows who gets him off, and a walk home at sunrise. The lines are struck through in pencil. Valerie Eliot's facsimile (1971) attributes the stroke to Eliot, and Pound's annotations begin only after it; whether Pound read the lines is not recorded. "April is the cruellest month" stood at the top of the typescript's second page. Pound's comments on the rest of Part I are few: he queried a few words and let the section stand.

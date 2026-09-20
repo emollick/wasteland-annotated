@@ -1,0 +1,32 @@
+id: fresca
+part: 3
+line: 173
+title: The seventy lines about Fresca
+body:
+In the typescript "The Fire Sermon" opened with some seventy lines of heroic couplets on a fashionable woman, Fresca: her waking, her breakfast in bed, her visit to the "needful stool" with a novel of Richardson's, her letter, her bath, her reading. Eliot said later that it was written in imitation of Pope's <i>Rape of the Lock</i>; critics also compare Swift's dressing-room poems. Pound struck it out. Eliot recalled in 1946 that Pound's objection was that Pope had done this so well it could not be done better, and that one cannot parody Pope without writing better verse than Pope, "and you can't". The printed section begins with the river. On Rainey's dating of the drafts, its opening lines, 173–182, were the last lines written for the poem, in Paris in January 1922.
+sources: Facsimile (1971), introduction and the typescript of Part III
+Ricks and McCue, textual history of The Waste Land, 5. The "Fresca couplets"
+Eliot, "Ezra Pound," Poetry (1946)
+Paris Review interview (1959)
+Rainey, Revisiting The Waste Land, ch. 1
+---
+id: typist-draft
+part: 3
+line: 215
+title: Pound and the typist
+body:
+In the typescript the scene ran in regular quatrains and was longer. The draft gave the clerk his age, a spotty face, greasy hair, table manners and boasts, and gave the typist a kimono and a Japanese print. Tiresias hedged with "Perhaps a cheap house agent's clerk", one of those loiterers who might have been seen anywhere. Pound wrote that the verse was "not interesting enough as verse" for so much of it. Against the hedge he wrote "Perhaps be damned", and beside the typist's "one half-formed thought may pass" (printed at 251 as "allows one half-formed thought to pass") he told Tiresias to make up his mind whether he knew or not. The clerk's exit, a couplet in which he stopped at a corner to urinate and spit, was marked by Pound and dropped; the dots at 248 fall where it stood. A passage that stood before the scene, addressed to London ("London, the swarming life you kill and breed"), went too.
+sources: Facsimile (1971), the typescript of Part III
+Facsimile (1971), p. 47
+Ricks and McCue, commentary on lines 222–230
+Ricks and McCue, commentary on line 251
+---
+id: thames-draft
+part: 3
+line: 266
+title: The Thames-daughters in draft
+body:
+The river song, the Elizabeth and Leicester lines and the three daughters' speeches are generally taken to be the "some fifty lines" Eliot drafted at Margate in November 1921. They reached print with few marks from Pound, and the words he did write here, "OK" and "echt" (genuine), are approving. Eliot's own revision shortened the first daughter's speech. His note, which identifies three daughters who "speak in turn" from 292 to 306, was added, like all the notes, for the book edition of December 1922.
+sources: Facsimile (1971), pp. 48–53
+Letters, vol. 1, Eliot to Sydney Schiff, 4 November 1921
+Rainey, Revisiting The Waste Land, ch. 1

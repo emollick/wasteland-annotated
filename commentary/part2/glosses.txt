@@ -1,0 +1,159 @@
+id: burnished-throne
+line: 77
+to: 96
+anchor: like a burnished throne
+kind: echo
+source: shakespeare-antony
+title: Cleopatra's barge
+quote: The barge she sat in, like a burnish’d throne,<br>Burn’d on the water: the poop was beaten gold;<br>Purple the sails, and so perfumed that<br>The winds were love-sick with them . . .
+body:
+Enobarbus, Antony's officer, is describing Cleopatra's first appearance to Antony, on her barge on the river Cydnus (<i>Antony and Cleopatra</i> II.ii). In the first line Eliot changes one word, barge to Chair, and the river pageant becomes a woman's room: a dressing table, a mirror, seven-branched candelabra, jewels, bottled perfumes. The passage is generally read as a parody of Enobarbus's speech: it keeps the metre, the gold and the perfume.
+
+Lines 77–93 are one sentence, the poem's one long stretch of formal blank verse, hard to follow by design. Its parts: the chair glowed on the marble; the mirror ("the glass"), held up on posts ("standards") carved with vines and golden cupids, doubled the candle flames; her perfumes drowned the sense in odours and, stirred by air from the window, rose to fatten the candle flames and throw their smoke up to the "laquearia" (line 92), the coffered ceiling, a ceiling of sunken panels. Then the fire: driftwood ("sea-wood") that has taken up copper burns green and orange, framed by coloured stone; in its light a carved dolphin, an ornament of the fireplace, seems to swim.
+
+"Laquearia" is Virgil's word for the gilded ceiling of Dido's palace at the feast where she falls in love with Aeneas, who will leave her (<i>Aeneid</i> I.726, quoted in Eliot's note). The "sylvan scene" of line 98 is Milton's phrase for Eden as Satan first sees it (<i>Paradise Lost</i> IV.140). So the room holds Cleopatra, Dido and Eve before the eye reaches Philomel on the wall (line 99), four women whose stories end badly. Commentators commonly read the room as furnished with ruined loves.
+sources: Shakespeare, Antony and Cleopatra II.ii
+Virgil, Aeneid I 726
+Milton, Paradise Lost IV 140
+Williams (1968)
+---
+id: philomel
+line: 99
+to: 103
+anchor: The change of Philomel
+kind: echo
+source: ovid-met6
+title: The nightingale's story
+image: philomela
+body:
+The story is in Ovid, <i>Metamorphoses</i> Book VI. Tereus, king of Thrace and married to Procne, rapes her sister Philomela and cuts out her tongue so she cannot tell. Philomela weaves what happened into a cloth and sends it to her sister; the sisters kill Tereus's son Itys and serve him to his father at dinner; when he pursues them, all three are turned into birds. Ovid names only Tereus's bird, the hoopoe. Which sister became the nightingale he leaves open; the later tradition, which the Elizabethans and Eliot follow, gave the nightingale to Philomela and the swallow to Procne.
+
+Here her story is a picture "above the antique mantel". The "withered stumps of time" told upon the walls (lines 104–105) are usually taken as other old stories in other pictures; the critic Leonard Unger read "stumps" as recalling Lavinia in Shakespeare's <i>Titus Andronicus</i>, who is raped like Philomel and has her tongue and her hands cut off, and who makes the crime known by pointing to Philomel's story in Ovid. She sings anyway, "inviolable": a voice that cannot be violated as she was. "Jug Jug" is how the Elizabethan poets spelled the nightingale's song; B. C. Southam, in his guide to Eliot's poems, notes that in Elizabethan use it was also "a crude joking reference to sexual intercourse", which is what "dirty ears" hear. The rape comes back in Part III (lines 203–206) and the swallow at line 429.
+sources: Ovid, Metamorphoses VI 424–674
+Shakespeare, Titus Andronicus IV.i
+Unger (1981)
+Southam, Guide, note on line 103
+---
+id: nerves
+line: 111
+to: 114
+anchor: My nerves are bad tonight
+kind: voice
+title: The woman who wants to be spoken to
+body:
+Her words, lines 111–114, are in quotation marks: she speaks aloud. Line 115, without them, is his answer, and the usual reading, which rests on the quotation marks alone, is that he does not say it aloud. Her questions are about his silence ("Why do you never speak. Speak."). What he thinks in reply is partly other people's words: a line adapted from a play by Webster (118), Ariel's song from <i>The Tempest</i> (125), a ragtime song (128). The rest, rats' alley, "Nothing again nothing", the hot water at ten, is his own.
+
+The voice has often been taken for that of Vivien Eliot, Eliot's wife. Both were ill in 1921, and she read this scene in typescript: beside this dialogue she wrote "WONDERFUL" and, up the margin, "Yes & wonderful wonderful". What the scene owes to the marriage is inference. Her threat at lines 132–133, to "walk the street / With my hair down", is to go out with her hair not put up, which a grown woman of her class then did not do. On the old stage loose hair was the sign of a woman's madness: the first printing of <i>Hamlet</i> (1603) brings Ophelia on for her mad scene "playing on a lute, and her hair down". "Walk the street" also carried, as it still does, the sense of working as a prostitute.
+sources: Webster, The Devil's Law-Case III.ii
+Shakespeare, The Tempest I.ii
+Hamlet, first quarto (1603), Ophelia's entry for the mad scene
+Facsimile (1971), the typescript of Part II
+Ricks and McCue, textual note on lines 120–139
+Unger (1966)
+Litz (1973)
+Charney (1988)
+---
+id: rats-alley
+line: 115
+to: 116
+anchor: rats’ alley
+kind: gloss
+title: The trenches
+body:
+"Rats' Alley" is recorded as a trench name on British trench maps of the Western Front; whether Eliot had a particular trench in mind is not known. Rats in the trenches fed on the unburied dead. Eliot's note sends the reader on to line 195, where the bones on the river bank are "Rattled by the rat's foot only, year to year"; the rat that drags its belly through the vegetation is a few lines earlier (187–188). The war had ended less than three years before these lines were written, in 1921. This is his unspoken answer to "What are you thinking of?"
+sources: Chasseaud (2006)
+Cambridge Companion to The Waste Land (2015)
+Cambridge Companion to the Poetry of the First World War (2013)
+Cox and Hinchliffe (1968)
+---
+id: wind-door
+line: 118
+anchor: The wind under the door.
+kind: echo
+source: webster-devils-law-case
+title: Is the wind in that door still?
+quote: Is the wind in that door still?
+body:
+Eliot's note credits "Webster". The line is from John Webster's play <i>The Devil's Law-Case</i> (1623), Act III scene ii. Romelio, disguised as a physician, bribes the two surgeons attending the wounded Contarino to leave him alone with the patient, and stabs him; the surgeons, who have not gone far, come back. When Contarino groans, one asks "Did he not groan?" and the other, "Is the wind in that door still?", an idiom of the time for "so that is how things stand?". The surgeon means that the man is alive after all. So he is: the stab has drained the old wound, and Contarino recovers. In the poem the wind is his answer to "What is that noise?". In Webster the line asks whether a man is alive; she asks him the same at line 126, "Are you alive, or not?"
+sources: Webster, The Devil's Law-Case III.ii
+Shakespeare, 1 Henry IV III.iii
+---
+id: rag
+line: 128
+to: 130
+anchor: Shakespeherian Rag
+kind: echo
+source: shakespearian-rag
+title: A song of 1912
+quote: That Shakespearian rag,<br>Most intelligent, very elegant,<br>That old classical drag,<br>Has the proper stuff, the line “Lay on Macduff” . . .
+body:
+"That Shakespearian Rag" was published in 1912, words by Gene Buck and Herman Ruby, music by Dave Stamper. Its publisher's advertisements tied it to that year's Ziegfeld Follies, but no trace of it in the show has been found; the earliest performance anyone has traced was in vaudeville, in January 1913. Its chorus, "Most intelligent, very elegant", is what the man has running through his head instead of an answer; Eliot reverses the pair. He also adds a syllable, "Shakespeherian", to put the rag's syncopation into the word. Some readers hear in the four "O"s the "O, o, o, o" given to the dying Hamlet in the 1623 Folio and to the dying Lear in the 1608 Quarto.
+sources: Buck, Ruby and Stamper, "That Shakespearian Rag" (1912)
+Shakespeare, Hamlet V.ii
+Shakespeare, King Lear V.iii
+Internet Shakespeare Editions, the Folio Hamlet (1623), TLN 3847, and the Quarto King Lear (1608)
+Guerrieri (2017)
+Southam, Guide, note on line 128
+---
+id: chess
+line: 137
+to: 138
+anchor: a game of chess
+kind: echo
+source: middleton-wbw
+title: Middleton's chess game
+body:
+The man's reply to "What shall we ever do?" is the day's routine: hot water at ten, a closed car at four if it rains (a car with a roof, as against an open one), a game of chess, and a sleepless night, for "lidless" is sleepless.
+
+The game is Thomas Middleton's, from <i>Women Beware Women</i> (c. 1621), Act II scene ii. Livia, a go-between, keeps a mother busy over a chessboard downstairs while, in a gallery above, the Duke of Florence forces himself on the mother's daughter-in-law Bianca; the talk over the board doubles as commentary on what is happening upstairs ("I've given thee blind mate twice": a mate that passes unnoticed). Eliot's note names only this play; commentators add Middleton's <i>A Game at Chess</i> (1624), a satire on Spain that ran nine days before the Privy Council closed it.
+
+In the typescript a line stood between these two: "The ivory men make company between us." Vivien Eliot, his wife, asked for it to be taken out, and it was. Eliot wrote it back in from memory in a fair copy he made in 1960 to be sold for the London Library.
+sources: Middleton, Women Beware Women II.ii
+Women Beware Women, ed. Gill (1968), note on II.ii.393
+O'Callaghan (2009), ch. 8
+Wilks (1971)
+Facsimile (1971), the typescript of Part II
+Litz (1973)
+Cox and Hinchliffe (1968)
+---
+id: hurry-up
+line: 141
+anchor: HURRY UP PLEASE ITS TIME
+kind: voice
+title: The publican's call
+body:
+The landlord's shout at closing time. It breaks into the monologue five times, twice in mid-sentence. Pub hours had been cut during the war by government order, and the Licensing Act of 1921 made fixed hours permanent: in London, closing no later than eleven. The 1922 printings set the line in capitals with no apostrophe.
+sources: The Waste Land (1922)
+The Dial, November 1922, pp. 473–485
+Licensing Act 1921
+Hansard, HL Deb 9 August 1921, vol. 43, cols. 336–348
+---
+id: lil
+line: 139
+to: 171
+anchor: When Lil’s husband got demobbed
+kind: voice
+title: The pub monologue
+body:
+A woman telling a friend how she spoke to Lil. "Demobbed", demobilised, was new slang in 1919 and 1920 as the army came home. Albert has been away four years. Lil is thirty-one; she has had five children and nearly died having one of them, George. Her teeth are bad, and Albert gave her money to have them out and buy a set. She has also taken pills from the chemist "to bring it off", to end a pregnancy. The friend's advice is to get the false teeth, smarten herself up and give Albert a good time, or lose him. Everything is in the friend's mouth, so Lil is heard only as quoted. "Something o' that" (line 150) means something of the kind; "get on with it" (153) is put up with it; a "hot gammon" (166) is a joint of ham, and "to get the beauty of it hot" (167) is to eat it while it is hot and at its best. Lil's "straight look" at line 151 is often read as suspicion that the friend is one of the "others" who will.
+
+Valerie Eliot, the poet's widow, records in her edition of the drafts that the story was told to the Eliots by Ellen Kellond, the maid who worked for them; Eliot called the passage "pure Ellen Kellond". Two of its lines are by Vivien Eliot, his wife, pencilled in the margin of the typescript: line 153, and line 164, which replaced a line of Eliot's own. At the end she wrote "Splendid last lines".
+sources: Facsimile (1971), p. 127
+Ricks and McCue, textual notes on lines 153 and 164
+Southam, Guide, notes on lines 139–172
+Rainey, Annotated Waste Land, notes on lines 139–172
+Cambridge Companion to The Waste Land (2015)
+---
+id: goodnight-ladies
+line: 172
+anchor: Good night, ladies, good night, sweet ladies, good night, good night.
+kind: echo
+source: shakespeare-hamlet
+image: millais-ophelia
+title: Ophelia's exit
+quote: I hope all will be well. We must be patient: but I cannot choose but weep, to think they should lay him i’ the cold ground. My brother shall know of it: and so I thank you for your good counsel. Come, my coach! Good night, ladies; good night, sweet ladies; good night, good night.
+body:
+Ophelia leaves the stage here for the last time (<i>Hamlet</i>, Act IV scene v), mad after her father's death; the next news of her is the Queen's report that she has drowned. The pub's "Goonight" runs straight into her line. "Good night, ladies" is also the refrain of an American minstrel song of that name (E. P. Christy's, of 1847; the version still sung dates from 1867); whether Eliot meant that echo too is not known. Eliot's note to line 218 says that in the poem "all the women are one woman". In this section they are the lady in the chair, who is the speaker at line 111; Philomel; Lil; the friend who tells her story; and Ophelia.
+sources: Shakespeare, Hamlet IV.v
+Fuld (1966), "Goodnight Ladies"
+Waltz and Engle, Traditional Ballad Index, "Goodnight Ladies"

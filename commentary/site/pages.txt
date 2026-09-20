@@ -1,0 +1,703 @@
+id: meta-description
+where: the one-line description of the site that search engines and link previews show, on every page
+text: T. S. Eliot’s The Waste Land (1922): the whole text with Eliot’s notes, and beside each line its sources, translations, speakers and places; with a map of its London, the recordings, the drafts, and nine pathways through the poem.
+---
+id: nav-poem
+where: the running head at the top of every page: the link to the poem
+text: The poem
+---
+id: nav-map
+where: the running head: the link to the map
+text: Map
+---
+id: nav-listen
+where: the running head: the link to the listening room
+text: Listen
+---
+id: nav-drafts
+where: the running head: the link to the drafts page
+text: Drafts
+---
+id: nav-library
+where: the running head: the link to the library
+text: Library
+---
+id: nav-paths
+where: the running head: the link to the pathways page
+text: Pathways
+---
+id: nav-about
+where: the running head: the link to the About page
+text: About
+---
+id: nav-aria
+where: the running head, as a screen reader names it
+text: Pages
+---
+id: runhead-title
+where: the running head: the site’s name at the left, which links back to the poem
+text: The Waste Land
+---
+id: theme-label
+where: the small dot in the running head that switches between paper and the dark setting, as a screen reader reads it
+text: Switch between light and dark
+---
+id: theme-title
+where: the tooltip on that dot
+text: Light or dark
+---
+id: colophon
+where: the colophon at the foot of every page
+text: The text is that of the first book edition (Boni &amp; Liveright, New York, December 1922), which is in the public domain in the United States. The annotations, translations and design are this edition’s own; sources are quoted from public-domain texts and named on each card. Map data © OpenStreetMap contributors (ODbL). Pictures are public domain or Creative Commons and credited where they appear.
+---
+id: colophon-link
+where: the link under the colophon
+text: About this edition
+---
+id: title-poem
+where: the browser tab title of the poem page
+text: The Waste Land, annotated
+---
+id: title-map
+where: the browser tab title of the map page
+text: The map of The Waste Land
+---
+id: title-library
+where: the browser tab title of the library
+text: The library of The Waste Land
+---
+id: title-drafts
+where: the browser tab title of the drafts page
+text: The drafts of The Waste Land
+---
+id: title-listen
+where: the browser tab title of the listening room
+text: The listening room
+---
+id: title-paths
+where: the browser tab title of the pathways page
+text: Pathways through The Waste Land
+---
+id: title-about
+where: the browser tab title of the About page
+text: About this edition of The Waste Land
+---
+id: epigraph-mark
+where: the title page: the dot after the epigraph that opens its card, as a screen reader names it
+text: About the epigraph
+---
+id: tp-sub
+where: the title page: the line under the dedication that says what the edition holds
+text: The whole poem, with Eliot’s notes, and beside each line its sources, translations, speakers and places. On other pages, the map, the recordings, the drafts, and nine pathways through the poem.
+---
+id: tp-begin
+where: the title page: the first of the three ways to start (goes to Part I)
+text: Begin
+---
+id: tp-or
+where: the title page: the word between the three ways to start
+text: or
+---
+id: tp-begin-path
+where: the title page: the second way to start (opens the pathway called A first reading)
+text: take the guided first reading, twelve stops
+---
+id: tp-begin-slow
+where: the title page: the third way to start (opens Line by line at line 1)
+text: read it one line at a time
+---
+id: readbar-aria
+where: the bar of lenses and tools under the title page, as a screen reader names it
+text: Ways of reading
+---
+id: rb-read
+where: the bar of lenses: the label before the nine lenses (hidden on phones)
+text: Read with
+---
+id: rb-do
+where: the bar of lenses: the label before the seven tools (hidden on phones)
+text: Tools
+---
+id: lens-plain-desc
+where: the tooltip on the Plain lens button
+text: The poem alone
+---
+id: lens-plain
+where: the Plain lens button (one word; the bar is one line)
+text: Plain
+---
+id: lens-echoes-desc
+where: the tooltip on the Echoes lens button
+text: What the poem quotes, phrase by phrase
+---
+id: lens-echoes
+where: the Echoes lens button (one word; the bar is one line)
+text: Sources
+---
+id: lens-notes-desc
+where: the tooltip on the Notes lens button
+text: Eliot’s 1922 notes beside their lines
+---
+id: lens-notes
+where: the Notes lens button (one word; the bar is one line)
+text: Notes
+---
+id: lens-voices-desc
+where: the tooltip on the Voices lens button
+text: Who is speaking
+---
+id: lens-voices
+where: the Voices lens button (one word; the bar is one line)
+text: Voices
+---
+id: lens-tongues-desc
+where: the tooltip on the Tongues lens button
+text: The foreign phrases, translated
+---
+id: lens-tongues
+where: the Tongues lens button (one word; the bar is one line)
+text: Languages
+---
+id: lens-water-desc
+where: the tooltip on the Water lens button
+text: Water, drought and fire
+---
+id: lens-water
+where: the Water lens button (one word; the bar is one line)
+text: Water
+---
+id: lens-places-desc
+where: the tooltip on the Places lens button
+text: The places the poem names, and the map
+---
+id: lens-places
+where: the Places lens button (one word; the bar is one line)
+text: Places
+---
+id: lens-clock-desc
+where: the tooltip on the Clock lens button
+text: The hours and the seasons
+---
+id: lens-clock
+where: the Clock lens button (one word; the bar is one line)
+text: Clock
+---
+id: lens-drafts-desc
+where: the tooltip on the Drafts lens button
+text: The cuts and changes before printing
+---
+id: lens-drafts
+where: the Drafts lens button (one word; the bar is one line)
+text: Drafts
+---
+id: tool-slow
+where: the Line by line tool button in the bar (a few words; the bar is one line)
+text: Read line by line
+---
+id: tool-cards
+where: the tarot tool button in the bar (a few words; the bar is one line)
+text: Turn the tarot cards
+---
+id: tool-fragments
+where: the fragments tool button in the bar (a few words; the bar is one line)
+text: Unstack the last lines
+---
+id: tool-sortes
+where: the random line tool button in the bar (a few words; the bar is one line)
+text: Draw a line at random
+---
+id: tool-concordance
+where: the word search tool button in the bar (a few words; the bar is one line)
+text: Find a word
+---
+id: tool-heart
+where: the memorising tool button in the bar (a few words; the bar is one line)
+text: Learn it by heart
+---
+id: tool-walk
+where: the pathway tool button in the bar (a few words; the bar is one line)
+text: Take a pathway
+---
+id: notes-title
+where: the heading over Eliot’s notes at the foot of the poem page (the 1922 book’s own heading)
+text: Notes on The Waste Land
+---
+id: notes-about
+where: the paragraph under that heading, about the numbering
+text: Eliot’s notes as printed in the 1922 book, with his own line numbers. The margin on this page counts every line of the poem; the 1922 printing’s numbers run one behind from line 346, so that Eliot’s “line 433” is this margin’s 434, and his numbers do not always agree with the margin. <a href="about.html#numbering">On the numbering</a>.
+---
+id: margin-aria
+where: the margin where cards open, as a screen reader names it
+text: Margin notes
+---
+id: map-title
+where: the map page: its title
+text: The map
+---
+id: map-lede
+where: the map page: the paragraph under the title
+text: The places the poem names in London, and its river. London Bridge, King William Street and St Mary Woolnoth lie on one route, the way City workers came in from London Bridge station; it ends a short walk from Lloyds Bank, where Eliot worked. The Strand, Queen Victoria Street, Lower Thames Street and St Magnus Martyr make a second route, in Part III. The river’s places run from Richmond and Kew past Greenwich Reach and the Isle of Dogs to Margate Sands, where the third Thames-daughter speaks. Click a place for its lines. The river is drawn from OpenStreetMap data.
+---
+id: map-legend
+where: the map page: the small line under the London map
+text: Grey dots are places from Eliot’s own life that the poem does not name.
+---
+id: world-title
+where: the map page: the heading over the world map
+text: The poem’s world
+---
+id: world-lede
+where: the map page: the paragraph under that heading
+text: The places named in the poem and its epigraph, with a few more from Eliot’s notes, joined by a line in the order they come in the text, from Cumae, the Sibyl’s town in the epigraph, to Himavant in Part V. The Starnbergersee near Munich is the first place the poem itself names (line 8); Ludwig II of Bavaria drowned in it in 1886. Grey dots are places from Eliot’s own life that the poem does not name.
+---
+id: city-title
+where: the map page: the heading over the drawn map of the City
+text: The City
+---
+id: city-lede
+where: the map page: the paragraph under that heading
+text: A mile of the City, from the Cannon Street Hotel to Billingsgate, with the buildings the poem names drawn as they stood in 1922: St Mary Woolnoth, Hawksmoor’s church at the north end of King William Street, whose clock strikes nine at line 68; London Bridge, Rennie’s bridge of 1831, which the crowd crosses in Part I; St Magnus the Martyr, Wren’s church at the foot of the bridge; and the Cannon Street Hotel, where Mr. Eugenides asked the speaker to lunch. Click a building for its lines.
+---
+id: map-london-aria
+where: the London map, as a screen reader names it
+text: The Thames through London with the places of the poem
+---
+id: map-city-aria
+where: the City map, as a screen reader names it
+text: The City of London with the poem’s buildings drawn
+---
+id: map-world-aria
+where: the world map, as a screen reader names it
+text: The world of the poem
+---
+id: map-frame-label
+where: the London map: the label under the small frame around the City
+text: The City, drawn large below
+---
+id: map-river-label
+where: the London and City maps: the name written along the river
+text: Thames
+---
+id: map-metropole-label
+where: the London map: the label under the drawing of the Metropole hotel in the box along the foot
+text: The Metropole, Brighton, l. 214
+---
+id: map-metropole-sub
+where: the London map: the small line under that label
+text: fifty miles south, off this map
+---
+id: map-gashouse-label
+where: the London map: the label under the drawing of the gashouse in the box along the foot
+text: Behind the gashouse, l. 190
+---
+id: map-gashouse-sub
+where: the London map: the small line under that label
+text: the poem names no canal
+---
+id: map-margate-label
+where: the London map: the label under the drawing of Margate Sands in the corner box
+text: Margate Sands, l. 300
+---
+id: map-margate-sub
+where: the London map: the small line under that label
+text: sixty miles east, off this map
+---
+id: place-royal-barge
+where: the London map: the name of the Queen’s barge (Elizabeth and Leicester) when it is clicked
+text: Elizabeth and Leicester, the Queen’s barge on the river
+---
+id: place-metropole
+where: the London map: the name of the Metropole when it is clicked
+text: The Metropole, Brighton
+---
+id: place-gashouse
+where: the London map: the name of the gashouse when it is clicked
+text: The dull canal behind the gashouse
+---
+id: library-title
+where: the library page: its title
+text: The library
+---
+id: library-lede
+where: the library page: the paragraph under the title
+text: The works the poem quotes or draws on, in eight languages, from the Upanishads to a rag of 1912. Each is given in its own language, with a translation where one is needed, a note on what Eliot did with it, the lines where it appears in the poem, and a link to a free text of the whole work. Click a line number to go to it in the poem.
+---
+id: kind-poem
+where: the library page: the heading over the poems
+text: Poems
+---
+id: kind-play
+where: the library page: the heading over the plays
+text: Plays
+---
+id: kind-opera
+where: the library page: the heading over the operas
+text: Operas
+---
+id: kind-scripture
+where: the library page: the heading over the scriptures
+text: Scripture
+---
+id: kind-prose
+where: the library page: the heading over the proses
+text: Prose
+---
+id: kind-essay
+where: the library page: the heading over the essays
+text: Essays
+---
+id: kind-anthropology
+where: the library page: the heading over the anthropologys
+text: Anthropology
+---
+id: kind-philosophy
+where: the library page: the heading over the philosophys
+text: Philosophy
+---
+id: kind-history
+where: the library page: the heading over the historys
+text: History
+---
+id: kind-memoir
+where: the library page: the heading over the memoirs
+text: Memoirs
+---
+id: kind-birdbook
+where: the library page: the heading over the bird book
+text: A field guide
+---
+id: kind-novel
+where: the library page: the heading over the novels (and the one novella)
+text: Novels
+---
+id: kind-song
+where: the library page: the heading over the songs
+text: Songs
+---
+id: src-lines-label
+where: the library page: the label before the list of lines under each source
+text: In the poem:
+---
+id: src-title-page
+where: the library page: the link text used in that list for a source that appears on the title page
+text: title page
+---
+id: src-links-label
+where: the library page: the label before the links to the full text of a source
+text: Read it whole:
+---
+id: drafts-title
+where: the drafts page: its title
+text: The drafts
+---
+id: drafts-lede
+where: the drafts page: the paragraph under the title
+text: The poem was typed out at roughly twice its published length of four hundred and thirty-four lines. Ezra Pound did most of the cutting, in Paris in January 1922 and by letter after Eliot went home; Eliot’s wife Vivien added comments and two lines of the pub scene; Eliot himself struck out the first opening of Part I. In 1922 Eliot gave the typescript to John Quinn, the New York lawyer and collector who had negotiated its American publication. After Quinn’s death in 1924 it went unseen until the New York Public Library bought it in 1958, and its whereabouts were made public only in 1968, three years after Eliot’s death. It was printed in facsimile in 1971. The cut passages are still in copyright, so they are described here, not reproduced; the descriptions follow the facsimile edition page by page.
+---
+id: drafts-lede-2
+where: the drafts page: the smaller paragraph after it, on Pound’s letter
+text: Pound’s own account of his part is in the letter of 24 January 1922 in which he answered the revised typescript Eliot had sent from London. The verses in it are headed <i>Sage Homme</i>, that is, man-midwife, and say that “on each Occasion / Ezra performed the Caesarean Operation.”
+---
+id: pencil-title
+where: the drafts page: the heading over the list of Pound’s pencilled comments
+text: Pound’s comments
+---
+id: pencil-1
+where: the drafts page: item 1 of the list of Pound’s pencilled comments (the pencilled words are in the span; keep the span)
+text: <span class="pencil">too tum-pum at a stretch</span> beside the opening of Part II.
+---
+id: pencil-2
+where: the drafts page: item 2 of the list of Pound’s pencilled comments (the pencilled words are in the span; keep the span)
+text: <span class="pencil">verse not interesting enough as verse to warrant so much of it</span> on the typist.
+---
+id: pencil-3
+where: the drafts page: item 3 of the list of Pound’s pencilled comments (the pencilled words are in the span; keep the span)
+text: <span class="pencil">Perhaps be damned</span> against a hedging line.
+---
+id: pencil-4
+where: the drafts page: item 4 of the list of Pound’s pencilled comments (the pencilled words are in the span; keep the span)
+text: <span class="pencil">make up yr. mind / you Tiresias / if you know / know damn well / or / else / you / dont</span>
+---
+id: pencil-5
+where: the drafts page: item 5 of the list of Pound’s pencilled comments (the pencilled words are in the span; keep the span)
+text: <span class="pencil">Bad</span> across the sea voyage of Part IV.
+---
+id: pencil-6
+where: the drafts page: item 6 of the list of Pound’s pencilled comments (the pencilled words are in the span; keep the span)
+text: <span class="pencil">OK from here on I think</span> at the head of Part V.
+---
+id: pencil-7
+where: the drafts page: item 7 of the list of Pound’s pencilled comments (the pencilled words are in the span; keep the span)
+text: <span class="pencil">echt</span> beside the river song.
+---
+id: pencil-8
+where: the drafts page: item 8 of the list of Pound’s pencilled comments (the pencilled words are in the span; keep the span)
+text: And in a letter: <span class="pencil">Complimenti, you bitch. I am wracked by the seven jealousies.</span>
+---
+id: drafts-note
+where: the drafts page: the small paragraph at the foot
+text: Every quotation on this page is from the facsimile edition (ed. Valerie Eliot, 1971) or from the published letters of Pound and Eliot, kept to a phrase or two and quoted for comment. The drafts can be read in full in the facsimile edition.
+---
+id: listen-title
+where: the listening room: its title
+text: The listening room
+---
+id: listen-lede
+where: the listening room: the paragraph under the title
+text: Recordings of the poem, beginning with Eliot’s own, the music it quotes, the song of the bird in Eliot’s note to line 357, and the early printings page by page. Nothing is copied onto this site: each recording plays from the library, archive or broadcaster that holds it, and can be opened there.
+---
+id: listen-eliot-lede
+where: the listening room: the line under the heading “Eliot’s own voice”
+text: Two readings by the poet, more than a decade apart, and a fragment of a third.
+---
+id: listen-eliot-title
+where: the listening room: the heading over the poet’s own recordings
+text: Eliot’s own voice
+---
+id: listen-readers-lede
+where: the listening room: the line under the heading “Other readers”
+text: Actors mostly, and one LibriVox volunteer.
+---
+id: listen-readers-title
+where: the listening room: the heading over the other readers
+text: Other readers
+---
+id: listen-music-lede
+where: the listening room: the line under the heading “The music in it”
+text: The two operas and the rag that the poem quotes.
+---
+id: listen-music-title
+where: the listening room: the heading over the music
+text: The music in it
+---
+id: listen-birds-lede
+where: the listening room: the line under the heading “The hermit-thrush”
+text: The bird of Eliot’s note to line 357, in three recordings.
+---
+id: listen-birds-title
+where: the listening room: the heading over the birdsong
+text: The hermit-thrush
+---
+id: listen-pages-lede
+where: the listening room: the line under the heading “The printings and the manuscript”
+text: The printings of 1922 and 1930, page by page; where the manuscript is; and the Frazer volume Eliot’s headnote names.
+---
+id: listen-pages-title
+where: the listening room: the heading over the page scans
+text: The printings and the manuscript
+---
+id: listen-play
+where: the listening room: the label that opens a record’s player on the page
+text: Play here
+---
+id: listen-open
+where: the listening room: the link under each record, followed by the name of the site that holds it
+text: Open at
+---
+id: paths-title
+where: the pathways page: its title
+text: Pathways
+---
+id: paths-lede
+where: the pathways page: the paragraph under the title
+text: Nine pathways through the poem, each a sequence of stops. Choose one and the poem page opens with a small guide in the corner that takes you from stop to stop.
+---
+id: about-title
+where: the About page: its title
+text: About this edition
+---
+id: about-numbering-title
+where: the About page: the heading of the section on the line numbering
+text: The line numbering
+---
+id: about-text-title
+where: the About page: the heading of the section on the text
+text: The text
+---
+id: about-written-title
+where: the About page: the heading of the section on what was written for the edition
+text: What was written for this edition
+---
+id: about-voices-title
+where: the About page: the heading over the four quotations from 1922
+text: Four remarks on the poem
+---
+id: about-timeline-title
+where: the About page: the heading over the timeline
+text: A timeline
+---
+id: about-how-title
+where: the About page: the heading of the section on how the site works
+text: How the site works
+---
+id: about-type-title
+where: the About page: the heading of the section on type, drawings and pictures
+text: Type, drawings and pictures
+---
+id: about-map-title
+where: the About page: the heading of the section on the map data
+text: Map
+---
+id: about-text-1
+where: the About page: the text section, first paragraph
+text: The poem is given as it stands in the first book edition, published by Boni &amp; Liveright in New York in December 1922, including Eliot’s notes, which were written for that edition; the poem had appeared in <i>The Criterion</i> (October 1922) and <i>The Dial</i> (November 1922) without them. That text is in the public domain in the United States, where this site is published. In the United Kingdom and the European Union the poem remains in copyright until the end of 2035, seventy years after Eliot’s death.
+---
+id: about-text-2
+where: the About page: the text section, second paragraph (the 1922 readings kept)
+text: The 1922 text differs in small ways from the one in later Faber editions. This edition keeps the 1922 readings and notes the later ones where they matter: “Quando fiam ceu chelidon” at line 429 (later “uti,” the word in the Latin poem); “aetherial” at line 416 (later “aethereal”); the note on “Shantih,” which in 1922 calls the English phrase “a feeble translation of the content of this word” and later “our equivalent.” The pub talk’s “dont” and “wont,” “alright” at line 161, “tonight” at line 111 and “smoothes” at line 255 are the 1922 book’s own spellings, kept as they stand. The dedication to Pound was not printed until 1925 and is included here because Eliot wrote it into Pound’s copy in January 1923. Three slips of the 1922 press are set right: “Oed’ und leer das Meer” at line 42 was printed with a plain O; “The hot water at ten” at line 135 lost its a; and “Dead mountain mouth of carious teeth” at line 339 reads “mount in” in many copies of the first printing, the a having dropped out as the sheets ran. Typographic quotation marks and a few spellings have been regularised from the transcription on Project Gutenberg, which was checked against a scan of the 1922 printing.
+---
+id: about-numbering
+where: the About page: the paragraph on the line numbering
+text: The 1922 printing numbers every tenth line in the margin. On page 42, in Part V, “If there were water” is set flush right as the run-over of “From doors of mudcracked houses” and is not counted, so from line 346 the printed numbers run one behind: 350 stands beside “A spring,” 360 beside “When I count, there are only you and I together” (the poem’s 361st line), and the last line, “Shantih shantih shantih,” is “line 433” although the poem has 434. Eliot’s notes mostly follow the printed count, but not always: the note on the hermit-thrush is numbered 357 and the note on the Antarctic expedition 360, which fit the true count, while 366–76, 401, 411, 424 and 433 fit the printed one. On this site the margin counts the lines as they are, and each note is attached to the line Eliot meant.
+---
+id: about-written
+where: the About page: the paragraph on what was written for the edition
+text: The annotations, the translations of the sources, the descriptions of the voices, the tagging of water and drought, the pathways and the section “ways in” were written for this site. Every claim about the poem’s composition can be traced to one of: the facsimile edition of the drafts (Valerie Eliot, ed., 1971); <i>The Letters of T. S. Eliot</i>, volume 1; <i>The Poems of T. S. Eliot</i>, edited by Christopher Ricks and Jim McCue (2015), whose commentary is the standard reference; Lawrence Rainey’s <i>The Annotated Waste Land</i> (2005); Robert Crawford’s <i>Young Eliot</i> (2015); and Matthew Hollis’s <i>The Waste Land: A Biography of a Poem</i> (2022). The recordings and source texts are linked, not copied, from the libraries and archives that hold them.
+---
+id: about-how-1
+where: the About page: how the site works, first paragraph
+text: The whole poem is on one page. The row of lenses above the text sets what is shown beside each line: Eliot’s notes, the sources, the speakers, the translations, water and drought, the places, the hours, or the cuts from the drafts. The keys 1 to 9 switch lenses; Escape closes anything open. Marked phrases open a card in the margin (or under the line, on a phone). The thin strip at the edge of the screen stands for the whole poem, one mark per line, coloured by the lens in use; click it to move to a line. The dark setting, called the violet hour after line 215, follows your system’s preference and can be switched with the small dot in the running head.
+---
+id: about-how-2
+where: the About page: how the site works, second paragraph
+text: Two ways of reading are for going slowly. “Line by line” dims everything but one line and brings whatever belongs to it into the margin: its source, Eliot’s note, a change of speaker, a translation. The arrow keys move between lines, or it can move on by itself at reading pace. In the Voices lens, clicking a speaker follows that voice alone through the poem, so that you can read everything one speaker says from beginning to end: the woman in the chair in Part II, the thunder, the Thames-daughters.
+---
+id: about-type
+where: the About page: the paragraph on type, drawings and pictures (the credits follow it)
+text: The type is EB Garamond (Georg Duffner and Octavio Pardo), Cormorant Garamond (Christian Thalmann) and Courier Prime (Alan Dague-Greene for Quote-Unquote Apps), all under the SIL Open Font License and served from this site. The tarot pack, the frontispieces to the five parts and the buildings on the map were drawn for this edition. The photographs and paintings come from Wikimedia Commons and are credited here:
+---
+id: about-map
+where: the About page: the paragraph on the map data
+text: The river is drawn from OpenStreetMap data for the Thames (relation 2263653), © OpenStreetMap contributors, ODbL; places were geocoded with Nominatim. Coastlines on the world map are from Natural Earth (public domain).
+---
+id: about-quote-1
+where: the About page: quotation 1 of the four from 1922, with its attribution
+text: “He sang it &amp; chanted it rhythmed it. It has great beauty &amp; force of phrase: symmetry; &amp; tensity. What connects it together, I’m not so sure.” Virginia Woolf, diary, 23 June 1922, after Eliot read the poem at dinner.
+---
+id: about-quote-2
+where: the About page: quotation 2 of the four from 1922, with its attribution
+text: “Complimenti, you bitch. I am wracked by the seven jealousies.” Ezra Pound to Eliot, 24 January 1922, answering the revised typescript. Pound dated the letter “24 Saturnus,” in a calendar of his own devising, and it was long thought to be from December 1921.
+---
+id: about-quote-3
+where: the About page: quotation 3 of the four from 1922, with its attribution
+text: To Eliot the poem was “the relief of a personal and wholly insignificant grouse against life,” “just a piece of rhythmical grumbling.” His remark as quoted by Theodore Spencer in a lecture at Harvard and written down by Eliot’s brother, Henry Ware Eliot Jr.; printed at the head of the facsimile edition (1971).
+---
+id: about-quote-4
+where: the About page: quotation 4 of the four from 1922, with its attribution
+text: Part V was, Eliot wrote, “not only the best part, but the only part that justifies the whole, at all.” Eliot to Bertrand Russell, October 1923.
+---
+id: about-credits-empty
+where: the About page: the line shown under the pictures heading if there were no pictures
+text: Credits appear here as pictures are added.
+---
+id: howto-title
+where: the poem page: the heading of the "ways to read it" section under the title page
+text: Ways to read it
+---
+id: howto-lede
+where: the poem page: the paragraph under that heading
+text: The poem on this page is the text of 1922, with Eliot’s notes at the end. The lenses mark words in the text and put notes beside the lines. The tools present the poem in other forms, a line or a word at a time. The pathways lead through it on one subject, stop by stop. Choose here, or from the bar above at any point in the poem.
+---
+id: howto-read
+where: the poem page, ways to read it: the heading of the column of lenses
+text: Read with
+---
+id: howto-tools
+where: the poem page, ways to read it: the heading of the column of tools
+text: Tools
+---
+id: howto-paths
+where: the poem page, ways to read it: the heading of the column of pathways
+text: Pathways
+---
+id: howto-stops
+where: the poem page, ways to read it: the count under each pathway; {n} is the number
+text: {n} stops
+---
+id: rb-help
+where: the bar of lenses and tools: the small link at its right end, which leads to the ways-to-read section
+text: What these do
+---
+id: lens-plain-why
+where: ways to read it: the sentence under Plain
+text: The 1922 text with nothing marked, for reading the poem through before anything else.
+---
+id: lens-echoes-why
+where: ways to read it: the sentence under Sources
+text: Words underlined in violet open the passage Eliot took and the book it comes from, so that a line can be read beside what it quotes; the fainter underlines open plain notes.
+---
+id: lens-notes-why
+where: ways to read it: the sentence under Notes
+text: The notes Eliot printed with the poem, set beside the lines they refer to as well as at the end.
+---
+id: lens-voices-why
+where: ways to read it: the sentence under Voices
+text: Each line coloured by its speaker, with a legend; choose one voice and follow it through the poem.
+---
+id: lens-tongues-why
+where: ways to read it: the sentence under Languages
+text: The German, French, Italian, Latin, Greek and Sanskrit in the poem, with the cries of birds, bells and the river marked beside them; click a phrase for its translation under the line.
+---
+id: lens-water-why
+where: ways to read it: the sentence under Water
+text: The lines that mention water, drought or fire, tinted by kind, and how many there are of each.
+---
+id: lens-places-why
+where: ways to read it: the sentence under Places
+text: The places the poem names, marked in the text; click one for a card with its lines and a link to it on the map.
+---
+id: lens-clock-why
+where: ways to read it: the sentence under Clock
+text: The times of day and the seasons the poem gives, marked in the text, the hours set on a dial and the seasons listed beneath it.
+---
+id: lens-drafts-why
+where: ways to read it: the sentence under Drafts
+text: What Ezra Pound cut, and what Eliot and his wife Vivien changed, in the typescript, described at the lines it affected.
+---
+id: tool-slow-why
+where: ways to read it: the sentence under Read line by line
+text: One line at a time, with its notes; go on when you like, or let the page run.
+---
+id: tool-cards-why
+where: ways to read it: the sentence under Turn the tarot cards
+text: The tarot pack of Madame Sosostris in Part I, made for this edition. Turn a card to read what it shows and which lines it comes from.
+---
+id: tool-fragments-why
+where: ways to read it: the sentence under Unstack the last lines
+text: The last eight lines set out one by one, each with its language and, for the seven that are quotations, its source.
+---
+id: tool-sortes-why
+where: ways to read it: the sentence under Draw a line at random
+text: One line of the poem chosen by chance, with its note; draw again as often as you like.
+---
+id: tool-concordance-why
+where: ways to read it: the sentence under Find a word
+text: Every line in which a word occurs, to see how the poem uses it.
+---
+id: tool-heart-why
+where: ways to read it: the sentence under Learn it by heart
+text: Words are blanked out in stages you choose, every third, then every second, then all but the first of each line, so that you can test yourself until you can say the lines without looking.
+---
+id: tool-walk-why
+where: ways to read it: the sentence under Take a pathway
+text: A sequence of stops through the poem on one subject, with a note at each. The pathways are listed below.
+---
+id: cites-label
+where: the small-caps label before the list of works a note cites, at the foot of a card, a pathway stop, a way in, a drafts record, a library record, a listening-room record and a voice's note
+text: References
+---
+id: works-title
+where: the library page: the heading of the list of works cited, at the foot of the page, and the link to it at the end of the index line under the title
+text: Works cited
+---
+id: works-lede
+where: the library page: the paragraph under the Works cited heading
+text: The editions and studies the notes refer to, each under the short form the notes use, with a link to the copy consulted where the text is free to read.
+---
+id: works-open
+where: the library page: the words before the site name in the link from a work cited to its open copy, as in "Read it at gutenberg.org"
+text: Read it at
+---
+id: legends-aria
+where: the column on the left of the poem, at wide widths, where a lens's legend sits, as a screen reader names it
+text: The legend of the lens in use

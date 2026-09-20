@@ -1,0 +1,19 @@
+id: in-the-cage
+part: 2
+line: 77
+title: "In the Cage"
+body:
+In the typescript Part II was headed "In the Cage"; it was renamed "A Game of Chess" before publication. Critics have connected the old title with Henry James's story of that name (1898), about a telegraphist who reads other people's messages, and with the Sibyl of the poem's epigraph, who hangs in a jar; but that epigraph, from Petronius, came in only in 1922, after the title was written. No explanation of Eliot's is recorded.
+
+Ezra Pound went through the typescript. Against the opening lines he wrote "too tum-pum at a stretch", and Eliot cut "swinging" from line 78, which is why that line is a foot short. In the dialogue that follows, the typescript had the man think that the two of them "met first" in rats' alley; the phrase was cut. The typescript's answer to "What is the wind doing?" was two lines about the wind carrying away the dead; the published text has "Nothing again nothing". Pound also queried "closed carriage" as dated; it became "a closed car" (line 136).
+
+Eliot's wife Vivien read the section too. Against the opening she wrote that she did not see what he had in mind; beside the nervous dialogue, "WONDERFUL" and, up the margin, "Yes & wonderful wonderful"; at the end of the pub scene, "Splendid last lines". Two lines of the pub scene are hers, pencilled in the margin: 153, "If you dont like it you can get on with it", and 164, "What you get married for if you dont want children?", which replaced a line of Eliot's own. She asked for a line after 137, "The ivory men make company between us", to be taken out, and it was; Eliot wrote it back in from memory in a fair copy he made in 1960 to be sold for the London Library.
+sources: Facsimile (1971), pp. 10–11
+Ricks and McCue, textual notes on lines 77–79, 78 and 120–122
+Pound, Letters, ed. Paige, nos. 181–183
+Miller (1977)
+Gish (1988)
+Thormählen (1978)
+Montgomery (1979)
+Cambridge Companion to The Waste Land (2015), ch. 7 (Brooker)
+Cox and Hinchliffe (1968)

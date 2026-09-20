@@ -1,0 +1,549 @@
+{
+ "voices": {
+  "poem": {
+   "label": "The poem’s own voice",
+   "color": "#1B1917",
+   "note": "The voice that belongs to no named character. It opens the poem, describes the room at the start of Part II, introduces Madame Sosostris (43–46), speaks the lines on the drowned Phlebas in Part IV and the opening of Part V (322–330), brings on the thunder (396–400), and answers each DA (402–410, 412–417, 419–423). That Marie’s voice begins at line 8 rather than at line 1 is this edition’s reading: the “us” of line 5 returns at line 8, and Cleanth Brooks (1939) read lines 1–18 as one voice.",
+   "sources": [
+    "Brooks (1939)"
+   ]
+  },
+  "marie": {
+   "label": "Marie",
+   "color": "#B4626A",
+   "note": "A woman remembering a summer: coffee and talk in the Hofgarten in Munich, and a sled ride in the mountains as a child with her cousin the archduke. Lines 8–18, except the sentence of German at line 12, which this edition gives to another speaker. Valerie Eliot’s edition of the drafts records that Eliot had met Countess Marie Larisch, niece of the Empress Elisabeth of Austria, and that the sledding story was hers.",
+   "sources": [
+    "Facsimile (1971), note on line 8 of Part I"
+   ]
+  },
+  "stranger": {
+   "label": "A voice in German",
+   "color": "#8A6D9A",
+   "note": "Line 12, one sentence, spoken by a woman (the German is feminine, “Russin”): “I am not Russian at all, I come from Lithuania, a real German.” The poem does not say who speaks it; giving it to a second speaker is a reading."
+  },
+  "prophet": {
+   "label": "The prophet",
+   "color": "#A3442B",
+   "note": "Lines 19–30: a voice speaking as the Old Testament prophets do, addressing its hearer as “Son of man,” the words with which God addresses Ezekiel (Eliot’s note cites Ezekiel 2:1), and offering the shade of the red rock. Eliot’s note on line 23 cites Ecclesiastes; “the shadow of this red rock” has been linked to Isaiah 32:2.",
+   "sources": [
+    "King James Bible, Ezekiel 2:1",
+    "King James Bible, Ecclesiastes 12:5",
+    "King James Bible, Isaiah 32:2",
+    "Southam, Guide, note on line 25"
+   ]
+  },
+  "sailor": {
+   "label": "Wagner’s sailor",
+   "color": "#4C6E85",
+   "note": "The young sailor singing from the masthead in Tristan, Act I. Lines 31–34.",
+   "sources": [
+    "Wagner, Tristan und Isolde I.i"
+   ]
+  },
+  "hyacinth": {
+   "label": "The hyacinth girl",
+   "color": "#6E5A9E",
+   "note": "Two lines in quotation marks, 35–36."
+  },
+  "lover": {
+   "label": "The one who could not speak",
+   "color": "#3D3A46",
+   "note": "The one who came back from the hyacinth garden and could not speak. Lines 37–41: “I could not / Speak, and my eyes failed.”"
+  },
+  "shepherd": {
+   "label": "Wagner’s shepherd",
+   "color": "#4C6E85",
+   "note": "Line 42: the shepherd in Tristan und Isolde, Act III, who has looked out for Isolde’s ship and reports the sea desolate and empty.",
+   "sources": [
+    "Wagner, Tristan und Isolde III.i"
+   ]
+  },
+  "sosostris": {
+   "label": "Madame Sosostris",
+   "color": "#8C6D1F",
+   "note": "The fortune-teller (the poem’s word is clairvoyante), reading the cards. Lines 43–46 introduce her in the poem’s own voice; she speaks from the middle of line 46 (“Here, said she”) to line 59."
+  },
+  "walker": {
+   "label": "The walker in the City of London",
+   "color": "#2F4858",
+   "note": "The “I” of three passages, read here as one voice: the crowd on London Bridge and the meeting with Stetson (60–76), Mr. Eugenides, whose invitation is reported (207–214), and the music along the Strand and the bar in Lower Thames Street (257–265); at 257 he speaks Ferdinand’s line from The Tempest.",
+   "sources": [
+    "Shakespeare, The Tempest I.ii"
+   ]
+  },
+  "she": {
+   "label": "The woman with bad nerves",
+   "color": "#B4626A",
+   "note": "Lines 111–114, 117, 119, 121–123, 126 and 131–134, printed in quotation marks, unlike the man’s. The quotation marks are usually taken to mean that she speaks aloud.",
+   "sources": [
+    "Brooker and Bentley (1990)"
+   ]
+  },
+  "he": {
+   "label": "The man who does not answer",
+   "color": "#3D3A46",
+   "note": "Lines 115–116, 118, 120, 124–125, 127–130 and 135–138, printed without quotation marks, which is usually read as meaning that he does not speak aloud. Some of his replies are other people’s words: the playwrights Webster (118) and Middleton (137–138), both cited in Eliot’s notes; Ariel’s song from The Tempest (125); and the song “That Shakespearian Rag” of 1912 (128–130).",
+   "sources": [
+    "Webster, The Devil's Law-Case III.ii",
+    "Middleton, Women Beware Women II.ii",
+    "Shakespeare, The Tempest I.ii",
+    "Buck, Ruby and Stamper, \"That Shakespearian Rag\" (1912)",
+    "Brooker and Bentley (1990)"
+   ]
+  },
+  "pub": {
+   "label": "Lil’s friend, in the pub",
+   "color": "#9A5B2B",
+   "note": "A woman in a pub, telling what she said to her friend Lil about Lil’s husband Albert, home from the army. Lines 139–171, interrupted by the publican’s call."
+  },
+  "publican": {
+   "label": "The publican",
+   "color": "#1B1917",
+   "note": "The landlord calling closing time: HURRY UP PLEASE ITS TIME, at lines 141, 152, 165, 168 and 169."
+  },
+  "ophelia": {
+   "label": "Ophelia",
+   "color": "#4C6E85",
+   "note": "Line 172: Ophelia’s good night in Hamlet (Act IV, scene 5), as she goes out, mad. Her drowning is reported two scenes later.",
+   "sources": [
+    "Shakespeare, Hamlet IV.v",
+    "Shakespeare, Hamlet IV.vii"
+   ]
+  },
+  "fisher": {
+   "label": "The fisher on the bank",
+   "color": "#4A6B5A",
+   "note": "The speaker by the river in Part III, lines 173–198, who repeats Spenser’s refrain “Sweet Thames, run softly” and fishes in the dull canal behind the gashouse. He speaks partly in others’ lines: Spenser’s (176, 183–184), Psalm 137 at 182 (“By the waters of Babylon we sat down and wept,” in the Prayer Book’s wording), and Ferdinand’s in The Tempest (191–192, Eliot’s note). That he is the Fisher King of the Grail legend is a reading; Eliot’s notes name the Fisher King at lines 46 and 425.",
+   "sources": [
+    "Spenser, Prothalamion, line 18 and refrain",
+    "Book of Common Prayer, Psalm 137:1",
+    "Shakespeare, The Tempest I.ii",
+    "Brooks (1939)"
+   ]
+  },
+  "song": {
+   "label": "Songs quoted",
+   "color": "#8A6D9A",
+   "note": "Lines 199–202: the ballad about Mrs Porter, which Eliot’s note says was reported to him from Sydney, Australia (199–201), and Verlaine’s line on children singing in the dome (202). The rag at lines 128–130 is given to the man who does not answer.",
+   "sources": [
+    "Verlaine, \"Parsifal\", line 14"
+   ]
+  },
+  "nightingale": {
+   "label": "The nightingale",
+   "color": "#6E5A9E",
+   "note": "Lines 203–206: the nightingale’s song as the Elizabethan poets wrote it, “jug jug” and “Tereu,” calling on Tereus, the king who raped Philomel; her story is told at lines 99–103, and “So rudely forc’d” repeats line 100.",
+   "sources": [
+    "Lyly, Campaspe V.i",
+    "Ovid, Metamorphoses VI 424–674"
+   ]
+  },
+  "tiresias": {
+   "label": "Tiresias",
+   "color": "#4A3560",
+   "note": "Lines 215–251 and 253–256: the blind seer of Thebes from Ovid, once a woman for seven years, who says he “can see” the typist’s evening and has “foresuffered all.” Eliot’s note on line 218, which quotes Ovid, calls him “a mere spectator and not indeed a ‘character’” and yet “the most important personage in the poem, uniting all the rest.”",
+   "sources": [
+    "Ovid, Metamorphoses III 316–338"
+   ]
+  },
+  "typist": {
+   "label": "The typist",
+   "color": "#B4626A",
+   "note": "Line 252, her only words, in quotation marks: what the poem calls her “one half-formed thought.”"
+  },
+  "thames": {
+   "label": "The Thames-daughters, together",
+   "color": "#4C6E85",
+   "note": "The three Thames-daughters, as Eliot’s note calls them, singing together: lines 266–291. His note says that from line 292 to 306 they speak in turn. The refrain “Weialala leia” is the Rhine-daughters’ from Wagner’s Götterdämmerung, Act III, which the note cites.",
+   "sources": [
+    "Wagner, Götterdämmerung III.i"
+   ]
+  },
+  "thames1": {
+   "label": "First Thames-daughter",
+   "color": "#5B7F96",
+   "note": "Highbury, Richmond and Kew: lines 292–295. Eliot’s note sends the reader to Dante’s Purgatorio, canto V, and quotes the line of La Pia, one of the dead there: “Siena mi fe’, disfecemi Maremma,” Siena made me, Maremma unmade me.",
+   "sources": [
+    "Dante, Purgatorio V 130–136"
+   ]
+  },
+  "thames2": {
+   "label": "Second Thames-daughter",
+   "color": "#4C6E85",
+   "note": "Moorgate: lines 296–299."
+  },
+  "thames3": {
+   "label": "Third Thames-daughter",
+   "color": "#3F5C70",
+   "note": "Margate Sands: lines 300–306."
+  },
+  "ascetic": {
+   "label": "Augustine and the Buddha",
+   "color": "#A3442B",
+   "note": "Lines 307–311: Augustine’s Confessions (307 and 309–310, beginning “To Carthage then I came”) set beside the Buddha’s Fire Sermon (308 and 311, “Burning”). Eliot’s note calls them “two representatives of eastern and western asceticism” and says that setting them side by side “is not an accident.”",
+   "sources": [
+    "Augustine, Confessions III.1",
+    "Augustine, Confessions X.34",
+    "Warren, Buddhism in Translations, § 73, pp. 351–353"
+   ]
+  },
+  "pilgrim": {
+   "label": "The pilgrim on the road",
+   "color": "#7A5C2E",
+   "note": "The voice in the mountains without water, asking who walks beside you: lines 331–366."
+  },
+  "seer": {
+   "label": "The one who sees the cities fall",
+   "color": "#4A3560",
+   "note": "Lines 367–395, from “What is that sound high in the air” to “Bringing rain.” Eliot’s note on the hooded hordes cites Hermann Hesse’s book Blick ins Chaos."
+  },
+  "thunder": {
+   "label": "The thunder",
+   "color": "#1B1917",
+   "note": "“DA,” at lines 401, 411 and 418. Eliot’s note says the fable of the thunder’s meaning is in the Brihadaranyaka Upanishad.",
+   "sources": [
+    "Bṛhadāraṇyaka Upaniṣad V.2"
+   ]
+  },
+  "fisherking": {
+   "label": "The Fisher King",
+   "color": "#4A6B5A",
+   "note": "Lines 424–426: “I sat upon the shore / Fishing, with the arid plain behind me.” Eliot’s note on line 425 refers to the chapter on the Fisher King in Jessie L. Weston’s book on the Grail legend, From Ritual to Romance; the poem does not name the speaker.",
+   "sources": [
+    "Weston, From Ritual to Romance, ch. IX"
+   ]
+  },
+  "fragments": {
+   "label": "The fragments",
+   "color": "#8A6D9A",
+   "note": "Lines 427–432, a line each: the nursery rhyme “London Bridge is falling down” (427); Dante’s Purgatorio, canto XXVI (428); the Latin poem Pervigilium Veneris (429); Nerval’s sonnet “El Desdichado” (430); the poem’s own line, “These fragments I have shored against my ruins” (431); and Kyd’s play The Spanish Tragedy (432). Eliot’s notes give the sources of the four quotations.",
+   "sources": [
+    "Gomme, Traditional Games, vol. I, pp. 333–349",
+    "Dante, Purgatorio XXVI 148",
+    "Pervigilium Veneris, the closing lines",
+    "Nerval, \"El Desdichado\", line 2",
+    "Kyd, The Spanish Tragedy IV.i"
+   ]
+  },
+  "upanishad": {
+   "label": "The Upanishad",
+   "color": "#8C6D1F",
+   "note": "The poem’s last two lines, 433–434. Eliot’s notes translate the three words as “Give, sympathise, control” and give their source as the Brihadaranyaka Upanishad, one of the Hindu scriptures; “Shantih,” repeated three times, is “a formal ending to an Upanishad,” for which “The Peace which passeth understanding” is, his note says, “a feeble translation.”",
+   "sources": [
+    "Bṛhadāraṇyaka Upaniṣad V.2"
+   ]
+  }
+ },
+ "spans": [
+  [
+   1,
+   7,
+   "poem"
+  ],
+  [
+   8,
+   11,
+   "marie"
+  ],
+  [
+   12,
+   12,
+   "stranger"
+  ],
+  [
+   13,
+   18,
+   "marie"
+  ],
+  [
+   19,
+   30,
+   "prophet"
+  ],
+  [
+   31,
+   34,
+   "sailor"
+  ],
+  [
+   35,
+   36,
+   "hyacinth"
+  ],
+  [
+   37,
+   41,
+   "lover"
+  ],
+  [
+   42,
+   42,
+   "shepherd"
+  ],
+  [
+   43,
+   46,
+   "poem"
+  ],
+  [
+   46,
+   59,
+   "sosostris"
+  ],
+  [
+   60,
+   76,
+   "walker"
+  ],
+  [
+   77,
+   110,
+   "poem"
+  ],
+  [
+   111,
+   114,
+   "she"
+  ],
+  [
+   115,
+   116,
+   "he"
+  ],
+  [
+   117,
+   117,
+   "she"
+  ],
+  [
+   118,
+   118,
+   "he"
+  ],
+  [
+   119,
+   119,
+   "she"
+  ],
+  [
+   120,
+   120,
+   "he"
+  ],
+  [
+   121,
+   123,
+   "she"
+  ],
+  [
+   124,
+   125,
+   "he"
+  ],
+  [
+   126,
+   126,
+   "she"
+  ],
+  [
+   127,
+   130,
+   "he"
+  ],
+  [
+   131,
+   134,
+   "she"
+  ],
+  [
+   135,
+   138,
+   "he"
+  ],
+  [
+   139,
+   140,
+   "pub"
+  ],
+  [
+   141,
+   141,
+   "publican"
+  ],
+  [
+   142,
+   151,
+   "pub"
+  ],
+  [
+   152,
+   152,
+   "publican"
+  ],
+  [
+   153,
+   164,
+   "pub"
+  ],
+  [
+   165,
+   165,
+   "publican"
+  ],
+  [
+   166,
+   167,
+   "pub"
+  ],
+  [
+   168,
+   169,
+   "publican"
+  ],
+  [
+   170,
+   171,
+   "pub"
+  ],
+  [
+   172,
+   172,
+   "ophelia"
+  ],
+  [
+   173,
+   198,
+   "fisher"
+  ],
+  [
+   199,
+   202,
+   "song"
+  ],
+  [
+   203,
+   206,
+   "nightingale"
+  ],
+  [
+   207,
+   214,
+   "walker"
+  ],
+  [
+   215,
+   251,
+   "tiresias"
+  ],
+  [
+   252,
+   252,
+   "typist"
+  ],
+  [
+   253,
+   256,
+   "tiresias"
+  ],
+  [
+   257,
+   265,
+   "walker"
+  ],
+  [
+   266,
+   291,
+   "thames"
+  ],
+  [
+   292,
+   295,
+   "thames1"
+  ],
+  [
+   296,
+   299,
+   "thames2"
+  ],
+  [
+   300,
+   306,
+   "thames3"
+  ],
+  [
+   307,
+   311,
+   "ascetic"
+  ],
+  [
+   312,
+   321,
+   "poem"
+  ],
+  [
+   322,
+   330,
+   "poem"
+  ],
+  [
+   331,
+   366,
+   "pilgrim"
+  ],
+  [
+   367,
+   395,
+   "seer"
+  ],
+  [
+   396,
+   400,
+   "poem"
+  ],
+  [
+   401,
+   401,
+   "thunder"
+  ],
+  [
+   402,
+   410,
+   "poem"
+  ],
+  [
+   411,
+   411,
+   "thunder"
+  ],
+  [
+   412,
+   417,
+   "poem"
+  ],
+  [
+   418,
+   418,
+   "thunder"
+  ],
+  [
+   419,
+   423,
+   "poem"
+  ],
+  [
+   424,
+   426,
+   "fisherking"
+  ],
+  [
+   427,
+   432,
+   "fragments"
+  ],
+  [
+   433,
+   434,
+   "upanishad"
+  ]
+ ]
+}

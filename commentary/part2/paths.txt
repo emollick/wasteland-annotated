@@ -1,0 +1,76 @@
+path: first
+line: 111
+text: A conversation in which only one person speaks. Read her lines aloud and his silently. The title comes from Middleton's play, where a game of chess downstairs covers what is done to a woman upstairs (the note at line 137).
+sources: Middleton, Women Beware Women II.ii
+---
+path: first
+line: 139
+text: A pub at closing time. A woman tells a friend what she said to Lil, whose husband is back from the army. The line in capitals is the landlord calling time.
+---
+path: water
+line: 125
+text: Ariel's song again (line 48): the drowned man's eyes. The only other water in this section is the hot water at ten and the rain that may come at four (lines 135–136); the sea is in the room only as driftwood on the fire and a carved dolphin (94–96).
+---
+path: water
+line: 172
+text: The pub's goodnights turn into Ophelia's last line in Hamlet; the next we hear of her is the Queen's report of her drowning.
+---
+path: dead
+line: 115
+text: "rats' alley / Where the dead men lost their bones." Eliot's note points to the rat on the river bank at line 195. The lines have also been read as the trenches of the war that had ended three years before.
+---
+path: women
+line: 77
+text: The lady in the chair. Her room is made from Cleopatra's barge (line 77), Dido's ceiling (92) and Eve's garden (98).
+---
+path: women
+line: 99
+text: Philomel, raped and turned into a nightingale, singing "Jug Jug" to dirty ears.
+---
+path: women
+line: 111
+text: The woman with bad nerves, who wants to be spoken to.
+---
+path: women
+line: 139
+text: Lil, thirty-one, five children, bad teeth, and the friend who did not mince her words.
+---
+path: women
+line: 172
+text: Ophelia, leaving.
+---
+path: birds
+line: 99
+text: Philomel, the nightingale, "Jug Jug."
+---
+path: nothing
+line: 120
+text: "Nothing again nothing."
+---
+path: nothing
+line: 122
+text: "Do / You know nothing? Do you see nothing? Do you remember / Nothing?"
+---
+path: nothing
+line: 126
+text: "Is there nothing in your head?"
+---
+path: eyes
+line: 81
+text: "Another hid his eyes behind his wing."
+---
+path: eyes
+line: 138
+text: "Pressing lidless eyes."
+---
+path: eliot
+line: 111
+text: The Eliots' flat at 9 Clarence Gate Gardens, by Regent's Park, where he and his wife Vivien were both ill in 1921.
+sources: Letters, vol. 1, Eliot to his mother, [23 August 1921]
+Letters, vol. 1, Eliot to Julian Huxley, 26 October 1921
+Crawford, Young Eliot
+---
+path: eliot
+line: 139
+text: Ellen Kellond, the Eliots' maid, whose story this was: Eliot called the passage "pure Ellen Kellond".
+sources: Facsimile (1971), p. 127
