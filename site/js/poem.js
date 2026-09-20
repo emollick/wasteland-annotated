@@ -322,9 +322,11 @@
   window.addEventListener('scroll', () => { if (!ticking) { requestAnimationFrame(() => { updateCursor(); ticking = false; }); ticking = true; } }, { passive: true });
 
   /* ---------- navigation ---------- */
+  function headerBottom() { const rb = $('.readbar'), rh = $('.runhead'); return (rb ? rb.getBoundingClientRect().height : 0) + (rh ? rh.getBoundingClientRect().height : 0); }
   function go(n, hi = true) {
     const el = lineEl(n); if (!el) return;
-    const y = el.getBoundingClientRect().top + window.scrollY - window.innerHeight * 0.3;
+    const top = el.getBoundingClientRect().top + window.scrollY;
+    const y = wide() ? top - window.innerHeight * 0.3 : top - headerBottom() - 16;
     window.scrollTo({ top: y, behavior: reduce ? 'auto' : 'smooth' });
     if (hi) { $$('.line.hi').forEach(l => l.classList.remove('hi')); el.classList.add('hi'); setTimeout(() => el.classList.remove('hi'), 2600); }
   }
@@ -379,11 +381,16 @@
     { id: 'crowd-in-a-ring', deck: "In this pack: a ring of walkers in bowlers and cloche hats, seen from above, going round clockwise on a bare plain, the path worn into the ground under their feet. The centre of the ring is empty.", name: 'Crowds of people, walking round in a ring', num: '·', img: null, note: '<p>Not a card but what she sees: Dante’s neutrals running after their banner, Frazer’s villagers round the maypole, the commuters on London Bridge four lines later, the hooded hordes of Part V.</p>', line: 56 }
   ];
   const PACK = [
-    { id: 'sibyl', name: 'The Sibyl', line: 0 }, { id: 'hyacinth-girl', name: 'The hyacinth girl', line: 36 }, { id: 'madame-sosostris', name: 'Madame Sosostris', line: 43 },
-    { id: 'crowd-on-london-bridge', name: 'The crowd on London Bridge', line: 62 }, { id: 'stetson', name: 'Stetson', line: 69 }, { id: 'lady-in-the-chair', name: 'The lady in the chair', line: 77 },
-    { id: 'closing-time', name: 'Closing time', line: 141 }, { id: 'tiresias', name: 'Tiresias', line: 218 }, { id: 'typist', name: 'The typist', line: 222 },
-    { id: 'thames-daughters', name: 'The Thames-daughters', line: 266 }, { id: 'phlebas', name: 'Phlebas', line: 312 }, { id: 'fisher-king', name: 'The Fisher King', line: 424 }
+    { id: 'sibyl', name: 'The Sibyl', line: 0 }, { id: 'marie', name: 'Marie', line: 15 }, { id: 'hyacinth-girl', name: 'The hyacinth girl', line: 36 }, { id: 'madame-sosostris', name: 'Madame Sosostris', line: 43 },
+    { id: 'crowd-on-london-bridge', name: 'The crowd on London Bridge', line: 60 }, { id: 'stetson', name: 'Stetson', line: 69 }, { id: 'lady-in-the-chair', name: 'The lady in the chair', line: 77 }, { id: 'philomel', name: 'Philomel', line: 99 },
+    { id: 'bad-nerves', name: 'My nerves are bad to-night', line: 111 }, { id: 'closing-time', name: 'Lil, at closing time', line: 139 }, { id: 'fisher-king', name: 'The Fisher King', line: 189 }, { id: 'eugenides', name: 'Mr. Eugenides', line: 209 },
+    { id: 'tiresias', name: 'Tiresias', line: 218 }, { id: 'typist', name: 'The typist', line: 222 }, { id: 'magnus-martyr', name: 'Magnus Martyr', line: 264 }, { id: 'thames-daughters', name: 'The Thames-daughters', line: 266 },
+    { id: 'elizabeth-and-leicester', name: 'Elizabeth and Leicester', line: 279 }, { id: 'phlebas', name: 'Phlebas the Phoenician', line: 312 }, { id: 'road-with-no-water', name: 'The road with no water', line: 331 }, { id: 'the-third', name: 'The third who walks', line: 360 },
+    { id: 'falling-towers', name: 'The falling towers', line: 367 }, { id: 'bats-with-baby-faces', name: 'Bats with baby faces', line: 378 }, { id: 'empty-chapel', name: 'The empty chapel', line: 386 }, { id: 'thunder', name: 'The thunder', line: 401 },
+    { id: 'london-bridge-falling', name: 'London Bridge falling down', line: 427 }, { id: 'swallow', name: 'The swallow', line: 429 }, { id: 'tower', name: 'The Tower', line: 430 }
   ];
+  // cards the art thread adds after this list was written still join the pack, named from the file's own title
+  const packIds = () => { const known = new Set(PACK.map(c => c.id).concat(TAROT.map(c => c.id), ['back', 'blank'])); const extra = D.tarot.map(f => f.replace(/^.*tarot-/, '').replace(/\.svg$/, '')).filter(id => !known.has(id)).map(id => ({ id, name: (D.tarotTitles || {})[id] || id.replace(/-/g, ' '), line: 0 })); return PACK.concat(extra); };
   function tarotSVGFor(id) { const f = D.tarot.find(f => f.endsWith('tarot-' + id + '.svg')); return f || null; }
   const svgCache = {};
   function fetchSVG(url) { if (!svgCache[url]) svgCache[url] = fetch(url).then(r => r.ok ? r.text() : '').then(t => t.replace(/<\?xml[^>]*>/, '').replace(/<!DOCTYPE[^>]*>/, '')).catch(() => ''); return svgCache[url]; }
@@ -394,8 +401,8 @@
       const front = art ? '' : (c.img && D.images[c.img] ? `<img src="${esc(D.images[c.img].local)}" alt="${esc(c.name)}">` : `<div><span class="cnum">${c.num}</span><span class="cname">${c.name}</span></div>`);
       return `<div class="tcard" data-i="${i}" tabindex="0" role="button" aria-label="${esc(c.name)}"><div class="face back${backArt ? ' drawn' : ''}"${backArt ? ` data-svg="${backArt}"` : ''}></div><div class="face front${art ? ' drawn' : ''}"${art ? ` data-svg="${art}"` : ''}>${front}</div></div>`;
     }).join('');
-    const rest = PACK.filter(c => tarotSVGFor(c.id));
-    const pack = rest.length ? `<h3 class="ov-sub">The rest of the pack</h3><p class="small">The poem’s people as a suit of their own, drawn for this edition; each card is numbered with the line where its figure first appears. Click one to go there.</p><div class="table pack">${rest.map(c => `<a class="tcard pack-card" href="${c.line ? '#L' + c.line : '#top'}" aria-label="${esc(c.name)}" title="${esc(c.name)}"><div class="face front drawn" data-svg="${tarotSVGFor(c.id)}"></div></a>`).join('')}</div>` : '';
+    const rest = packIds().filter(c => tarotSVGFor(c.id));
+    const pack = rest.length ? `<h3 class="ov-sub">The rest of the pack</h3><p class="small">The poem’s people, places and portents as a suit of their own, drawn for this edition; each card carries the number of the line where it first appears. Click one to go there.</p><div class="table pack">${rest.map(c => `<a class="tcard pack-card" href="${c.line ? '#L' + c.line : '#top'}" aria-label="${esc(c.name)}" title="${esc(c.name)}"><div class="face front drawn" data-svg="${tarotSVGFor(c.id)}"></div></a>`).join('')}</div>` : '';
     const ov = overlay('Madame Sosostris deals', 'Lines 46–56. Turn each card. “I am not familiar with the exact constitution of the Tarot pack of cards, from which I have obviously departed to suit my own convenience.” (Eliot’s note.)', `<div class="table">${cards}</div><div class="tarot-note"><p class="small">Turn a card over to read what it is, where it comes from, and where it turns up again in the poem.${D.tarot.length ? '' : ' The three cards with pictures are Pamela Colman Smith’s designs for the 1909 Rider pack, the one on sale in London when the poem was written; a deck drawn for this edition is on its way.'}</p></div>${pack}`);
     $$('.face[data-svg]', ov).forEach(f => fetchSVG(f.dataset.svg).then(t => { if (t) f.innerHTML = t; }));
     ov.addEventListener('click', e => { if (e.target.closest('.pack-card')) closeOverlay(); });
@@ -529,7 +536,6 @@
     const el = lineEl(n); if (!el) return;
     el.classList.add('cur');
     for (const m of [n - 1, n + 1]) { const e = lineEl(m); if (e) e.classList.add('near'); }
-    go(n, false);
     clearCards('gloss'); clearCards('note'); clearCards('slow');
     const gs = D.glosses.filter(g => g.line === n || (g.to && n >= g.line && n <= g.to));
     gs.slice(0, 2).forEach(g => openGloss(g.id, null, { keep: true, scroll: false }));
@@ -537,6 +543,7 @@
     const v = D.voiceOf[n] || 'poem', pv = D.voiceOf[n - 1] || 'poem';
     if (n > 1 && v !== pv && D.voices[v]) { const c = document.createElement('aside'); c.className = 'card kind-voice'; c.dataset.ckind = 'slow'; c.innerHTML = `<span class="card-kind">A new voice</span><span class="card-title">${D.voices[v].label}</span>`; placeCard(c, el); }
     if (state.lens === 'tongues') { const t = $('.t', el); if (t && !$('.trans-line', el.parentNode)) toggleTrans(t); }
+    go(n, false);
     renderSlow();
   }
   function renderSlow() {

@@ -232,10 +232,9 @@ const vignDir = path.join(ART, 'vignettes');
 const vignFiles = exists(vignDir) ? fs.readdirSync(vignDir).filter(f => f.endsWith('.svg')) : [];
 // copy art into site/art
 fs.mkdirSync(path.join(SITE, 'art'), { recursive: true });
-for (const f of tarotFiles) fs.copyFileSync(path.join(tarotDir, f), path.join(SITE, 'art', 'tarot-' + f));
-for (const f of vignFiles) fs.copyFileSync(path.join(vignDir, f), path.join(SITE, 'art', 'vignette-' + f));
+for (const f of tarotFiles) fs.writeFileSync(path.join(SITE, 'art', 'tarot-' + f), stripSVG(fs.readFileSync(path.join(tarotDir, f), 'utf8')));
+for (const f of vignFiles) fs.writeFileSync(path.join(SITE, 'art', 'vignette-' + f), stripSVG(fs.readFileSync(path.join(vignDir, f), 'utf8')));
 for (const k of Object.keys(plates)) if (plates[k]) fs.writeFileSync(path.join(SITE, 'art', 'plate-' + k + '.svg'), stripSVG(plates[k]));
-for (const f of tarotFiles) fs.writeFileSync(path.join(SITE, 'art', 'tarot-' + f), stripSVG(read(path.join(tarotDir, f))));
 
 // ---------- page chrome ----------
 const NAV = [['index.html', 'The poem'], ['map.html', 'Map'], ['listen.html', 'Listen'], ['drafts.html', 'Drafts'], ['library.html', 'Library'], ['paths.html', 'Pathways'], ['about.html', 'About']];
@@ -330,6 +329,7 @@ function renderPoemPage() {
     images: Object.fromEntries(images.map(i => [i.id, { local: i.local ? i.local.replace(/^site\//, '') : `img/${i.id}.jpg`, title: i.title, credit: i.credit, w: i.width, h: i.height }])),
     places: placeLines, placeXY: thames ? Object.fromEntries([...thames.places, ...thames.wider].map(p => [p.id, [p.lon, p.lat, p.name]])) : {},
     tarot: tarotFiles.map(f => 'art/tarot-' + f),
+    tarotTitles: Object.fromEntries(tarotFiles.map(f => { const m = /<title>([^<]*)<\/title>/.exec(read(path.join(tarotDir, f))); return [f.replace(/\.svg$/, ''), m ? m[1].trim() : '']; })),
     media: media.filter(m => m.verified)
   };
   fs.writeFileSync(path.join(SITE, 'js', 'data.js'), 'window.WL = ' + JSON.stringify(data) + ';\n');
@@ -353,7 +353,7 @@ function renderMapPage() {
     const pts = thames.river.map(([lon, lat]) => project(lon, lat, bbox, W, H));
     const riverLbl = (() => { const t = project(-0.215, 51.47, bbox, W, H); let b = 0, bd = 1e9; pts.forEach((p, i) => { const d = Math.hypot(p[0] - t[0], p[1] - t[1]); if (d < bd) { bd = d; b = i; } }); return pts[b]; })();
     const d = pts.map((p, i) => (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' ');
-    placeLines.london['tower-reach'] = placeLines.london['tower-reach'] || { label: 'Elizabeth and Leicester, on the river below the Tower', lines: [279, 289] };
+    placeLines.london['royal-barge'] = placeLines.london['royal-barge'] || { label: 'Elizabeth and Leicester, the Queen’s barge on the river', lines: [279, 289] };
     placeLines.london['metropole'] = placeLines.london['metropole'] || { label: 'The Metropole, Brighton', lines: [214] };
     placeLines.london['gashouse'] = placeLines.london['gashouse'] || { label: 'The dull canal behind the gashouse', lines: [187, 190] };
     const places = Object.entries(placeLines.london).map(([id, info]) => ({ id, ...info, xy: placeById[id] ? project(placeById[id].lon, placeById[id].lat, bbox, W, H) : null })).filter(p => p.xy);
@@ -370,7 +370,7 @@ function renderMapPage() {
     // the City frame on the main map
     const cityBox = [-0.0965, 51.5062, -0.0785, 51.5148];
     const c0 = project(cityBox[0], cityBox[3], bbox, W, H), c1 = project(cityBox[2], cityBox[1], bbox, W, H);
-    const cityFrame = `<a href="#city-map" class="frame-link"><rect class="frame" x="${(c0[0] - 6).toFixed(1)}" y="${(c0[1] - 6).toFixed(1)}" width="${(c1[0] - c0[0] + 12).toFixed(1)}" height="${(c1[1] - c0[1] + 12).toFixed(1)}" rx="2"/><text class="frame-lbl" x="${(c1[0] + 10).toFixed(1)}" y="${(c0[1] + 2).toFixed(1)}">The City, drawn large below</text></a>`;
+    const cityFrame = `<a href="#city-map" class="frame-link"><rect class="frame" x="${(c0[0] - 6).toFixed(1)}" y="${(c0[1] - 6).toFixed(1)}" width="${(c1[0] - c0[0] + 12).toFixed(1)}" height="${(c1[1] - c0[1] + 12).toFixed(1)}" rx="2"/><text class="frame-lbl" x="${(c1[0] + 6).toFixed(1)}" y="${(c1[1] + 19).toFixed(1)}" text-anchor="end">The City, drawn large below</text></a>`;
     // the barge on Greenwich Reach: the river point nearest Greenwich pier, nudged upstream
     let barge = '';
     if (vig['red-sailed-barge'] && placeById['greenwich-pier']) {
@@ -379,13 +379,13 @@ function renderMapPage() {
       const bp = pts[Math.max(0, best - 7)];
       barge = `<g class="place vig" data-place="greenwich-pier" data-lines="266,275">${pinned('red-sailed-barge', bp[0], bp[1], 96, 'vig-svg')}</g>`;
     }
-    // Elizabeth and Leicester on the river below the Tower
+    // Elizabeth and Leicester: the poem names no reach, so the barge rides the open river above Westminster, heading down towards the white towers
     let elizabeth = '';
     if (vig['elizabeth-and-leicester']) {
-      const tp = project(-0.0445, 51.5045, bbox, W, H);
+      const tp = project(-0.135, 51.484, bbox, W, H);
       let best = 0, bd = 1e9; pts.forEach((p, i) => { const d = Math.hypot(p[0] - tp[0], p[1] - tp[1]); if (d < bd) { bd = d; best = i; } });
       const ep = pts[best];
-      elizabeth = `<g class="place vig" data-place="tower-reach" data-lines="279,289">${pinned('elizabeth-and-leicester', ep[0], ep[1], 104, 'vig-svg')}</g>`;
+      elizabeth = `<g class="place vig" data-place="royal-barge" data-lines="279,289">${pinned('elizabeth-and-leicester', ep[0], ep[1], 104, 'vig-svg')}</g>`;
     }
     // Richmond, Kew and Highbury drawn on the main map
     const mainVigs = Object.entries(MAIN_VIG).filter(([v, pid]) => vig[v] && placeById[pid]).map(([v, pid]) => { const [x, y] = project(placeById[pid].lon, placeById[pid].lat, bbox, W, H); const info = placeLines.london[pid] || { lines: [] }; return `<g class="place vig" data-place="${pid}" data-lines="${info.lines.join(',')}">${pinned(v, x, y, 96, 'vig-svg')}</g>`; }).join('');

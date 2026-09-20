@@ -111,10 +111,12 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .tool { color: var(--violet); }
 .tool.active { color: var(--paper); background: var(--violet); }
 @media (max-width: 720px) {
-  .rb-inner { padding-left: .8rem; gap: .35rem .5rem; }
+  .rb-inner { flex-direction: column; align-items: stretch; flex-wrap: nowrap; gap: .1rem; padding: .25rem 0 .3rem .8rem; }
   .rb-label { display: none; }
   .lens .key { display: none; }
-  .lens, .tool { padding: .25rem .45rem; font-size: .72rem; }
+  .lenses, .tools { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; padding-right: 2rem; mask-image: linear-gradient(90deg, #000 88%, transparent); -webkit-mask-image: linear-gradient(90deg, #000 88%, transparent); }
+  .lenses::-webkit-scrollbar, .tools::-webkit-scrollbar { display: none; }
+  .lens, .tool { padding: .25rem .45rem; font-size: .72rem; white-space: nowrap; flex: 0 0 auto; }
 }
 
 /* spine */
@@ -189,7 +191,7 @@ body[data-lens="tongues"] .t[data-lang="en"] { --lang-color: var(--ink-3); }
 .trans-line b { font-style: normal; font-variant-caps: small-caps; letter-spacing: .06em; font-weight: 500; color: var(--lang-color, var(--ink-2)); margin-right: .4em; }
 
 /* voices */
-body[data-lens="voices"] .line { border-left: 3px solid var(--vc, var(--rule)); padding-left: calc(.7rem + var(--indent, 0ch)); margin-left: -.9rem; }
+body[data-lens="voices"] .line { border-left: 3px solid var(--vc, var(--rule)); padding-left: calc(.7rem + min(var(--indent, 0ch), 40%)); margin-left: -.9rem; }
 body[data-lens="voices"] .line .txt { color: var(--vc, var(--ink)); }
 .voice-tag { display: block; font-size: .66rem; font-variant-caps: small-caps; letter-spacing: .1em; color: var(--vc, var(--ink-3)); margin: .9rem 0 .15rem -.9rem; padding-left: .7rem; }
 .voice-tag:first-child { margin-top: 0; }
@@ -529,6 +531,7 @@ body.slow .line.cur { opacity: 1; }
 body.slow .voice-tag, body.slow .orn, body.slow .ways, body.slow .plate, body.slow .part-title, body.slow .trans-line { opacity: .35; transition: opacity .5s; }
 body.slow .line { cursor: pointer; }
 .slowbar { border-top-color: var(--violet); }
+@media (max-width: 720px) { .slowbar .walk-text { display: none; } .slowbar .walk-title { margin-bottom: .3rem; } }
 .slowbar .keys { font-family: var(--mono); font-size: .68rem; color: var(--ink-2); background: var(--paper-2); padding: 0 .3em; border-radius: 2px; }
 /* follow one voice */
 body.follow .line:not(.v-on) { opacity: .16; }
