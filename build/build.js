@@ -207,7 +207,7 @@ function renderLine(l, initial) {
 
 // ---------- art from the art threads (optional) ----------
 function artFile(rel) { const f = path.join(ART, rel); return exists(f) ? read(f) : null; }
-function stripSVG(svg) { return svg.replace(/<\?xml[^>]*>/, '').replace(/<!DOCTYPE[^>]*>/, '').replace(/<metadata>[\s\S]*?<\/metadata>/g, '').trim(); }
+function stripSVG(svg) { return svg.replace(/<\?xml[^>]*>/, '').replace(/<!DOCTYPE[^>]*>/, '').replace(/<metadata>[\s\S]*?<\/metadata>/g, '').replace(/(\d)\s--(?=\d)/g, '$1 ').trim(); }
 function inlineSVG(svg, cls) {
   if (!svg) return '';
   return stripSVG(svg).replace(/<svg/, `<svg class="${cls}" role="img"`);
@@ -277,7 +277,7 @@ function renderPoemPage() {
     <p class="tp-year">1922</p>
     <p class="tp-dedication"><i>For Ezra Pound</i><br><i><a class="g" href="#dedication" data-g="dedication" data-kind="echo"><span class="t" data-lang="it" data-trans="the better craftsman">il miglior fabbro</span></a></i></p>
     <p class="tp-sub">The whole poem, with Eliot’s notes, the sources in their own words, the voices, the languages, the water, the map, the recordings, the drafts, and pathways through it.</p>
-    <p class="tp-begin"><a href="#part-1">Begin</a> <span class="tp-or">or</span> <a href="#L1" data-path="first">take the first reading, twelve stops</a></p>
+    <p class="tp-begin"><a href="#part-1">Begin</a> <span class="tp-or">or</span> <a href="#L1" data-path="first">take the first reading, twelve stops</a> <span class="tp-or">or</span> <a href="#L1" data-slow="1">read it line by line</a></p>
   </div>
 </header>`;
 
@@ -290,7 +290,7 @@ function renderPoemPage() {
     </div>
     <span class="rb-label rb-tools-label">Do</span>
     <div class="tools">
-      ${[['cards', 'Turn the cards'], ['fragments', 'Unstack the fragments'], ['sortes', 'Draw a line'], ['concordance', 'Find a word'], ['heart', 'By heart'], ['walk', 'Take a pathway']].map(([k, t]) => `<button type="button" class="tool" data-tool="${k}">${t}</button>`).join('')}
+      ${[['slow', 'Line by line'], ['cards', 'Turn the cards'], ['fragments', 'Unstack the fragments'], ['sortes', 'Draw a line'], ['concordance', 'Find a word'], ['heart', 'By heart'], ['walk', 'Take a pathway']].map(([k, t]) => `<button type="button" class="tool" data-tool="${k}">${t}</button>`).join('')}
     </div>
   </div>
 </div>`;
@@ -351,6 +351,7 @@ function renderMapPage() {
     const bbox = [-0.335, 51.425, 0.105, 51.575];
     const W = 1200, H = Math.round(W * ((bbox[3] - bbox[1]) / ((bbox[2] - bbox[0]) * Math.cos(51.5 * Math.PI / 180))));
     const pts = thames.river.map(([lon, lat]) => project(lon, lat, bbox, W, H));
+    const riverLbl = (() => { const t = project(-0.215, 51.47, bbox, W, H); let b = 0, bd = 1e9; pts.forEach((p, i) => { const d = Math.hypot(p[0] - t[0], p[1] - t[1]); if (d < bd) { bd = d; b = i; } }); return pts[b]; })();
     const d = pts.map((p, i) => (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' ');
     placeLines.london['tower-reach'] = placeLines.london['tower-reach'] || { label: 'Elizabeth and Leicester, on the river below the Tower', lines: [279, 289] };
     placeLines.london['metropole'] = placeLines.london['metropole'] || { label: 'The Metropole, Brighton', lines: [214] };
@@ -362,6 +363,7 @@ function renderMapPage() {
     const VIG_PLACE = { 'st-mary-woolnoth': 'st-mary-woolnoth', 'st-magnus-martyr': 'st-magnus-the-martyr', 'london-bridge': 'london-bridge', 'cannon-street-hotel': 'cannon-street-station', 'lower-thames-street-bar': 'lower-thames-street' };
     const MAIN_VIG = { 'richmond': 'richmond-bridge', 'kew': 'kew-bridge', 'highbury': 'highbury' };
     const LBL_DX = { 'hogarth-press': 46, 'greenwich-palace': 9 };
+    const LBL_DY = { 'wiltons-music-hall': -8, 'isle-of-dogs': -6 };
     const CITY = new Set(['london-bridge', 'king-william-street', 'st-mary-woolnoth', 'lloyds-bank-lombard-street', 'cannon-street-station', 'lower-thames-street', 'st-magnus-the-martyr', 'billingsgate']);
     const LEFT_LBL = new Set(['strand', 'queen-victoria-street', 'kew-bridge', 'richmond-bridge']);
     function pinned(name, cx, cy, size, cls) { const p = PIN[name] || [100, 172]; const k = size / 200; return nestSVG(vig[name], cx - p[0] * k, cy - p[1] * k, size, cls); }
@@ -380,7 +382,7 @@ function renderMapPage() {
     // Elizabeth and Leicester on the river below the Tower
     let elizabeth = '';
     if (vig['elizabeth-and-leicester']) {
-      const tp = project(-0.0705, 51.5052, bbox, W, H);
+      const tp = project(-0.0445, 51.5045, bbox, W, H);
       let best = 0, bd = 1e9; pts.forEach((p, i) => { const d = Math.hypot(p[0] - tp[0], p[1] - tp[1]); if (d < bd) { bd = d; best = i; } });
       const ep = pts[best];
       elizabeth = `<g class="place vig" data-place="tower-reach" data-lines="279,289">${pinned('elizabeth-and-leicester', ep[0], ep[1], 104, 'vig-svg')}</g>`;
@@ -422,8 +424,8 @@ function renderMapPage() {
       <rect width="${W}" height="${H}" class="map-bg"/>
       <rect width="${W}" height="${H}" filter="url(#paperish)" opacity="0.6"/>
       <path class="river-glow" d="${d}"/><path class="river" d="${d}"/>
-      <text class="river-label" x="${pts[12][0]}" y="${pts[12][1] - 14}">Thames</text>
-      ${places.map(p => { const left = LEFT_LBL.has(p.id); const drawn = Object.values(MAIN_VIG).includes(p.id) && vig[Object.keys(MAIN_VIG).find(k => MAIN_VIG[k] === p.id)]; const dx = LBL_DX[p.id] || 9; if (drawn) return `<g class="place under" data-place="${p.id}" data-lines="${p.lines.join(',')}" transform="translate(${p.xy[0].toFixed(1)} ${p.xy[1].toFixed(1)})"><circle r="12" class="halo"/><text class="lbl" x="0" y="20" text-anchor="middle">${esc(p.label)}</text>${p.lines.length ? `<text class="lines" x="0" y="33" text-anchor="middle">${p.lines.map(n => 'l. ' + n).join(', ')}</text>` : ''}</g>`; return `<g class="place${CITY.has(p.id) ? ' quiet' : ''}" data-place="${p.id}" data-lines="${p.lines.join(',')}"${p.eliot ? ' data-eliot="1"' : ''} transform="translate(${p.xy[0].toFixed(1)} ${p.xy[1].toFixed(1)})"><circle r="4" class="dot"/><circle r="12" class="halo"/><text class="lbl" x="${left ? -9 : dx}" y="4"${left ? ' text-anchor="end"' : ''}>${esc(p.label)}</text>${p.lines.length ? `<text class="lines" x="${left ? -9 : dx}" y="18"${left ? ' text-anchor="end"' : ''}>${p.lines.map(n => 'l. ' + n).join(', ')}</text>` : ''}</g>`; }).join('')}
+      <text class="river-label" x="${riverLbl[0]}" y="${riverLbl[1] + 26}">Thames</text>
+      ${places.map(p => { const left = LEFT_LBL.has(p.id); const drawn = Object.values(MAIN_VIG).includes(p.id) && vig[Object.keys(MAIN_VIG).find(k => MAIN_VIG[k] === p.id)]; const dx = LBL_DX[p.id] || 9; const dy0 = LBL_DY[p.id] || 0; if (drawn) return `<g class="place under" data-place="${p.id}" data-lines="${p.lines.join(',')}" transform="translate(${p.xy[0].toFixed(1)} ${p.xy[1].toFixed(1)})"><circle r="12" class="halo"/><text class="lbl" x="0" y="20" text-anchor="middle">${esc(p.label)}</text>${p.lines.length ? `<text class="lines" x="0" y="33" text-anchor="middle">${p.lines.map(n => 'l. ' + n).join(', ')}</text>` : ''}</g>`; return `<g class="place${CITY.has(p.id) ? ' quiet' : ''}" data-place="${p.id}" data-lines="${p.lines.join(',')}"${p.eliot ? ' data-eliot="1"' : ''} transform="translate(${p.xy[0].toFixed(1)} ${p.xy[1].toFixed(1)})"><circle r="4" class="dot"/><circle r="12" class="halo"/><text class="lbl" x="${left ? -9 : dx}" y="${4 + dy0}"${left ? ' text-anchor="end"' : ''}>${esc(p.label)}</text>${p.lines.length ? `<text class="lines" x="${left ? -9 : dx}" y="${18 + dy0}"${left ? ' text-anchor="end"' : ''}>${p.lines.map(n => 'l. ' + n).join(', ')}</text>` : ''}</g>`; }).join('')}
       ${cityFrame}${barge}${elizabeth}${mainVigs}${cartouches}${margate}
     </svg>`;
     london += cityInset;
@@ -605,6 +607,7 @@ function renderAboutPage() {
   <dl class="timeline">${timeline.map(t => `<dt>${esc(t.when)}</dt><dd>${esc(t.what)}</dd>`).join('')}</dl>
   <h2 class="sub">How the site works</h2>
   <p>The poem page is the whole thing. The row of lenses above the text changes what the page shows beside each line: Eliot’s notes, the sources, the speakers, the languages, the water, the places, the hours, the cuts. The keys 1 to 9 switch lenses; Escape closes anything open. Marked phrases open a card in the margin (or under the line, on a phone). The hairline strip at the edge of the screen is the poem itself, one mark per line, coloured by the lens you are using; click it to move. The violet hour, the dark setting, follows your system’s preference and can be switched with the small dot in the running head.</p>
+  <p>Two ways of reading are meant to be slower than a page allows. “Line by line” dims everything but one line and brings whatever belongs to it into the margin: the echo, Eliot’s note, a change of speaker, a translation; the arrow keys move, or let it walk on its own at a reading pace. In the voices lens, clicking a speaker follows that voice alone through the poem, so you can hear what the woman in the chair says from beginning to end, or the thunder, or the Thames-daughters.</p>
   <h2 class="sub">Type, drawings and pictures</h2>
   <p>The type is EB Garamond (Georg Duffner and Octavio Pardo), Cormorant Garamond (Christian Thalmann) and Courier Prime (Alan Dague-Greene for Quote-Unquote Apps), all under the SIL Open Font License and served from this site. The tarot pack, the frontispieces to the five parts and the buildings on the map were drawn for this edition. The photographs and paintings come from Wikimedia Commons and are credited here:</p>
   <ul class="credits">${credits || '<li>Credits appear here as pictures are added.</li>'}</ul>

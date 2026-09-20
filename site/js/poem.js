@@ -21,7 +21,7 @@
   $('.theme').addEventListener('click', () => { const t = themeNow() === 'violet' ? 'paper' : 'violet'; root.dataset.theme = t; try { localStorage.setItem('wl-theme', t); } catch (e) { } paintSpine(); });
 
   /* ---------- state ---------- */
-  const state = { lens: 'echoes', open: [], walk: null, heart: 0 };
+  const state = { lens: 'echoes', open: [], walk: null, heart: 0, slow: null, follow: null };
 
   /* ---------- margin card layout ---------- */
   function relTop(el) { const a = el.getBoundingClientRect(), b = poem.getBoundingClientRect(); return a.top - b.top; }
@@ -137,17 +137,31 @@
       const vc = D.voices[v] ? D.voices[v].color : '';
       el.style.setProperty('--vc', vc);
       if (v !== prev) {
-        const tag = document.createElement('span'); tag.className = 'voice-tag'; tag.style.setProperty('--vc', vc); tag.textContent = D.voices[v] ? D.voices[v].label : v;
+        const tag = document.createElement('span'); tag.className = 'voice-tag'; tag.style.setProperty('--vc', vc); tag.textContent = D.voices[v] ? D.voices[v].label : v; tag.dataset.v = v; tag.title = 'Follow this voice alone';
         el.insertAdjacentElement('beforebegin', tag);
       }
       prev = v;
     }
     const counts = {};
     for (const l of D.lines) { const v = D.voiceOf[l.n] || 'poem'; counts[v] = (counts[v] || 0) + 1; }
-    const html = `<p>The typescript was headed <i>He Do the Police in Different Voices</i>. Each change of speaker is marked; the colours are only a way of seeing where one voice stops and another starts. Who counts as a voice is a reading, not a fact.</p><ul>${Object.entries(D.voices).map(([k, v]) => `<li><span class="sw" style="background:${v.color}"></span>${v.label}<span class="cnt">${counts[k] || 0}</span></li>`).join('')}</ul>`;
-    placeCard(legendCard('Voices · thirty-two of them', html, 'kind-voice'), lineEl(1), true);
+    const html = `<p>The typescript was headed <i>He Do the Police in Different Voices</i>. Each change of speaker is marked; the colours are only a way of seeing where one voice stops and another starts. Who counts as a voice is a reading, not a fact.</p><p class="follow-note">Click a voice, here or in the text, to follow it alone through the poem.</p><ul>${Object.entries(D.voices).map(([k, v]) => `<li data-v="${k}"><span class="sw" style="background:${v.color}"></span>${v.label}<span class="cnt">${counts[k] || 0}</span></li>`).join('')}</ul>`;
+    const card = legendCard('Voices · thirty-two of them', html, 'kind-voice');
+    card.addEventListener('click', e => { const li = e.target.closest('li[data-v]'); if (li) follow(li.dataset.v); });
+    placeCard(card, lineEl(1), true);
+    if (state.follow) { const f = state.follow; state.follow = null; follow(f); }
   }
-  function hideVoices() { $$('.voice-tag').forEach(t => t.remove()); $$('.line').forEach(l => l.style.removeProperty('--vc')); }
+  function follow(v) {
+    if (state.follow === v) v = null;
+    state.follow = v;
+    body.classList.toggle('follow', !!v);
+    $$('.line').forEach(l => l.classList.toggle('v-on', !!v && (l.dataset.voice || 'poem') === v));
+    $$('.voice-tag').forEach(t => t.classList.toggle('v-on', !!v && t.dataset.v === v));
+    $$('.legend li[data-v]').forEach(li => li.classList.toggle('on', !!v && li.dataset.v === v));
+    const note = $('.legend .follow-note'); if (note) note.textContent = v && D.voices[v] ? `Following ${D.voices[v].label}, ${$$('.line.v-on').length} lines. Click again to hear everyone.` : 'Click a voice, here or in the text, to follow it alone through the poem.';
+    paintSpine();
+  }
+  document.addEventListener('click', e => { const t = e.target.closest('.voice-tag'); if (t && t.dataset.v) follow(t.dataset.v); });
+  function hideVoices() { state.follow = null; body.classList.remove('follow'); $$('.v-on').forEach(x => x.classList.remove('v-on')); $$('.voice-tag').forEach(t => t.remove()); $$('.line').forEach(l => l.style.removeProperty('--vc')); }
 
   function toggleTrans(t) {
     const line = t.closest('.line') || t.closest('p');
@@ -283,7 +297,7 @@
   }
   function spineColor(n) {
     const k = state.lens;
-    if (k === 'voices') { const v = D.voiceOf[n] || 'poem'; return D.voices[v] ? D.voices[v].color : ''; }
+    if (k === 'voices') { const v = D.voiceOf[n] || 'poem'; if (state.follow && v !== state.follow) return 'var(--rule-2)'; return D.voices[v] ? D.voices[v].color : ''; }
     if (k === 'water') { const e = D.elements.of[n]; if (!e) return 'var(--rule-2)'; return e.includes('fire') ? 'var(--fire)' : e.includes('water') ? 'var(--water)' : 'var(--dry)'; }
     if (k === 'notes') return D.notes.some(x => x.line === n) ? 'var(--gold)' : 'var(--rule-2)';
     if (k === 'echoes') return D.glosses.some(g => g.line === n) ? 'var(--violet)' : 'var(--rule-2)';
@@ -326,7 +340,7 @@
     if (b.dataset.source) { window.location.href = 'library.html#src-' + b.dataset.source; return; }
     const l = b.dataset.lens;
     if (l === 'listen') { window.location.href = 'listen.html'; return; }
-    if (['cards', 'fragments', 'sortes', 'concordance', 'heart', 'walk'].includes(l)) { openTool(l); return; }
+    if (['cards', 'fragments', 'sortes', 'concordance', 'heart', 'walk', 'slow'].includes(l)) { openTool(l); return; }
     if (l) { setLens(l); const part = b.closest('.part'); if (part) { const first = $('.line', part); first && go(+first.dataset.n, false); } }
   }));
 
@@ -343,8 +357,12 @@
   }
   function closeOverlay() { overlays.innerHTML = ''; body.style.overflow = ''; $$('.tool.active').forEach(t => t.classList.remove('active')); }
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') { closeOverlay(); stopWalk(); if (state.heart) stopHeart(); return; }
+    if (e.key === 'Escape') { closeOverlay(); stopWalk(); stopSlow(); if (state.heart) stopHeart(); return; }
     if (e.target.matches('input, textarea')) return;
+    if (state.slow && !e.metaKey && !e.ctrlKey && !e.altKey) {
+      if (['ArrowDown', 'ArrowRight', ' ', 'j', 'n', 'Enter'].includes(e.key)) { e.preventDefault(); slowTo(state.slow.n + 1); return; }
+      if (['ArrowUp', 'ArrowLeft', 'k', 'p'].includes(e.key)) { e.preventDefault(); slowTo(state.slow.n - 1); return; }
+    }
     const i = parseInt(e.key, 10);
     if (i >= 1 && i <= LENS_KEYS.length && !e.metaKey && !e.ctrlKey && !e.altKey) setLens(LENS_KEYS[i - 1]);
   });
@@ -360,6 +378,12 @@
     { id: 'hanged-man', deck: "In this pack: a dead tree with one long bough, a rope with its noose hanging open, and where the Hanged Man should hang, inverted, one leg crooked, the paper is left bare in his shape. Round the head that is not there, a gold halo. Far off on a road, two walkers and a hooded third.", name: 'The Hanged Man', num: 'XII', img: 'tarot-hanged-man', note: '<p>Card XII: a young man hanging by one foot from a living tree, serene, haloed. Eliot linked him to Frazer’s Hanged God, the sacrificed king whose death brings the rain, and to the hooded figure on the road to Emmaus. Madame Sosostris does not find him. No sacrifice, no resurrection, in this deal.</p>', line: 55 },
     { id: 'crowd-in-a-ring', deck: "In this pack: a ring of walkers in bowlers and cloche hats, seen from above, going round clockwise on a bare plain, the path worn into the ground under their feet. The centre of the ring is empty.", name: 'Crowds of people, walking round in a ring', num: '·', img: null, note: '<p>Not a card but what she sees: Dante’s neutrals running after their banner, Frazer’s villagers round the maypole, the commuters on London Bridge four lines later, the hooded hordes of Part V.</p>', line: 56 }
   ];
+  const PACK = [
+    { id: 'sibyl', name: 'The Sibyl', line: 0 }, { id: 'hyacinth-girl', name: 'The hyacinth girl', line: 36 }, { id: 'madame-sosostris', name: 'Madame Sosostris', line: 43 },
+    { id: 'crowd-on-london-bridge', name: 'The crowd on London Bridge', line: 62 }, { id: 'stetson', name: 'Stetson', line: 69 }, { id: 'lady-in-the-chair', name: 'The lady in the chair', line: 77 },
+    { id: 'closing-time', name: 'Closing time', line: 141 }, { id: 'tiresias', name: 'Tiresias', line: 218 }, { id: 'typist', name: 'The typist', line: 222 },
+    { id: 'thames-daughters', name: 'The Thames-daughters', line: 266 }, { id: 'phlebas', name: 'Phlebas', line: 312 }, { id: 'fisher-king', name: 'The Fisher King', line: 424 }
+  ];
   function tarotSVGFor(id) { const f = D.tarot.find(f => f.endsWith('tarot-' + id + '.svg')); return f || null; }
   const svgCache = {};
   function fetchSVG(url) { if (!svgCache[url]) svgCache[url] = fetch(url).then(r => r.ok ? r.text() : '').then(t => t.replace(/<\?xml[^>]*>/, '').replace(/<!DOCTYPE[^>]*>/, '')).catch(() => ''); return svgCache[url]; }
@@ -370,8 +394,11 @@
       const front = art ? '' : (c.img && D.images[c.img] ? `<img src="${esc(D.images[c.img].local)}" alt="${esc(c.name)}">` : `<div><span class="cnum">${c.num}</span><span class="cname">${c.name}</span></div>`);
       return `<div class="tcard" data-i="${i}" tabindex="0" role="button" aria-label="${esc(c.name)}"><div class="face back${backArt ? ' drawn' : ''}"${backArt ? ` data-svg="${backArt}"` : ''}></div><div class="face front${art ? ' drawn' : ''}"${art ? ` data-svg="${art}"` : ''}>${front}</div></div>`;
     }).join('');
-    const ov = overlay('Madame Sosostris deals', 'Lines 46–56. Turn each card. “I am not familiar with the exact constitution of the Tarot pack of cards, from which I have obviously departed to suit my own convenience.” (Eliot’s note.)', `<div class="table">${cards}</div><div class="tarot-note"><p class="small">Turn a card over to read what it is, where it comes from, and where it turns up again in the poem.${D.tarot.length ? '' : ' The three cards with pictures are Pamela Colman Smith’s designs for the 1909 Rider pack, the one on sale in London when the poem was written; a deck drawn for this edition is on its way.'}</p></div>`);
+    const rest = PACK.filter(c => tarotSVGFor(c.id));
+    const pack = rest.length ? `<h3 class="ov-sub">The rest of the pack</h3><p class="small">The poem’s people as a suit of their own, drawn for this edition; each card is numbered with the line where its figure first appears. Click one to go there.</p><div class="table pack">${rest.map(c => `<a class="tcard pack-card" href="${c.line ? '#L' + c.line : '#top'}" aria-label="${esc(c.name)}" title="${esc(c.name)}"><div class="face front drawn" data-svg="${tarotSVGFor(c.id)}"></div></a>`).join('')}</div>` : '';
+    const ov = overlay('Madame Sosostris deals', 'Lines 46–56. Turn each card. “I am not familiar with the exact constitution of the Tarot pack of cards, from which I have obviously departed to suit my own convenience.” (Eliot’s note.)', `<div class="table">${cards}</div><div class="tarot-note"><p class="small">Turn a card over to read what it is, where it comes from, and where it turns up again in the poem.${D.tarot.length ? '' : ' The three cards with pictures are Pamela Colman Smith’s designs for the 1909 Rider pack, the one on sale in London when the poem was written; a deck drawn for this edition is on its way.'}</p></div>${pack}`);
     $$('.face[data-svg]', ov).forEach(f => fetchSVG(f.dataset.svg).then(t => { if (t) f.innerHTML = t; }));
+    ov.addEventListener('click', e => { if (e.target.closest('.pack-card')) closeOverlay(); });
     ov.addEventListener('click', e => { const t = e.target.closest('.tcard'); if (!t) return; const c = TAROT[+t.dataset.i]; t.classList.add('flipped'); $$('.tcard.chosen', ov).forEach(x => x.classList.remove('chosen')); t.classList.add('chosen'); $('.tarot-note', ov).innerHTML = `<p><b>${c.name}.</b></p>${c.note}${c.deck && tarotSVGFor(c.id) ? `<p class="small">${c.deck}</p>` : ''}<p><a href="#L${c.line}" class="tl">Go to line ${c.line}</a></p>`; });
     ov.addEventListener('keydown', e => { if (e.key === 'Enter' && e.target.classList.contains('tcard')) e.target.click(); });
     ov.addEventListener('click', e => { const a = e.target.closest('a.tl'); if (a) { e.preventDefault(); closeOverlay(); go(+a.getAttribute('href').slice(2)); } });
@@ -483,6 +510,46 @@
   }
   function stopWalk() { state.walk = null; $('#walk')?.remove(); $$('.line.cur').forEach(l => l.classList.remove('cur')); if (location.hash.startsWith('#path=')) history.replaceState(null, '', location.pathname); }
 
+  /* ---------- line by line ---------- */
+  function nearestLine() { const mid = window.innerHeight * 0.4; let best = 1, bd = 1e9; for (const l of D.lines) { const el = lineEl(l.n); if (!el) continue; const d = Math.abs(el.getBoundingClientRect().top - mid); if (d < bd) { bd = d; best = l.n; } } return best; }
+  function startSlow(at) {
+    stopWalk(); closeOverlay(); if (state.heart) stopHeart();
+    const n = at || nearestLine();
+    state.slow = { n, timer: null };
+    body.classList.add('slow');
+    if (!$('#slowbar')) { const bar = document.createElement('div'); bar.className = 'walk slowbar'; bar.id = 'slowbar'; document.body.appendChild(bar); }
+    $$('.tool').forEach(t => t.classList.toggle('active', t.dataset.tool === 'slow'));
+    slowTo(n);
+  }
+  function slowTo(n) {
+    if (!state.slow) return;
+    n = Math.max(1, Math.min(D.lines.length, n));
+    state.slow.n = n;
+    $$('.line.cur, .line.near').forEach(l => l.classList.remove('cur', 'near'));
+    const el = lineEl(n); if (!el) return;
+    el.classList.add('cur');
+    for (const m of [n - 1, n + 1]) { const e = lineEl(m); if (e) e.classList.add('near'); }
+    go(n, false);
+    clearCards('gloss'); clearCards('note'); clearCards('slow');
+    const gs = D.glosses.filter(g => g.line === n || (g.to && n >= g.line && n <= g.to));
+    gs.slice(0, 2).forEach(g => openGloss(g.id, null, { keep: true, scroll: false }));
+    const nt = D.notes.find(x => x.line === n); if (nt) placeCard(noteCard(nt), el);
+    const v = D.voiceOf[n] || 'poem', pv = D.voiceOf[n - 1] || 'poem';
+    if (n > 1 && v !== pv && D.voices[v]) { const c = document.createElement('aside'); c.className = 'card kind-voice'; c.dataset.ckind = 'slow'; c.innerHTML = `<span class="card-kind">A new voice</span><span class="card-title">${D.voices[v].label}</span>`; placeCard(c, el); }
+    if (state.lens === 'tongues') { const t = $('.t', el); if (t && !$('.trans-line', el.parentNode)) toggleTrans(t); }
+    renderSlow();
+  }
+  function renderSlow() {
+    const bar = $('#slowbar'); if (!bar || !state.slow) return;
+    const { n, timer } = state.slow; const part = partOf(n);
+    bar.innerHTML = `<button class="walk-close" aria-label="Stop reading line by line">×</button><p class="walk-title">Line by line · ${n} of ${D.lines.length}${part ? ' · ' + part.numeral : ''}</p><p class="walk-text">One line at a time, with whatever belongs to it beside it. <span class="keys">↓</span> or <span class="keys">space</span> for the next, <span class="keys">↑</span> for the last; click any line to move there.</p><div class="walk-nav"><button class="prev" ${n === 1 ? 'disabled' : ''}>Back</button><button class="next" ${n === D.lines.length ? 'disabled' : ''}>Next</button><button class="auto">${timer ? 'Stop it walking' : 'Let it walk'}</button></div>`;
+    bar.onclick = e => { if (e.target.closest('.walk-close')) stopSlow(); else if (e.target.closest('.prev')) slowTo(n - 1); else if (e.target.closest('.next')) slowTo(n + 1); else if (e.target.closest('.auto')) toggleAuto(); };
+  }
+  function toggleAuto() { if (!state.slow) return; if (state.slow.timer) { clearInterval(state.slow.timer); state.slow.timer = null; } else { state.slow.timer = setInterval(() => { if (!state.slow || state.slow.n >= D.lines.length) { toggleAuto(); return; } slowTo(state.slow.n + 1); }, 5200); } renderSlow(); }
+  function stopSlow() { if (!state.slow) return; if (state.slow.timer) clearInterval(state.slow.timer); state.slow = null; body.classList.remove('slow'); $('#slowbar')?.remove(); $$('.line.cur, .line.near').forEach(l => l.classList.remove('cur', 'near')); clearCards('slow'); $$('.tool[data-tool="slow"]').forEach(t => t.classList.remove('active')); }
+  document.addEventListener('click', e => { if (!state.slow) return; if (e.target.closest('a, button, .card, .walk, .readbar, .runhead, .spine')) return; const ln = e.target.closest('.line'); if (ln) slowTo(+ln.dataset.n); });
+  $$('a[data-slow]').forEach(a => a.addEventListener('click', e => { e.preventDefault(); startSlow(1); }));
+
   /* ---------- tools ---------- */
   function openTool(k) {
     $$('.tool').forEach(t => t.classList.toggle('active', t.dataset.tool === k));
@@ -491,6 +558,7 @@
     else if (k === 'sortes') showSortes();
     else if (k === 'concordance') showConcordance();
     else if (k === 'heart') { closeOverlay(); startHeart(); }
+    else if (k === 'slow') { if (state.slow) stopSlow(); else startSlow(); }
     else if (k === 'walk') showWalkChooser();
   }
   $$('.tool').forEach(b => b.addEventListener('click', () => openTool(b.dataset.tool)));
