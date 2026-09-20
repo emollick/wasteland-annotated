@@ -240,7 +240,7 @@ text: The one-eyed merchant
 ---
 id: tarot-one-eyed-merchant-note
 where: Turn the cards: the note read when the card for one eyed merchant is turned
-text: <p>Not a card of the pack. Eliot’s note to line 218 calls him “the one-eyed merchant, seller of currants,” which makes him Mr. Eugenides, the Smyrna merchant of line 209, with his pocket full of currants and his invitation to lunch. Why he is one-eyed is not explained; one suggestion is that he is seen in profile, as figures on cards often are. What he carries on his back is the blank card, “which I am forbidden to see” (line 54).</p>
+text: <p>Not a card of the pack. Eliot’s note to line 218 calls him “the one-eyed merchant, seller of currants,” which makes him Mr. Eugenides, the Smyrna merchant of line 209, with his pocket full of currants and his invitation to lunch. Why he is one-eyed is not explained; Cleanth Brooks (1939) took it to mean no more than that the face on the card is shown in profile. What he carries on his back is the blank card, “which I am forbidden to see” (line 54).</p>
 ---
 id: tarot-blank-deck
 where: Turn the cards: what the drawn card for blank shows (read under the note when the card is turned)
@@ -264,7 +264,7 @@ text: The Hanged Man
 ---
 id: tarot-hanged-man-note
 where: Turn the cards: the note read when the card for hanged man is turned
-text: <p>Card XII of the major arcana: a man hanging by one foot from a living tree, his face calm, a halo round his head. Eliot’s note says the card “fits my purpose in two ways: because he is associated in my mind with the Hanged God of Frazer, and because I associate him with the hooded figure in the passage of the disciples to Emmaus in Part V.” The Hanged God is a chapter of Frazer’s <i>The Golden Bough</i>, in the volumes <i>Adonis, Attis, Osiris</i> that Eliot’s headnote names, on gods, and men standing for gods, put to death by hanging on a sacred tree. Madame Sosostris does not find him: “I do not find / The Hanged Man” (lines 54–55).</p>
+text: <p>Card XII of the major arcana: a man hanging by one foot from a living tree, his face calm, a halo round his head. Eliot’s note says the card “fits my purpose in two ways: because he is associated in my mind with the Hanged God of Frazer, and because I associate him with the hooded figure in the passage of the disciples to Emmaus in Part V.” The Hanged God is a chapter of Frazer’s <i>The Golden Bough</i>, in the volumes <i>Adonis, Attis, Osiris</i> that Eliot’s headnote names, on gods, and men standing for gods, put to death by hanging on a sacred tree. Madame Sosostris does not find him: “I do not find / The Hanged Man” (lines 54–55). Cleanth Brooks (1939) explained her failure by the hood: “That he is hooded accounts for Madame Sosostris’ inability to see him.”</p>
 ---
 id: tarot-crowd-in-a-ring-deck
 where: Turn the cards: what the drawn card for crowd in a ring shows (read under the note when the card is turned)

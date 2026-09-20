@@ -3,7 +3,7 @@
   "poem": {
    "label": "The poem’s own voice",
    "color": "#1B1917",
-   "note": "The voice that belongs to no named character. It opens the poem, describes the room at the start of Part II, introduces Madame Sosostris (43–46), speaks the lines on the drowned Phlebas in Part IV and the opening of Part V (322–330), brings on the thunder (396–400), and answers each DA (402–410, 412–417, 419–423)."
+   "note": "The voice that belongs to no named character. It opens the poem, describes the room at the start of Part II, introduces Madame Sosostris (43–46), speaks the lines on the drowned Phlebas in Part IV and the opening of Part V (322–330), brings on the thunder (396–400), and answers each DA (402–410, 412–417, 419–423). That Marie’s voice begins at line 8 rather than at line 1 is this edition’s reading: the “us” of line 5 returns at line 8, and Cleanth Brooks (1939) read lines 1–18 as one voice."
   },
   "marie": {
    "label": "Marie",
@@ -13,7 +13,7 @@
   "stranger": {
    "label": "A voice in German",
    "color": "#8A6D9A",
-   "note": "Line 12, one sentence: “I am not Russian at all, I come from Lithuania, a real German.” The poem does not say who speaks it; giving it to a second speaker is a reading."
+   "note": "Line 12, one sentence, spoken by a woman (the German is feminine, “Russin”): “I am not Russian at all, I come from Lithuania, a real German.” The poem does not say who speaks it; giving it to a second speaker is a reading."
   },
   "prophet": {
    "label": "The prophet",
@@ -48,7 +48,7 @@
   "walker": {
    "label": "The walker in the City of London",
    "color": "#2F4858",
-   "note": "The “I” of three passages, read here as one voice: the crowd on London Bridge and the meeting with Stetson (60–76), Mr. Eugenides (207–211), and the music along the Strand and the bar in Lower Thames Street (257–265); at 257 he speaks Ferdinand’s line from The Tempest."
+   "note": "The “I” of three passages, read here as one voice: the crowd on London Bridge and the meeting with Stetson (60–76), Mr. Eugenides, whose invitation is reported (207–214), and the music along the Strand and the bar in Lower Thames Street (257–265); at 257 he speaks Ferdinand’s line from The Tempest."
   },
   "she": {
    "label": "The woman with bad nerves",
@@ -89,11 +89,6 @@
    "label": "The nightingale",
    "color": "#6E5A9E",
    "note": "Lines 203–206: the nightingale’s song as the Elizabethan poets wrote it, “jug jug” and “Tereu,” calling on Tereus, the king who raped Philomel; her story is told at lines 99–103, and “So rudely forc’d” repeats line 100."
-  },
-  "eugenides": {
-   "label": "Mr. Eugenides",
-   "color": "#8C6D1F",
-   "note": "His invitation, reported: lines 212–214."
   },
   "tiresias": {
    "label": "Tiresias",
@@ -354,13 +349,8 @@
   ],
   [
    207,
-   211,
-   "walker"
-  ],
-  [
-   212,
    214,
-   "eugenides"
+   "walker"
   ],
   [
    215,

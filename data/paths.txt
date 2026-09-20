@@ -67,7 +67,7 @@ line: 176
 text: "Sweet Thames, run softly, till I end my song": Spenser's refrain from the <i>Prothalamion</i>, a wedding poem. Here the nymphs "are departed" and the river "bears no" litter.
 ---
 line: 182
-text: "By the waters of Leman I sat down and wept." Psalm 137 in the Prayer Book wording, "By the waters of Babylon we sat down and wept", with Lake Geneva (Lac Léman) in Babylon's place. Eliot finished the poem at Lausanne, on the lake, in the winter of 1921–22.
+text: "By the waters of Leman I sat down and wept." Psalm 137 in the Prayer Book wording, "By the waters of Babylon we sat down and wept", with Lake Geneva (Lac Léman) in Babylon's place. Eliot wrote Parts IV and V at Lausanne, on the lake, in the winter of 1921–22.
 ---
 line: 189
 text: "While I was fishing in the dull canal", behind the gashouse. The fisher is usually taken as the Fisher King of Weston's book, whose wound lays his land waste.
@@ -88,7 +88,7 @@ line: 395
 text: "Bringing rain." The first rain since line 9. The poem does not show it fall.
 ---
 line: 396
-text: "Ganga was sunken." The monsoon waiting over the Himalaya.
+text: "Ganga was sunken." The Ganges low, and black clouds gathering over Himavant, the Himalaya. The thunder that speaks next is from the Upanishad named in Eliot's note.
 ---
 line: 419
 text: "The boat responded." A calm sea, and a boat under control.
@@ -122,7 +122,7 @@ line: 74
 text: Webster's dirge for unburied men, with the wolf turned into a dog and the foe into a friend.
 ---
 line: 115
-text: "rats' alley / Where the dead men lost their bones." The trenches.
+text: "rats' alley / Where the dead men lost their bones." Eliot's note points to the rat on the river bank at line 195. The lines have also been read as the trenches of the war that had ended three years before.
 ---
 line: 194
 text: "bones cast in a little low dry garret, / Rattled by the rat's foot only, year to year."
@@ -180,7 +180,7 @@ line: 172
 text: Ophelia, leaving.
 ---
 line: 199
-text: Mrs Porter and her daughter, from a bawdy song of Australian troops that Eliot's note says reached him from Sydney.
+text: Mrs Porter and her daughter, from a ballad which, Eliot's note says, "was reported to me from Sydney, Australia"; it has been identified as a song of the Australian troops of the First World War.
 ---
 line: 222
 text: The typist, who "smoothes her hair with automatic hand."
@@ -217,7 +217,7 @@ line: 70
 text: Mylae, the sea battle of 260 BC between Rome and Carthage.
 ---
 line: 182
-text: Leman is Lake Geneva. Eliot was at Lausanne, on the lake, from late November 1921 to early January 1922, and finished the poem there.
+text: Leman is Lake Geneva. Eliot was at Lausanne, on the lake, from late November 1921 to early January 1922, and wrote Parts IV and V there.
 ---
 line: 209
 text: Smyrna, now İzmir, the chief port of Asia Minor, through which the Levant's dried fruit was shipped; Eliot's note on 211 gives his reading of the line's trade shorthand.
@@ -266,7 +266,7 @@ line: 354
 text: "Not the cicada." Not a bird: the dry sound that is there instead of water.
 ---
 line: 357
-text: The hermit-thrush, whose "water-dripping song" Eliot heard in Quebec. Listen to it.
+text: The hermit-thrush, whose "water-dripping song" Eliot heard in Quebec. Three recordings of it are in <a href="listen.html#rec-xc899696-hermit-thrush-quebec">the listening room</a>.
 ---
 line: 380
 text: "bats with baby faces." Not birds, but they whistle and beat their wings.
@@ -279,7 +279,7 @@ text: "O swallow swallow." Procne, sister of the Philomel of lines 99 and 203.
 ===
 id: nothing
 title: Nothing
-intro: The word “nothing” wherever the poem uses it: at line 40, by the one who came back from the hyacinth garden and could not speak; at lines 120–126, in the exchange between the woman with bad nerves and the man who does not answer her; and at lines 302 and 305, by the third Thames-daughter on Margate Sands. A last stop, at line 402, is the thunder’s first question, “what have we given?”, where the word does not occur.
+intro: The word “nothing” wherever the poem uses it: at line 40, by the one who came back from the hyacinth garden and could not speak; at lines 120–126, in the exchange between the woman with bad nerves and the man who does not answer her; and at lines 302 and 305, by the third Thames-daughter on Margate Sands.
 ---
 line: 40
 text: "I knew nothing, / Looking into the heart of light, the silence." The one who came back from the hyacinth garden.
