@@ -402,13 +402,22 @@
       return `<div class="tcard" data-i="${i}" tabindex="0" role="button" aria-label="${esc(c.name)}"><div class="face back${backArt ? ' drawn' : ''}"${backArt ? ` data-svg="${backArt}"` : ''}></div><div class="face front${art ? ' drawn' : ''}"${art ? ` data-svg="${art}"` : ''}>${front}</div></div>`;
     }).join('');
     const rest = packIds().filter(c => tarotSVGFor(c.id));
-    const pack = rest.length ? `<h3 class="ov-sub">The rest of the pack</h3><p class="small">The poem’s people, places and portents as a suit of their own, drawn for this edition; each card carries the number of the line where it first appears. Click one to go there.</p><div class="table pack">${rest.map(c => `<a class="tcard pack-card" href="${c.line ? '#L' + c.line : '#top'}" aria-label="${esc(c.name)}" title="${esc(c.name)}"><div class="face front drawn" data-svg="${tarotSVGFor(c.id)}"></div></a>`).join('')}</div>` : '';
+    const pack = rest.length ? `<h3 class="ov-sub">The rest of the pack</h3><p class="small">The poem’s people, places and portents as a suit of their own, drawn for this edition; each card carries the number of the line where it first appears. Click one to go there.</p><div class="tarot-note pack-note"></div><div class="table pack">${rest.map(c => `<a class="tcard pack-card" data-id="${c.id}" href="#L${c.line || 1}" aria-label="${esc(c.name)}" title="${esc(c.name)}"><div class="face front drawn" data-svg="${tarotSVGFor(c.id)}"></div></a>`).join('')}</div>` : '';
     const ov = overlay('Madame Sosostris deals', 'Lines 46–56. Turn each card. “I am not familiar with the exact constitution of the Tarot pack of cards, from which I have obviously departed to suit my own convenience.” (Eliot’s note.)', `<div class="table">${cards}</div><div class="tarot-note"><p class="small">Turn a card over to read what it is, where it comes from, and where it turns up again in the poem.${D.tarot.length ? '' : ' The three cards with pictures are Pamela Colman Smith’s designs for the 1909 Rider pack, the one on sale in London when the poem was written; a deck drawn for this edition is on its way.'}</p></div>${pack}`);
     $$('.face[data-svg]', ov).forEach(f => fetchSVG(f.dataset.svg).then(t => { if (t) f.innerHTML = t; }));
-    ov.addEventListener('click', e => { if (e.target.closest('.pack-card')) closeOverlay(); });
-    ov.addEventListener('click', e => { const t = e.target.closest('.tcard'); if (!t) return; const c = TAROT[+t.dataset.i]; t.classList.add('flipped'); $$('.tcard.chosen', ov).forEach(x => x.classList.remove('chosen')); t.classList.add('chosen'); $('.tarot-note', ov).innerHTML = `<p><b>${c.name}.</b></p>${c.note}${c.deck && tarotSVGFor(c.id) ? `<p class="small">${c.deck}</p>` : ''}<p><a href="#L${c.line}" class="tl">Go to line ${c.line}</a></p>`; });
+    ov.addEventListener('click', e => {
+      const a = e.target.closest('.pack-card'); if (!a) return;
+      e.preventDefault();
+      const c = packIds().find(x => x.id === a.dataset.id); if (!c) return;
+      if (a.classList.contains('chosen')) { closeOverlay(); go(c.line || 1); return; }
+      $$('.pack-card.chosen', ov).forEach(x => x.classList.remove('chosen')); a.classList.add('chosen');
+      const note = (D.tarotNotes || {})[c.id]; const pn = $('.pack-note', ov); if (!pn) return;
+      pn.innerHTML = `<p><b>${esc(c.name)}.</b> ${note ? note.shows : ''}</p>${note && note.answers ? `<p class="small">${note.answers}</p>` : ''}<p><a href="#L${c.line || 1}" class="tl">${c.line ? 'Go to line ' + c.line : 'Go to the epigraph'}</a>, or click the card again.</p>`;
+      pn.scrollIntoView({ block: 'nearest', behavior: reduce ? 'auto' : 'smooth' });
+    });
+    ov.addEventListener('click', e => { const t = e.target.closest('.tcard'); if (!t || t.classList.contains('pack-card')) return; const c = TAROT[+t.dataset.i]; t.classList.add('flipped'); $$('.tcard.chosen', ov).forEach(x => x.classList.remove('chosen')); t.classList.add('chosen'); $('.tarot-note', ov).innerHTML = `<p><b>${c.name}.</b></p>${c.note}${c.deck && tarotSVGFor(c.id) ? `<p class="small">${c.deck}</p>` : ''}<p><a href="#L${c.line}" class="tl">Go to line ${c.line}</a></p>`; });
     ov.addEventListener('keydown', e => { if (e.key === 'Enter' && e.target.classList.contains('tcard')) e.target.click(); });
-    ov.addEventListener('click', e => { const a = e.target.closest('a.tl'); if (a) { e.preventDefault(); closeOverlay(); go(+a.getAttribute('href').slice(2)); } });
+    ov.addEventListener('click', e => { const a = e.target.closest('a.tl'); if (a) { e.preventDefault(); closeOverlay(); go(+a.getAttribute('href').slice(2) || 1); } });
   }
 
   /* ---------- fragments ---------- */

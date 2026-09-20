@@ -228,6 +228,15 @@ const mark = artFile('frontispieces/mark.svg'), markSmall = artFile('frontispiec
 const favicon = markSmall ? 'data:image/svg+xml,' + encodeURIComponent(stripSVG(markSmall).replace(/currentColor/g, '#1B1917').replace(/var\(--violet,\s*#4A3560\)/g, '#4A3560').replace(/var\(--gold,\s*#A8873A\)/g, '#A8873A')) : null;
 const tarotDir = path.join(ART, 'tarot');
 const tarotFiles = exists(tarotDir) ? fs.readdirSync(tarotDir).filter(f => f.endsWith('.svg')) : [];
+// the artist's notes on each card, from the tarot thread's NOTES.md tables (file | numeral | what it shows | answers to)
+const tarotNotes = {};
+if (exists(path.join(tarotDir, 'NOTES.md'))) {
+  const md = s => s.trim().replace(/\*([^*]+)\*/g, '<i>$1</i>').replace(/`([^`]+)`/g, '$1').replace(/\s*(?:No accent\.|Accent:[^.]*\.)\s*$/, '');
+  for (const row of read(path.join(tarotDir, 'NOTES.md')).split('\n')) {
+    const m = /^\|\s*`([a-z0-9-]+)\.svg`\s*\|\s*([^|]*)\|\s*([^|]*)\|\s*(.*?)\s*\|\s*$/.exec(row);
+    if (m) tarotNotes[m[1]] = { shows: md(m[3]), answers: md(m[4]) };
+  }
+}
 const vignDir = path.join(ART, 'vignettes');
 const vignFiles = exists(vignDir) ? fs.readdirSync(vignDir).filter(f => f.endsWith('.svg')) : [];
 // copy art into site/art
@@ -329,6 +338,7 @@ function renderPoemPage() {
     images: Object.fromEntries(images.map(i => [i.id, { local: i.local ? i.local.replace(/^site\//, '') : `img/${i.id}.jpg`, title: i.title, credit: i.credit, w: i.width, h: i.height }])),
     places: placeLines, placeXY: thames ? Object.fromEntries([...thames.places, ...thames.wider].map(p => [p.id, [p.lon, p.lat, p.name]])) : {},
     tarot: tarotFiles.map(f => 'art/tarot-' + f),
+    tarotNotes,
     tarotTitles: Object.fromEntries(tarotFiles.map(f => { const m = /<title>([^<]*)<\/title>/.exec(read(path.join(tarotDir, f))); return [f.replace(/\.svg$/, ''), m ? m[1].trim() : '']; })),
     media: media.filter(m => m.verified)
   };

@@ -311,6 +311,9 @@ body[data-lens="drafts"] .ghost { display: block; }
 .tcard.chosen .face { box-shadow: 0 0 0 2px var(--gold); }
 .tarot-note { font-size: .84rem; line-height: 1.5; border-top: 1px solid var(--rule); padding-top: .8rem; min-height: 5rem; }
 .tarot-note p { margin: 0 0 .5rem; }
+.pack-note { min-height: 0; border-top: 0; padding-top: 0; margin: 0 0 .8rem; }
+.pack-note:empty { display: none; }
+.pack-card.chosen .face { box-shadow: 0 0 0 2px var(--gold); }
 
 /* fragments */
 .frags { list-style: none; padding: 0; margin: 0; }
