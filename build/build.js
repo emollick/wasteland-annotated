@@ -153,10 +153,20 @@ for (const g of glosses) { typoFields(g, ['title', 'body', 'quote', 'trans', 'ci
 const sources = parseRecords(read(path.join(DATA, 'sources.txt')));
 for (const s of sources) { typoFields(s, ['what', 'note', 'passage', 'trans']); s.lines = (s.lines || '').split(',').map(x => +x.trim()).filter(x => !isNaN(x)); s.note = paragraphs(s.note); s.links = linkById[s.id] || []; }
 const sourceById = Object.fromEntries(sources.map(s => [s.id, s]));
+// the works the notes cite (data/works.txt: id, short, full, optional url), and the sources field: one citation per line, each beginning with a work's short form, which links to its entry in the library's list of works cited
+const works = exists(path.join(DATA, 'works.txt')) ? parseRecords(read(path.join(DATA, 'works.txt'))).filter(w => w.id && w.short).map(w => typoFields(w, ['short', 'full'])) : [];
+const worksByLength = works.slice().sort((a, b) => b.short.length - a.short.length);
+const hostOf = u => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return u; } };
+function citeHTML(src) {
+  const items = (Array.isArray(src) ? src : String(src || '').split('\n')).map(s => typo(String(s).trim())).filter(Boolean);
+  if (!items.length) return '';
+  const linked = items.map(c => { const w = worksByLength.find(w => c === w.short || c.startsWith(w.short + ',') || c.startsWith(w.short + ' ')); return w ? `<a href="library.html#work-${w.id}">${w.short}</a>${c.slice(w.short.length)}` : c; }).join('; ');
+  return `<p class="cites"><b>${page('cites-label')}</b> ${linked}${/[.!?]$/.test(linked) ? '' : '.'}</p>`;
+}
 const waysRaw = read(path.join(DATA, 'ways.txt')).split(/^===\s*$/m).map(sec => parseRecords(sec));
 const ways = waysRaw.map(recs => ({ part: +recs[0].part, title: typo(recs[0].title), items: recs.slice(1).map(it => typoFields(it, ['title', 'body'])) }));
 const pathsRaw = read(path.join(DATA, 'paths.txt')).split(/^===\s*$/m).map(sec => parseRecords(sec));
-const paths = pathsRaw.map(recs => ({ id: recs[0].id, title: typo(recs[0].title), intro: typo(recs[0].intro), why: typo(recs[0].why || ''), stops: recs.slice(1).map(s => ({ line: +s.line, text: typo(s.text) })) }));
+const paths = pathsRaw.map(recs => ({ id: recs[0].id, title: typo(recs[0].title), intro: typo(recs[0].intro), why: typo(recs[0].why || ''), stops: recs.slice(1).map(s => ({ line: +s.line, text: typo(s.text), sources: s.sources || '' })) }));
 const drafts = parseRecords(read(path.join(DATA, 'drafts.txt')));
 for (const d of drafts) { typoFields(d, ['title', 'body']); d.line = +d.line; d.part = +d.part; d.body = paragraphs(d.body); }
 
@@ -277,6 +287,14 @@ const U = Object.fromEntries(parseRecords(read(path.join(DATA, 'ui.txt'))).map(r
   for (const id of Object.keys(P)) if (!usedP.has(id)) console.warn('pages.txt record not used by the build:', id);
 }
 
+// the citations each record carries, rendered once here for the pages and for the poem page's cards
+for (const g of glosses) g.cites = citeHTML(g.sources);
+for (const p of paths) for (const s of p.stops) s.cites = citeHTML(s.sources);
+for (const d of drafts) d.cites = citeHTML(d.sources);
+for (const s of sources) s.cites = citeHTML(s.sources);
+for (const w of ways) for (const it of w.items) it.cites = citeHTML(it.sources);
+for (const v of Object.values(voicesData.voices)) v.cites = citeHTML(v.sources);
+
 // ---------- page chrome ----------
 const NAV = [['index.html', page('nav-poem')], ['map.html', page('nav-map')], ['listen.html', page('nav-listen')], ['drafts.html', page('nav-drafts')], ['library.html', page('nav-library')], ['paths.html', page('nav-paths')], ['about.html', page('nav-about')]];
 function head(title, extra = '') {
@@ -358,7 +376,7 @@ function renderPoemPage() {
     body += `<section class="part" id="part-${p.num}" data-part="${p.num}">`;
     if (plates['part-' + p.num]) body += `<div class="plate" data-src="art/plate-part-${p.num}.svg" style="--ar:${aspectOf(plates['part-' + p.num])}" aria-hidden="true"></div>`;
     body += `<h2 class="part-title"><span class="part-name">${p.numeral}. ${p.name}</span></h2>`;
-    if (w) body += `<div class="ways"><button type="button" class="ways-toggle" aria-expanded="false" data-part="${p.num}">${w.title}</button><div class="ways-panel" hidden><ol class="ways-list">${w.items.map(it => `<li class="way way-${it.kind}"><button type="button" class="way-title" ${it.lens ? `data-lens="${it.lens}"` : ''} ${it.path ? `data-path="${it.path}"` : ''} ${it.source ? `data-source="${it.source}"` : ''}>${it.title}</button><p>${it.body}</p></li>`).join('')}</ol></div></div>`;
+    if (w) body += `<div class="ways"><button type="button" class="ways-toggle" aria-expanded="false" data-part="${p.num}">${w.title}</button><div class="ways-panel" hidden><ol class="ways-list">${w.items.map(it => `<li class="way way-${it.kind}"><button type="button" class="way-title" ${it.lens ? `data-lens="${it.lens}"` : ''} ${it.path ? `data-path="${it.path}"` : ''} ${it.source ? `data-source="${it.source}"` : ''}>${it.title}</button><p>${it.body}</p>${it.cites || ''}</li>`).join('')}</ol></div></div>`;
     body += p.stanzas.map((st, si) => `<div class="stanza">${st.map((l, li) => renderLine(l, null)).join('\n')}</div>`).join('\n');
     body += `</section>`;
   }
@@ -376,11 +394,11 @@ function renderPoemPage() {
   const data = {
     lines: allLines.map(l => ({ n: l.n, t: l.text, p: parts.find(p => l.n >= p.first && l.n <= p.last).num })),
     parts: parts.map(p => ({ num: p.num, numeral: p.numeral, name: p.name, first: p.first, last: p.last })),
-    glosses: glosses.map(g => ({ id: g.id, line: g.line, to: g.to || null, kind: g.kind, title: g.title, quote: g.quote || '', trans: g.trans || '', cite: g.cite || '', body: g.body, source: g.source || null, image: g.image || null, plate: g.plate || null, lang: g.lang || null })),
+    glosses: glosses.map(g => ({ id: g.id, line: g.line, to: g.to || null, kind: g.kind, title: g.title, quote: g.quote || '', trans: g.trans || '', cite: g.cite || '', body: g.body, source: g.source || null, image: g.image || null, plate: g.plate || null, lang: g.lang || null, cites: g.cites || '' })),
     sources: Object.fromEntries(sources.map(s => [s.id, { id: s.id, title: s.title, author: s.author, date: s.date, lang: s.lang, kind: s.kind, what: s.what, lines: s.lines, passage: s.passage || '', trans: s.trans || '', note: s.note, links: s.links.map(l => ({ label: l.host ? `${l.work || s.title} at ${l.host}` : (l.work || s.title), url: l.url, note: l.deep_link_note || '' })) }])),
     notes: notesData.notes, headnote: notesData.headnote, part5note: notesData.part5note,
     voices: voicesData.voices, voiceOf, elements: { of: elOf, labels: elements.labels }, tongues: tonguesData.langs,
-    times, paths, drafts: drafts.map(d => ({ id: d.id, part: d.part, line: d.line, title: d.title, body: d.body })),
+    times, paths, drafts: drafts.map(d => ({ id: d.id, part: d.part, line: d.line, title: d.title, body: d.body, cites: d.cites || '' })),
     images: Object.fromEntries(images.map(i => [i.id, { local: i.local ? i.local.replace(/^site\//, '') : `img/${i.id}.jpg`, title: typo(i.title), credit: typo(i.credit), w: i.width, h: i.height }])),
     places: placeLines, placeXY: thames ? Object.fromEntries([...thames.places, ...thames.wider].map(p => [p.id, [p.lon, p.lat, p.name]])) : {},
     tarot: tarotFiles.map(f => 'art/tarot-' + f),
@@ -544,7 +562,7 @@ function renderLibraryPage() {
   const kindLabel = { poem: page('kind-poem'), play: page('kind-play'), opera: page('kind-opera'), scripture: page('kind-scripture'), novel: page('kind-novel'), novella: page('kind-novel'), prose: page('kind-prose'), essay: page('kind-essay'), anthropology: page('kind-anthropology'), philosophy: page('kind-philosophy'), history: page('kind-history'), memoir: page('kind-memoir'), birdbook: page('kind-birdbook'), song: page('kind-song') };
   let body = `<main class="prose wide library"><h1 class="pagetitle">${page('library-title')}</h1>
   <p class="lede">${page('library-lede')}</p>
-  <p class="lib-index">${sources.map(s => `<a href="#src-${s.id}">${esc(s.author.split(',')[0])}</a>`).join(' <span class="dot">·</span> ')}</p>`;
+  <p class="lib-index">${sources.map(s => `<a href="#src-${s.id}">${esc(s.author.split(',')[0])}</a>`).join(' <span class="dot">·</span> ')}${works.length ? ` <span class="dot">·</span> <a href="#works">${page('works-title')}</a>` : ''}</p>`;
   for (const k of order) {
     if (!kinds[k]) continue;
     body += `<h2 class="sub">${kindLabel[k]}</h2>`;
@@ -554,12 +572,13 @@ function renderLibraryPage() {
         <header><h3>${s.title}</h3><p class="src-meta">${esc(s.author)} · ${esc(s.date)} · ${esc(s.lang)}</p><p class="src-what">${s.what}</p></header>
         ${s.passage ? `<blockquote class="passage" lang="${{ Latin: 'la', German: 'de', French: 'fr', Italian: 'it', Greek: 'grc', Sanskrit: 'sa' }[s.lang.split(/[ ,;]/)[0]] || 'en'}">${s.passage}</blockquote>` : ''}
         ${s.trans ? `<p class="trans">${s.trans}</p>` : ''}
-        <div class="src-note">${s.note}</div>
+        <div class="src-note">${s.note}</div>${s.cites || ''}
         <p class="src-lines">${page('src-lines-label')} ${s.lines.map(n => n === 0 ? `<a href="index.html#top">${page('src-title-page')}</a>` : `<a href="index.html#L${n}">line ${n}</a>`).join(', ')}</p>
-        ${s.links.length ? `<p class="src-links">${page('src-links-label')} ${s.links.map(l => `<a href="${attr(l.url)}" rel="noopener">${esc(l.label)}</a>`).join(' · ')}</p>` : ''}
+        ${s.links.length ? `<p class="src-links">${page('src-links-label')} ${s.links.map(l => `<a href="${attr(l.url)}" rel="noopener">${esc(l.host ? `${l.work || s.title} at ${l.host}` : (l.work || s.title))}</a>`).join(' · ')}</p>` : ''}
       </article>`;
     }
   }
+  if (works.length) body += `<section class="works-cited" id="works"><h2 class="sub">${page('works-title')}</h2><p class="lede small">${page('works-lede')}</p><ol class="works">${works.map(w => `<li class="work" id="work-${w.id}"><span class="work-short">${w.short}</span><span class="work-full">${w.full || ''}${w.url ? ` <a class="work-link" href="${attr(w.url)}" rel="noopener">${page('works-open')} ${esc(hostOf(w.url))}</a>` : ''}</span></li>`).join('')}</ol></section>`;
   body += `</main>`;
   fs.writeFileSync(path.join(SITE, 'library.html'), head(page('title-library')) + `<body class="library-page">${runningHead('library.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
 }
@@ -570,7 +589,7 @@ function renderDraftsPage() {
   <p class="lede">${page('drafts-lede')}</p>
   <p class="lede small">${page('drafts-lede-2')}</p>`;
   for (const d of drafts) {
-    body += `<article class="draft-item" id="${d.id}"><h2 class="ts-title">${d.title}</h2>${d.line ? `<p class="ts-at"><a href="index.html#L${d.line}">at line ${d.line}</a></p>` : ''}${d.body}</article>`;
+    body += `<article class="draft-item" id="${d.id}"><h2 class="ts-title">${d.title}</h2>${d.line ? `<p class="ts-at"><a href="index.html#L${d.line}">at line ${d.line}</a></p>` : ''}${d.body}${d.cites || ''}</article>`;
   }
   body += `<h2 class="sub">${page('pencil-title')}</h2><ul class="pound-list">
   <li>${page('pencil-1')}</li>
@@ -624,7 +643,7 @@ function renderListenPage() {
       const kind = k === 'birds' ? 'birdsong' : k === 'pages' ? 'scan' : k === 'music' ? 'music' : 'reading';
       const label = (r.who || '').split(/[,;]/)[0];
       body += `<article class="record" data-kind="${kind}" id="rec-${r.id}"><div class="disc" aria-hidden="true"><div class="label"><span class="who">${esc(label)}</span><span class="when">${esc(r.label || ((r.when || '').match(/\d{4}/) || [''])[0])}</span></div></div>
-      <div class="rec-body"><h3>${r.title}</h3><p class="rec-who">${esc(r.who || '')}</p><p class="rec-meta">${esc(r.when || '')}</p><p>${fill(paragraphs(r.body || '').replace(/^<p>|<\/p>$/g, ''), m)}</p>
+      <div class="rec-body"><h3>${r.title}</h3><p class="rec-who">${esc(r.who || '')}</p><p class="rec-meta">${esc(r.when || '')}</p><p>${fill(paragraphs(r.body || '').replace(/^<p>|<\/p>$/g, ''), m)}</p>${citeHTML(r.sources)}
       ${embedFor(r, m)}
       <p class="rec-link"><a href="${attr(m.url)}" rel="noopener">${page('listen-open')} ${esc(r.host || m.host || 'source')}</a></p></div></article>`;
     }
@@ -661,7 +680,7 @@ function renderAboutPage() {
   <li>${page('about-quote-4')}</li>
   </ul>
   <h2 class="sub">${page('about-timeline-title')}</h2>
-  <dl class="timeline">${timeline.map(t => `<dt>${esc(t.when)}</dt><dd>${esc(t.what)}</dd>`).join('')}</dl>
+  <dl class="timeline">${timeline.map(t => `<dt>${esc(t.when)}</dt><dd>${esc(t.what)}${citeHTML(t.sources)}</dd>`).join('')}</dl>
   <h2 class="sub">${page('about-how-title')}</h2>
   <p>${page('about-how-1')}</p>
   <p>${page('about-how-2')}</p>

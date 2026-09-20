@@ -52,7 +52,7 @@
       relayout();
     } else {
       card.classList.add('card-inline');
-      const host = anchorEl.closest('.line') || anchorEl.closest('.part-title') || anchorEl;
+      const host = anchorEl.closest('.line') || anchorEl.closest('.part-title') || anchorEl.closest('.tp-epigraph') || anchorEl; // after the epigraph paragraph, not inside it: its lang="la" would set the font's Latin letterforms (u as v) on the card
       host.insertAdjacentElement('afterend', card);
     }
   }
@@ -84,7 +84,7 @@
     const card = document.createElement('aside');
     card.className = `card kind-${g.kind}`;
     card.dataset.ckind = 'gloss'; card.dataset.g = g.id;
-    card.innerHTML = `<button class="card-close" aria-label="${ui('close')}">×</button><span class="card-kind">${kindLabel}${lines ? ' · <span class="lines">' + lines + '</span>' : ''}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote"${g.lang ? ` lang="${{ German: 'de', French: 'fr', Italian: 'it', Latin: 'la', Greek: 'grc', Sanskrit: 'sa' }[g.lang] || ''}"` : ''}>${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}${g.cite ? `<p class="card-cite">${g.cite}</p>` : ''}${g.image ? imageFig(g.image) : ''}${g.plate ? `<div class="card-plate" data-svg="art/plate-${esc(g.plate)}.svg" aria-hidden="true"></div>` : ''}<div class="card-body">${g.body}</div>${g.source ? sourceBlock(g.source) : ''}`;
+    card.innerHTML = `<button class="card-close" aria-label="${ui('close')}">×</button><span class="card-kind">${kindLabel}${lines ? ' · <span class="lines">' + lines + '</span>' : ''}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote"${g.lang ? ` lang="${{ German: 'de', French: 'fr', Italian: 'it', Latin: 'la', Greek: 'grc', Sanskrit: 'sa' }[g.lang] || ''}"` : ''}>${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}${g.cite ? `<p class="card-cite">${g.cite}</p>` : ''}${g.image ? imageFig(g.image) : ''}${g.plate ? `<div class="card-plate" data-svg="art/plate-${esc(g.plate)}.svg" aria-hidden="true"></div>` : ''}<div class="card-body">${g.body}</div>${g.cites || ''}${g.source ? sourceBlock(g.source) : ''}`;
     return card;
   }
   function openGloss(id, anchorEl, opts = {}) {
@@ -173,6 +173,9 @@
     $$('.voice-tag').forEach(t => t.classList.toggle('v-on', !!v && t.dataset.v === v));
     $$('.legend li[data-v]').forEach(li => li.classList.toggle('on', !!v && li.dataset.v === v));
     const note = $('.legend .follow-note'); if (note) note.textContent = v && D.voices[v] ? ui('voices-following').replace('{voice}', D.voices[v].label).replace('{n}', $$('.line.v-on').length) : ui('voices-follow-hint');
+    $$('.legend li.voice-note').forEach(x => x.remove()); // the followed voice's note opens under its name in the list
+    if (v && D.voices[v] && D.voices[v].note) { const li = $(`.legend li[data-v="${v}"]`); if (li) { const n = document.createElement('li'); n.className = 'voice-note'; n.innerHTML = `<p>${D.voices[v].note}</p>${D.voices[v].cites || ''}`; li.insertAdjacentElement('afterend', n); } }
+    relayout();
     paintSpine();
   }
   document.addEventListener('click', e => { const t = e.target.closest('.voice-tag'); if (t && t.dataset.v) follow(t.dataset.v); });
@@ -263,7 +266,7 @@
       const host = d.line ? lineEl(d.line) : $('#part-1 .part-title');
       if (!host) continue;
       const g = document.createElement('div'); g.className = 'ghost'; g.dataset.ghost = d.id;
-      g.innerHTML = `<b>${esc(d.title)}</b>${d.body}<p><a href="drafts.html#${d.id}">${ui('drafts-page-link')}</a></p>`;
+      g.innerHTML = `<b>${esc(d.title)}</b>${d.body}${d.cites || ''}<p><a href="drafts.html#${d.id}">${ui('drafts-page-link')}</a></p>`;
       host.insertAdjacentElement('beforebegin', g);
     }
     const html = `<p>${ui('legend-drafts-text')}</p><p><a href="drafts.html">${ui('legend-drafts-link')}</a>.</p>`;
@@ -547,7 +550,7 @@
     w.className = 'walk';
     const s = p.stops[i];
     const part = s.line ? partOf(s.line) : null;
-    w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${p.title} · ${i + 1} of ${p.stops.length}</p><p class="walk-head">${s.line ? `Line ${s.line}${part ? ' · ' + part.numeral : ''}` : ui('walk-title-page')}</p><p class="walk-text">${s.text}</p><div class="walk-nav"><button class="prev">${ui('walk-back')}</button><button class="next">${i === p.stops.length - 1 ? ui('walk-finish') : ui('walk-next')}</button></div>`;
+    w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${p.title} · ${i + 1} of ${p.stops.length}</p><p class="walk-head">${s.line ? `Line ${s.line}${part ? ' · ' + part.numeral : ''}` : ui('walk-title-page')}</p><p class="walk-text">${s.text}</p>${s.cites || ''}<div class="walk-nav"><button class="prev">${ui('walk-back')}</button><button class="next">${i === p.stops.length - 1 ? ui('walk-finish') : ui('walk-next')}</button></div>`;
     w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.prev')) { state.walk.i = i - 1; renderWalk(); } else if (e.target.closest('.next')) { if (i === p.stops.length - 1) { stopWalk(); return; } state.walk.i = i + 1; renderWalk(); } };
     $$('.line.cur').forEach(l => l.classList.remove('cur'));
     if (s.line) { const el = lineEl(s.line); el && el.classList.add('cur'); go(s.line, false); } else { window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' }); }
@@ -578,7 +581,7 @@
     gs.slice(0, 2).forEach(g => openGloss(g.id, null, { keep: true, scroll: false }));
     const nt = D.notes.find(x => x.line === n); if (nt) placeCard(noteCard(nt), el);
     const v = D.voiceOf[n] || 'poem', pv = D.voiceOf[n - 1] || 'poem';
-    if (n > 1 && v !== pv && D.voices[v]) { const c = document.createElement('aside'); c.className = 'card kind-voice'; c.dataset.ckind = 'slow'; c.innerHTML = `<span class="card-kind">${ui('new-voice')}</span><span class="card-title">${D.voices[v].label}</span>`; placeCard(c, el); }
+    if (n > 1 && v !== pv && D.voices[v]) { const c = document.createElement('aside'); c.className = 'card kind-voice'; c.dataset.ckind = 'slow'; c.innerHTML = `<span class="card-kind">${ui('new-voice')}</span><span class="card-title">${D.voices[v].label}</span>${D.voices[v].note ? `<div class="card-body"><p>${D.voices[v].note}</p></div>` : ''}${D.voices[v].cites || ''}`; placeCard(c, el); }
     if (state.lens === 'tongues') { const t = $('.t', el); if (t && !$('.trans-line', el.parentNode)) toggleTrans(t); }
     go(n, false);
     renderSlow();

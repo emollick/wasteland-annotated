@@ -32,7 +32,8 @@ const FIXED = {
   sources: ['id', 'lines', 'lang', 'kind'],
   listen: ['id', 'group', 'embed', 'host'],
   pages: ['id', 'where'],
-  ui: ['id', 'where']
+  ui: ['id', 'where'],
+  works: ['id']
 };
 function fixedOf(rec, kind) { return FIXED[kind].map(k => `${k}=${keyOf(rec, k) ?? ''}`).join('|'); }
 // the field names a record declares, as the build's parser would read them (a body line beginning "word:" becomes a field)
@@ -75,7 +76,7 @@ function doExport() {
   const dr = { 0: [], 1: [], 2: [], 3: [], 4: [], 5: [] };
   for (const r of records(read(path.join(DATA, 'drafts.txt')))) dr[+keyOf(r, 'part')].push(r);
   for (const p of [0, 1, 2, 3, 4, 5]) if (dr[p].length) write(path.join(OUT, p ? 'part' + p : 'site', 'drafts.txt'), joinRecords(dr[p]));
-  for (const f of ['sources.txt', 'listen.txt', 'timeline.json', 'voices.json', 'pages.txt', 'ui.txt']) if (exists(path.join(DATA, f))) write(path.join(OUT, 'site', f), read(path.join(DATA, f)));
+  for (const f of ['sources.txt', 'listen.txt', 'timeline.json', 'voices.json', 'pages.txt', 'ui.txt', 'works.txt']) if (exists(path.join(DATA, f))) write(path.join(OUT, 'site', f), read(path.join(DATA, f)));
 }
 
 function importPart(p, force) {
@@ -113,12 +114,17 @@ function importPart(p, force) {
 
 function importSite(force) {
   const dir = path.join(OUT, 'site'); const problems = [];
-  const plain = [['sources.txt', 'sources'], ['listen.txt', 'listen'], ['pages.txt', 'pages'], ['ui.txt', 'ui']];
+  const plain = [['sources.txt', 'sources'], ['listen.txt', 'listen'], ['pages.txt', 'pages'], ['ui.txt', 'ui'], ['works.txt', 'works']];
   const pending = [];
   for (const [f, kind] of plain) {
-    if (!exists(path.join(dir, f)) || !exists(path.join(DATA, f))) continue;
-    const nw = read(path.join(dir, f)), old = read(path.join(DATA, f));
-    problems.push(...diffFixed(records(old), records(nw), kind, `site/${f}`));
+    if (!exists(path.join(dir, f))) continue;
+    const nw = read(path.join(dir, f));
+    if (kind === 'works') { // the list of works cited is new and may grow; each record needs an id and a short form
+      for (const r of records(nw)) if (!keyOf(r, 'id') || !keyOf(r, 'short')) problems.push(`site/${f}: a record without an id or a short form (${r.split('\n')[0]})`);
+    } else {
+      if (!exists(path.join(DATA, f))) continue;
+      problems.push(...diffFixed(records(read(path.join(DATA, f))), records(nw), kind, `site/${f}`));
+    }
     pending.push([path.join(DATA, f), nw]);
   }
   for (const f of ['timeline.json', 'voices.json']) {

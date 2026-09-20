@@ -681,3 +681,19 @@ text: Words are blanked out in stages you choose, every third, then every second
 id: tool-walk-why
 where: ways to read it: the sentence under Take a pathway
 text: A sequence of stops through the poem on one subject, with a note at each. The pathways are listed below.
+---
+id: cites-label
+where: the small-caps label before the list of works a note cites, at the foot of a card, a pathway stop, a way in, a drafts record, a library record, a listening-room record and a voice's note
+text: References
+---
+id: works-title
+where: the library page: the heading of the list of works cited, at the foot of the page, and the link to it at the end of the index line under the title
+text: Works cited
+---
+id: works-lede
+where: the library page: the paragraph under the Works cited heading
+text: The editions and studies the notes refer to, each under the short form the notes use, with a link to the copy consulted where the text is free to read.
+---
+id: works-open
+where: the library page: the words before the site name in the link from a work cited to its open copy, as in "Read it at gutenberg.org"
+text: Read it at

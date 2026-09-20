@@ -250,7 +250,7 @@ body[data-lens="drafts"] .ghost { display: block; }
 .card-img figcaption { font-size: .66rem; color: var(--ink-3); margin-top: .25rem; }
 .card-close { position: absolute; top: .35rem; right: .45rem; font-size: 1rem; line-height: 1; color: var(--ink-3); padding: .2rem .35rem; }
 .card-close:hover { color: var(--ink); }
-.card-inline { margin: .5rem 0 .9rem calc(var(--indent, 0ch)); }
+.card-inline { margin: .5rem 0 .9rem calc(var(--indent, 0ch)); text-align: left; font-style: normal; color: var(--ink); }
 .card .lines { font-size: .68rem; color: var(--ink-3); }
 .legend { font-size: .74rem; line-height: 1.6; }
 .legend .sw { display: inline-block; width: .7rem; height: .7rem; border-radius: 50%; margin-right: .45rem; vertical-align: -1px; }
@@ -609,3 +609,29 @@ body.follow .voice-tag:not(.v-on) { opacity: .25; }
 .path-card .why { color: var(--ink-2); font-style: italic; margin: 0 0 .5rem; }
 
 @media (max-width: 720px) { .rb-help { display: none; } }
+
+/* references: the works a note cites, in small type at its foot; the works themselves are listed at the foot of the library page */
+.cites { margin: .5rem 0 0; font-size: .68rem; line-height: 1.45; color: var(--ink-3); font-family: var(--serif); }
+.cites b { display: inline; font-family: inherit; color: inherit; font-variant-caps: small-caps; letter-spacing: .08em; font-weight: 500; margin-right: .45em; }
+.ghost p.cites, .draft-item p.cites { font-family: var(--serif); }
+.cites a { color: inherit; text-decoration: none; border-bottom: 1px dotted var(--rule-2); }
+.cites a:hover { color: var(--violet); border-bottom-color: var(--violet); }
+.card .cites { margin-top: .45rem; }
+.card.folded .cites { display: none; }
+.walk .cites { margin: -.3rem 0 .7rem; }
+.way .cites { margin-top: .25rem; }
+.src .cites { margin: .2rem 0 .4rem; font-size: .74rem; }
+.draft-item .cites { font-size: .72rem; }
+.rec-body p.cites { font-size: .7rem; color: var(--ink-3); }
+.timeline dd .cites { margin-top: .15rem; }
+.legend li.voice-note { margin: .2rem 0 .5rem 1.15rem; padding-left: .5rem; border-left: 1px solid var(--rule-2); cursor: default; }
+.legend li.voice-note p { margin: 0; font-size: .74rem; color: var(--ink-2); }
+.legend li.voice-note .cites { margin-top: .25rem; }
+.works-cited { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--rule); }
+.works { list-style: none; padding: 0; margin: .5rem 0 0; }
+.work { padding: .55rem 0; border-top: 1px solid var(--rule); font-size: .88rem; line-height: 1.5; }
+@media (min-width: 720px) { .work { display: grid; grid-template-columns: 15rem 1fr; gap: .2rem 1.5rem; } }
+.work-short { display: block; font-weight: 500; color: var(--ink); }
+.work-full { color: var(--ink-2); }
+.work-link { display: inline-block; margin-left: .5em; font-variant-caps: small-caps; letter-spacing: .06em; font-size: .78rem; color: var(--violet); white-space: nowrap; }
+.work:target, .src:target { background: color-mix(in srgb, var(--violet) 8%, transparent); box-shadow: -.8rem 0 0 color-mix(in srgb, var(--violet) 8%, transparent), .8rem 0 0 color-mix(in srgb, var(--violet) 8%, transparent); }
