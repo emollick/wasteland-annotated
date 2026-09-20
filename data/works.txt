@@ -1027,3 +1027,11 @@ id: kings-college-2022
 short: King's College, Cambridge, "The Waste Land at 100"
 full: "The Waste Land at 100," King's Treasures, the blog of King's College Library and Archives, Cambridge, 15 October 2022; on the College's Hayward copies of the first editions, the copy Eliot inscribed to Pound, and the first printing of the dedication in <i>Poems 1909–1925</i>.
 url: https://kcctreasures.com/2022/10/15/the-waste-land-at-100/
+---
+id: eliot-to-criticize-1965
+short: Eliot, To Criticize the Critic (1965)
+full: T. S. Eliot, <i>To Criticize the Critic and Other Writings</i> (London: Faber and Faber, 1965), "The Aims of Education" (1950), where Eliot recalls his hours at the bank ("9.15 to 5.30"). Quoted in a phrase only.
+---
+id: moody-1979
+short: Moody (1979)
+full: A. David Moody, <i>Thomas Stearns Eliot: Poet</i> (Cambridge: Cambridge University Press, 1979).
