@@ -35,12 +35,20 @@ const FIXED = {
   ui: ['id', 'where']
 };
 function fixedOf(rec, kind) { return FIXED[kind].map(k => `${k}=${keyOf(rec, k) ?? ''}`).join('|'); }
-// compare two lists of records by their fixed fields; return problems
+// the field names a record declares, as the build's parser would read them (a body line beginning "word:" becomes a field)
+const keysOf = rec => rec.split('\n').map(l => /^([a-z][a-z0-9_-]*):/.exec(l)).filter(Boolean).map(m => m[1]);
+// compare two lists of records by their fixed fields and their field names; return problems
 function diffFixed(oldRecs, newRecs, kind, label) {
   const problems = [];
   if (oldRecs.length !== newRecs.length) problems.push(`${label}: ${oldRecs.length} records before, ${newRecs.length} now`);
   const n = Math.min(oldRecs.length, newRecs.length);
-  for (let i = 0; i < n; i++) { const a = fixedOf(oldRecs[i], kind), b = fixedOf(newRecs[i], kind); if (a !== b) problems.push(`${label} record ${i + 1}: fixed fields changed\n   was ${a}\n   now ${b}`); }
+  for (let i = 0; i < n; i++) {
+    const a = fixedOf(oldRecs[i], kind), b = fixedOf(newRecs[i], kind);
+    if (a !== b) problems.push(`${label} record ${i + 1}: fixed fields changed\n   was ${a}\n   now ${b}`);
+    const ka = keysOf(oldRecs[i]), kb = keysOf(newRecs[i]);
+    const extra = kb.filter(k => !ka.includes(k)), gone = ka.filter(k => !kb.includes(k));
+    if (extra.length || gone.length) problems.push(`${label} record ${i + 1} (${b}): fields ${extra.length ? 'added ' + extra.join(', ') : ''}${extra.length && gone.length ? '; ' : ''}${gone.length ? 'missing ' + gone.join(', ') : ''} (a line inside a body that starts like "word:" is read as a new field)`);
+  }
   return problems;
 }
 
