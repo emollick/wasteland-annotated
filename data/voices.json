@@ -48,7 +48,7 @@
   "walker": {
    "label": "The walker in the City",
    "color": "#2F4858",
-   "note": "The 'I' who crosses London Bridge in the fog, cries out to Stetson, meets Mr. Eugenides, and walks from the Strand to Lower Thames Street. Lines 60–76, 207–214, 257–265."
+   "note": "The 'I' who crosses London Bridge in the fog, cries out to Stetson, meets Mr. Eugenides, and walks from the Strand to Lower Thames Street. Lines 60–76, 207–211, 257–265."
   },
   "she": {
    "label": "The woman with bad nerves",
@@ -78,7 +78,7 @@
   "fisher": {
    "label": "The fisher on the bank",
    "color": "#4A6B5A",
-   "note": "Spenser's poet, Ferdinand and the Fisher King in one voice: lines 173–202."
+   "note": "Spenser's poet, Ferdinand and the Fisher King in one voice: lines 173–198."
   },
   "song": {
    "label": "A song, overheard",
@@ -98,7 +98,7 @@
   "tiresias": {
    "label": "Tiresias",
    "color": "#4A3560",
-   "note": "Lines 215–248: the blind seer who has been both sexes and watches the typist's evening."
+   "note": "Lines 215–251 and 253–256: the blind seer who has been both sexes and watches the typist's evening."
   },
   "typist": {
    "label": "The typist",
