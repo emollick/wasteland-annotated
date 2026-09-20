@@ -36,7 +36,7 @@ const FIXED = {
 };
 function fixedOf(rec, kind) { return FIXED[kind].map(k => `${k}=${keyOf(rec, k) ?? ''}`).join('|'); }
 // the field names a record declares, as the build's parser would read them (a body line beginning "word:" becomes a field)
-const OPTIONAL = ['passage', 'trans', 'cite', 'quote', 'label', 'why', 'plate']; // fields a debate may add to a record that lacked them
+const OPTIONAL = ['passage', 'trans', 'cite', 'quote', 'label', 'why', 'plate', 'sources']; // fields a debate may add to a record that lacked them
 const keysOf = rec => rec.split('\n').map(l => /^([a-z][a-z0-9_-]*):/.exec(l)).filter(Boolean).map(m => m[1]);
 // compare two lists of records by their fixed fields and their field names; return problems
 function diffFixed(oldRecs, newRecs, kind, label) {
