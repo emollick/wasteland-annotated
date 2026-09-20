@@ -697,3 +697,7 @@ text: The editions and studies the notes refer to, each under the short form the
 id: works-open
 where: the library page: the words before the site name in the link from a work cited to its open copy, as in "Read it at gutenberg.org"
 text: Read it at
+---
+id: legends-aria
+where: the column on the left of the poem, at wide widths, where a lens's legend sits, as a screen reader names it
+text: The legend of the lens in use

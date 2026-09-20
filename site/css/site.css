@@ -138,11 +138,21 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 /* poem layout */
 .page { display: grid; grid-template-columns: minmax(0, 1fr); padding: 0 1rem 4rem; }
 .poem { max-width: var(--measure); margin: 0 auto; width: 100%; min-width: 0; }
-.margin { display: none; }
+.margin, .margin-left { display: none; }
+:root { --legend-w: 12rem; }
+@media (min-width: 1440px) { :root { --legend-w: 15rem; } }
 @media (min-width: 1140px) {
   .page { grid-template-columns: var(--spine-w) minmax(0, var(--measure)) minmax(16rem, var(--margin-w)); column-gap: 2.4rem; justify-content: center; padding-right: 1.5rem; }
   .poem { grid-column: 2; margin: 0; }
   .margin { display: block; grid-column: 3; position: relative; }
+}
+@media (min-width: 1280px) {
+  .page { grid-template-columns: var(--spine-w) var(--legend-w) minmax(0, var(--measure)) minmax(16rem, var(--margin-w)); column-gap: 2rem; }
+  .poem { grid-column: 3; }
+  .margin { grid-column: 4; }
+  .margin-left { display: block; grid-column: 2; align-self: start; position: sticky; top: calc(var(--chrome-h, 7rem) + 1.2rem); max-height: calc(100vh - var(--chrome-h, 7rem) - 2.4rem); overflow: auto; padding: 0 .2rem .5rem 0; }
+  .margin-left .card { margin: 0 0 .8rem; }
+  .margin-left .card:last-child { margin-bottom: 0; }
 }
 .part { padding-top: 5.5rem; }
 .part:first-child { padding-top: 4rem; }

@@ -11,6 +11,9 @@
   const lineEl = n => document.getElementById('L' + n);
   const glossById = Object.fromEntries(D.glosses.map(g => [g.id, g]));
   const wide = () => matchMedia('(min-width: 1140px)').matches;
+  const wide3 = () => matchMedia('(min-width: 1280px)').matches; // room for a third column: the lens legends on the left, the notes on the right
+  const legends = $('#legends');
+  const chrome = () => document.documentElement.style.setProperty('--chrome-h', headerBottom() + 'px');
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const partOf = n => D.parts.find(p => n >= p.first && n <= p.last);
   const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -40,11 +43,14 @@
   }
   let layoutTimer;
   const relayout = () => { clearTimeout(layoutTimer); layoutTimer = setTimeout(layoutMargin, 30); };
-  window.addEventListener('resize', () => { relayout(); paintSpine(); });
+  chrome();
+  let was3 = wide3();
+  window.addEventListener('resize', () => { chrome(); if (wide3() !== was3) { was3 = wide3(); setLens(state.lens); } relayout(); paintSpine(); });
 
   function placeCard(card, anchorEl, sticky) {
     const n = +(anchorEl.closest('.line')?.dataset.n || 0);
     card.dataset.line = n;
+    if (sticky && legends && wide3()) { card.dataset.sticky = '1'; legends.appendChild(card); return; } // a legend keeps to the left column, beside the reader, and leaves the right margin to the notes
     if (wide()) {
       card.dataset.top = Math.max(0, relTop(anchorEl.closest('.line') || anchorEl) - 4);
       if (sticky) card.dataset.sticky = '1';
@@ -58,7 +64,7 @@
   }
   function foldOthers(keep) {
     if (!wide()) return;
-    for (const c of $$('.card', margin)) { if (c === keep || !['gloss', 'place'].includes(c.dataset.ckind)) continue; c.classList.add('folded'); }
+    for (const c of $$('.card', margin)) { if (c === keep || !['gloss', 'place', 'legend'].includes(c.dataset.ckind)) continue; c.classList.add('folded'); } // where there is no left column, an open note folds the legend to its title
     if (keep) keep.classList.remove('folded');
     relayout();
   }

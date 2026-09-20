@@ -369,7 +369,7 @@ function renderPoemPage() {
 </section>`;
 
   body += `<div class="spine" id="spine" aria-hidden="true"></div>`;
-  body += `<div class="page">`;
+  body += `<div class="page"><aside class="margin-left" id="legends" aria-label="${page('legends-aria')}"></aside>`;
   body += `<main class="poem" id="poem">`;
   for (const p of parts) {
     const w = ways.find(x => x.part === p.num);
