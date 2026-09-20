@@ -30,7 +30,7 @@ line: 266
 text: The Thames-daughters' song, in short lines, with the refrain of Wagner's Rhine-daughters (Eliot's note gives <i>Götterdämmerung</i>, III, i). Worth reading aloud.
 ---
 line: 312
-text: Ten lines. A drowned man. The tarot's warning fulfilled, gently. Read it twice.
+text: The poem's shortest section gives ten lines to a drowned sailor. Madame Sosostris warned of this in Part I: "Fear death by water" (55).
 ---
 line: 331
 text: No water from here to line 359. At line 395 a gust brings rain.
@@ -76,7 +76,7 @@ line: 266
 text: "The river sweats / Oil and tar." The working Thames of Eliot's day; then, at 279, Elizabeth's barge in 1561, from the Spanish ambassador's letter that Eliot's note quotes.
 ---
 line: 312
-text: Phlebas. The current under sea. The tarot fulfilled.
+text: Phlebas is the drowned Phoenician Sailor of the tarot reading (47); here the current under sea picks his bones.
 ---
 line: 331
 text: "Here is no water but only rock." Rock and no water to line 359, and no rain until the gust of line 395.
@@ -131,7 +131,7 @@ line: 245
 text: Tiresias, who "walked among the lowest of the dead."
 ---
 line: 312
-text: Phlebas, "a fortnight dead."
+text: By the time his section opens Phlebas has been dead a fortnight. The drowning itself is never shown.
 ---
 line: 328
 text: "He who was living is now dead / We who were living are now dying."
@@ -260,7 +260,7 @@ line: 203
 text: "Twit twit twit / Jug jug jug jug jug jug." The nightingale again (line 100), singing the words Elizabethan poets gave her song; "Tereu" is both one of those words and the name of Tereus, who raped her.
 ---
 line: 313
-text: "the cry of gulls," which Phlebas forgot.
+text: Phlebas, a fortnight drowned, has forgotten "the cry of gulls".
 ---
 line: 354
 text: "Not the cicada." Not a bird: the dry sound that is there instead of water.
@@ -362,7 +362,7 @@ line: 300
 text: Eliot spent three weeks at Margate in October and November 1921, on sick leave from the bank, and drafted "some fifty lines" of Part III in a shelter on the front, probably the Nayland Rock shelter, listed in 2009, which still stands. The lines are thought to be the river song and the Thames-daughters' speeches.
 ---
 line: 312
-text: Gloucester, Massachusetts: the drowned sailor's original voyage, cut by Pound.
+text: The voyage Pound cut from this section set out past the Dry Salvages, rocks off Cape Ann in Massachusetts. Eliot's family spent its summers at Gloucester, on the cape, when he was a boy.
 ---
 line: 419
 text: Probably a boat off Cape Ann, where Eliot sailed in the summers of his youth.

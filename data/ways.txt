@@ -160,31 +160,31 @@ title: Six ways into Death by Water
 kind: source
 title: Read it in French first
 source: dans-le-restaurant
-body: The ten lines are Eliot's translation of the last stanza of his own French poem of 1918. Read the French, then the English, and note what was dropped (the tin, Cornwall) and what was added ("Gentile or Jew").
+body: The ten lines are Eliot's translation of the last stanza of his own French poem "Dans le Restaurant", published in 1918. Read the French, then the English, and note what was dropped (the tin, Cornwall, the offhand "Figurez-vous donc") and what was added ("Gentile or Jew", and the whole address to the man at the wheel).
 ---
 kind: draft
-title: The eighty-three drowned lines
+title: The voyage Pound cut
 lens: drafts
-body: In the typescript the section was a ninety-three-line voyage out of Gloucester, Massachusetts, ending on an iceberg. Pound cut it to ten and then had to talk Eliot out of cutting those too: "Phlebas is an integral part of the poem . . . Must stay in."
+body: In the typescript this section was a sea voyage of some ninety lines, from the Dry Salvages off Cape Ann to the fishing banks, ending in ice. Pound cut it to the last ten lines and then had to talk Eliot out of cutting those too: "Phlebas is an integral part of the poem . . . Must stay in."
 ---
 kind: path
-title: The drowned, from the cards to the current
+title: The drowned before Phlebas
 path: water
-body: "Fear death by water" (55), the pearls that were his eyes (48, 125), Ophelia (172), the king's wreck (191), and then Phlebas. The Water pathway collects them.
+body: Before it reaches Phlebas the poem has warned of drowning and shown the drowned: "Fear death by water" (55); the pearls that were his eyes (48, 125); Ophelia's good night (172), said not long before she drowns; and "the king my brother's wreck" (191). The Water pathway takes them in order.
 ---
 kind: source
 title: Ariel's song
 source: shakespeare-tempest
-body: "Full fathom five thy father lies." Read the song, then Phlebas. Shakespeare's drowned man suffers "a sea-change / Into something rich and strange." Eliot's has his bones picked in whispers. Decide which is the kinder.
+body: "Full fathom five thy father lies." Read Ariel's song, then Phlebas. Shakespeare's drowned man is not in fact drowned, and the song has him suffer "a sea-change / Into something rich and strange". Eliot's Phlebas is a fortnight dead, and the current picks his bones in whispers.
 ---
 kind: listen
-title: Ten lines, six readers
+title: Hear it read
 lens: listen
-body: The section is short enough to compare readers: Eliot's flat delivery, Guinness's elegy, Irons's, Shaw's. Listen to all the versions you can find, back to back. It takes a few minutes and it tells you what tone the lines will bear.
+body: Ten lines are short enough to hear several readers one after another. The listening room has six readers of Part IV: Eliot himself (in 1933, and again in the 1940s), Alec Guinness, Jeremy Irons, Fiona Shaw, Edoardo Ballerini and Elizabeth Klett. Start with Eliot's own reading and hear the others against it.
 ---
 kind: ask
 title: Consider Phlebas
-body: "Consider Phlebas, who was once handsome and tall as you." The last line addresses whoever turns a wheel and looks to windward: sailors, drivers, anyone steering anything. Consider him. That is the whole instruction.
+body: "Consider Phlebas, who was once handsome and tall as you." The last three lines turn from the drowned man to whoever is at a ship's wheel, "Gentile or Jew", and through him to the reader. In 1956 Herbert Musurillo compared the section to the epitaphs for drowned sailors in the <i>Greek Anthology</i>, which speak to the sailor passing by. The last line has the shape of the warning on an old gravestone: as you are now, so once was I.
 ===
 part: 5
 title: Twelve ways into What the Thunder Said
