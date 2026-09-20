@@ -49,7 +49,7 @@ line: 24
 text: "the dry stone no sound of water." The first drought. The sound of water that is missing here is wished for again, at length, in Part V.
 ---
 line: 42
-text: "Oed' und leer das Meer." Desolate and empty the sea: Wagner's shepherd sees no ship.
+text: "Oed' und leer das Meer." Desolate and empty the sea: in the third act of Wagner's <i>Tristan</i>, the shepherd set to watch for Isolde's ship sees nothing on it.
 ---
 line: 47
 text: The drowned Phoenician Sailor. The first drowned man in the poem is a card in a pack. The line in brackets, "Those are pearls that were his eyes," is from Ariel's song in <i>The Tempest</i>.
@@ -113,13 +113,13 @@ line: 39
 text: "I was neither / Living nor dead." The hyacinth garden.
 ---
 line: 62
-text: Dante's crowd on London Bridge: "I had not thought death had undone so many."
+text: Dante's crowd on London Bridge. Line 63, "I had not thought death had undone so many," is from <i>Inferno</i> III, where Dante sees the train of the dead just inside the gate of Hell; Eliot's note gives the passage.
 ---
 line: 71
-text: "That corpse you planted last year in your garden." The buried god of Frazer's vegetation rites, put in the ground so that he will come up again, here a corpse in a garden.
+text: "That corpse you planted last year in your garden." Eliot's headnote says that readers of Frazer will recognise "references to vegetation ceremonies" in the poem, and this is one of them: a god buried so that he will come up again, here a corpse in a garden.
 ---
 line: 74
-text: Webster's dirge for unburied men, with the wolf turned into a dog and the foe into a friend.
+text: From the dirge in Webster's <i>The White Devil</i> that Cornelia sings over her murdered son, calling on the birds to cover "the friendless bodies of unburied men." Eliot turns the wolf into a dog and the foe into a friend.
 ---
 line: 115
 text: "rats' alley / Where the dead men lost their bones." Eliot's note points to the rat on the river bank at line 195. The lines have also been read as the trenches of the war that had ended three years before.
@@ -162,7 +162,7 @@ line: 43
 text: Madame Sosostris, who has a cold, deals cards that come back later in the poem. "One must be so careful these days" is usually read as a fortune-teller's caution about the law, since telling fortunes for money could be prosecuted.
 ---
 line: 49
-text: Belladonna, the Lady of the Rocks. Belladonna is deadly nightshade, a poison and a cosmetic, and the word means beautiful lady; her title recalls Leonardo's <i>Virgin of the Rocks</i>.
+text: Belladonna, the Lady of the Rocks. Belladonna is deadly nightshade, a poison and a cosmetic, and the word means beautiful lady; her title is usually traced to Leonardo's <i>Virgin of the Rocks</i>.
 ---
 line: 77
 text: The lady in the chair. Her room is made from Cleopatra's barge (line 77), Dido's ceiling (92) and Eve's garden (98).
@@ -202,13 +202,13 @@ title: Cities
 intro: The places the poem names, in the order it names them: the Starnbergersee and the Hofgarten, in Munich, at the start; London through the middle, with the bridge, the streets and churches, a public bar in Lower Thames Street and the river at Greenwich and at Richmond, and among the London stops the places the poem’s people come from or remember, Lithuania, Mylae, Leman, Smyrna, Thebes, Margate and Carthage; then, in Part V, the five cities named in two lines, “Jerusalem Athens Alexandria / Vienna London” (375–376), and the Ganges and Himavant (396–398).
 ---
 line: 8
-text: The Starnbergersee and the Hofgarten: Munich, where Eliot spent the summer of 1911.
+text: The Starnbergersee, the lake south-west of Munich, and the Hofgarten, a garden in the city centre. Eliot spent the summer of 1911 in Munich.
 ---
 line: 12
-text: Lithuania, by way of a sentence in German: "I am not Russian at all, I come from Lithuania, real German."
+text: Lithuania is named in the poem's one line of German that is not from Wagner: "I am not Russian at all, I come from Lithuania, real German."
 ---
 line: 60
-text: "Unreal City": London, from Baudelaire's Paris.
+text: "Unreal City" is London. Eliot's note quotes Baudelaire on Paris, the "swarming city, city full of dreams, where the ghost in broad daylight accosts the passer-by."
 ---
 line: 66
 text: King William Street and St Mary Woolnoth: the commuters' way into the City from London Bridge. Eliot's bank stood by the church, and his note on line 68 says he "often noticed" the dead sound at nine.
@@ -251,7 +251,7 @@ title: Birds
 intro: The poem’s birds, in the order they appear, with the lines where each is heard or named: the nightingale into which Philomel was changed (99–103 and 203–206), the gulls that Phlebas forgot (313), the hermit-thrush of line 357, which Eliot’s note says he heard in Quebec County, the cock on the rooftree (392) and the swallow of line 429. Three stops are for other creatures the poem sets beside them: the cricket of line 23, the cicada of line 354 and the bats of line 380. Recordings of the birds themselves, where they exist, are in the listening room.
 ---
 line: 23
-text: "the cricket no relief." Not a bird, but the first singer: Eliot's cricket stands in for the grasshopper of Ecclesiastes 12:5, the verse his note cites.
+text: "the cricket no relief." Not a bird, but the first creature in the poem that sings. Eliot's cricket stands in for the grasshopper of Ecclesiastes 12:5, the verse his note cites, where "the grasshopper shall be a burden."
 ---
 line: 99
 text: Philomel, the nightingale, "Jug Jug."
