@@ -245,8 +245,20 @@ for (const f of tarotFiles) fs.writeFileSync(path.join(SITE, 'art', 'tarot-' + f
 for (const f of vignFiles) fs.writeFileSync(path.join(SITE, 'art', 'vignette-' + f), stripSVG(fs.readFileSync(path.join(vignDir, f), 'utf8')));
 for (const k of Object.keys(plates)) if (plates[k]) fs.writeFileSync(path.join(SITE, 'art', 'plate-' + k + '.svg'), stripSVG(plates[k]));
 
+// ---------- the templates' prose (data/pages.txt) and the tools' own words (data/ui.txt) ----------
+const P = Object.fromEntries(parseRecords(read(path.join(DATA, 'pages.txt'))).map(r => [r.id, r.text]));
+function page(id) { if (!(id in P)) throw new Error(`data/pages.txt has no record "${id}"`); return P[id]; }
+const U = Object.fromEntries(parseRecords(read(path.join(DATA, 'ui.txt'))).map(r => [r.id, r.text]));
+{
+  const usedUI = new Set([...read(path.join(SITE, 'js', 'poem.js')).matchAll(/\bui\('([a-z0-9-]+)'\)/g)].map(m => m[1]));
+  for (const id of usedUI) if (!(id in U)) throw new Error(`data/ui.txt has no record "${id}", which site/js/poem.js uses`);
+  for (const id of Object.keys(U)) if (!usedUI.has(id)) console.warn('ui.txt record not used by poem.js:', id);
+  const usedP = new Set([...read(__filename).matchAll(/\bpage\('([a-z0-9-]+)'\)/g)].map(m => m[1]));
+  for (const id of Object.keys(P)) if (!usedP.has(id)) console.warn('pages.txt record not used by the build:', id);
+}
+
 // ---------- page chrome ----------
-const NAV = [['index.html', 'The poem'], ['map.html', 'Map'], ['listen.html', 'Listen'], ['drafts.html', 'Drafts'], ['library.html', 'Library'], ['paths.html', 'Pathways'], ['about.html', 'About']];
+const NAV = [['index.html', page('nav-poem')], ['map.html', page('nav-map')], ['listen.html', page('nav-listen')], ['drafts.html', page('nav-drafts')], ['library.html', page('nav-library')], ['paths.html', page('nav-paths')], ['about.html', page('nav-about')]];
 function head(title, extra = '') {
   return `<!DOCTYPE html>
 <html lang="en">
@@ -254,7 +266,7 @@ function head(title, extra = '') {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
-<meta name="description" content="T. S. Eliot’s The Waste Land (1922), the whole text with Eliot’s notes, the sources in their own words, the voices, the languages, the water, the map of its London, the recordings, the drafts, and pathways through it.">
+<meta name="description" content="${page('meta-description')}">
 <link rel="preload" href="fonts/eb-garamond-400-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="fonts/eb-garamond-400i-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="css/fonts.css">
@@ -265,10 +277,10 @@ ${extra}
 </head>`;
 }
 function runningHead(current) {
-  return `<nav class="runhead" aria-label="Pages"><a class="rh-title" href="index.html">${markSmall ? `<span class="rh-mark" aria-hidden="true">${inlineSVG(markSmall, 'rh-mark-svg')}</span>` : ''}The Waste Land</a><span class="rh-links">${NAV.map(([h, t]) => `<a href="${h}"${h === current ? ' aria-current="page"' : ''}>${t}</a>`).join('')}</span><button class="theme" type="button" aria-label="Switch between paper and the violet hour" title="The violet hour"><span class="theme-dot"></span></button></nav>`;
+  return `<nav class="runhead" aria-label="${page('nav-aria')}"><a class="rh-title" href="index.html">${markSmall ? `<span class="rh-mark" aria-hidden="true">${inlineSVG(markSmall, 'rh-mark-svg')}</span>` : ''}${page('runhead-title')}</a><span class="rh-links">${NAV.map(([h, t]) => `<a href="${h}"${h === current ? ' aria-current="page"' : ''}>${t}</a>`).join('')}</span><button class="theme" type="button" aria-label="${page('theme-label')}" title="${page('theme-title')}"><span class="theme-dot"></span></button></nav>`;
 }
 function foot() {
-  return `<footer class="colophon">${mark ? `<div class="foot-mark" aria-hidden="true">${inlineSVG(mark, 'mark-svg')}</div>` : ''}<p>The text is that of the first book edition (Boni &amp; Liveright, New York, December 1922), which is in the public domain in the United States. Annotations, translations and design were written for this edition; sources are quoted from public-domain texts and named on each card. Map data © OpenStreetMap contributors (ODbL). Pictures are public domain or Creative Commons and credited where they appear.</p><p><a href="about.html">About this edition</a></p></footer>`;
+  return `<footer class="colophon">${mark ? `<div class="foot-mark" aria-hidden="true">${inlineSVG(mark, 'mark-svg')}</div>` : ''}<p>${page('colophon')}</p><p><a href="about.html">${page('colophon-link')}</a></p></footer>`;
 }
 
 // ---------- index.html ----------
@@ -279,26 +291,26 @@ function renderPoemPage() {
   <div class="fog" aria-hidden="true"></div>
   <div class="tp-inner">
     ${plates.title ? `<div class="plate plate-title">${inlineSVG(plates.title, 'plate-svg')}</div>` : ''}
-    <p class="tp-epigraph" lang="la">${markupLine('Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.', (tongueByLine[0] || []).filter(t => t.lang !== 'it').flatMap(t => findAll('Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.', t.text).map(idx => ({ start: idx, end: idx + t.text.length, tag: 't', data: t }))))}<a class="g tp-g" href="#epigraph" data-g="epigraph" data-kind="echo" aria-label="About the epigraph">·</a></p>
+    <p class="tp-epigraph" lang="la">${markupLine('Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.', (tongueByLine[0] || []).filter(t => t.lang !== 'it').flatMap(t => findAll('Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.', t.text).map(idx => ({ start: idx, end: idx + t.text.length, tag: 't', data: t }))))}<a class="g tp-g" href="#epigraph" data-g="epigraph" data-kind="echo" aria-label="${page('epigraph-mark')}">·</a></p>
     <h1 class="tp-title"><a class="g" href="#title" data-g="title" data-kind="gloss">The Waste Land</a></h1>
     <p class="tp-author">T. S. Eliot</p>
     <p class="tp-year">1922</p>
     <p class="tp-dedication"><i>For Ezra Pound</i><br><i><a class="g" href="#dedication" data-g="dedication" data-kind="echo"><span class="t" data-lang="it" data-trans="the better craftsman">il miglior fabbro</span></a></i></p>
-    <p class="tp-sub">The whole poem, with Eliot’s notes, the sources in their own words, the voices, the languages, the water, the map, the recordings, the drafts, and pathways through it.</p>
-    <p class="tp-begin"><a href="#part-1">Begin</a> <span class="tp-or">or</span> <a href="#L1" data-path="first">take the first reading, twelve stops</a> <span class="tp-or">or</span> <a href="#L1" data-slow="1">read it line by line</a></p>
+    <p class="tp-sub">${page('tp-sub')}</p>
+    <p class="tp-begin"><a href="#part-1">${page('tp-begin')}</a> <span class="tp-or">${page('tp-or')}</span> <a href="#L1" data-path="first">${page('tp-begin-path')}</a> <span class="tp-or">${page('tp-or')}</span> <a href="#L1" data-slow="1">${page('tp-begin-slow')}</a></p>
   </div>
 </header>`;
 
   // reading bar (lenses)
-  body += `<div class="readbar" id="readbar" role="toolbar" aria-label="Ways of reading">
+  body += `<div class="readbar" id="readbar" role="toolbar" aria-label="${page('readbar-aria')}">
   <div class="rb-inner">
-    <span class="rb-label">Read with</span>
+    <span class="rb-label">${page('rb-read')}</span>
     <div class="lenses" role="radiogroup">
-      ${[['plain', 'Plain', 'The poem alone'], ['echoes', 'Echoes', 'The sources, phrase by phrase'], ['notes', 'Notes', 'Eliot’s 1922 notes beside their lines'], ['voices', 'Voices', 'Who is speaking'], ['tongues', 'Tongues', 'Eight languages, translated'], ['water', 'Water', 'Water, drought and fire'], ['places', 'Places', 'Where the poem is standing'], ['clock', 'Clock', 'The hours and the seasons'], ['drafts', 'Drafts', 'What Pound cut']].map(([k, t, d], i) => `<button type="button" class="lens" data-lens="${k}" role="radio" aria-checked="${k === 'echoes'}" title="${d}"><span class="key">${i + 1}</span>${t}</button>`).join('')}
+      ${[['plain', page('lens-plain'), page('lens-plain-desc')], ['echoes', page('lens-echoes'), page('lens-echoes-desc')], ['notes', page('lens-notes'), page('lens-notes-desc')], ['voices', page('lens-voices'), page('lens-voices-desc')], ['tongues', page('lens-tongues'), page('lens-tongues-desc')], ['water', page('lens-water'), page('lens-water-desc')], ['places', page('lens-places'), page('lens-places-desc')], ['clock', page('lens-clock'), page('lens-clock-desc')], ['drafts', page('lens-drafts'), page('lens-drafts-desc')]].map(([k, t, d], i) => `<button type="button" class="lens" data-lens="${k}" role="radio" aria-checked="${k === 'echoes'}" title="${d}"><span class="key">${i + 1}</span>${t}</button>`).join('')}
     </div>
-    <span class="rb-label rb-tools-label">Do</span>
+    <span class="rb-label rb-tools-label">${page('rb-do')}</span>
     <div class="tools">
-      ${[['slow', 'Line by line'], ['cards', 'Turn the cards'], ['fragments', 'Unstack the fragments'], ['sortes', 'Draw a line'], ['concordance', 'Find a word'], ['heart', 'By heart'], ['walk', 'Take a pathway']].map(([k, t]) => `<button type="button" class="tool" data-tool="${k}">${t}</button>`).join('')}
+      ${[['slow', page('tool-slow')], ['cards', page('tool-cards')], ['fragments', page('tool-fragments')], ['sortes', page('tool-sortes')], ['concordance', page('tool-concordance')], ['heart', page('tool-heart')], ['walk', page('tool-walk')]].map(([k, t]) => `<button type="button" class="tool" data-tool="${k}">${t}</button>`).join('')}
     </div>
   </div>
 </div>`;
@@ -318,12 +330,12 @@ function renderPoemPage() {
   }
   if (tailpiece) body += `<div class="tailpiece">${inlineSVG(tailpiece, 'tail-svg')}</div>`;
   // Eliot's notes as printed
-  body += `<section class="notes-printed" id="notes"><h2 class="part-title small"><span class="part-name">Notes on The Waste Land</span></h2>
-  <p class="notes-about">Eliot’s notes as printed in the 1922 book, keyed to his own line numbers. The margin numbers on this page count the lines as they are; the 1922 printing’s numbers run one behind from line 346 onward, so that his “line 433” is the poem’s 434th, and his notes do not always agree with the margin. <a href="about.html#numbering">Why</a>.</p>
+  body += `<section class="notes-printed" id="notes"><h2 class="part-title small"><span class="part-name">${page('notes-title')}</span></h2>
+  <p class="notes-about">${page('notes-about')}</p>
   <div class="notes-head">${notesData.headnote}</div>
   ${[1, 2, 3, 5].map(pn => `<h3 class="notes-part">${parts[pn - 1].numeral}. ${parts[pn - 1].name}</h3>${pn === 5 ? `<p class="note-item"><span class="note-body">${notesData.part5note}</span></p>` : ''}${notesData.notes.filter(nt => nt.line >= parts[pn - 1].first && nt.line <= parts[pn - 1].last).map(nt => `<p class="note-item" id="note-${nt.printed.replace(/[^0-9]/g, '')}"><a class="note-num" href="#L${nt.line}">${nt.printed}.</a> <span class="note-body">${nt.text}</span></p>`).join('')}`).join('')}
   </section>`;
-  body += `</main><aside class="margin" id="margin" aria-label="Marginalia"></aside></div>`;
+  body += `</main><aside class="margin" id="margin" aria-label="${page('margin-aria')}"></aside></div>`;
   // overlays container
   body += `<div id="overlays"></div>`;
   body += foot();
@@ -339,11 +351,12 @@ function renderPoemPage() {
     places: placeLines, placeXY: thames ? Object.fromEntries([...thames.places, ...thames.wider].map(p => [p.id, [p.lon, p.lat, p.name]])) : {},
     tarot: tarotFiles.map(f => 'art/tarot-' + f),
     tarotNotes,
+    ui: U,
     tarotTitles: Object.fromEntries(tarotFiles.map(f => { const m = /<title>([^<]*)<\/title>/.exec(read(path.join(tarotDir, f))); return [f.replace(/\.svg$/, ''), m ? m[1].trim() : '']; })),
     media: media.filter(m => m.verified)
   };
   fs.writeFileSync(path.join(SITE, 'js', 'data.js'), 'window.WL = ' + JSON.stringify(data) + ';\n');
-  const html = head('The Waste Land, annotated') + `<body class="poem-page" data-lens="echoes">${runningHead('index.html')}${body}<script src="js/data.js"></script><script src="js/poem.js"></script></body></html>`;
+  const html = head(page('title-poem')) + `<body class="poem-page" data-lens="echoes">${runningHead('index.html')}${body}<script src="js/data.js"></script><script src="js/poem.js"></script></body></html>`;
   fs.writeFileSync(path.join(SITE, 'index.html'), html);
 }
 
@@ -363,9 +376,9 @@ function renderMapPage() {
     const pts = thames.river.map(([lon, lat]) => project(lon, lat, bbox, W, H));
     const riverLbl = (() => { const t = project(-0.215, 51.47, bbox, W, H); let b = 0, bd = 1e9; pts.forEach((p, i) => { const d = Math.hypot(p[0] - t[0], p[1] - t[1]); if (d < bd) { bd = d; b = i; } }); return pts[b]; })();
     const d = pts.map((p, i) => (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' ');
-    placeLines.london['royal-barge'] = placeLines.london['royal-barge'] || { label: 'Elizabeth and Leicester, the Queen’s barge on the river', lines: [279, 289] };
-    placeLines.london['metropole'] = placeLines.london['metropole'] || { label: 'The Metropole, Brighton', lines: [214] };
-    placeLines.london['gashouse'] = placeLines.london['gashouse'] || { label: 'The dull canal behind the gashouse', lines: [187, 190] };
+    placeLines.london['royal-barge'] = placeLines.london['royal-barge'] || { label: page('place-royal-barge'), lines: [279, 289] };
+    placeLines.london['metropole'] = placeLines.london['metropole'] || { label: page('place-metropole'), lines: [214] };
+    placeLines.london['gashouse'] = placeLines.london['gashouse'] || { label: page('place-gashouse'), lines: [187, 190] };
     const places = Object.entries(placeLines.london).map(([id, info]) => ({ id, ...info, xy: placeById[id] ? project(placeById[id].lon, placeById[id].lat, bbox, W, H) : null })).filter(p => p.xy);
     // vignettes drawn by the art thread, pinned per their NOTES.md anchors
     const vig = {}; for (const f of vignFiles) vig[f.replace('.svg', '')] = artFile('vignettes/' + f);
@@ -380,7 +393,7 @@ function renderMapPage() {
     // the City frame on the main map
     const cityBox = [-0.0965, 51.5062, -0.0785, 51.5148];
     const c0 = project(cityBox[0], cityBox[3], bbox, W, H), c1 = project(cityBox[2], cityBox[1], bbox, W, H);
-    const cityFrame = `<a href="#city-map" class="frame-link"><rect class="frame" x="${(c0[0] - 6).toFixed(1)}" y="${(c0[1] - 6).toFixed(1)}" width="${(c1[0] - c0[0] + 12).toFixed(1)}" height="${(c1[1] - c0[1] + 12).toFixed(1)}" rx="2"/><text class="frame-lbl" x="${(c1[0] + 6).toFixed(1)}" y="${(c1[1] + 19).toFixed(1)}" text-anchor="end">The City, drawn large below</text></a>`;
+    const cityFrame = `<a href="#city-map" class="frame-link"><rect class="frame" x="${(c0[0] - 6).toFixed(1)}" y="${(c0[1] - 6).toFixed(1)}" width="${(c1[0] - c0[0] + 12).toFixed(1)}" height="${(c1[1] - c0[1] + 12).toFixed(1)}" rx="2"/><text class="frame-lbl" x="${(c1[0] + 6).toFixed(1)}" y="${(c1[1] + 19).toFixed(1)}" text-anchor="end">${page('map-frame-label')}</text></a>`;
     // the barge on Greenwich Reach: the river point nearest Greenwich pier, nudged upstream
     let barge = '';
     if (vig['red-sailed-barge'] && placeById['greenwich-pier']) {
@@ -405,12 +418,12 @@ function renderMapPage() {
       const mx = x0 + 95, my = H - 46;
       return `<g class="place vig" data-place="${pid}" data-lines="${lines}"><rect class="cartouche" x="${x0}" y="${H - 168}" width="190" height="158" rx="3"/>${pinned(name, mx, my, 120, 'vig-svg')}<text class="cart-lbl" x="${mx}" y="${H - 28}">${label}</text><text class="cart-sub" x="${mx}" y="${H - 15}">${sub}</text></g>`;
     }
-    const cartouches = cartouche('the-metropole', 560, 'The Metropole, Brighton, l. 214', 'fifty miles south, off this map', 'metropole', '214') + cartouche('the-gashouse', 340, 'Behind the gashouse, l. 190', 'no canal is named; every one had a gasholder', 'gashouse', '187,190');
+    const cartouches = cartouche('the-metropole', 560, page('map-metropole-label'), page('map-metropole-sub'), 'metropole', '214') + cartouche('the-gashouse', 340, page('map-gashouse-label'), page('map-gashouse-sub'), 'gashouse', '187,190');
     // Margate, off the map: a cartouche in the corner
     let margate = '';
     if (vig['margate-sands']) {
       const mx = W - 118, my = H - 46;
-      margate = `<g class="place vig margate" data-place="margate" data-lines="300"><rect class="cartouche" x="${W - 200}" y="${H - 168}" width="190" height="158" rx="3"/>${pinned('margate-sands', mx, my, 120, 'vig-svg')}<text class="cart-lbl" x="${mx}" y="${H - 28}">Margate Sands, l. 300</text><text class="cart-sub" x="${mx}" y="${H - 15}">sixty miles east, off this map</text></g>`;
+      margate = `<g class="place vig margate" data-place="margate" data-lines="300"><rect class="cartouche" x="${W - 200}" y="${H - 168}" width="190" height="158" rx="3"/>${pinned('margate-sands', mx, my, 120, 'vig-svg')}<text class="cart-lbl" x="${mx}" y="${H - 28}">${page('map-margate-label')}</text><text class="cart-sub" x="${mx}" y="${H - 15}">${page('map-margate-sub')}</text></g>`;
     }
     // the City inset
     let cityInset = '';
@@ -420,21 +433,21 @@ function renderMapPage() {
       const cd = cpts.map((p, i) => (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' ');
       const cplaces = places.filter(p => CITY.has(p.id)).map(p => ({ ...p, xy: project(placeById[p.id].lon, placeById[p.id].lat, cb, CW, CH) }));
       const vigFor = {}; for (const [v, pid] of Object.entries(VIG_PLACE)) if (vig[v]) vigFor[pid] = v;
-      cityInset = `<svg class="map city" viewBox="0 0 ${CW} ${CH}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The City of London with the poem’s buildings drawn">
+      cityInset = `<svg class="map city" viewBox="0 0 ${CW} ${CH}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${page('map-city-aria')}">
       <rect width="${CW}" height="${CH}" class="map-bg"/>
       <rect width="${CW}" height="${CH}" filter="url(#paperish)" opacity="0.6"/>
       <path class="river-glow" d="${cd}"/><path class="river" d="${cd}"/>
-      <text class="river-label" x="${CW - 300}" y="${CH - 24}">Thames</text>
+      <text class="river-label" x="${CW - 300}" y="${CH - 24}">${page('map-river-label')}</text>
       ${cplaces.map(p => { const v = vigFor[p.id]; const [x, y] = p.xy; if (v) { return `<g class="place vig" data-place="${p.id}" data-lines="${p.lines.join(',')}"><circle r="12" class="halo" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}"/>${pinned(v, x, y, 150, 'vig-svg')}<text class="lbl" x="${x.toFixed(1)}" y="${(y + 22).toFixed(1)}">${esc(p.label)}</text><text class="lines" x="${x.toFixed(1)}" y="${(y + 35).toFixed(1)}">${p.lines.map(n => 'l. ' + n).join(', ')}</text></g>`; } const dy = p.id === 'lloyds-bank-lombard-street' ? 14 : p.id === 'billingsgate' ? 22 : 4; return `<g class="place" data-place="${p.id}" data-lines="${p.lines.join(',')}"${p.eliot ? ' data-eliot="1"' : ''} transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="4" class="dot"/><circle r="12" class="halo"/><text class="lbl" x="9" y="${dy}">${esc(p.label)}</text>${p.lines.length ? `<text class="lines" x="9" y="${dy + 14}">${p.lines.map(n => 'l. ' + n).join(', ')}</text>` : ''}</g>`; }).join('')}
     </svg>`;
-      cityInset = `<h2 class="sub">The City, a mile of it</h2><p class="map-lede">From the Cannon Street Hotel to Billingsgate, with the buildings the poem names drawn as they stood in 1922: Hawksmoor’s St Mary Woolnoth keeping the hours over King William Street, Rennie’s London Bridge with the morning crowd flowing north, Wren’s St Magnus the Martyr at the bridge foot, the hotel where Mr. Eugenides asks you to luncheon. Click a building for its lines.</p><div class="map-wrap city" id="city-map">${cityInset}</div>`;
+      cityInset = `<h2 class="sub">${page('city-title')}</h2><p class="map-lede">${page('city-lede')}</p><div class="map-wrap city" id="city-map">${cityInset}</div>`;
     }
-    london = `<svg class="map london" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Thames through London with the places of the poem">
+    london = `<svg class="map london" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${page('map-london-aria')}">
       <defs><filter id="paperish"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" result="n"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 0.06"/></feComponentTransfer></filter></defs>
       <rect width="${W}" height="${H}" class="map-bg"/>
       <rect width="${W}" height="${H}" filter="url(#paperish)" opacity="0.6"/>
       <path class="river-glow" d="${d}"/><path class="river" d="${d}"/>
-      <text class="river-label" x="${riverLbl[0]}" y="${riverLbl[1] + 26}">Thames</text>
+      <text class="river-label" x="${riverLbl[0]}" y="${riverLbl[1] + 26}">${page('map-river-label')}</text>
       ${places.map(p => { const left = LEFT_LBL.has(p.id); const drawn = Object.values(MAIN_VIG).includes(p.id) && vig[Object.keys(MAIN_VIG).find(k => MAIN_VIG[k] === p.id)]; const dx = LBL_DX[p.id] || 9; const dy0 = LBL_DY[p.id] || 0; if (drawn) return `<g class="place under" data-place="${p.id}" data-lines="${p.lines.join(',')}" transform="translate(${p.xy[0].toFixed(1)} ${p.xy[1].toFixed(1)})"><circle r="12" class="halo"/><text class="lbl" x="0" y="20" text-anchor="middle">${esc(p.label)}</text>${p.lines.length ? `<text class="lines" x="0" y="33" text-anchor="middle">${p.lines.map(n => 'l. ' + n).join(', ')}</text>` : ''}</g>`; return `<g class="place${CITY.has(p.id) ? ' quiet' : ''}" data-place="${p.id}" data-lines="${p.lines.join(',')}"${p.eliot ? ' data-eliot="1"' : ''} transform="translate(${p.xy[0].toFixed(1)} ${p.xy[1].toFixed(1)})"><circle r="4" class="dot"/><circle r="12" class="halo"/><text class="lbl" x="${left ? -9 : dx}" y="${4 + dy0}"${left ? ' text-anchor="end"' : ''}>${esc(p.label)}</text>${p.lines.length ? `<text class="lines" x="${left ? -9 : dx}" y="${18 + dy0}"${left ? ' text-anchor="end"' : ''}>${p.lines.map(n => 'l. ' + n).join(', ')}</text>` : ''}</g>`; }).join('')}
       ${cityFrame}${barge}${elizabeth}${mainVigs}${cartouches}${margate}
     </svg>`;
@@ -468,21 +481,21 @@ function renderMapPage() {
     // journey in poem order (by first line)
     const journey = worldPlaces.filter(p => p.lines.length && !p.eliot).map(p => ({ ...p, first: Math.min(...p.lines) })).sort((a, b) => a.first - b.first);
     const jd = journey.map((p, i) => { const [x, y] = proj(p.p.lon, p.p.lat); return (i ? 'L' : 'M') + x.toFixed(1) + ' ' + y.toFixed(1); }).join(' ');
-    world = `<svg class="map world" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The world of the poem">
+    world = `<svg class="map world" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${page('map-world-aria')}">
       <rect width="${W}" height="${H}" class="map-bg"/>
       <path class="land" d="${land}"/>
       <path class="journey" d="${jd}"/>
       ${worldPlaces.map(p => { const [x, y] = proj(p.p.lon, p.p.lat); return `<g class="place${p.eliot ? ' eliot' : ''}" data-place="${p.id}" data-lines="${p.lines.join(',')}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="3.5" class="dot"/><circle r="11" class="halo"/><text class="lbl" x="7" y="4">${esc(p.label)}</text></g>`; }).join('')}
     </svg>`;
   }
-  const html = head('The map of The Waste Land') + `<body class="map-page">${runningHead('map.html')}
+  const html = head(page('title-map')) + `<body class="map-page">${runningHead('map.html')}
   <main class="prose wide">
-    <h1 class="pagetitle">Where the poem is standing</h1>
-    <p class="lede">The poem walks a real city. London Bridge, King William Street, St Mary Woolnoth and Lombard Street are one route, the one Eliot took to work at Lloyds Bank; the Strand, Queen Victoria Street, Lower Thames Street and St Magnus Martyr are another; the river runs from Richmond and Kew past Greenwich Reach and the Isle of Dogs to Margate, where the third Thames-daughter sits on the sand. Click a place for its lines. The river is drawn from OpenStreetMap’s survey of its actual course.</p>
+    <h1 class="pagetitle">${page('map-title')}</h1>
+    <p class="lede">${page('map-lede')}</p>
     <div class="map-wrap" id="london-map">${london}</div>
-    <div class="map-legend" id="map-legend"><p class="small">Grey dots are places from Eliot’s own life that the poem does not name.</p></div>
-    <h2 class="sub">The poem’s world</h2>
-    <p class="lede">From the Starnberger See to the Ganges, in the order the poem names them, with a line drawn between. The poem’s centre of gravity is London, but its last places are a river in India and a mountain range, and its first is a lake outside Munich where a king drowned.</p>
+    <div class="map-legend" id="map-legend"><p class="small">${page('map-legend')}</p></div>
+    <h2 class="sub">${page('world-title')}</h2>
+    <p class="lede">${page('world-lede')}</p>
     <div class="map-wrap" id="world-map">${world}</div>
     <div class="map-card" id="map-card" hidden></div>
   </main>${foot()}<script src="js/data.js"></script><script src="js/map.js"></script></body></html>`;
@@ -494,9 +507,9 @@ function renderLibraryPage() {
   const kinds = {};
   for (const s of sources) (kinds[s.kind] = kinds[s.kind] || []).push(s);
   const order = ['poem', 'play', 'opera', 'scripture', 'novel', 'novella', 'prose', 'essay', 'anthropology', 'philosophy', 'history', 'memoir', 'birdbook', 'song'];
-  const kindLabel = { poem: 'Poems', play: 'Plays', opera: 'Operas', scripture: 'Scripture', novel: 'Novels', novella: 'Novels', prose: 'Prose', essay: 'Essays', anthropology: 'Anthropology', philosophy: 'Philosophy', history: 'History', memoir: 'Memoirs', birdbook: 'A field guide', song: 'Songs' };
-  let body = `<main class="prose wide library"><h1 class="pagetitle">The library</h1>
-  <p class="lede">Everything the poem quotes, borrows or bends, in its own words and language, with a translation where one is needed, a note on what Eliot did with it, the lines where it surfaces, and a place to read the whole thing free. Fifty-five works in eight languages, from a Vedic hymn to a rag of 1912. Click a line number to go to it in the poem.</p>
+  const kindLabel = { poem: page('kind-poem'), play: page('kind-play'), opera: page('kind-opera'), scripture: page('kind-scripture'), novel: page('kind-novel'), novella: page('kind-novel'), prose: page('kind-prose'), essay: page('kind-essay'), anthropology: page('kind-anthropology'), philosophy: page('kind-philosophy'), history: page('kind-history'), memoir: page('kind-memoir'), birdbook: page('kind-birdbook'), song: page('kind-song') };
+  let body = `<main class="prose wide library"><h1 class="pagetitle">${page('library-title')}</h1>
+  <p class="lede">${page('library-lede')}</p>
   <p class="lib-index">${sources.map(s => `<a href="#src-${s.id}">${esc(s.author.split(',')[0])}</a>`).join(' <span class="dot">·</span> ')}</p>`;
   for (const k of order) {
     if (!kinds[k]) continue;
@@ -508,42 +521,42 @@ function renderLibraryPage() {
         ${s.passage ? `<blockquote class="passage" lang="${{ Latin: 'la', German: 'de', French: 'fr', Italian: 'it', Greek: 'grc', Sanskrit: 'sa' }[s.lang.split(/[ ,;]/)[0]] || 'en'}">${s.passage}</blockquote>` : ''}
         ${s.trans ? `<p class="trans">${s.trans}</p>` : ''}
         <div class="src-note">${s.note}</div>
-        <p class="src-lines">In the poem: ${s.lines.map(n => n === 0 ? `<a href="index.html#top">title page</a>` : `<a href="index.html#L${n}">line ${n}</a>`).join(', ')}</p>
-        ${s.links.length ? `<p class="src-links">Read it whole: ${s.links.map(l => `<a href="${attr(l.url)}" rel="noopener">${esc(l.label)}</a>`).join(' · ')}</p>` : ''}
+        <p class="src-lines">${page('src-lines-label')} ${s.lines.map(n => n === 0 ? `<a href="index.html#top">${page('src-title-page')}</a>` : `<a href="index.html#L${n}">line ${n}</a>`).join(', ')}</p>
+        ${s.links.length ? `<p class="src-links">${page('src-links-label')} ${s.links.map(l => `<a href="${attr(l.url)}" rel="noopener">${esc(l.label)}</a>`).join(' · ')}</p>` : ''}
       </article>`;
     }
   }
   body += `</main>`;
-  fs.writeFileSync(path.join(SITE, 'library.html'), head('The library of The Waste Land') + `<body class="library-page">${runningHead('library.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
+  fs.writeFileSync(path.join(SITE, 'library.html'), head(page('title-library')) + `<body class="library-page">${runningHead('library.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
 }
 
 // ---------- drafts page ----------
 function renderDraftsPage() {
-  let body = `<main class="prose drafts"><h1 class="pagetitle">What Pound cut</h1>
-  <p class="lede">The poem was typed out at about eight hundred lines and published at four hundred and thirty-four. Ezra Pound did most of the cutting, in pencil, in Paris in January 1922; Vivien Eliot added comments and one line; Eliot struck out his own first opening. The typescript survived, lost for forty years, and was printed in facsimile in 1971. The cut passages are still in copyright, so they are described here, not reproduced; the descriptions follow the facsimile edition page by page.</p>
-  <p class="lede small">Pound’s own account, in the letter he sent Eliot with the edited drafts in the winter of 1921–22: he called himself the poem’s <i>sage homme</i>, its man-midwife.</p>`;
+  let body = `<main class="prose drafts"><h1 class="pagetitle">${page('drafts-title')}</h1>
+  <p class="lede">${page('drafts-lede')}</p>
+  <p class="lede small">${page('drafts-lede-2')}</p>`;
   for (const d of drafts) {
     body += `<article class="draft-item" id="${d.id}"><h2 class="ts-title">${d.title}</h2>${d.line ? `<p class="ts-at"><a href="index.html#L${d.line}">at line ${d.line}</a></p>` : ''}${d.body}</article>`;
   }
-  body += `<h2 class="sub">The pencil, quoted</h2><ul class="pound-list">
-  <li><span class="pencil">too tum-pum at a stretch</span> beside the opening of Part II.</li>
-  <li><span class="pencil">verse not interesting enough as verse to warrant so much of it</span> on the typist.</li>
-  <li><span class="pencil">Perhaps be damned</span> against a hedging line.</li>
-  <li><span class="pencil">make up yr. mind / you Tiresias / if you know / know damn well / or / else / you / dont</span></li>
-  <li><span class="pencil">Bad</span> across the sea voyage of Part IV.</li>
-  <li><span class="pencil">OK from here on I think</span> at the head of Part V.</li>
-  <li><span class="pencil">echt</span> beside the river song.</li>
-  <li>And in a letter: <span class="pencil">Complimenti, you bitch. I am wracked by the seven jealousies.</span></li>
+  body += `<h2 class="sub">${page('pencil-title')}</h2><ul class="pound-list">
+  <li>${page('pencil-1')}</li>
+  <li>${page('pencil-2')}</li>
+  <li>${page('pencil-3')}</li>
+  <li>${page('pencil-4')}</li>
+  <li>${page('pencil-5')}</li>
+  <li>${page('pencil-6')}</li>
+  <li>${page('pencil-7')}</li>
+  <li>${page('pencil-8')}</li>
   </ul>
-  <p class="small">Every quotation on this page is from the facsimile edition (ed. Valerie Eliot, 1971) or from the published letters of Pound and Eliot, and is given in the spirit of quotation for comment. The full drafts are worth an afternoon in any library that has the book.</p></main>`;
-  fs.writeFileSync(path.join(SITE, 'drafts.html'), head('The drafts of The Waste Land') + `<body class="drafts-page">${runningHead('drafts.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
+  <p class="small">${page('drafts-note')}</p></main>`;
+  fs.writeFileSync(path.join(SITE, 'drafts.html'), head(page('title-drafts')) + `<body class="drafts-page">${runningHead('drafts.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
 }
 
 // ---------- listen page ----------
 function renderListenPage() {
   const mediaById = {}; for (const m of media) mediaById[m.id] = m;
   const recs = parseRecords(read(path.join(DATA, 'listen.txt'))).filter(r => mediaById[r.id]);
-  const groups = [['eliot', 'Eliot’s own voice', 'Two readings by the poet, more than a decade apart, and a fragment of a third.'], ['readers', 'Other readers', 'Actors mostly, and one volunteer.'], ['music', 'The music in it', 'The poem quotes two operas and a rag; here they are.'], ['birds', 'The hermit-thrush', 'The bird of line 357, singing in the pine trees, from three places.'], ['pages', 'The printings and the manuscript', 'The 1922 book and magazine, page by page, and where the manuscript is.']];
+  const groups = [['eliot', page('listen-eliot-title'), page('listen-eliot-lede')], ['readers', page('listen-readers-title'), page('listen-readers-lede')], ['music', page('listen-music-title'), page('listen-music-lede')], ['birds', page('listen-birds-title'), page('listen-birds-lede')], ['pages', page('listen-pages-title'), page('listen-pages-lede')]];
   const linkOf = (id, text) => { const m = mediaById[id]; return m ? `<a href="${attr(m.url)}" rel="noopener">${text}</a>` : text; };
   function fill(t, m) {
     t = t.replace(/\{link:([\w-]+)\|([^}]+)\}/g, (_, id, text) => linkOf(id, text));
@@ -564,10 +577,10 @@ function renderListenPage() {
     if (!src) return '';
     const kind = /soundcloud/.test(src) ? 'sc' : /xeno-canto/.test(src) ? 'xc' : 'video';
     if (kind === 'xc' && !/simple=/.test(src)) src += '?simple=1';
-    return `<details class="embed"><summary>Play here</summary><iframe loading="lazy" src="${attr(src)}" title="${attr(r.title)}" class="${kind}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></details>`;
+    return `<details class="embed"><summary>${page('listen-play')}</summary><iframe loading="lazy" src="${attr(src)}" title="${attr(r.title)}" class="${kind}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></details>`;
   }
-  let body = `<main class="prose wide listen"><h1 class="pagetitle">The listening room</h1>
-  <p class="lede">Eliot read the poem aloud to the Woolfs in June 1922 before most people had seen a line of it, and the recordings of his own voice, flat and incantatory, are the best commentary on it. Nothing here is copied onto this site: each record plays from the library, archive or broadcaster that holds it, and opens there.</p>`;
+  let body = `<main class="prose wide listen"><h1 class="pagetitle">${page('listen-title')}</h1>
+  <p class="lede">${page('listen-lede')}</p>`;
   for (const [k, title, lede] of groups) {
     const items = recs.filter(r => r.group === k);
     if (!items.length) continue;
@@ -579,52 +592,52 @@ function renderListenPage() {
       body += `<article class="record" data-kind="${kind}" id="rec-${r.id}"><div class="disc" aria-hidden="true"><div class="label"><span class="who">${esc(label)}</span><span class="when">${esc(r.label || ((r.when || '').match(/\d{4}/) || [''])[0])}</span></div></div>
       <div class="rec-body"><h3>${r.title}</h3><p class="rec-who">${esc(r.who || '')}</p><p class="rec-meta">${esc(r.when || '')}</p><p>${fill(paragraphs(r.body || '').replace(/^<p>|<\/p>$/g, ''), m)}</p>
       ${embedFor(r, m)}
-      <p class="rec-link"><a href="${attr(m.url)}" rel="noopener">Open at ${esc(r.host || m.host || 'source')}</a></p></div></article>`;
+      <p class="rec-link"><a href="${attr(m.url)}" rel="noopener">${page('listen-open')} ${esc(r.host || m.host || 'source')}</a></p></div></article>`;
     }
     body += `</div>`;
   }
   body += `</main>`;
-  fs.writeFileSync(path.join(SITE, 'listen.html'), head('The listening room') + `<body class="listen-page">${runningHead('listen.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
+  fs.writeFileSync(path.join(SITE, 'listen.html'), head(page('title-listen')) + `<body class="listen-page">${runningHead('listen.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
 }
 
 // ---------- paths page ----------
 function renderPathsPage() {
-  let body = `<main class="prose paths"><h1 class="pagetitle">Pathways</h1><p class="lede">Nine walks through the poem, each a sequence of places to stand. Choose one and the poem page opens with a small guide that takes you from stop to stop. They are not summaries; they are routes.</p><div class="path-list">`;
+  let body = `<main class="prose paths"><h1 class="pagetitle">${page('paths-title')}</h1><p class="lede">${page('paths-lede')}</p><div class="path-list">`;
   for (const p of paths) body += `<a class="path-card" href="index.html#path=${p.id}"><h2>${p.title}</h2><p>${p.intro}</p><p class="stops">${p.stops.length} stops</p></a>`;
   body += `</div></main>`;
-  fs.writeFileSync(path.join(SITE, 'paths.html'), head('Pathways through The Waste Land') + `<body class="paths-page">${runningHead('paths.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
+  fs.writeFileSync(path.join(SITE, 'paths.html'), head(page('title-paths')) + `<body class="paths-page">${runningHead('paths.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
 }
 
 // ---------- about page ----------
 function renderAboutPage() {
   const credits = images.map(i => `<li><b>${esc(i.title || i.id)}.</b> ${esc(i.credit || '')}${i.commons_url ? ` <a href="${attr(i.commons_url)}" rel="noopener">Commons</a>` : ''}</li>`).join('');
-  const body = `<main class="prose about"><h1 class="pagetitle">About this edition</h1>
-  <h2 class="sub">The text</h2>
-  <p>The poem is given as it stands in the first book edition, published by Boni &amp; Liveright in New York in December 1922, including Eliot’s notes, which were written for that edition; the poem had appeared in <i>The Criterion</i> (October 1922) and <i>The Dial</i> (November 1922) without them. That text is in the public domain in the United States, where this site is published. In the United Kingdom and the European Union the poem remains in copyright until the end of 2035, seventy years after Eliot’s death.</p>
-  <p>The 1922 text differs in small ways from the one in later Faber editions. This edition keeps the 1922 readings and notes the later ones where they matter: “Quando fiam ceu chelidon” at line 429 (later “uti,” the word in the Latin poem); “aetherial” at line 416 (later “aethereal”); the note on “Shantih,” which in 1922 calls the English phrase “a feeble translation of the content of this word” and later “our equivalent.” The pub talk’s “dont” and “wont,” “alright” at line 161, “tonight” at line 111 and “smoothes” at line 255 are the 1922 book’s own spellings, kept as they stand. The dedication to Pound was not printed until 1925 and is included here because Eliot wrote it into Pound’s copy in January 1923. Three slips of the 1922 press are set right: “Oed’ und leer das Meer” at line 42 was printed with a plain O; “The hot water at ten” at line 135 lost its a; and “Dead mountain mouth of carious teeth” at line 339 reads “mount in” in most copies of the first printing, the type having shifted as it ran. Typographic quotation marks and a few spellings have been regularised from the transcription on Project Gutenberg, which was checked against a scan of the 1922 printing.</p>
-  <h2 class="sub" id="numbering">The 434th line called 433</h2>
-  <p>The 1922 printing numbers every tenth line in the margin. On page 42, in Part V, “If there were water” is set flush right as the run-over of “From doors of mudcracked houses” and is not counted, so from line 346 the printed numbers run one behind: 350 stands beside “A spring,” 360 beside “When I count, there are only you and I together” (the poem’s 361st line), and the last line, “Shantih shantih shantih,” is famously “line 433” although the poem has 434. Eliot’s notes mostly follow the printed count, but not always: the note on the hermit-thrush is numbered 357 and the note on the Antarctic expedition 360, which fit the true count, while 366–76, 401, 411, 424 and 433 fit the printed one. On this site the margin counts the lines as they are, and each note is attached to the line Eliot meant.</p>
-  <h2 class="sub">What was written for this edition</h2>
-  <p>The annotations, the translations of the sources, the descriptions of the voices, the tagging of water and drought, the pathways and the section “ways in” were written for this site. Every claim about the poem’s composition can be traced to one of: the facsimile edition of the drafts (Valerie Eliot, ed., 1971); <i>The Letters of T. S. Eliot</i>, volume 1; <i>The Poems of T. S. Eliot</i>, edited by Christopher Ricks and Jim McCue (2015), whose commentary is the standard reference; Lawrence Rainey’s <i>The Annotated Waste Land</i> (2005); Robert Crawford’s <i>Young Eliot</i> (2015); and Matthew Hollis’s <i>The Waste Land: A Biography of a Poem</i> (2022). The recordings and source texts are linked, not copied, from the libraries and archives that hold them.</p>
-  <h2 class="sub">Voices from 1922</h2>
+  const body = `<main class="prose about"><h1 class="pagetitle">${page('about-title')}</h1>
+  <h2 class="sub">${page('about-text-title')}</h2>
+  <p>${page('about-text-1')}</p>
+  <p>${page('about-text-2')}</p>
+  <h2 class="sub" id="numbering">${page('about-numbering-title')}</h2>
+  <p>${page('about-numbering')}</p>
+  <h2 class="sub">${page('about-written-title')}</h2>
+  <p>${page('about-written')}</p>
+  <h2 class="sub">${page('about-voices-title')}</h2>
   <ul class="quotes">
-  <li>“He sang it &amp; chanted it rhythmed it. It has great beauty &amp; force of phrase: symmetry; &amp; tensity. What connects it together, I’m not so sure.” Virginia Woolf, diary, June 1922, after Eliot read the poem at dinner.</li>
-  <li>“Complimenti, you bitch. I am wracked by the seven jealousies.” Ezra Pound to Eliot, January 1922 (or the December before; the letter is dated in a calendar of his own invention).</li>
-  <li>“Various critics have done me the honour to interpret the poem in terms of criticism of the contemporary world, have considered it, indeed, as an important bit of social criticism. To me it was only the relief of a personal and wholly insignificant grouse against life; it is just a piece of rhythmical grumbling.” Eliot, in a lecture at Harvard, as reported by Theodore Spencer and printed at the head of the facsimile edition.</li>
-  <li>“It gives me very great pleasure that you like The Waste Land, and especially Part V which in my opinion is not only the best part, but the only part that justifies the whole, at all.” Eliot to Bertrand Russell, October 1923.</li>
+  <li>${page('about-quote-1')}</li>
+  <li>${page('about-quote-2')}</li>
+  <li>${page('about-quote-3')}</li>
+  <li>${page('about-quote-4')}</li>
   </ul>
-  <h2 class="sub">A timeline</h2>
+  <h2 class="sub">${page('about-timeline-title')}</h2>
   <dl class="timeline">${timeline.map(t => `<dt>${esc(t.when)}</dt><dd>${esc(t.what)}</dd>`).join('')}</dl>
-  <h2 class="sub">How the site works</h2>
-  <p>The poem page is the whole thing. The row of lenses above the text changes what the page shows beside each line: Eliot’s notes, the sources, the speakers, the languages, the water, the places, the hours, the cuts. The keys 1 to 9 switch lenses; Escape closes anything open. Marked phrases open a card in the margin (or under the line, on a phone). The hairline strip at the edge of the screen is the poem itself, one mark per line, coloured by the lens you are using; click it to move. The violet hour, the dark setting, follows your system’s preference and can be switched with the small dot in the running head.</p>
-  <p>Two ways of reading are meant to be slower than a page allows. “Line by line” dims everything but one line and brings whatever belongs to it into the margin: the echo, Eliot’s note, a change of speaker, a translation; the arrow keys move, or let it walk on its own at a reading pace. In the voices lens, clicking a speaker follows that voice alone through the poem, so you can hear what the woman in the chair says from beginning to end, or the thunder, or the Thames-daughters.</p>
-  <h2 class="sub">Type, drawings and pictures</h2>
-  <p>The type is EB Garamond (Georg Duffner and Octavio Pardo), Cormorant Garamond (Christian Thalmann) and Courier Prime (Alan Dague-Greene for Quote-Unquote Apps), all under the SIL Open Font License and served from this site. The tarot pack, the frontispieces to the five parts and the buildings on the map were drawn for this edition. The photographs and paintings come from Wikimedia Commons and are credited here:</p>
-  <ul class="credits">${credits || '<li>Credits appear here as pictures are added.</li>'}</ul>
-  <h2 class="sub">Map</h2>
-  <p>The river is drawn from OpenStreetMap’s survey of the Thames (relation 2263653), © OpenStreetMap contributors, ODbL; places were geocoded with Nominatim. Coastlines on the world map are from Natural Earth (public domain).</p>
+  <h2 class="sub">${page('about-how-title')}</h2>
+  <p>${page('about-how-1')}</p>
+  <p>${page('about-how-2')}</p>
+  <h2 class="sub">${page('about-type-title')}</h2>
+  <p>${page('about-type')}</p>
+  <ul class="credits">${credits || '<li>' + page('about-credits-empty') + '</li>'}</ul>
+  <h2 class="sub">${page('about-map-title')}</h2>
+  <p>${page('about-map')}</p>
   </main>`;
-  fs.writeFileSync(path.join(SITE, 'about.html'), head('About this edition of The Waste Land') + `<body class="about-page">${runningHead('about.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
+  fs.writeFileSync(path.join(SITE, 'about.html'), head(page('title-about')) + `<body class="about-page">${runningHead('about.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
 }
 
 for (const g of glosses) if (g.image && !imgById[g.image]) console.warn('image not found for gloss', g.id, g.image);

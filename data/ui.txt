@@ -1,0 +1,575 @@
+id: kind-echo
+where: the small label at the top of a card that quotes a source (also in the random-line tool)
+text: Echo
+---
+id: kind-gloss
+where: the small label at the top of a card that is a plain note (and the label used when a card has no kind)
+text: Note
+---
+id: kind-place
+where: the small label at the top of a card about a place
+text: Place
+---
+id: kind-draft
+where: the small label at the top of a card about the drafts
+text: From the drafts
+---
+id: kind-voice
+where: the small label at the top of a card about a speaker
+text: A voice
+---
+id: kind-tongue
+where: the small label at the top of a card about a foreign phrase
+text: Another language
+---
+id: kind-sound
+where: the small label at the top of a card about a sound
+text: Sound
+---
+id: kind-image
+where: the small label at the top of a card that carries a picture
+text: Picture
+---
+id: close
+where: the × that closes a card or an overlay, as a screen reader names it
+text: Close
+---
+id: in-library
+where: the link at the foot of a source card, and in the fragments tool, to the source’s entry in the library
+text: In the library
+---
+id: read-whole-label
+where: the label before the links to a source’s full text at the foot of a card
+text: Read it whole:
+---
+id: read-whole-link
+where: the link to a source’s full text in the fragments tool
+text: Read it whole
+---
+id: note-kind
+where: the small label at the top of a card carrying one of Eliot’s notes, followed by his line number
+text: Eliot’s note ·
+---
+id: note-more
+where: the button that unfolds a long note
+text: more
+---
+id: notes-head-text
+where: the Notes lens: the card at the head of the poem explaining the notes
+text: Written to fill out the Boni &amp; Liveright book; Eliot later called them “bogus scholarship.” They appear here beside the lines they belong to, and in full <a href="#notes">after the poem</a>. Gold dots mark the lines that have one.
+---
+id: notes-head-title
+where: the Notes lens: the label on that card
+text: Eliot’s notes, 1922
+---
+id: legend-voices-text
+where: the Voices lens: the card at the head of the poem, first paragraph
+text: The typescript was headed <i>He Do the Police in Different Voices</i>. Each change of speaker is marked; the colours are only a way of seeing where one voice stops and another starts. Who counts as a voice is a reading, not a fact.
+---
+id: voices-follow-hint
+where: the Voices lens: the line on that card inviting the reader to follow one voice (also shown again when following stops)
+text: Click a voice, here or in the text, to follow it alone through the poem.
+---
+id: voices-following
+where: the Voices lens: the line on that card while one voice is followed; {voice} is the speaker, {n} the count of lines
+text: Following {voice}, {n} lines. Click again to hear everyone.
+---
+id: legend-voices
+where: the Voices lens: the label on the card at the head of the poem
+text: Voices · thirty-two of them
+---
+id: voice-tag-title
+where: the Voices lens: the tooltip on a speaker’s name in the text
+text: Follow this voice alone
+---
+id: new-voice
+where: Line by line: the label on the small card that appears when the speaker changes
+text: A new voice
+---
+id: legend-tongues-text
+where: the Tongues lens: the card at the head of the poem
+text: Latin and Greek before the first line; German, French, Italian and Sanskrit inside the poem; Provençal in the notes; and the languages of birds, bells and the river. Click any coloured phrase for its translation. The poem leaves them untranslated on purpose: the reader of 1922 was meant to feel the wall.
+---
+id: legend-tongues
+where: the Tongues lens: the label on that card
+text: Tongues
+---
+id: legend-water-text
+where: the Water lens: the card at the head of the poem, first paragraph
+text: Every line that is wet, dry or burning, tinted. The poem's argument is a weather report: rain that is unwelcome, rivers that are dirty, a sea that drowns, and then twenty-nine lines of rock before three words of rain.
+---
+id: water-neither
+where: the Water lens: the last row of the card’s count, the lines that are none of the three
+text: neither
+---
+id: legend-water-note
+where: the Water lens: the small paragraph at the foot of that card
+text: The tagging is by hand and by sense, not by keyword: “a spring” at line 351 is water; “in the spring” at line 198 is not. Argue with it.
+---
+id: legend-water
+where: the Water lens: the label on that card
+text: Water, drought, fire
+---
+id: place-named
+where: the Places lens: the first line of a place’s card; {lines} is the list of its lines
+text: Named at {lines}.
+---
+id: place-map-link
+where: the Places lens: the link on a place’s card to the map
+text: See it on the map
+---
+id: legend-places-text
+where: the Places lens: the card at the head of the poem, first paragraph
+text: Place names are marked. Click one for its lines and its spot on the map. The route in Part I, London Bridge to King William Street to St Mary Woolnoth, is the walk Eliot took to Lloyds Bank every morning; the river in Part III runs from Richmond to Margate.
+---
+id: legend-places-link
+where: the Places lens: the second paragraph of that card, with the link to the map
+text: <a href="map.html">The map</a>, drawn from the river's real course.
+---
+id: legend-places
+where: the Places lens: the label on that card
+text: Places
+---
+id: clock-aria
+where: the Clock lens: the dial, as a screen reader names it
+text: The hours the poem names
+---
+id: clock-midnight
+where: the Clock lens: the word at the top of the dial
+text: midnight
+---
+id: clock-dawn
+where: the Clock lens: the word at the right of the dial
+text: dawn
+---
+id: clock-noon
+where: the Clock lens: the word at the foot of the dial
+text: noon
+---
+id: clock-dusk
+where: the Clock lens: the word at the left of the dial
+text: dusk
+---
+id: legend-clock-text
+where: the Clock lens: the card at the head of the poem, the paragraph above the dial
+text: Every hour the poem names, plotted on a day. Most of them fall after dark. The year runs from April to “winter noon” and back to spring; the poem's own season, by its leaves and its weather, is late October.
+---
+id: clock-hours
+where: the Clock lens: the heading over the list of hours
+text: Hours
+---
+id: clock-seasons
+where: the Clock lens: the heading over the list of seasons
+text: Seasons
+---
+id: legend-clock
+where: the Clock lens: the label on that card
+text: The clock
+---
+id: drafts-page-link
+where: the Drafts lens: the link at the foot of each typewritten note in the text
+text: The drafts page
+---
+id: legend-drafts-text
+where: the Drafts lens: the card at the head of the poem
+text: Where the typescript differed, a typewritten note stands in the text: the Boston opening, the Fresca couplets, the eighty-three lines of sea voyage, Pound's pencil and Vivien's. The cut passages are still in copyright and are described, not quoted.
+---
+id: legend-drafts-link
+where: the Drafts lens: the link on that card to the drafts page
+text: The whole story of the cuts
+---
+id: legend-drafts
+where: the Drafts lens: the label on that card
+text: The drafts
+---
+id: tarot-phoenician-sailor-deck
+where: Turn the cards: what the drawn card for phoenician sailor shows (read under the note when the card is turned)
+text: In this pack: a sailor in a striped jersey sinking head first through the water, a ship’s wheel already on the bottom, two gold pearls for eyes. He is drawn inverted on purpose: he is the Hanged Man the reading cannot find, gone into the water instead.
+---
+id: tarot-phoenician-sailor-name
+where: Turn the cards: the name of the card for phoenician sailor (the poem’s own words where it has them)
+text: The drowned Phoenician Sailor
+---
+id: tarot-phoenician-sailor-note
+where: Turn the cards: the note read when the card for phoenician sailor is turned
+text: <p>Not in any Tarot pack. He is Phlebas of Part IV, the merchant of Part III, and Ferdinand’s drowned father in <i>The Tempest</i>, whose eyes are pearls. “Fear death by water,” says the clairvoyante; Part IV obliges.</p>
+---
+id: tarot-belladonna-deck
+where: Turn the cards: what the drawn card for belladonna shows (read under the note when the card is turned)
+text: In this pack: a woman in a grotto of stone, wrapped in black to the chin, pupils wide with the drops, lips violet, a sprig of nightshade held up; sea through the mouth of the cave.
+---
+id: tarot-belladonna-name
+where: Turn the cards: the name of the card for belladonna (the poem’s own words where it has them)
+text: Belladonna, the Lady of the Rocks
+---
+id: tarot-belladonna-note
+where: Turn the cards: the note read when the card for belladonna is turned
+text: <p>“Beautiful lady,” the deadly nightshade, and the drops women used to widen their pupils. Leonardo’s <i>Virgin of the Rocks</i> is behind the title; the woman in the chair of Part II is in front of it. “The lady of situations” is gossip-column English.</p>
+---
+id: tarot-three-staves-deck
+where: Turn the cards: what the drawn card for three staves shows (read under the note when the card is turned)
+text: In this pack: a man seen from behind on a headland of cracked earth, watching two barges under a low red sun. His three staves are a crutch, a fishing rod with its line down, and a staff planted in the ground that has begun to sprout: a wound, a line, a rod of office.
+---
+id: tarot-three-staves-name
+where: Turn the cards: the name of the card for three staves (the poem’s own words where it has them)
+text: The man with three staves
+---
+id: tarot-three-staves-note
+where: Turn the cards: the note read when the card for three staves is turned
+text: <p>A real card, the Three of Wands: a figure on a headland, back turned, watching ships go out. Eliot associated him, “quite arbitrarily,” with the Fisher King, who sits on the shore at line 424.</p>
+---
+id: tarot-wheel-deck
+where: Turn the cards: what the drawn card for wheel shows (read under the note when the card is turned)
+text: In this pack: Fortune’s wheel drawn as a ship’s wheel, the same man in a bowler at its four stations, enthroned, falling, crushed, climbing. It looks ahead to “you who turn the wheel and look to windward”.
+---
+id: tarot-wheel-name
+where: Turn the cards: the name of the card for wheel (the poem’s own words where it has them)
+text: The Wheel
+---
+id: tarot-wheel-note
+where: Turn the cards: the note read when the card for wheel is turned
+text: <p>The Wheel of Fortune, card X of the major arcana: rise, reign, fall. “O you who turn the wheel and look to windward,” line 320, is a helmsman and this card at once.</p>
+---
+id: tarot-one-eyed-merchant-deck
+where: Turn the cards: what the drawn card for one eyed merchant shows (read under the note when the card is turned)
+text: In this pack: Mr. Eugenides in profile, which is the only kind of one-eyed man a printed card can have: bowler, astrakhan collar, a handful of currants held out, and on his back a roped bundle whose contents are not shown.
+---
+id: tarot-one-eyed-merchant-name
+where: Turn the cards: the name of the card for one eyed merchant (the poem’s own words where it has them)
+text: The one-eyed merchant
+---
+id: tarot-one-eyed-merchant-note
+where: Turn the cards: the note read when the card for one eyed merchant is turned
+text: <p>Not a card. One-eyed because seen in profile; he is Mr. Eugenides of Smyrna, with his currants and his invitation, at line 209. Something on his back that the clairvoyante is forbidden to see.</p>
+---
+id: tarot-blank-deck
+where: Turn the cards: what the drawn card for blank shows (read under the note when the card is turned)
+text: In this pack: bare paper inside the frame. Faintly, the merchant’s bundle shows through from the other side, reversed, as if the print on the back had bled. Something is there and cannot be read. Hold the pointer over it.
+---
+id: tarot-blank-name
+where: Turn the cards: the name of the card for blank (the poem’s own words where it has them)
+text: The blank card
+---
+id: tarot-blank-note
+where: Turn the cards: the note read when the card for blank is turned
+text: <p>“This card, / Which is blank, is something he carries on his back, / Which I am forbidden to see.” The one card the poem refuses to read. Weston’s merchants carried the Grail mysteries along the trade routes; whatever this is, it is not shown.</p>
+---
+id: tarot-hanged-man-deck
+where: Turn the cards: what the drawn card for hanged man shows (read under the note when the card is turned)
+text: In this pack: a dead tree with one long bough, a rope with its noose hanging open, and where the Hanged Man should hang, inverted, one leg crooked, the paper is left bare in his shape. Round the head that is not there, a gold halo. Far off on a road, two walkers and a hooded third.
+---
+id: tarot-hanged-man-name
+where: Turn the cards: the name of the card for hanged man (the poem’s own words where it has them)
+text: The Hanged Man
+---
+id: tarot-hanged-man-note
+where: Turn the cards: the note read when the card for hanged man is turned
+text: <p>Card XII: a young man hanging by one foot from a living tree, serene, haloed. Eliot linked him to Frazer’s Hanged God, the sacrificed king whose death brings the rain, and to the hooded figure on the road to Emmaus. Madame Sosostris does not find him. No sacrifice, no resurrection, in this deal.</p>
+---
+id: tarot-crowd-in-a-ring-deck
+where: Turn the cards: what the drawn card for crowd in a ring shows (read under the note when the card is turned)
+text: In this pack: a ring of walkers in bowlers and cloche hats, seen from above, going round clockwise on a bare plain, the path worn into the ground under their feet. The centre of the ring is empty.
+---
+id: tarot-crowd-in-a-ring-name
+where: Turn the cards: the name of the card for crowd in a ring (the poem’s own words where it has them)
+text: Crowds of people, walking round in a ring
+---
+id: tarot-crowd-in-a-ring-note
+where: Turn the cards: the note read when the card for crowd in a ring is turned
+text: <p>Not a card but what she sees: Dante’s neutrals running after their banner, Frazer’s villagers round the maypole, the commuters on London Bridge four lines later, the hooded hordes of Part V.</p>
+---
+id: pack-sibyl
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The Sibyl
+---
+id: pack-marie
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Marie
+---
+id: pack-hyacinth-girl
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The hyacinth girl
+---
+id: pack-madame-sosostris
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Madame Sosostris
+---
+id: pack-crowd-on-london-bridge
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The crowd on London Bridge
+---
+id: pack-stetson
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Stetson
+---
+id: pack-lady-in-the-chair
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The lady in the chair
+---
+id: pack-philomel
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Philomel
+---
+id: pack-bad-nerves
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: My nerves are bad to-night
+---
+id: pack-closing-time
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Lil, at closing time
+---
+id: pack-fisher-king
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The Fisher King
+---
+id: pack-eugenides
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Mr. Eugenides
+---
+id: pack-tiresias
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Tiresias
+---
+id: pack-typist
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The typist
+---
+id: pack-magnus-martyr
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Magnus Martyr
+---
+id: pack-thames-daughters
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The Thames-daughters
+---
+id: pack-elizabeth-and-leicester
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Elizabeth and Leicester
+---
+id: pack-phlebas
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Phlebas the Phoenician
+---
+id: pack-road-with-no-water
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The road with no water
+---
+id: pack-the-third
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The third who walks
+---
+id: pack-falling-towers
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The falling towers
+---
+id: pack-bats-with-baby-faces
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: Bats with baby faces
+---
+id: pack-empty-chapel
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The empty chapel
+---
+id: pack-thunder
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The thunder
+---
+id: pack-london-bridge-falling
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: London Bridge falling down
+---
+id: pack-swallow
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The swallow
+---
+id: pack-tower
+where: Turn the cards, the rest of the pack: the name under this card (its numeral and line come from the card itself)
+text: The Tower
+---
+id: cards-title
+where: Turn the cards: the title of the overlay
+text: Madame Sosostris deals
+---
+id: cards-sub
+where: Turn the cards: the line under the title
+text: Lines 46–56. Turn each card. “I am not familiar with the exact constitution of the Tarot pack of cards, from which I have obviously departed to suit my own convenience.” (Eliot’s note.)
+---
+id: tarot-turn
+where: Turn the cards: the line under the eight cards before any is turned
+text: Turn a card over to read what it is, where it comes from, and where it turns up again in the poem.
+---
+id: tarot-no-deck
+where: Turn the cards: added to that line only if the drawn pack were missing
+text: The three cards with pictures are Pamela Colman Smith’s designs for the 1909 Rider pack, the one on sale in London when the poem was written; a deck drawn for this edition is on its way.
+---
+id: pack-title
+where: Turn the cards: the heading over the rest of the pack
+text: The rest of the pack
+---
+id: pack-intro
+where: Turn the cards: the paragraph under that heading
+text: The poem’s people, places and portents as a suit of their own, drawn for this edition; each card carries the number of the line where it first appears. Click a card to read it, and again to go there.
+---
+id: goto-line
+where: Turn the cards: the link under a card’s note to its line; {n} is the line number
+text: Go to line {n}
+---
+id: goto-epigraph
+where: Turn the cards: the same link for the Sibyl, whose card points at the epigraph
+text: Go to the epigraph
+---
+id: pack-go
+where: Turn the cards, the rest of the pack: the last line of a card’s note; {link} is the “Go to line” link
+text: {link}, or click the card again.
+---
+id: frag-427
+where: Unstack the fragments: the language label beside line 427
+text: English, a nursery rhyme
+---
+id: frag-428
+where: Unstack the fragments: the language label beside line 428
+text: Italian
+---
+id: frag-429
+where: Unstack the fragments: the language label beside line 429
+text: Latin, then Tennyson’s English
+---
+id: frag-430
+where: Unstack the fragments: the language label beside line 430
+text: French
+---
+id: frag-431
+where: Unstack the fragments: the language label beside line 431
+text: English: the poet’s own line
+---
+id: frag-432
+where: Unstack the fragments: the language label beside line 432
+text: English, 1587 spelling
+---
+id: frag-433
+where: Unstack the fragments: the language label beside line 433
+text: Sanskrit
+---
+id: frag-434
+where: Unstack the fragments: the language label beside line 434
+text: Sanskrit
+---
+id: frag-own-line
+where: Unstack the fragments: what opens under line 431, the one line that is not a quotation
+text: “These fragments I have shored against my ruins.” The one line in the stack that is not a quotation, and the poem’s account of its own method: other people’s lines propped like timbers against a wall that is coming down. It is also a boast. The ruins are his.
+---
+id: fragments-title
+where: Unstack the fragments: the title of the overlay
+text: The fragments, unstacked
+---
+id: fragments-sub
+where: Unstack the fragments: the line under the title
+text: The last eight lines, in five languages. Click a line to pull it out of the stack and see where it came from.
+---
+id: sortes-none
+where: Draw a line: shown when the drawn line has no card
+text: No note on this line. Some lines are just lines.
+---
+id: sortes-goto
+where: Draw a line: the link to the drawn line
+text: Go to it in the poem
+---
+id: sortes-again
+where: Draw a line: the button that draws another
+text: Draw another
+---
+id: sortes-title
+where: Draw a line: the title of the overlay
+text: Sortes
+---
+id: sortes-sub
+where: Draw a line: the line under the title
+text: Madame Sosostris’s method: one line, at random, and what stands behind it. Fortune-telling by a poem that is mostly quotations.
+---
+id: conc-title
+where: Find a word: the title of the overlay
+text: Find a word
+---
+id: conc-sub
+where: Find a word: the line under the title
+text: Every occurrence, with its line. The words the poem uses most are listed below; “water” and “nothing” between them are a reading of the poem.
+---
+id: conc-placeholder
+where: Find a word: the grey prompt inside the empty search box
+text: water, dead, nothing, dry, rock, eyes…
+---
+id: conc-none
+where: Find a word: shown when the word is not in the poem
+text: Not in the poem.
+---
+id: heart-title
+where: By heart: the label at the left of the bar
+text: By heart
+---
+id: heart-lv1
+where: By heart: the first setting (hides every third word)
+text: every third word
+---
+id: heart-lv2
+where: By heart: the second setting (hides every second word)
+text: every second
+---
+id: heart-lv3
+where: By heart: the third setting (hides all but the first word of each line)
+text: all but the first
+---
+id: heart-lv0
+where: By heart: the setting that shows every word again
+text: show all
+---
+id: heart-done
+where: By heart: the button that leaves the tool
+text: done
+---
+id: walk-title
+where: Take a pathway: the title of the overlay that lists the pathways
+text: Take a pathway
+---
+id: walk-sub
+where: Take a pathway: the line under that title
+text: A walk through the poem in a dozen stops or so. The guide stays in the corner; the poem stays where it is.
+---
+id: walk-leave
+where: the pathway guide in the corner: its × button, as a screen reader names it
+text: Leave the pathway
+---
+id: walk-title-page
+where: the pathway guide: the heading of a stop that is on the title page rather than at a line
+text: The title page
+---
+id: walk-back
+where: the pathway guide and the Line by line bar: the button that goes back a stop
+text: Back
+---
+id: walk-next
+where: the pathway guide and the Line by line bar: the button that goes on a stop
+text: Next
+---
+id: walk-finish
+where: the pathway guide: the button on the last stop
+text: Finish
+---
+id: slow-stop-aria
+where: the Line by line bar: its × button, as a screen reader names it
+text: Stop reading line by line
+---
+id: slow-title
+where: the Line by line bar: its heading, followed by the position (“12 of 434 · I”)
+text: Line by line
+---
+id: slow-text
+where: the Line by line bar: the sentence under the heading (the key names are in the spans; keep them)
+text: One line at a time, with whatever belongs to it beside it. <span class="keys">↓</span> or <span class="keys">space</span> for the next, <span class="keys">↑</span> for the last; click any line to move there.
+---
+id: slow-auto-stop
+where: the Line by line bar: the button while the reading walks on by itself
+text: Stop it walking
+---
+id: slow-auto-start
+where: the Line by line bar: the button that lets the reading walk on by itself
+text: Let it walk
