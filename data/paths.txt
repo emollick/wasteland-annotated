@@ -367,7 +367,7 @@ King James Bible, John 18:3 and Luke 22:44
 Brooks (1939)
 ---
 line: 412
-text: Eliot's note on line 402 gives the thunder's word, Dayadhvam, as sympathise. Eliot's note on this line sends the key that answers it to <i>Inferno</i> XXXIII 46: Count Ugolino, shut in a tower at Pisa with his sons and grandsons to starve, hears the door below "chiavar", nailed up or locked; Eliot's key takes it as locked. He tells the story from the lowest circle of Hell, in ice among the traitors, gnawing the skull of his betrayer, Archbishop Ruggieri (XXXIII 1–3 and 13–14). He speaks so that his words may be seed bearing infamy for the traitor (7–9).
+text: Eliot's note on line 402 gives the thunder's word, Dayadhvam, as sympathise. Eliot’s note on this line refers the key to <i>Inferno</i> XXXIII 46. There Count Ugolino, shut in a tower at Pisa with his sons and grandsons to starve, hears the door below “chiavar”, nailed up or locked. Eliot’s key takes the second sense. He tells the story from the lowest circle of Hell, in ice among the traitors, gnawing the skull of his betrayer, Archbishop Ruggieri (XXXIII 1–3 and 13–14). He speaks so that his words may be seed bearing infamy for the traitor (7–9).
 sources: Dante, Inferno XXXIII 1–78
 Southam, Guide, note on line 411
 Rainey, Annotated Waste Land, note on line 411
@@ -380,7 +380,7 @@ Gallup, entry A4
 ===
 id: love
 title: The loves that fail
-intro: The loves in the poem, and how each of them fails. Eliot’s note on line 218 says “all the women are one woman, and the two sexes meet in Tiresias”, the blind seer who has lived as both. The note at the head of Eliot’s notes credits Jessie Weston’s book on the Grail legend, <i>From Ritual to Romance</i>, with the poem’s plan. In the legend as she tells it the Fisher King is wounded. His wound is “the loss of virility”, and because of it nothing grows in his land, “a suspension of the reproductive processes of Nature”, until he is healed. The critic The critic Cleanth Brooks (1939) read the poem through that legend, in which the Fisher King, the lord of the land, has been “rendered impotent by maiming or sickness”. The pathway takes the couples in order, from the hyacinth garden to the thunder, and sets each beside that wound.
+intro: The loves in the poem, and how each of them fails. Eliot’s note on line 218 says “all the women are one woman, and the two sexes meet in Tiresias”, the blind seer who has lived as both. The note at the head of Eliot’s notes credits Jessie Weston’s book on the Grail legend, <i>From Ritual to Romance</i>, with the poem’s plan. In the legend as she tells it the Fisher King is wounded. His wound is “the loss of virility”, and because of it nothing grows in his land, “a suspension of the reproductive processes of Nature”, until he is healed. The critic Cleanth Brooks (1939) read the poem through that legend, in which the Fisher King, the lord of the land, has been “rendered impotent by maiming or sickness”. The pathway takes the couples in order, from the hyacinth garden to the thunder, and sets each beside that wound.
 why: The poem’s couples and seductions, from the hyacinth garden to the typist’s divan, with what Tiresias and the thunder make of them.
 sources: Weston, From Ritual to Romance, ch. II
 Brooks (1939)
@@ -546,7 +546,7 @@ Southam, Guide, note on line 425
 ===
 id: change
 title: Metamorphosis
-intro: The poem’s changed bodies, from Ovid and from <i>The Tempest</i>. Ovid’s <i>Metamorphoses</i> gives it Philomel, raped and turned into a nightingale (99), and Tiresias, who was a woman for seven years (218). The spirit Ariel’s song in <i>The Tempest</i> gives it a drowned king whose eyes are turned to pearls and whose body suffers “a sea-change / Into something rich and strange”. The poem quotes the pearls at 48 and 125 and does not quote the sea-change. This pathway follows what Ovid’s and Shakespeare’s bodies are turned into, what becomes of the poem’s own people, the drowned Phlebas among them, and the change the Latin of line 429 asks for, when shall I be like the swallow. The critic Cleanth Brooks (1939) read the clairvoyante Madame Sosostris’s warning, “Fear death by water”, as the words of one who does not know that “the way into life may be by death itself”, and held that nobody in the poem knows it.
+intro: The poem’s changed bodies, from Ovid and from <i>The Tempest</i>. Ovid’s <i>Metamorphoses</i> gives it Philomel, raped and turned into a nightingale (99), and Tiresias, who was a woman for seven years (218). The spirit Ariel’s song in <i>The Tempest</i> gives it a drowned king whose eyes are turned to pearls and whose body suffers “a sea-change / Into something rich and strange”. The poem quotes the pearls at 48 and 125, and never the sea-change. This pathway follows what Ovid’s and Shakespeare’s bodies are turned into, what becomes of the poem’s own people, the drowned Phlebas among them, and the change the Latin of line 429 asks for, when shall I be like the swallow. The critic Cleanth Brooks (1939) read the clairvoyante Madame Sosostris’s warning, “Fear death by water”, as the words of one who, like the poem’s other people, does not know that “the way into life may be by death itself”.
 why: Ovid’s changed bodies and the sea-change of Ariel’s song, from Philomel to the swallow, and whether anyone in the poem is changed.
 sources: Ovid, Metamorphoses VI 424–674
 Ovid, Metamorphoses III 316–338
@@ -554,7 +554,7 @@ Shakespeare, The Tempest I.ii
 Brooks (1939)
 ---
 line: 48
-text: The first change in the poem is a drowned man's eyes turned to pearls. It comes in a bracket, over Madame Sosostris's card of the drowned Phoenician Sailor. The line is from the song the spirit Ariel sings in <i>The Tempest</i> to Ferdinand, a prince who believes his father, the King of Naples, drowned in a shipwreck. The father is alive, and the song is not true. The song adds that all of him that fades "doth suffer a sea-change / Into something rich and strange". The poem quotes the pearls again at line 125. It never quotes the sea-change.
+text: The first change in the poem is a drowned man's eyes turned to pearls. It comes in a bracket, over Madame Sosostris's card of the drowned Phoenician Sailor. The line is from the song the spirit Ariel sings in <i>The Tempest</i> to Ferdinand, a prince who believes his father, the King of Naples, drowned in a shipwreck. The father is alive, and the song is not true. The song adds that all of him that fades "doth suffer a sea-change / Into something rich and strange". The poem quotes the pearls again at line 125, and never the sea-change.
 sources: Shakespeare, The Tempest I.ii
 Rainey, Annotated Waste Land, note on line 48
 ---
@@ -582,7 +582,7 @@ text: Tiresias, the blind seer of Thebes, has the one change Eliot's notes give 
 sources: Ovid, Metamorphoses III 316–338
 ---
 line: 257
-text: The line is Ferdinand's in <i>The Tempest</i>, from the speech drawn on at 191–192. In the play Ferdinand, weeping for the father he believes drowned, hears the spirit Ariel's music. It allays the sea's fury and his grief. He follows it, "Or it hath drawn me rather", to Miranda, whom he will marry. Here the music is a record the typist puts on after smoothing her hair "with automatic hand". It goes along the Strand to the walls of St Magnus the Martyr, the architect Christopher Wren's church at the north end of old London Bridge, and their "Inexplicable splendour".
+text: The line is Ferdinand’s in <i>The Tempest</i>, from the speech drawn on at 191–192: weeping for the father he believes drowned, he hears the spirit Ariel’s music. It allays the sea’s fury and his grief. He follows it, “Or it hath drawn me rather”, to Miranda, whom he will marry. Here the music is the typist’s record (256). It goes along the Strand, up Queen Victoria Street. Then comes a mandoline beside a bar in Lower Thames Street, under the walls of St Magnus the Martyr, the architect Christopher Wren’s church by London Bridge, and their “Inexplicable splendour”.
 sources: Shakespeare, The Tempest I.ii
 Shakespeare, The Tempest V.i
 Rainey, Annotated Waste Land, note on line 264
@@ -596,7 +596,7 @@ Rainey, Annotated Waste Land, note on line 312
 Brooks (1939)
 ---
 line: 429
-text: The last change in the poem is asked for, not made. The Latin is from the last stanza of the <i>Pervigilium Veneris</i>, a late Latin poem, where the nightingale sings and the poet is silent. He asks when he will become like the swallow, so that he may stop being silent, and Eliot quotes him only as far as the swallow. Eliot's note on this line refers to Philomela, the nightingale of lines 99 and 203. The critic Cleanth Brooks (1939) took the swallow for Procne, Philomela's sister. "O swallow swallow" is Tennyson's, from <i>The Princess</i>.
+text: The Latin is from the last stanza of the <i>Pervigilium Veneris</i>, a late Latin poem, where the nightingale sings and the poet is silent. He asks when he will become like the swallow, so that he may stop being silent, and Eliot quotes him only as far as the swallow. Eliot’s note on this line refers to Philomela, the nightingale of lines 99 and 203. The critic Cleanth Brooks (1939) took the swallow for Procne, Philomela’s sister, turned into a swallow in the same story as Philomela was into the nightingale. “O swallow swallow” is Tennyson’s, from <i>The Princess</i>.
 sources: Pervigilium Veneris, the last stanza
 Tennyson, The Princess, IV ("O Swallow, Swallow")
 Brooks (1939)
@@ -629,12 +629,12 @@ Milton, Paradise Lost IV 140
 Southam, Guide, note on line 77
 ---
 line: 128
-text: "That Shakespearian Rag" was a ragtime song of 1912, words by Gene Buck and Herman Ruby, music by Dave Stamper. Its chorus calls the rag "Most intelligent, very elegant". The parallel here was not made by Eliot. The song had already set Shakespeare to ragtime, and what runs through the man's head instead of an answer to "Are you alive, or not?" is that song. Eliot reverses the two epithets of the chorus and adds a syllable, "Shakespeherian".
+text: "That Shakespearian Rag" was a ragtime song of 1912, words by Gene Buck and Herman Ruby, music by Dave Stamper. Its chorus calls the rag "Most intelligent, very elegant". Eliot did not make this parallel himself. The song had already set Shakespeare to ragtime, and what runs through the man's head instead of an answer to "Are you alive, or not?" is that song. Eliot reverses the two epithets of the chorus and adds a syllable, "Shakespeherian".
 sources: Buck, Ruby and Stamper, "That Shakespearian Rag" (1912)
 Guerrieri (2017)
 ---
 line: 176
-text: Eliot's note on this line points to Spenser's <i>Prothalamion</i> (1596), a wedding poem in which nymphs gather flowers by the Thames for two swans that stand for the brides. Its refrain is Eliot's line. He sets the modern river beside it, listing what is missing: the nymphs "are departed", and the Thames "bears no" bottles, papers or cigarette ends. Cleanth Brooks (1939) wrote that Eliot's poem works by "surface contrasts which in reality constitute parallelisms". Spenser's poem itself names Queen Elizabeth, as Elisa, and Leicester, as "that great lord". They are the pair in the barge at line 279.
+text: Eliot's note on this line points to Spenser's <i>Prothalamion</i> (1596), a wedding poem in which nymphs gather flowers by the Thames for two swans that stand for the brides. Its refrain is Eliot's line. He sets the modern river beside it, listing what is missing: the nymphs "are departed", and the Thames "bears no" bottles, papers or cigarette ends. The critic Cleanth Brooks (1939) wrote that Eliot’s poem works by "surface contrasts which in reality constitute parallelisms". Spenser’s poem names Queen Elizabeth, as Elisa, and Leicester, as "that great lord". They are the pair in the barge at 279.
 sources: Spenser, Prothalamion 1–36 and 127–162
 Brooks (1939)
 Southam, Guide, note on line 176
@@ -652,7 +652,7 @@ Ovid, Metamorphoses III 138–252
 Southam, Guide, notes on lines 196–198
 ---
 line: 253
-text: Eliot's note on this line points to the song in Goldsmith's <i>The Vicar of Wakefield</i> (1766), sung by Olivia Primrose, the vicar's daughter, after the squire who seduced her has cast her off. The one art left her, the song says, "is—to die". Eliot keeps its first line and runs it into the typist's room, where the remedy is a record on the gramophone. The two remedies stand side by side without comment. Cleanth Brooks (1939) set the typist beside Elizabeth, the queen in the barge at line 279, and found them "alike as well as different".
+text: Eliot's note on this line points to the song in Goldsmith's <i>The Vicar of Wakefield</i> (1766), sung by Olivia Primrose, the vicar's daughter, after the squire who seduced her has cast her off. The one art left her, the song says, "is—to die". Eliot keeps its first line and runs it into the typist's room, where the remedy is a record on the gramophone. The two remedies stand side by side without comment. The critic Cleanth Brooks (1939) set the typist beside Elizabeth, the queen in the barge at line 279, and found them "alike as well as different".
 sources: Goldsmith, The Vicar of Wakefield, ch. 24
 Brooks (1939)
 Southam, Guide, note on line 253
@@ -673,20 +673,21 @@ Facsimile (1971), introduction
 Letters, vol. 1, Eliot to his mother, 15 February 1920
 ---
 line: 12
-text: The line is German. Its speaker says she is no Russian but a real German from Lithuania. Lithuania declared its independence in 1918, during the war, and B. C. Southam, in his guide to the poem, dates that independence "only from 1919", after the war. Lines 8–18 draw on Countess Marie Larisch's memoir. Lawrence Rainey, in his annotated edition of the poem, identifies the archduke of line 13 as her cousin Crown Prince Rudolf of Austria, found dead at Mayerling in 1889. Hugh Kenner (1959) heard in these lines "the vanished Austro-Hungarian Empire, the inbred malaise of Mayerling".
+text: The line is German: its speaker is no Russian but a real German from Lithuania. Lithuania, in the Russian Empire before the war, declared its independence in February 1918, so she comes from a state the war made. Lines 8–18 draw on <i>My Past</i>, the memoir of Countess Marie Larisch, niece of the Empress Elisabeth of Austria. Lawrence Rainey’s annotated edition of the poem identifies the archduke of line 13 as her cousin Crown Prince Rudolf, found dead at Mayerling in 1889. The critic Hugh Kenner (1959) heard in these lines “the vanished Austro-Hungarian Empire, the inbred malaise of Mayerling”.
 sources: Southam, Guide, note on line 12
 Rainey, Annotated Waste Land, note on line 15
 Kenner (1959)
+Larisch, My Past
 ---
 line: 70
-text: Mylae was a sea battle of 260 BC, in the first war between Rome and Carthage, so the man hailed in a London street is greeted as a shipmate from a war more than two thousand years old. The French translation of the poems (1947) was made with Eliot's advice, and John Hayward, who wrote its notes, glossed the line: this Punic war, the war with Carthage, was a trade war, and "All wars are one war". Cleanth Brooks (1939) read it the same way, the ancient war standing for the war just ended, and Stetson as every man.
+text: Mylae was a sea battle of 260 BC, in the first war between Rome and Carthage, so the man hailed in a London street is greeted as a shipmate from a war more than two thousand years old. The critic Cleanth Brooks (1939) read the Punic War as a trade war and so a parallel to the war just ended. By hailing a friend as one who was with him at Mylae, Brooks wrote, Eliot makes the point that “all the wars are one war; all experience, one experience”. Stetson is then every man, the reader included.
 sources: Matthiessen (1935)
 Rainey, Annotated Waste Land, note on line 70
 Southam, Guide, note on line 70
 Brooks (1939)
 ---
 line: 115
-text: Rats' Alley is recorded as a trench name on the Western Front. B. C. Southam, in his guide to the poem, records the suggestion that "rats' alley" was soldiers' slang for the rat-plagued trenches, which were called alleys. The line has no quotation marks and is usually read as the man's unspoken answer to the woman's "What are you thinking of?", so the trenches enter the poem as a thought not said aloud. Cleanth Brooks (1939) set the sterile death of rats' alley against line 125, where a drowned man's eyes are pearls, from Ariel's song in <i>The Tempest</i>.
+text: Rats’ Alley is recorded as a trench name on the Western Front. B. C. Southam’s guide to the poem records the suggestion that “rats’ alley” was soldiers’ slang for the trenches, which were called alleys. The line has no quotation marks and is usually read as the man’s unspoken answer to “What are you thinking of?”, a thought not said aloud. The critic Cleanth Brooks (1939) set this sterile death, with nothing after it, against line 125, where a drowned man’s eyes are pearls, from the spirit Ariel’s song in <i>The Tempest</i>: a death changed into “something rich and strange”.
 sources: Chasseaud (2006)
 Southam, Guide, note on line 115
 Brooks (1939)
@@ -708,14 +709,15 @@ sources: Southam, Guide, note on line 234
 Rainey, Annotated Waste Land, note on line 234
 ---
 line: 369
-text: The hooded hordes are usually taken to refer to what Eliot's note at the head of Part V calls "the present decay of eastern Europe". Eliot's note on lines 367–377 quotes Hermann Hesse's <i>Blick ins Chaos</i> (1920), three essays, two on Dostoevsky. The passage says that at least half of eastern Europe is already on the way to chaos. B. C. Southam, in his guide to the poem, reads the "Murmur of maternal lamentation" as Mother Russia lamenting the Bolshevik Revolution of 1917. Among the cities named at 375–376 is Vienna, the capital of an empire the war ended.
-sources: Hesse, Blick ins Chaos, the essay Die Brüder Karamasoff oder Der Untergang Europas
+text: The hooded hordes are usually taken to be what Eliot’s note at the head of Part V calls “the present decay of eastern Europe”. Eliot’s note on lines 367–377 quotes the German novelist Hermann Hesse’s <i>Blick ins Chaos</i>, or <i>In Sight of Chaos</i>, three essays, two of them on Dostoevsky. The passage says at least half of eastern Europe is on the way to chaos. B. C. Southam’s guide to the poem reads the “Murmur of maternal lamentation” as Mother Russia lamenting the Revolution of 1917. The cities named at 375–376 include Vienna, capital of an empire the war ended.
+sources: Hesse, Blick ins Chaos (1920), the essay Die Brüder Karamasoff oder Der Untergang Europas
 Southam, Guide, note on lines 368–369
 ---
 line: 427
-text: The line is from a nursery rhyme, first printed about 1744, whose verses try one material after another to build the bridge up again. It comes after the "Falling towers" of 374 and the cities of 375–376. The last two named are Vienna, the capital of an empire the war ended, and London. London's own bridge falls next. The crowd of line 62 flowed over this bridge. Hugh Kenner (1959) read the rhyme as linking that bridge and its crowd, "a communal life now sacrificed to abstract transportation", with feudal rituals and festivals.
+text: The line is from a nursery rhyme, first printed about 1744, whose verses try material after material to rebuild it. It follows the “Falling towers” of 374 and the cities of 375–376, the last two Vienna, capital of an empire the war ended, and London, whose bridge falls next. The crowd of line 62 crossed it. The critic Hugh Kenner (1959) read the rhyme as linking that bridge and its crowd, “a communal life now sacrificed to abstract transportation”, with the feudal rituals and festivals behind the rhyme, which folklorists traced to a victim buried to make the bridge stand.
 sources: Opie (1951), the entry "London Bridge is broken down"
 Kenner (1959)
+Gomme, Traditional Games, vol. I, pp. 333–349
 ===
 id: wagner
 title: Wagner
@@ -725,24 +727,27 @@ sources: Weston, From Ritual to Romance, preface
 Letters, vol. 1, Jean Verdenal to Eliot, 5 February 1912
 ---
 line: 8
-text: Ludwig II of Bavaria, Wagner's patron, was put under restraint as mad and found dead in this lake on 13 June 1886. He brought Wagner to Munich in 1864, and <i>Tristan und Isolde</i>, quoted at line 31, was first performed there in 1865. Countess Marie Larisch, a niece of the Empress Elisabeth of Austria and one of Ludwig's family, tells of his death in her memoir <i>My Past</i> (1913). The memoir is behind lines 8–18.
+text: Ludwig II of Bavaria, Wagner's patron, was put under restraint as mad and found dead in this lake on 13 June 1886. He brought Wagner to Munich in 1864, and <i>Tristan und Isolde</i>, quoted at line 31, was first performed there in 1865. Countess Marie Larisch, a niece of the Empress Elisabeth of Austria and one of Ludwig's family, tells of his death in her memoir <i>My Past</i> (1913). The memoir is behind most of lines 8–18; the sledding of lines 13–16 is not in it, and came from her talk with Eliot, who had met her.
 sources: Larisch, My Past, ch. VII
 Larisch, My Past, ch. I
 Encyclopaedia Britannica (1911), "Wagner, Wilhelm Richard"
 Southam, Guide, note on lines 8–22
+Facsimile (1971), p. 126
 ---
 line: 31
-text: These are verses 5 to 8 of the sailor's song that opens Wagner's <i>Tristan und Isolde</i>: "Fresh blows the wind toward home: my Irish child, where do you linger?" A young sailor sings them from aloft, unseen, as the ship carries Isolde from Ireland to Cornwall to marry King Marke, Tristan's uncle; she takes the song as mockery. The opera ends with both lovers dead. The song stands between "fear in a handful of dust" and the hyacinth garden. In the 1928 Bayreuth recording in the <a href="listen.html#rec-tristan-1928-bayreuth-act1-sailor">listening room</a> it is sung unaccompanied, as if from the mast.
+text: These are verses 5 to 8 of the sailor's song that opens Wagner's <i>Tristan und Isolde</i>: "Fresh blows the wind toward home: my Irish child, where do you linger?" A young sailor sings them from aloft, unseen and without the orchestra, as the ship carries Isolde from Ireland to Cornwall to marry King Marke, Tristan's uncle; she takes the song as mockery. The opera ends with both lovers dead. The song stands between "fear in a handful of dust" and the hyacinth garden.
 sources: Wagner, Tristan und Isolde, Act I scene 1
 Wagner, Tristan und Isolde, Act III
+Tristan (Bayreuth, 1928), first act
 ---
 line: 42
-text: The words are from the last act of Wagner's <i>Tristan und Isolde</i> and mean "Desolate and empty the sea!" Tristan lies wounded in Brittany. His servant Kurwenal has sent to Cornwall for Isolde, who alone can heal him. A shepherd watching for her ship reports that nothing is on the sea. The hyacinth garden lies between this quotation and the one at line 31. That one comes before Tristan and Isolde drink the love potion, this one when they are apart and Tristan is dying. The scene is in the 1928 Bayreuth recording in the <a href="listen.html#rec-tristan-1928-bayreuth-act3-shepherd">listening room</a>.
+text: The words are from the last act of Wagner's <i>Tristan und Isolde</i> and mean "Desolate and empty the sea!" Tristan lies wounded in Brittany. His servant Kurwenal has sent to Cornwall for Isolde, who alone can heal him. A shepherd watching for her ship reports that nothing is on the sea. The hyacinth garden lies between this quotation and the one at line 31. That one comes before Tristan and Isolde drink the love potion, this one when they are apart and Tristan is dying.
 sources: Wagner, Tristan und Isolde, Act III scene 1
+Tristan (Bayreuth, 1928), third act
 ---
 line: 202
-text: The line is the last of Verlaine's sonnet "Parsifal" (1886), on Wagner's opera: "And, oh, those children's voices singing in the dome!" In the sonnet the knight Parsifal has resisted the Flower-maidens and Kundry, who tempted him, has healed the wounded king Amfortas, and adores the Grail while a boys' choir sings in the dome of its temple. In the opera's third act Kundry, now penitent, washes Parsifal's feet before he goes in to heal the king. Cleanth Brooks (1939) read the soda water of line 201 as reminding the poet "ironically of another sort of foot-washing".
-sources: Verlaine, "Parsifal", line 14
+text: The line is the last of “Parsifal”, a sonnet on Wagner’s opera by the French poet Paul Verlaine: “And, oh, those children’s voices singing in the dome!” In the sonnet the knight Parsifal has resisted the Flower-maidens and Kundry, his tempters, has healed the wounded king Amfortas, and adores the Grail while a boys’ choir sings in the temple dome. In the opera’s third act Kundry, now penitent, washes Parsifal’s feet before he heals the king. The critic Cleanth Brooks (1939) read the soda water of line 201 as reminding the poet “ironically of another sort of foot-washing”.
+sources: Verlaine, "Parsifal" (1886), line 14
 Wagner, Parsifal, Act III
 Wagner, Parsifal, Act I
 Brooks (1939)
@@ -752,25 +757,26 @@ text: Eliot's note on this line says "The Song of the (three) Thames-daughters b
 sources: Wagner, Götterdämmerung, Act III scene 1
 ---
 line: 277
-text: The line is the refrain of the three Rhine-daughters who open the last act of Wagner's <i>Götterdämmerung</i>. The syllables are not words. Wagner wrote his own librettos, and the libretto as he printed it has none of them. They came with the music. Unlike the <i>Tristan</i> lines at 31 and 42, they cannot be translated. Eliot's note on line 266 says the song of the Thames-daughters begins there. Hear the three sing it in the 1964 recording conducted by Georg Solti in the <a href="listen.html#rec-gotterdammerung-solti-1964-rhinemaidens">listening room</a>, then read lines 266 to 291 with the tune in your ear.
+text: The line is the refrain of the three Rhine-daughters who open the last act of Wagner’s <i>Götterdämmerung</i>. The syllables are not words. Wagner wrote his own texts, and the poem of <i>Götterdämmerung</i> as he printed it in 1874 has none of them; they came with the music, and are found only in the scores and in libretti printed from them. Unlike the <i>Tristan</i> lines at 31 and 42, they cannot be translated. Eliot’s note on line 266 says the song of the Thames-daughters begins there; the refrain returns at 290–291.
 sources: Wagner, Götterdämmerung, Act III scene 1
 Götterdämmerung, Schott libretto, Act III
+Götterdämmerung (Solti, London Records, 1965)
 ---
 line: 306
 text: Eliot's note on line 266 refers to the Rhine-daughters of Wagner's <i>Götterdämmerung</i> and says that from line 292 to 306 three Thames-daughters "speak in turn": the first of Highbury, Richmond and Kew, the second of Moorgate, the third of Margate Sands. Their refrain at 277–278 and 290–291 is the Rhine-daughters' cry. The two syllables here are usually read as what is left of it, the last two of "leialala". Eliot's count takes this line into their speeches, so by his count the syllables are the third daughter's.
 sources: Wagner, Götterdämmerung, Act III scene 1
 ---
 line: 424
-text: Eliot's note on line 425 points to the chapter on the Fisher King, the wounded keeper of the Grail whose land lies waste with him, in Jessie Weston's book on the Grail legend, <i>From Ritual to Romance</i> (1920). Wagner's <i>Parsifal</i> (1882) has such a king, Amfortas, wounded in the side by the holy spear and healed by it in the third act. Verlaine's sonnet, quoted at line 202, ends in that act. Weston's chapter on the Perilous Chapel ends by saying that the legend woke to new life in the nineteenth century "through the genius of Tennyson and Wagner".
-sources: Weston, From Ritual to Romance, ch. IX
+text: Eliot’s note on line 425 points to the chapter on the Fisher King, the wounded keeper of the Grail whose land lies waste with him, in Jessie Weston’s book on the Grail legend, <i>From Ritual to Romance</i>. Wagner’s <i>Parsifal</i> has such a king, Amfortas, wounded by the holy spear and healed by it in the third act, where the French poet Verlaine’s sonnet at line 202 ends. Weston’s chapter on the Perilous Chapel, where the Grail knight is tested, ends by saying that the legend woke to new life in the nineteenth century “through the genius of Tennyson and Wagner”.
+sources: Weston, From Ritual to Romance (1920), ch. IX
 Weston, From Ritual to Romance, ch. XIII
-Wagner, Parsifal, Act I
+Wagner, Parsifal (1882), Act I
 Wagner, Parsifal, Act III
 Verlaine, "Parsifal"
 ===
 id: cities
 title: Cities
-intro: The places the poem names, in the order it names them. At the start come the Starnbergersee, a lake near Munich, and the Hofgarten in the city. Through the middle comes London: the bridge, the streets and churches, a public bar in Lower Thames Street, and the river at Greenwich and at Richmond. Among the London stops are the places the poem’s people come from or remember: Lithuania, Mylae, Leman, Smyrna, Thebes, Margate and Carthage. In Part V come the five cities named in two lines, “Jerusalem Athens Alexandria / Vienna London” (375–376), and the Ganges and Himavant (396–398).
+intro: The places the poem names, in the order it names them. It begins at the Starnbergersee, a lake near Munich, and the Hofgarten in the city, and spends its middle in London, with the bridge, the streets and churches, a public bar in Lower Thames Street and the river at Greenwich and at Richmond. Its people come from or remember Lithuania, Mylae, Leman, Smyrna, Thebes, Margate and Carthage. Part V names five cities in two lines, “Jerusalem Athens Alexandria / Vienna London” (375–376), and then the Ganges and Himavant (396–398).
 why: The places the poem names, from the Starnbergersee to the Ganges, taken in order with a note on each.
 ---
 line: 8
@@ -786,14 +792,15 @@ text: "Unreal City" is London. Eliot's note quotes Baudelaire on Paris, the "swa
 sources: Baudelaire, Les Fleurs du mal, "Les Sept Vieillards," lines 1–2
 ---
 line: 66
-text: King William Street and St Mary Woolnoth: the commuters' way into the City from London Bridge. Eliot's bank stood by the church, and his note on line 68 says he "often noticed" the dead sound at nine.
+text: King William Street and St Mary Woolnoth: the commuters' way into the City from London Bridge. Lloyds Bank, where Eliot worked, stood by the church, and Eliot’s note on line 68 says he "often noticed" the dead sound at nine.
 sources: T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
 Rainey, Annotated Waste Land, note on line 67
 Southam, Guide, note on line 67
 ---
 line: 70
-text: Mylae, the sea battle of 260 BC between Rome and Carthage.
+text: Mylae, now Milazzo, on the north coast of Sicily. Off it in 260 BC, early in the first of Rome’s three wars with Carthage, Rome won its first battle at sea.
 sources: Brooks (1939)
+Matthiessen (1935)
 ---
 line: 182
 text: Leman is Lake Geneva. Eliot was at Lausanne, on the lake, from late November 1921 to early January 1922, and wrote Parts IV and V there.
@@ -801,7 +808,7 @@ sources: Letters, vol. 1, Eliot to Ottoline Morrell, 30 November 1921
 Rainey, Revisiting The Waste Land, ch. 1
 ---
 line: 209
-text: Smyrna, now İzmir, the chief port of Asia Minor, through which the Levant's dried fruit was shipped; Eliot's note on 211 gives his reading of the line's trade shorthand.
+text: Smyrna, now İzmir, the chief port of Asia Minor, through which the Levant’s dried fruit was shipped. Eliot’s note on line 211 reads the line’s shorthand, “C.i.f. London”, as a price “carriage and insurance free to London”, with the bill of lading and the other papers handed to the buyer when he pays the sight draft. In the trade the initials stand for cost, insurance and freight, a price that covers delivery to London.
 sources: Rainey, Annotated Waste Land, note on line 209
 ---
 line: 213
@@ -812,7 +819,7 @@ line: 245
 text: Thebes, in Greece, Tiresias's city.
 ---
 line: 258
-text: The Strand, Queen Victoria Street, Lower Thames Street and, by London Bridge, Wren's church of St Magnus Martyr (Eliot's note at 264).
+text: The Strand, Queen Victoria Street, Lower Thames Street and, by London Bridge, Wren’s church of St Magnus Martyr, whose interior Eliot’s note on line 264 calls “one of the finest among Wren’s interiors”.
 sources: LCC, Nineteen City Churches (1920), the entry for St Magnus the Martyr
 ---
 line: 275
@@ -824,11 +831,12 @@ line: 293
 text: Highbury, in north London; Richmond and Kew, up the river; Moorgate, in the City; Margate, on the Kent coast.
 ---
 line: 307
-text: Carthage, where Augustine went as a student; his <i>Confessions</i> call it "a cauldron of unholy loves" (Eliot's note).
+text: Carthage, where Augustine went as a student; his <i>Confessions</i>, quoted in Eliot’s note on this line, call it “a cauldron of unholy loves”.
 sources: Augustine, Confessions, bk. III
 ---
 line: 375
-text: "Jerusalem Athens Alexandria / Vienna London / Unreal."
+text: The five cities are named in two lines, followed by the one word “Unreal”. Jerusalem, Athens and Alexandria are cities of the ancient world; Vienna was until 1918 the capital of the empire the war ended; London is the poem’s city. The line before them is “Falling towers”. “Unreal” is the word set over London at lines 60 and 207, “Unreal City”; here it stands under all five. Eliot’s note on lines 367 to 377 quotes the German novelist Hermann Hesse’s <i>Blick ins Chaos</i> (1920), which says that at least half of eastern Europe is on the way to chaos.
+sources: Hesse, Blick ins Chaos, "Die Brüder Karamasoff oder der Untergang Europas"
 ---
 line: 396
 text: Ganga and Himavant: the Ganges and the Himalaya. After them the poem names only London Bridge and Aquitaine.
@@ -840,27 +848,29 @@ intro: Places and dates from Eliot’s life that lie behind particular lines of 
 why: Places and dates in Eliot’s life behind particular lines, from Gloucester in his boyhood to Paris in 1922.
 ---
 line: 8
-text: Munich, summer 1911: the Hofgarten and its colonnade, and the Starnbergersee, where Ludwig II of Bavaria was found drowned in 1886.
+text: Eliot spent the summer of 1911 in Munich, at the end of his year in Paris. The Hofgarten and its colonnade are in the city centre, and the Starnbergersee, where Ludwig II of Bavaria was found dead in 1886, is the lake to its south-west.
 sources: Letters, vol. 1, Jean Verdenal to Eliot, [July? 1911]
 ---
 line: 35
-text: The hyacinth garden. Two people from Eliot's life have been proposed for it: Emily Hale, in Lyndall Gordon's reading of the letters Eliot wrote her, and Jean Verdenal, whom Eliot remembered in 1934 crossing the Luxembourg Gardens "waving a branch of lilac". The poem names neither.
+text: The hyacinth garden. Two people from Eliot’s life have been proposed for it. Emily Hale, a Boston friend to whom he had declared his love in 1914, is the biographer Lyndall Gordon’s candidate, from the letters Eliot wrote her. Jean Verdenal, his friend in Paris in 1910–11, killed in the Dardanelles in 1915, is the critic James E. Miller’s, from Eliot’s own memory in 1934 of a friend crossing the Luxembourg Gardens “waving a branch of lilac”. The poem names neither.
 sources: Eliot, "A Commentary," Criterion, April 1934
 Miller (1977)
 Gordon, The Hyacinth Girl
 ---
 line: 66
-text: Lloyds Bank's head office, at 71 Lombard Street, a few doors from St Mary Woolnoth. Eliot's note on line 68 says the dead sound on the final stroke of nine was "a phenomenon which I have often noticed."
+text: Eliot worked for Lloyds Bank from March 1917 to November 1925. Its head office, at 71 Lombard Street, stood a few doors from St Mary Woolnoth. Eliot’s note on line 68 says the dead sound on the final stroke of nine was “a phenomenon which I have often noticed.”
 sources: Matthews, The Bankers' Clearing House (1921), Appendix I
 T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
 Rainey, Annotated Waste Land, note on line 67
 Southam, Guide, note on line 67
 ---
 line: 111
-text: The Eliots' flat at 9 Clarence Gate Gardens, by Regent's Park, where he and his wife Vivien were both ill in 1921.
+text: The Eliots’ flat at 9 Clarence Gate Gardens, by Regent’s Park, where he and his wife Vivien were both ill in 1921. Vivien read this scene in typescript and wrote beside it “Yes &amp; wonderful wonderful”. Eliot’s biographer Lyndall Gordon reads the woman whose nerves are bad and the man who does not answer as the two of them. The poem names no one.
 sources: Letters, vol. 1, Eliot to his mother, [23 August 1921]
 Letters, vol. 1, Eliot to Julian Huxley, 26 October 1921
 Crawford, Young Eliot
+Facsimile (1971), the typescript of Part II
+Gordon, Eliot's Early Years
 ---
 line: 139
 text: Ellen Kellond, the Eliots' maid, whose story this was: Eliot called the passage "pure Ellen Kellond".
@@ -873,7 +883,7 @@ Letters, vol. 1, Eliot to Sydney Waterlow, 19 December 1921
 Rainey, Revisiting The Waste Land, ch. 1
 ---
 line: 300
-text: Eliot spent four weeks at Margate, from 15 October to 12 November 1921, on sick leave from the bank, and drafted "some fifty lines" of Part III in a shelter on the front, probably the Nayland Rock shelter, listed in 2009, which still stands. The lines are thought to be the river song and the Thames-daughters' speeches.
+text: Eliot spent four weeks at Margate, from 15 October to 12 November 1921, on sick leave from the bank, and drafted "some fifty lines" of Part III in a shelter on the front, probably the Nayland Rock shelter, which still stands and was given listed-building protection in 2009. The lines are thought to be the river song and the Thames-daughters' speeches.
 sources: Letters, vol. 1, Eliot to Sydney Schiff, 4 November 1921
 Facsimile (1971), the pencil drafts of Part III
 Rainey, Revisiting The Waste Land, ch. 1
@@ -881,7 +891,7 @@ Historic England, list entry 1393490
 The Observer, 12 July 2009
 ---
 line: 312
-text: The voyage Pound cut from this section set out past the Dry Salvages, rocks off Cape Ann in Massachusetts. Eliot's family spent its summers at Gloucester, on the cape, when he was a boy.
+text: In Eliot’s typescript this section began with a fishing schooner’s voyage of some eighty lines, which Ezra Pound cut. It set out past the Dry Salvages, rocks off Cape Ann in Massachusetts. Eliot's family spent its summers at Gloucester, on the cape, when he was a boy.
 sources: Facsimile (1971), the typescript of Part IV
 Eliot, The Dry Salvages (1941), headnote
 Ellmann (1971)
@@ -892,7 +902,7 @@ text: Probably a boat off Cape Ann, where Eliot sailed in the summers of his you
 sources: T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
 ---
 line: 0
-text: Paris, January 1922. Eliot stopped there on his way back from Lausanne, and Pound went through the typescript with him, cutting it hard. The dedication came later. In January 1923 Eliot inscribed Pound's copy to him as "miglior fabbro", and from 1925 the dedication was printed with the poem. The words are Dante's, for the poet Arnaut Daniel, and mean the better craftsman.
+text: Paris, January 1922. Eliot stopped there on his way back from Lausanne, and his friend the poet Ezra Pound went through the typescript with him, cutting it hard. The dedication came later. In January 1923 Eliot inscribed Pound's copy to him as "miglior fabbro", and from 1925 the dedication was printed with the poem. The words are Dante's, for the poet Arnaut Daniel, and mean the better craftsman.
 sources: Dante, Purgatorio XXVI 117
 Poems 1909–1925
 Facsimile (1971), the typescripts with Pound's annotations
