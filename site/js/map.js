@@ -6,6 +6,7 @@
     var html='<h3>'+info.label+'</h3>';
     if(lines.length){ html+=lines.map(function(n){ var l=D.lines[n-1]; return n>0&&l?'<a class="ln" href="index.html#L'+n+'"><span class="n">'+n+'</span>'+l.t.replace(/</g,'&lt;')+'</a>':''; }).join(''); }
     else html+='<p class="small">Not named in the poem: a place from Eliot’s life while he was writing it.</p>';
+    if(info.note) html+='<p class="small">'+info.note+'</p>';
     card.innerHTML=html; card.hidden=false;
     document.querySelectorAll('.map .place.on').forEach(function(x){x.classList.remove('on')}); g.classList.add('on');
   }

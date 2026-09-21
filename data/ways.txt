@@ -4,7 +4,7 @@ title: Ways into The Burial of the Dead
 kind: listen
 title: Hear it before you read it
 lens: listen
-body: Virginia Woolf, who heard Eliot read the poem at dinner in June 1922, wrote in her diary that "he sang it & chanted it rhythmed it." Start with his own voice: the listening room has his recordings. Then read the seventy-six lines silently and notice where his stresses fell.
+body: Virginia Woolf, who heard Eliot read the poem at dinner in June 1922, wrote in her diary that "he sang it & chanted it rhythmed it." Start with his own voice: the listening room has his recordings. Then read the seventy-six lines silently, with his stresses in mind.
 sources: Woolf, Diary, vol. 2, 23 June 1922
 ---
 kind: lens
@@ -17,30 +17,30 @@ Dickens, Our Mutual Friend, bk. I, ch. 16
 kind: do
 title: Turn the tarot cards
 lens: cards
-body: Madame Sosostris turns up six cards, fails to find a seventh, and reports one vision. Turn them over one at a time on the table and read the note on each. Then ask what she leaves out. The seventh card, the one she cannot find, is the Hanged Man, and the only water in her reading is the kind that drowns: a drowned sailor, and "Fear death by water."
+body: Madame Sosostris turns up six cards, fails to find a seventh, and reports one vision. Turn them over one at a time on the table and read the note on each. The seventh card, the one she cannot find, is the Hanged Man. Water comes into her reading twice: the drowned sailor, and “Fear death by water.”
 ---
 kind: map
 title: Follow the route in Part I
 lens: places
-body: Lines 60–68 follow a route: over London Bridge, "up the hill and down King William Street", and past St Mary Woolnoth as its clock strikes nine. It is about half a mile, the way into the City that thousands of clerks walked every morning from London Bridge station. Eliot's bank stood at the end of it, and his note on line 68 calls the dead sound on the final stroke "a phenomenon which I have often noticed". Follow it on the map, then read the lines again with the walk in mind.
+body: Lines 60–68 follow a route: over London Bridge, "up the hill and down King William Street", and past St Mary Woolnoth as its clock strikes nine. It is about half a mile, the way into the City that thousands of clerks walked every morning from London Bridge station. Lloyds Bank, where Eliot worked, stood at the end of it, and his note on line 68 calls the dead sound on the final stroke “a phenomenon which I have often noticed”. Follow it on the map, then read the lines again with the walk in mind.
 sources: Eliot, "What Dante Means to Me" (1950)
 T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
 ---
 kind: source
 title: Put Chaucer beside it
 source: chaucer
-body: Read the first twelve lines of the General Prologue, then Eliot's first seven. Both begin with April, with rain, and with roots. Decide what has changed between Chaucer's April and Eliot's.
+body: Read the first twelve lines of the General Prologue to Chaucer’s Canterbury Tales (they are in the library), then Eliot’s first seven. Both begin with April, with rain, and with roots. Decide what has changed between Chaucer's April and Eliot's.
 sources: Chaucer, General Prologue, lines 1–12
 ---
 kind: lens
 title: Follow the water
 lens: water
-body: Part I names water, or the lack of it, again and again: spring rain and forgetful snow in the first seven lines, a shower over the Starnbergersee, a dry stone with no sound of water, a handful of dust, a drowned sailor, and then "Fear death by water." The Water lens tints the lines that name water and the lines that name its absence.
+body: Part I names water, or its absence, in several places: spring rain and snow in the first seven lines, a shower over the Starnbergersee, the dry stone with no sound of water, the handful of dust, the drowned sailor, and “Fear death by water.” The Water lens tints the lines that name water and the lines that name its absence.
 ---
 kind: path
 title: Weston's plan, from the title on
 path: grail
-body: Eliot's headnote credits Jessie L. Weston's book on the Grail legend with "not only the title, but the plan and a good deal of the incidental symbolism of the poem". The Grail pathway starts on the title page and stops where the plan shows in Part I: the dead land and the dry stone with "no sound of water", the Tarot cards Weston connected with the Grail, the warning "Fear death by water", and the corpse in Stetson's garden, one of the "references to vegetation ceremonies" the headnote says a reader of Frazer's <i>Golden Bough</i> will recognise.
+body: Eliot's headnote credits Jessie L. Weston's book on the Grail legend with "not only the title, but the plan and a good deal of the incidental symbolism of the poem". The plan shows in Part I in the dead land and the dry stone with “no sound of water”, in the Tarot cards Weston connected with the Grail, in the warning “Fear death by water”, and in the corpse in Stetson’s garden, one of the “references to vegetation ceremonies” that the same note says a reader of <i>The Golden Bough</i>, by the anthropologist J. G. Frazer, will recognise. The pathway called The Grail and the waste land follows the plan from the title page on.
 ---
 kind: draft
 title: Read what was cut
@@ -65,12 +65,12 @@ title: Ways into A Game of Chess
 kind: listen
 title: Hear the two women
 lens: listen
-body: Fiona Shaw's filmed performance of the whole poem, directed by Deborah Warner, is the one to watch for this section: one actor speaking for the woman in the chair and the woman in the pub. For the pub scene, hear also Alec Guinness's reading on the Argo record.
+body: Fiona Shaw performed the whole poem alone on a bare stage, directed by Deborah Warner, one actor speaking for the woman in the chair and the woman in the pub. The listening room has a minute of Shaw performing the poem, from a BBC broadcast of 2015; the film of the staging circulates only in unofficial copies, which are not played there. The whole performance, filmed again for the Faber app in 2011, is in the app. For the pub scene, hear Alec Guinness’s reading of 1975, issued by the record label Argo and linked from the listening room.
 ---
 kind: source
 title: Start with Cleopatra's barge
 source: shakespeare-antony
-body: Read Enobarbus's speech from <i>Antony and Cleopatra</i> (it is in the library), then lines 77–110 with it beside you, and see what each of Eliot's changes does to Shakespeare's picture: the barge comes indoors and down in scale. Then find the two other women in the room's details, Dido at line 92 and Eve at line 98.
+body: Read Enobarbus's speech from <i>Antony and Cleopatra</i> (it is in the library), then lines 77–110 with it beside you, and see what each of Eliot's changes does to Shakespeare's picture: the barge comes indoors and down in scale. Then find in the room’s details Dido, the queen of Carthage in Virgil’s Aeneid, at line 92, and at line 98 Milton’s Eden as Satan first sees it.
 sources: Shakespeare, Antony and Cleopatra II.ii
 Virgil, Aeneid I 726
 Milton, Paradise Lost IV 140
@@ -84,7 +84,7 @@ sources: Unger (1966)
 kind: do
 title: The rag of 1912
 lens: listen
-body: "That Shakespearian Rag" was a real song of 1912. No recording of the day has been found; the sheet music is in the listening room. Read its chorus, then lines 128–130 with Eliot's extra syllable in "Shakespeherian": it gives the word the song's syncopation, and the man hums it instead of answering.
+body: "That Shakespearian Rag" was a real song of 1912. No recording of the day has been found; the sheet music is in the listening room. Read its chorus, then lines 128–130 with Eliot's extra syllable in "Shakespeherian": it gives the word the song’s syncopation. The line comes among the man’s answers, which the poem leaves unspoken.
 sources: Buck, Ruby and Stamper, "That Shakespearian Rag" (1912)
 Guerrieri (2017)
 ---
@@ -103,7 +103,7 @@ body: The poem gives three hours by the clock; two of them are here, ten and fou
 kind: draft
 title: Vivien Eliot's pencil
 lens: drafts
-body: Eliot's wife read this section in typescript. Beside the nervous dialogue she wrote "WONDERFUL"; she supplied two lines of the pub scene; and she asked for a line about "ivory men" to be taken out. The Drafts lens says which.
+body: Eliot's wife read this section in typescript. Beside the nervous dialogue she wrote "WONDERFUL"; she supplied two lines of the pub scene; and she asked for a line about "ivory men" to be taken out. The Drafts lens says which lines they are.
 sources: Facsimile (1971), the typescript of Part II
 Ricks and McCue, textual notes on lines 120–139, 153 and 164
 Litz (1973)
@@ -111,11 +111,11 @@ Litz (1973)
 kind: path
 title: The couples in the room and the pub
 path: love
-body: In the room a woman asks to be spoken to and a man does not answer; in the pub Lil is told to get herself some teeth before Albert comes home, and the good night at closing time is Ophelia's, from <i>Hamlet</i>. The pathway on the loves that fail takes the poem's couples in order, from the hyacinth garden to the heart that "would have responded" at line 421, and stops four times here. Eliot's note on line 218 says "all the women are one woman"; the pathway sets the couples side by side so that you can judge it.
+body: In the room a woman asks to be spoken to and a man does not answer; in the pub Lil is told to get herself some teeth before Albert comes home, and the good night at closing time is Ophelia's, from <i>Hamlet</i>. Eliot’s note on line 218 says “all the women are one woman”. The pathway called The loves that fail sets the poem’s couples side by side, in order, from the hyacinth garden to the heart that “would have responded” at line 421, so that you can judge it; four of its stops are in this section.
 ---
 kind: ask
 title: Who is not in the room
-body: Two people in a room; one talks, one thinks. Who is not there? Whose bones were lost in rats' alley? Whose eyes were the pearls? Two of his unspoken answers point to the dead: the men of the trenches, and the drowned father in Ariel's song from <i>The Tempest</i>.
+body: In the room one person talks and the other thinks. Two of his unspoken answers point to the dead. “Rats’ alley” was a name soldiers gave to trenches on the Western Front, as Peter Chasseaud’s book of trench names records; and the eyes that were pearls are from Ariel’s song in <i>The Tempest</i>, sung for a father thought drowned.
 sources: Shakespeare, The Tempest I.ii
 Chasseaud (2006)
 ===
@@ -125,7 +125,7 @@ title: Ways into The Fire Sermon
 kind: map
 title: Follow the river
 lens: places
-body: The section names, in order, a canal behind a gashouse, the Cannon Street Hotel, the Strand, Queen Victoria Street and Lower Thames Street with St Magnus Martyr, Greenwich Reach and the Isle of Dogs, and in the daughters' speeches Highbury, Richmond and Kew, Moorgate and Margate. The map has the real course of the Thames, with each of these on it.
+body: The section names, in order, a canal behind a gashouse, the Cannon Street Hotel, the Strand, Queen Victoria Street and Lower Thames Street with St Magnus Martyr, Greenwich Reach and the Isle of Dogs, and in the speeches of the three Thames-daughters Highbury, Richmond and Kew, Moorgate and Margate. The map has the course of the Thames through London with these places on it; Margate, sixty miles east, is marked at its edge.
 ---
 kind: source
 title: Spenser's refrain
@@ -141,7 +141,7 @@ body: The Voices lens marks each speaker and each quoted voice: the "I" who fish
 kind: source
 title: The Fire Sermon itself
 source: buddha-fire-sermon
-body: Eliot's note sends the reader to the Buddha's Fire Sermon in Henry Clarke Warren's <i>Buddhism in Translations</i> (1896) and calls it as important as the Sermon on the Mount. It is short. In it the Buddha says of the eye, the ear, the tongue, the body and the mind that each "is on fire", with the fire of passion, of hatred and of infatuation. The section's title is the sermon's, and "burning", five times at 308–311, is the poem's word for the sermon's "on fire".
+body: Eliot's note sends the reader to the Buddha's Fire Sermon in Henry Clarke Warren's <i>Buddhism in Translations</i> (1896) and calls it as important as the Sermon on the Mount. It is short. In it the Buddha says of the eye, the ear, the nose, the tongue, the body and the mind that each “is on fire”, with the fire of passion, of hatred and of infatuation. The section's title is the sermon's, and "burning", five times at 308–311, is the poem's word for the sermon's "on fire".
 sources: Warren, Buddhism in Translations, § 73, pp. 351–353
 ---
 kind: draft
@@ -154,13 +154,13 @@ Ricks and McCue, commentary on lines 222–230
 kind: listen
 title: The Rhine-daughters, then the Thames-daughters
 lens: listen
-body: Act III of Wagner's <i>Götterdämmerung</i> opens with the three Rhine-daughters swimming and singing of their stolen gold; "Weialala leia, wallala leialala" is their refrain, and the Thames-daughters take it at 277–278 and 290–291. Listen to the scene, then read lines 266–306. Eliot's note says his three daughters "speak in turn" from 292 to 306.
+body: Act III of Wagner's <i>Götterdämmerung</i> opens with the three Rhine-daughters swimming and singing of their stolen gold; "Weialala leia, wallala leialala" is their refrain, and the Thames-daughters take it at 277–278 and 290–291. Listen to the scene (a recording is in the listening room), then read lines 266–306. Eliot's note says his three daughters "speak in turn" from 292 to 306.
 sources: Wagner, Götterdämmerung III.i
 ---
 kind: place
 title: Margate
 lens: places
-body: "On Margate Sands. / I can connect / Nothing with nothing." Eliot spent four weeks at Margate, from 15 October to 12 November 1921, on three months' sick leave from Lloyds Bank. In a letter from there, to Sydney Schiff, he said he had drafted "some fifty lines" of this part, sitting in a shelter on the front. The Nayland Rock shelter on the seafront, listed in 2009 as the likely place, still stands. The map has it.
+body: "On Margate Sands. / I can connect / Nothing with nothing." Eliot spent four weeks at Margate, from 15 October to 12 November 1921, on three months' sick leave from Lloyds Bank. In a letter from there to his friend Sydney Schiff he said he had drafted “some fifty lines” of this part, sitting in a shelter on the front. The Nayland Rock shelter on the seafront, listed in 2009 as the likely place, still stands. The map marks Margate.
 sources: Letters, vol. 1, Eliot to Sydney Schiff, 4 November 1921
 Letters, vol. 1, chronology, October–November 1921
 Historic England, list entry 1393490
@@ -175,7 +175,7 @@ Augustine, Confessions III.1
 kind: path
 title: Spenser, Marvell, Day and Goldsmith
 path: method
-body: The pathway on the past beside the present stops four times in this section: at Spenser's nymphs and the Thames they have left; at Marvell's winged chariot and the rat; at Actaeon coming to Diana in John Day's <i>Parliament of Bees</i>, and Sweeney to Mrs. Porter; and at Goldsmith's song of a woman who "stoops to folly", and the gramophone. Take them in order and see what each pairing does. The pathway begins with Chaucer's April and ends at "These fragments I have shored against my ruins", beside Eliot's 1923 sentences on Joyce's <i>Ulysses</i>.
+body: Four old poems share lines with a modern scene in this section. Spenser’s nymphs are set beside the Thames they have left. Marvell’s winged chariot is set beside the rat. Actaeon coming to Diana, in John Day’s <i>Parliament of Bees</i>, is set beside Sweeney coming to Mrs. Porter. Goldsmith’s song of a woman who “stoops to folly” is set beside the gramophone. Take them in order and see what each pairing does. The pathway called The past beside the present follows such pairings from Chaucer’s April to “These fragments I have shored against my ruins”, and ends with what Eliot wrote in 1923 about Joyce’s <i>Ulysses</i>: that a “continuous parallel between contemporaneity and antiquity” was a method others must follow.
 ---
 kind: source
 title: Tiresias in Ovid
@@ -194,39 +194,39 @@ title: Ways into Death by Water
 kind: source
 title: Read it in French first
 source: dans-le-restaurant
-body: The ten lines are Eliot's translation of the last stanza of his own French poem "Dans le Restaurant", published in 1918. Read the French, then the English, and note what was dropped (the tin, Cornwall, the offhand "Figurez-vous donc") and what was added ("Gentile or Jew", and the whole address to the man at the wheel).
+body: The ten lines are Eliot's translation of the last stanza of his own French poem "Dans le Restaurant", published in 1918. Read the French (it is in the library), then the English, and note what was dropped (the tin, Cornwall, the offhand "Figurez-vous donc") and what was added ("Gentile or Jew", and the whole address to the man at the wheel).
 sources: The Little Review, September 1918, pp. 12–13
 Poems (1920), "Dans le Restaurant"
 ---
 kind: draft
 title: The voyage Pound cut
 lens: drafts
-body: In the typescript this section was a sea voyage of some ninety lines, from the Dry Salvages off Cape Ann to the fishing banks, ending in ice. Pound cut it to the last ten lines and then had to talk Eliot out of cutting those too: "Phlebas is an integral part of the poem . . . Must stay in."
+body: In the typescript this section was a sea voyage of some ninety lines, from the Dry Salvages, rocks off Cape Ann in Massachusetts, to the fishing banks, ending in ice. Pound cut it to the last ten lines and then had to talk Eliot out of cutting those too: "Phlebas is an integral part of the poem . . . Must stay in."
 sources: Facsimile (1971), the typescript of Part IV, and p. 129
 Pound, Letters, ed. Paige, no. 183
 Perloff (1981)
 ---
 kind: path
-title: The sea-change that does not come
+title: Brooks on the drowned man
 path: change
-body: Ariel's song in <i>The Tempest</i>, which the poem quotes at lines 48 and 125, promises that the drowned king's body will suffer "a sea-change / Into something rich and strange". Phlebas gets a current that picks his bones. The Metamorphosis pathway follows the poem's changed bodies, Philomel turned nightingale, Tiresias seven years a woman, and the drowned man, and reaches this section at line 315. There it quotes Cleanth Brooks (1939), for whom the drowned Phoenician Sailor recalls the drowned god of the fertility cults and "the way into life may be by death itself".
+body: The critic Cleanth Brooks (1939) read the drowned Phoenician Sailor as a recollection of the drowned god of the fertility cults, and held that in the poem “the way into life may be by death itself”. The pathway called Metamorphosis follows the poem’s changed bodies, Philomel turned nightingale, Tiresias seven years a woman, and the drowned man, and has a stop here.
 ---
 kind: source
 title: Ariel's song
 source: shakespeare-tempest
-body: "Full fathom five thy father lies." Read Ariel's song, then Phlebas. Shakespeare's drowned man is not in fact drowned, and the song has him suffer "a sea-change / Into something rich and strange". Eliot's Phlebas is a fortnight dead, and the current picks his bones in whispers.
+body: "Full fathom five thy father lies." Read Ariel’s song (it is in the library), then Phlebas. Shakespeare's drowned man is not in fact drowned, and the song has him suffer "a sea-change / Into something rich and strange". Eliot's Phlebas is a fortnight dead, and the current picks his bones in whispers.
 sources: Shakespeare, The Tempest I.ii
 ---
 kind: listen
 title: Hear it read
 lens: listen
-body: Ten lines are short enough to hear several readers one after another. The listening room has six readers of Part IV: Eliot himself (in 1933, and again in the 1940s), Alec Guinness, Jeremy Irons, Fiona Shaw, Edoardo Ballerini and Elizabeth Klett. Start with Eliot's own reading and hear the others against it.
+body: Ten lines are short enough to hear several readers one after another. The listening room has Part IV from several readers: Eliot himself (in 1933, and again in the 1940s), Alec Guinness, Jeremy Irons, Irons with Sinéad Cusack, and Elizabeth Klett. Start with Eliot’s own reading and hear the others against it.
 sources: The Poetry Archive
 PennSound
 ---
 kind: ask
 title: Consider Phlebas
-body: "Consider Phlebas, who was once handsome and tall as you." The last three lines turn from the drowned man to whoever is at a ship's wheel, "Gentile or Jew", and through him to the reader. In 1956 Herbert Musurillo compared the section to the epitaphs for drowned sailors in the <i>Greek Anthology</i>, which speak to the sailor passing by. The last line has the shape of the warning on an old gravestone: as you are now, so once was I.
+body: "Consider Phlebas, who was once handsome and tall as you." The last three lines turn from the drowned man to whoever is at a ship's wheel, "Gentile or Jew", and through him to the reader. In 1956 the classical scholar Herbert Musurillo compared the section to the epitaphs for drowned sailors in the <i>Greek Anthology</i>, the ancient collection of short Greek poems, which speak to the sailor passing by. The last line has the shape of the warning on an old gravestone: as you are now, so once was I.
 sources: Greek Anthology VII 282
 Musurillo (1956)
 Deutsch (1952)
@@ -237,7 +237,7 @@ title: Ways into What the Thunder Said
 kind: listen
 title: Eliot reading the thunder
 lens: listen
-body: Eliot recorded the whole poem in 1933 and again in 1946; both are in the listening room, with Part V as he read it in Washington in 1947. Listen from line 400, where the thunder speaks, to the end.
+body: Eliot recorded the whole poem in 1933 and again in the 1940s, in the reading usually dated 1946; both are in the listening room, with Part V as he read it in Washington in 1947. Listen from line 400, where the thunder speaks, to the end.
 sources: The Poetry Archive
 PennSound
 Library of Congress, recording of 23 May 1947
@@ -256,7 +256,7 @@ sources: Chapman, Handbook (1895), p. 400
 kind: source
 title: The road to Emmaus, and South Georgia
 source: shackleton-south
-body: Eliot gives two sources for "Who is the third who walks always beside you?": in his headnote, the journey to Emmaus of Luke 24; in his note on the line, Shackleton's account in <i>South</i> of crossing South Georgia in May 1916, when each of three men felt a fourth walking with them. Both are in the library.
+body: Eliot gives two sources for "Who is the third who walks always beside you?": in his headnote, the journey to Emmaus of Luke 24; in his note on the line, an account of an Antarctic expedition, “I think one of Shackleton’s”. The explorer Ernest Shackleton’s book <i>South</i> (1919) tells of the crossing of South Georgia in May 1916, when each of three men felt a fourth walking with them. Both are in the library.
 sources: King James Bible, Luke 24:13–31
 Shackleton, South, ch. X
 ---
@@ -285,7 +285,7 @@ sources: T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
 kind: path
 title: The Passion without Christ's name
 path: passion
-body: Lines 322 to 330, as Cleanth Brooks read them in 1939, tell the arrest by night, the agony in the garden and the death of Christ without naming him. The section goes on to the road to Emmaus, a "maternal lamentation" heard high in the air, Ezekiel's dry bones, the cock on the rooftree and Isaiah's warning to a dying king. The pathway on the Bible and the Prayer Book takes them in order and ends at the last line, where Eliot's note glosses "Shantih" with words from the Prayer Book's blessing that ends Holy Communion.
+body: Lines 322 to 330, as the critic Cleanth Brooks read them in 1939, tell the arrest by night, the agony in the garden and the death of Christ without naming him. The section goes on to the road to Emmaus, a “maternal lamentation” heard high in the air, Ezekiel’s dry bones, the cock on the rooftree and Isaiah’s warning to a dying king. At the last line Eliot’s note glosses “Shantih” with words from the Prayer Book’s blessing that ends Holy Communion. The pathway called The Bible and the Prayer Book takes them in order.
 ---
 kind: draft
 title: OK from here on
@@ -304,5 +304,5 @@ body: The Voices lens gives lines 424 to 426 to the Fisher King, lines 427 to 43
 ---
 kind: ask
 title: The last word
-body: "Shantih shantih shantih." Eliot's note calls it the formal ending of an Upanishad; in 1922 he called "The Peace which passeth understanding" a feeble translation of the word, and from 1925 "our equivalent." Is the line a blessing on the poem, or a man saying the word to himself?
+body: "Shantih shantih shantih." Eliot's note calls it the formal ending of an Upanishad; in 1922 he called "The Peace which passeth understanding" a feeble translation of the word, and from 1925 "our equivalent." One way in is to read the last line twice, once as a blessing on the poem and once as a man saying the word to himself.
 sources: Poems 1909–1925, The Waste Land, the note on line 433

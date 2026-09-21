@@ -1,4 +1,4 @@
-// CXI  My nerves are bad to-night. Yes, bad. Stay with me. A closed room: the woman upright in her chair, the man silent at the window, the wind under the door, the chess board between them.
+// CXI  My nerves are bad tonight. Yes, bad. Stay with me. A closed room: the woman upright in her chair, the man silent at the window, the wind under the door, the chess board between them.
 const { Card, Path, C, INK, deg, rot, clipTo, clipPolyline, offsetPolyline } = require('../lib');
 const { tube } = require('../fig');
 module.exports = function badNerves() {

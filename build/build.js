@@ -456,7 +456,7 @@ function renderPoemPage() {
     tarotNotes,
     ui: U,
     tarotTitles: Object.fromEntries(tarotFiles.map(f => { const m = /<title>([^<]*)<\/title>/.exec(read(path.join(tarotDir, f))); return [f.replace(/\.svg$/, ''), m ? m[1].trim() : '']; })),
-    media: media.filter(m => m.verified)
+    media: media.filter(m => m.verified).map(({ description, ...m }) => m)
   };
   fs.writeFileSync(path.join(SITE, 'js', 'data.js'), 'window.WL = ' + JSON.stringify(data) + ';\n');
   const html = head(page('title-poem')) + `<body class="poem-page" data-lens="echoes">${runningHead('index.html')}${body}<script src="js/data.js"></script><script src="js/poem.js"></script></body></html>`;
@@ -726,7 +726,7 @@ function renderListenPage() {
     if (!src) return '';
     const kind = /soundcloud/.test(src) ? 'sc' : /xeno-canto/.test(src) ? 'xc' : 'video';
     if (kind === 'xc' && !/simple=/.test(src)) src += '?simple=1';
-    return `<details class="embed"><summary>${page('listen-play')}</summary><iframe loading="lazy" src="${attr(src)}" title="${attr(r.title)}" class="${kind}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></details>`;
+    return `<details class="embed"><summary>${r.group === 'pages' ? page('listen-read') : page('listen-play')}</summary><iframe loading="lazy" src="${attr(src)}" title="${attr(r.title)}" class="${kind}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></details>`;
   }
   let body = `<main class="prose wide listen"><h1 class="pagetitle">${page('listen-title')}</h1>
   <p class="lede">${page('listen-lede')}</p>`;
@@ -741,7 +741,7 @@ function renderListenPage() {
       body += `<article class="record" data-kind="${kind}" id="rec-${r.id}"><div class="disc" aria-hidden="true"><div class="label"><span class="who">${esc(label)}</span><span class="when">${esc(r.label || ((r.when || '').match(/\d{4}/) || [''])[0])}</span></div></div>
       <div class="rec-body"><h3>${r.title}</h3><p class="rec-who">${esc(r.who || '')}</p><p class="rec-meta">${esc(r.when || '')}</p><p>${fill(paragraphs(r.body || '').replace(/^<p>|<\/p>$/g, ''), m)}</p>${citeHTML(r.sources)}
       ${embedFor(r, m)}
-      <p class="rec-link"><a href="${attr(m.url)}" rel="noopener">${page('listen-open')} ${esc(r.host || m.host || 'source')}</a></p></div></article>`;
+      <p class="rec-link"><a href="${attr(r.url || m.url)}" rel="noopener">${page('listen-open')} ${esc(r.host || m.host || 'source')}</a></p></div></article>`;
     }
     body += `</div>`;
   }

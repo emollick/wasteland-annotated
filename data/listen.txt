@@ -27,9 +27,10 @@ group: eliot
 title: The 1933 reading again, at PennSound
 who: T. S. Eliot
 when: Labelled 1935 by PennSound
+label: 1933 (PennSound: 1935)
 host: PennSound, University of Pennsylvania
 embed: none
-body: The same Columbia series in two complete versions of different lengths, about twenty-five and twenty-eight minutes, each divided by section, on PennSound’s own page. PennSound holds it with the permission of the Eliot estate, for study and teaching. It gives the date as 1935, though its own headnote says the Columbia recordings were made in 1933, 1935 and later; the Poetry Archive, which credits the redating to 1933 to Lacy Rumsey, refers readers to Richard Swigg’s <i>Quick, Said the Bird</i> and Jason Camlot’s <i>Phonopoetics</i> for more on the recording.
+body: The same Columbia series in two complete versions of different lengths, about twenty-five and twenty-eight minutes, each divided by section, on PennSound’s own page. PennSound holds it with the permission of the Eliot estate, for study and teaching. It gives the date as 1935, though its own headnote says the Columbia recordings were made in 1933, 1935 and later. Richard Swigg’s <i>Quick, Said the Bird</i> (2012) and Jason Camlot’s <i>Phonopoetics</i> (2019) have more on the recording.
 sources: PennSound
 The Poetry Archive
 Swigg (2012)
@@ -40,10 +41,10 @@ group: eliot
 title: Eliot reads the whole poem, the later recording
 who: T. S. Eliot
 when: The Caedmon recording, usually dated 1946; this copy put out online in January 1994
-label: later
+label: 1940s
 host: Internet Archive
 embed: auto
-body: The later recording, the one issued on record. Harper & Row, which bought the Caedmon label in 1987 and became HarperCollins, reissued it under its Harper Audio name. This copy was put out by Harper Audio on 18 January 1994 through the Internet Multicasting Service, which had started an early internet radio station the year before, on its Internet Town Hall channel, as sound files at 8 kHz; HarperCollins consented to that distribution only. The Internet Archive keeps it as a thirty-one-minute MP3. The sound is poor, about the quality of a telephone line. The Poetry Archive dates the recording 1946; the item itself gives no year.
+body: The later recording, the one issued on record. Harper & Row, which bought the Caedmon label in 1987 and became HarperCollins, reissued it under its Harper Audio name. This copy was put out by Harper Audio on 18 January 1994 through the Internet Multicasting Service, which had started an early internet radio station the year before, on its Internet Town Hall channel, as sound files at 8 kHz; HarperCollins consented to that distribution, as an 8 kHz sound file. The Internet Archive keeps it as a thirty-one-minute MP3. The sound is poor, about the quality of a telephone line. The Poetry Archive dates the recording 1946; the item itself gives no year.
 sources: Harper Audio (1994)
 Mitgang, New York Times, 27 August 1987
 The Poetry Archive
@@ -65,17 +66,18 @@ who: Alec Guinness
 when: Argo’s double album of 1975
 host: YouTube
 embed: none
-body: Guinness’s readings of The Waste Land and Four Quartets were issued by Argo in its series British Poets of Our Time, made with the Arts Council of Great Britain and the BBC; the double album of 1975 gathers them with eight shorter pieces, Prufrock and Journey of the Magi among them. The copy online is a listener’s upload to YouTube, so it is linked from here and not played on this page.
+body: Guinness’s readings of The Waste Land and Four Quartets were issued by the record label Argo in its series British Poets of Our Time, made with the Arts Council of Great Britain and the BBC; the double album of 1975 gathers them with eight shorter pieces, Prufrock and Journey of the Magi among them. The copy online is a listener’s upload to YouTube, so it is linked from here and not played on this page.
 sources: Guinness, Argo album (1975)
 ---
 id: irons-atkins-bbc-radio4-2012
 group: readers
+url: https://www.bbc.co.uk/programmes/b086l8m2
 title: Jeremy Irons reads the poem, BBC Radio 4, 2017
 who: Jeremy Irons, presented by Martha Kearney with Jeanette Winterson, Rowan Williams and Jackie Kay
 when: Broadcast 1 January 2017
 host: BBC
 embed: https://archive.org/embed/BBC_Radio_4_FM_20170101_140000_Jeremy_Irons_Reads_TS_Eliot
-body: Irons reads the poem on his own in this Radio 4 programme, broadcast on 1 January 2017 and kept by the Internet Archive in a recording made off the air. It was the third of five programmes in which Martha Kearney and her guests introduced his readings of Eliot; the guests here are Jeanette Winterson, Rowan Williams and Jackie Kay. Five years earlier, on 30 March 2012, Irons and Eileen Atkins had shared the poem’s voices between them in another Radio 4 broadcast, introduced by Rowan Williams, Jackie Kay, Matthew Hollis and Sean O’Brien. The BBC’s page for that reading, linked here, has the details and no audio; the copies of it on YouTube are listeners’ uploads and are not played here.
+body: Irons reads the poem on his own in this Radio 4 programme, broadcast on 1 January 2017 and kept by the Internet Archive in a recording made off the air. It was the third of five programmes in which Martha Kearney and her guests introduced his readings of Eliot; the guests here are Jeanette Winterson, Rowan Williams and Jackie Kay. Five years earlier, on 30 March 2012, Irons and Eileen Atkins had shared the poem’s voices between them in another Radio 4 broadcast, introduced by Rowan Williams, Jackie Kay, Matthew Hollis and Sean O’Brien. The BBC’s page for this programme, which the button Open at BBC opens, has the details and no audio; its page for the 2012 reading has the same; the copies of it on YouTube are listeners’ uploads and are not played here.
 sources: BBC Radio 4, 1 January 2017
 jeremyirons.net, 20 January 2017
 BBC Radio 4, 30 March 2012
@@ -97,7 +99,7 @@ who: Fiona Shaw, directed by Deborah Warner
 when: Newsnight, January 2015; the staging dates from 1995, the film from 1996
 host: YouTube (BBC)
 embed: auto
-body: Deborah Warner directed Fiona Shaw in the poem as a piece of theatre, with Shaw alone on a bare stage taking every voice. It opened in Brussels in May 1995 and toured, and {link:shaw-warner-film-cannes-1996|Warner’s film of it, made for the BBC, was shown at Cannes} in May 1996. In 1997 the staging ran at Wilton’s Music Hall in the East End, which is why that hall is on the site’s map. The clip here is the BBC’s own, of Shaw performing part of the poem on Newsnight in January 2015, fifty years after Eliot’s death. The film itself circulates only in unofficial copies, which are not played here.
+body: Deborah Warner directed Fiona Shaw in the poem as a piece of theatre, with Shaw alone on a bare stage taking every voice. It opened in Brussels in May 1995 and toured, and {link:shaw-warner-film-cannes-1996|Warner’s film of it, made for the BBC, was shown at Cannes} in May 1996. In 1997 the staging ran at Wilton’s Music Hall in the East End. The clip here is the BBC’s own, of Shaw performing part of the poem on Newsnight in January 2015, fifty years after Eliot’s death. The film itself circulates only in unofficial copies, which are not played here.
 sources: Playbill, 28 October 1996
 Festival de Cannes, The Waste Land (1996)
 Playbill, 8 December 1997
@@ -144,7 +146,7 @@ who: Edoardo Ballerini
 when: Faber and the T. S. Eliot Foundation, January 2022
 host: SoundCloud (Faber)
 embed: auto
-body: An extract from the audiobook made for the poem’s hundredth year. Ballerini also read the whole poem for {link:ballerini-queens-public-library-2022|the Queens Public Library} that year, with a conversation after.
+body: An extract, the opening lines of The Burial of the Dead, sixty-nine seconds, from the audiobook made for the poem’s hundredth year. Ballerini also read the whole poem for {link:ballerini-queens-public-library-2022|the Queens Public Library} that year, with a conversation after.
 sources: Faber (SoundCloud), “The Waste Land audio extract read by Edoardo Ballerini”
 Ballerini, The Waste Land audiobook (2022)
 Queens Public Library, Ballerini reading (2022)
@@ -166,7 +168,7 @@ who: Gustav Rödin, young sailor; Bayreuth Festival under Karl Elmendorff
 when: Recorded at the festival in July 1928, on Columbia 78s
 host: Internet Archive
 embed: auto
-body: Lines 31 to 34 quote the young sailor’s song at the start of Wagner’s Tristan und Isolde, sung unaccompanied from aloft, as if from the mast; Isolde, below, takes it as mockery of her. In the Archive’s track list the song is “Westwärts schweift der Blick”, track 2, and its return “Frisch weht der Wind”, track 5. The surface noise of the 78s is left in.
+body: Lines 31 to 34 quote the young sailor’s song at the start of Wagner’s Tristan und Isolde, sung unaccompanied from aloft, as if from the mast; Isolde, below, takes it as mockery of her. In the Internet Archive’s track list the song is “Westwärts schweift der Blick”, track 2, and its return “Frisch weht der Wind”, track 5. The surface noise of the 78s is left in.
 sources: Wagner, Tristan und Isolde I.i
 Tristan (Bayreuth, 1928), first act
 ---
@@ -199,7 +201,7 @@ who: Music by Dave Stamper, words by Gene Buck and Herman Ruby
 when: Jos. W. Stern and Co., New York, 1912
 host: York University Libraries
 embed: none
-body: Line 128’s “O O O O that Shakespeherian Rag” adds a syllable to a popular song of 1912, usually said to have been sung in that year’s Ziegfeld Follies, though no performance in the show has been traced; the cover spells it “Shakesperian”. York University in Toronto has the sheet music, scanned with its cover. No recording from the time has turned up in the Library of Congress or the Internet Archive.
+body: Line 128’s “O O O O that Shakespeherian Rag” adds a syllable to a popular song of 1912, usually said to have been sung in that year’s Ziegfeld Follies, the Broadway revue, though no performance in the show has been traced; the cover spells it “Shakesperian”. York University in Toronto has the sheet music, scanned with its cover. No recording from the time has turned up in the Library of Congress or the Internet Archive.
 sources: Buck, Ruby and Stamper, "That Shakespearian Rag" (1912)
 McElderry (1957)
 Guerrieri (2017)
@@ -211,7 +213,7 @@ who: Recorded by Denis Provencher
 when: 1 May 2024, in the Laurentians
 host: xeno-canto
 embed: auto
-body: Eliot’s note on line 357: “the hermit-thrush which I have heard in Quebec County.” This one was singing on a May evening in the Laurentians, north of Montreal. Licensed CC BY-NC-SA.
+body: Eliot’s note on line 357: “the hermit-thrush which I have heard in Quebec County.” This one was singing on a May evening in the Laurentians, north of Montreal. Licensed CC BY-NC-SA, so it may be reused with credit, for non-commercial purposes, and under the same licence.
 ---
 id: xc715748-hermit-thrush-by-sa
 group: birds
@@ -290,7 +292,7 @@ who: Sir James George Frazer
 when: First edition, 1906
 host: Internet Archive
 embed: auto
-body: The headnote to Eliot’s notes names “the two volumes Atthis Adonis Osiris”, that is, Adonis, Attis, Osiris, Part IV of the third edition of The Golden Bough (1914). This is the book’s first edition of 1906, in one volume. It gives Frazer’s account of the dying and reviving gods, the gardens of Adonis and the images of the god thrown into the sea, first set out in The Golden Bough of 1890 and enlarged here. The other book the headnote names, Jessie Weston’s From Ritual to Romance, is {link:gutenberg-4090-weston|on Project Gutenberg}, and so is {link:gutenberg-3623-frazer-golden-bough|the one-volume Golden Bough} of 1922.
+body: Eliot’s note at the head of his notes names “the two volumes Atthis Adonis Osiris”, as the 1922 printing spells it; they are Adonis, Attis, Osiris, Part IV of the third edition of The Golden Bough (1914). This is the book’s first edition of 1906, in one volume. It gives Frazer’s account of the dying and reviving gods, the gardens of Adonis and the images of the god thrown into the sea, first set out in The Golden Bough of 1890 and enlarged here. The other book the headnote names, Jessie Weston’s From Ritual to Romance, is {link:gutenberg-4090-weston|on Project Gutenberg}, and so is {link:gutenberg-3623-frazer-golden-bough|the one-volume Golden Bough} of 1922.
 sources: Frazer, Adonis, Attis, Osiris, preface, p. v
 Frazer, The Golden Bough, part IV (1914)
 Frazer, The Golden Bough (1922)

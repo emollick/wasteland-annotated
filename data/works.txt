@@ -42,7 +42,7 @@ full: T. S. Eliot, "Thomas Middleton," <i>Times Literary Supplement</i>, no. 132
 ---
 id: eliot-pascal-1931
 short: Eliot, "The Pensées of Pascal" (1931)
-full: T. S. Eliot, introduction to Pascal's <i>Pensées</i>, trans. W. F. Trotter, Everyman's Library 874 (London: Dent, 1931); collected as "The 'Pensées' of Pascal" in <i>Selected Essays</i> (1932). Described, not quoted at length: a text after 1929.
+full: T. S. Eliot, introduction to Pascal's <i>Pensées</i>, trans. W. F. Trotter, Everyman's Library 874 (London: Dent, 1931); collected as "The 'Pensées' of Pascal" in <i>Selected Essays</i> (1932). Described, not quoted at length.
 ---
 id: eliot-after-strange-gods
 short: Eliot, After Strange Gods (1934)
@@ -627,7 +627,7 @@ url: https://archive.org/details/greekanthologyii0002pato
 ---
 id: eliot-dry-salvages
 short: Eliot, The Dry Salvages (1941)
-full: T. S. Eliot, <i>The Dry Salvages</i> (London: Faber and Faber, 1941), the headnote placing the rocks, with their beacon, off the north-east coast of Cape Ann, Massachusetts. Described, not quoted: a text after 1929.
+full: T. S. Eliot, <i>The Dry Salvages</i> (London: Faber and Faber, 1941), the headnote placing the rocks, with their beacon, off the north-east coast of Cape Ann, Massachusetts. Described, not quoted.
 ---
 id: deutsch-1952
 short: Deutsch (1952)
@@ -858,7 +858,7 @@ url: https://archive.org/details/purgatorio00aliguoft
 ---
 id: eliot-dante-1929
 short: Eliot, Dante (1929)
-full: T. S. Eliot, <i>Dante</i>, The Poets on the Poets, no. 2 (London: Faber and Faber, 1929), whose preface says he read Dante in Dent's Temple Classics edition; collected in <i>Selected Essays</i> (1932). Quoted where a stop quotes it, as a text of 1929.
+full: T. S. Eliot, <i>Dante</i>, The Poets on the Poets, no. 2 (London: Faber and Faber, 1929), whose preface says he read Dante in Dent's Temple Classics edition; collected in <i>Selected Essays</i> (1932). Quoted in a phrase where the site quotes it, as a text of 1929.
 url: https://archive.org/details/dante0000tsel
 ---
 id: musgrove-1952
