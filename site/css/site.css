@@ -445,7 +445,6 @@ body.heart .line .txt .w.show, body.heart .line .txt .w:hover { color: inherit; 
 .record { display: grid; grid-template-columns: 6.4rem minmax(0, 1fr); gap: 1rem; align-items: start; padding: 1rem 0; border-top: 1px solid var(--rule); min-width: 0; }
 .rec-body { min-width: 0; overflow-wrap: anywhere; }
 .rec-who { font-size: .8rem; color: var(--ink-2); margin: .1rem 0 0; }
-@media (max-width: 480px) { .record { grid-template-columns: 4.4rem minmax(0, 1fr); gap: .7rem; } .disc { width: 4.2rem; height: 4.2rem; } .disc .label { width: 2rem; height: 2rem; font-size: .34rem; } }
 .disc { width: 6.2rem; height: 6.2rem; border-radius: 50%; background: repeating-radial-gradient(circle at center, var(--ink) 0 1px, var(--ink-2) 1px 2px, var(--ink) 2px 3px); box-shadow: inset 0 0 0 1px var(--ink-2), 0 1px 3px rgba(0,0,0,.3); display: grid; place-items: center; transition: transform 1.2s linear; }
 .record:hover .disc { transform: rotate(35deg); }
 .disc .label { width: 2.9rem; height: 2.9rem; border-radius: 50%; background: var(--gold); color: #1B1917; display: grid; place-content: center; text-align: center; font-size: .42rem; line-height: 1.15; letter-spacing: .04em; font-variant-caps: small-caps; padding: .2rem; overflow: hidden; }
@@ -454,6 +453,7 @@ body.heart .line .txt .w.show, body.heart .line .txt .w:hover { color: inherit; 
 .record[data-kind="birdsong"] .disc .label { background: var(--paper); }
 .record[data-kind="scan"] .disc { border-radius: 4px; background: var(--paper-3); box-shadow: inset 0 0 0 1px var(--rule-2); }
 .record[data-kind="scan"] .disc .label { border-radius: 2px; background: var(--paper); font-size: .5rem; }
+@media (max-width: 480px) { /* after the rules above, so that it narrows them */ .record { grid-template-columns: 4.4rem minmax(0, 1fr); gap: .7rem; } .disc { width: 4.2rem; height: 4.2rem; } .disc .label { width: 2rem; height: 2rem; font-size: .34rem; } }
 .record h3 { font-size: 1rem; margin: 0 0 .1rem; font-weight: 500; line-height: 1.3; }
 .rec-meta { font-size: .7rem; color: var(--ink-3); margin: 0 0 .4rem; }
 .rec-body p { font-size: .84rem; line-height: 1.5; margin: 0 0 .4rem; color: var(--ink-2); }

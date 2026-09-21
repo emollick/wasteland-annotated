@@ -59,7 +59,8 @@
     } else {
       card.classList.add('card-inline');
       const host = anchorEl.closest('.line') || anchorEl.closest('.part-title') || anchorEl.closest('.tp-epigraph') || anchorEl; // after the epigraph paragraph, not inside it: its lang="la" would set the font's Latin letterforms (u as v) on the card
-      host.insertAdjacentElement('afterend', card);
+      if (sticky) { card.dataset.sticky = '1'; const tag = host.previousElementSibling; (tag && tag.classList.contains('voice-tag') ? tag : host).insertAdjacentElement('beforebegin', card); } // a legend reads before the passage, not between two of its lines, and before the voice's tag when the line has one
+      else host.insertAdjacentElement('afterend', card);
     }
   }
   function foldOthers(keep) {
@@ -301,7 +302,11 @@
     if (k === 'drafts') showDrafts();
     paintSpine();
     relayout();
-    if (!opts.init && prev !== k && state.lensAnchor > 1) go(state.lensAnchor, false);
+    if (!opts.init && prev !== k && state.lensAnchor > 1) {
+      const legend = !wide() && $('.card-inline[data-sticky]');
+      if (legend) window.scrollTo({ top: legend.getBoundingClientRect().top + window.scrollY - headerBottom() - 16, behavior: reduce ? 'auto' : 'smooth' }); // the legend first, then the passage the reader was at
+      else go(state.lensAnchor, false);
+    }
     try { localStorage.setItem('wl-lens', k); } catch (e) { }
   }
   $$('.lens').forEach(b => b.addEventListener('click', () => setLens(b.dataset.lens)));
