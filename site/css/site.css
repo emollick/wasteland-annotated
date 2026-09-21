@@ -622,7 +622,8 @@ body.follow .voice-tag:not(.v-on) { opacity: .25; }
 .walk.intro { width: min(27rem, calc(100vw - 2rem)); }
 .walk.intro .walk-head { font-size: 1.15rem; }
 .walk-why { margin: 0 0 .55rem; font-size: .86rem; color: var(--ink-2); }
-.walk .walk-text { max-height: 42vh; overflow: auto; }
+.walk .walk-text { max-height: 38vh; overflow: auto; }
+@media (max-height: 700px) { .walk .walk-text { max-height: 33vh; } } /* a short phone: room for the dedication above the panel at the title page */
 .walk.intro .walk-text { font-size: .82rem; color: var(--ink-2); }
 .walk .walk-text.more { -webkit-mask-image: linear-gradient(#000 calc(100% - 2.6em), transparent); mask-image: linear-gradient(#000 calc(100% - 2.6em), transparent); } /* the last lines fade while there is more below to scroll to */
 .walk-text p { margin: 0 0 .6em; }
