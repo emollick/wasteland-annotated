@@ -292,8 +292,8 @@ url: https://archive.org/details/adonisattisosiri00frazuoft
 ---
 id: chaucer
 short: Chaucer, General Prologue
-full: Geoffrey Chaucer, <i>The Canterbury Tales</i>, General Prologue, lines 1–12, in <i>The Complete Works of Geoffrey Chaucer</i>, ed. W. W. Skeat (Oxford, 1894–97).
-url: https://www.gutenberg.org/ebooks/22120
+full: Geoffrey Chaucer, <i>The Canterbury Tales</i>, General Prologue, lines 1–12, in the text on Wikisource (<i>The Canterbury Tales</i>, unsourced), which the site prints ("perced to the roote"); W. W. Skeat's edition, <i>The Complete Works of Geoffrey Chaucer</i> (Oxford, 1894–97), on Project Gutenberg, reads "perced to the rote".
+url: https://en.wikisource.org/wiki/The_Canterbury_Tales_(unsourced)/General_Prologue
 ---
 id: petronius
 short: Petronius, Satyricon
@@ -1084,3 +1084,8 @@ id: dickey-2020
 short: Dickey (2020)
 full: Frances Dickey, "May the Record Speak: The Correspondence of T. S. Eliot and Emily Hale," <i>Twentieth-Century Literature</i> 66, no. 4 (December 2020), 431–62.
 url: https://english.missouri.edu/sites/default/files/people-files/may-the-record-speak.the-correspondence-of-t-s-eliot-and-emily-hale.pdf
+---
+id: fraudulent-mediums-act
+short: Fraudulent Mediums Act 1951
+full: Fraudulent Mediums Act 1951 (14 & 15 Geo. 6, c. 33), section 2, which repealed the Witchcraft Act 1735 and section 4 of the Vagrancy Act 1824 so far as it extended to spiritualistic mediums and to persons purporting to exercise telepathy, clairvoyance or similar powers.
+url: https://www.legislation.gov.uk/ukpga/Geo6/14-15/33
