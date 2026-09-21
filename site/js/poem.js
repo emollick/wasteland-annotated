@@ -560,14 +560,20 @@
     renderWalk();
     history.replaceState(null, '', '#path=' + id);
   }
+  function showIntroPage(p) { // the introduction as a page: the title, the reason, the paragraphs, the References, then Begin; closing it leaves the guide's first panel, which can reopen it
+    const ov = overlay(p.title, p.why || '', `<div class="reading">${p.intro}</div>${p.cites || ''}<div class="walk-nav"><button class="next begin">${ui('walk-begin')}</button><span class="pos">${ui('walk-stops').replace('{n}', p.stops.length)}</span></div>`, 'reading');
+    ov.addEventListener('click', e => { if (e.target.closest('.next') && state.walk) { closeOverlay(); state.walk.i = 0; renderWalk(); } });
+  }
+  function fadeWhenMore(t) { if (!t) return; const more = () => t.classList.toggle('more', t.scrollTop + t.clientHeight < t.scrollHeight - 2); more(); t.addEventListener('scroll', more, { passive: true }); } // where a text box scrolls, its last lines fade until the reader reaches the end
   function renderWalk() {
     const w = $('#walk'); if (!w || !state.walk) return;
     const { p, i } = state.walk;
     if (i < 0) {
       w.className = 'walk intro';
-      w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${ui('walk-title')}</p><p class="walk-head">${p.title}</p>${p.why ? `<p class="walk-why">${p.why}</p>` : ''}<p class="walk-text">${p.intro}</p>${p.cites || ''}<div class="walk-nav"><button class="next begin">${ui('walk-begin')}</button><span class="pos">${ui('walk-stops').replace('{n}', p.stops.length)}</span></div>`;
-      w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.next')) { state.walk.i = 0; renderWalk(); } };
-      const t = $('.walk-text', w); const more = () => t.classList.toggle('more', t.scrollTop + t.clientHeight < t.scrollHeight - 2); more(); t.addEventListener('scroll', more, { passive: true }); // on a short screen the box scrolls, and its last lines fade until the reader reaches the end
+      const long = (p.intro.match(/<p[\s>]/g) || []).length > 1; // an introduction of several paragraphs is a page of its own, read before the stops
+      w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${ui('walk-title')}</p><p class="walk-head">${p.title}</p>${p.why ? `<p class="walk-why">${p.why}</p>` : ''}${long ? '' : `<div class="walk-text">${p.intro}</div>${p.cites || ''}`}<div class="walk-nav"><button class="next begin">${ui('walk-begin')}</button>${long ? `<button class="read-intro">${ui('walk-read-intro')}</button>` : ''}<span class="pos">${ui('walk-stops').replace('{n}', p.stops.length)}</span></div>`;
+      w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.next')) { closeOverlay(); state.walk.i = 0; renderWalk(); } else if (e.target.closest('.read-intro')) showIntroPage(p); };
+      if (long) showIntroPage(p); else fadeWhenMore($('.walk-text', w));
       $$('.line.cur').forEach(l => l.classList.remove('cur'));
       return;
     }
@@ -576,6 +582,7 @@
     const part = s.line ? partOf(s.line) : null;
     w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${p.title} · ${i + 1} of ${p.stops.length}</p><p class="walk-head">${s.line ? `Line ${s.line}${part ? ' · ' + part.numeral : ''}` : ui('walk-title-page')}</p><p class="walk-text">${s.text}</p>${s.cites || ''}<div class="walk-nav"><button class="prev">${ui('walk-back')}</button><button class="next">${i === p.stops.length - 1 ? ui('walk-finish') : ui('walk-next')}</button></div>`;
     w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.prev')) { state.walk.i = i - 1; renderWalk(); } else if (e.target.closest('.next')) { if (i === p.stops.length - 1) { stopWalk(); return; } state.walk.i = i + 1; renderWalk(); } };
+    fadeWhenMore($('.walk-text', w));
     $$('.line.cur').forEach(l => l.classList.remove('cur'));
     if (s.line) { const el = lineEl(s.line); el && el.classList.add('cur'); go(s.line, false); }
     else { // the title page: the top, or, where the guide would cover the dedication (a phone), just far enough down to keep it above the panel

@@ -578,6 +578,10 @@ id: walk-begin
 where: Take a pathway: the button on the guide’s first panel that starts the stops
 text: Begin
 ---
+id: walk-read-intro
+where: Take a pathway: the button on the guide’s first panel that reopens an introduction of several paragraphs, which is shown as a page of its own
+text: Read the introduction
+---
 id: walk-stops
 where: Take a pathway: the count of stops shown for each pathway; {n} is the number
 text: {n} stops
