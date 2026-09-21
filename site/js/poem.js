@@ -107,7 +107,14 @@
     foldOthers(card);
     if (wide() && a && a.closest('.titlepage')) setTimeout(() => card.scrollIntoView({ block: 'center', behavior: reduce ? 'auto' : 'smooth' }), 80);
     $$('.card-plate[data-svg]', card).forEach(f => fetchSVG(f.dataset.svg).then(t => { if (t) { f.innerHTML = t; relayout(); } }));
-    if (!wide() && opts.scroll !== false) card.scrollIntoView({ block: 'nearest', behavior: reduce ? 'auto' : 'smooth' });
+    if (!wide() && opts.scroll !== false) showInline(card);
+  }
+  function showInline(card) { // bring an inline card into view under the bars at the top: a card taller than the room left below them sits with its title just under them, a shorter one moves only as far as it must
+    const hb = headerBottom() + 8, r = card.getBoundingClientRect(), vh = window.innerHeight;
+    let y = null;
+    if (r.height > vh - hb - 8 || r.top < hb) y = r.top + window.scrollY - hb;
+    else if (r.bottom > vh - 8) y = r.bottom + window.scrollY - vh + 8;
+    if (y !== null) window.scrollTo({ top: y, behavior: reduce ? 'auto' : 'smooth' });
   }
   document.addEventListener('click', e => {
     const folded = e.target.closest('.card.folded');
