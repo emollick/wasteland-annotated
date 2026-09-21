@@ -69,7 +69,7 @@ embed: none
 body: Guinness’s readings of The Waste Land and Four Quartets were issued by the record label Argo in its series British Poets of Our Time, made with the Arts Council of Great Britain and the BBC; the double album of 1975 gathers them with eight shorter pieces, Prufrock and Journey of the Magi among them. The copy online is a listener’s upload to YouTube, so it is linked from here and not played on this page.
 sources: Guinness, Argo album (1975)
 ---
-id: irons-atkins-bbc-radio4-2012
+id: irons-bbc-radio4-2017-archive
 group: readers
 url: https://www.bbc.co.uk/programmes/b086l8m2
 title: Jeremy Irons reads the poem, BBC Radio 4, 2017
@@ -77,7 +77,7 @@ who: Jeremy Irons, presented by Martha Kearney with Jeanette Winterson, Rowan Wi
 when: Broadcast 1 January 2017
 host: BBC
 embed: https://archive.org/embed/BBC_Radio_4_FM_20170101_140000_Jeremy_Irons_Reads_TS_Eliot
-body: Irons reads the poem on his own in this Radio 4 programme, broadcast on 1 January 2017 and kept by the Internet Archive in a recording made off the air. It was the third of five programmes in which Martha Kearney and her guests introduced his readings of Eliot; the guests here are Jeanette Winterson, Rowan Williams and Jackie Kay. Five years earlier, on 30 March 2012, Irons and Eileen Atkins had shared the poem’s voices between them in another Radio 4 broadcast, introduced by Rowan Williams, Jackie Kay, Matthew Hollis and Sean O’Brien. The BBC’s page for this programme, which the button Open at BBC opens, has the details and no audio; its page for the 2012 reading has the same; the copies of it on YouTube are listeners’ uploads and are not played here.
+body: Irons reads the poem on his own in this Radio 4 programme, broadcast on 1 January 2017 and kept by the Internet Archive in {link:irons-bbc-radio4-2017-archive|a recording made off the air}, which is the copy that plays here. It was the third of five programmes in which Martha Kearney and her guests introduced his readings of Eliot; the guests here are Jeanette Winterson, Rowan Williams and Jackie Kay. Five years earlier, on 30 March 2012, Irons and Eileen Atkins had shared the poem’s voices between them in another Radio 4 broadcast, introduced by Rowan Williams, Jackie Kay, Matthew Hollis and Sean O’Brien. The BBC’s page for this programme, which the button Open at BBC opens, has the details and no audio; its page for the 2012 reading has the same; the copies of it on YouTube are listeners’ uploads and are not played here.
 sources: BBC Radio 4, 1 January 2017
 jeremyirons.net, 20 January 2017
 BBC Radio 4, 30 March 2012
