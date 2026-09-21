@@ -45,7 +45,7 @@ line: 331
 text: No water from here to line 359. At line 395 a gust brings rain.
 ---
 line: 427
-text: The last eight lines are mostly quotations, in five languages. The Fragments view gives each its source.
+text: The last eight lines are mostly quotations, in five languages. The tool Unstack the last lines gives each its source.
 ===
 id: grail
 title: The Grail and the waste land
