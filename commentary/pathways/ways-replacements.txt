@@ -1,0 +1,39 @@
+part: 1
+replaces: Meet the dead (kind: path, path: dead)
+---
+kind: path
+title: Weston's plan, from the title on
+path: grail
+body: Eliot's headnote credits Jessie L. Weston's book on the Grail legend with "not only the title, but the plan and a good deal of the incidental symbolism of the poem". The Grail pathway starts on the title page and stops where the plan shows in Part I: the dead land and the dry stone with "no sound of water", the Tarot cards Weston connected with the Grail, the warning "Fear death by water", and the corpse in Stetson's garden, one of the "references to vegetation ceremonies" the headnote says a reader of Frazer's <i>Golden Bough</i> will recognise.
+===
+part: 2
+replaces: The women, one after another (kind: path, path: women)
+---
+kind: path
+title: The couples in the room and the pub
+path: love
+body: In the room a woman asks to be spoken to and a man does not answer; in the pub Lil is told to get herself some teeth before Albert comes home, and the good night at closing time is Ophelia's, from <i>Hamlet</i>. The pathway on the loves that fail takes the poem's couples in order, from the hyacinth garden to the heart that "would have responded" at line 421, and stops four times here. Eliot's note on line 218 says "all the women are one woman"; the pathway sets the couples side by side so that you can judge it.
+===
+part: 3
+replaces: Every bird (kind: path, path: birds)
+---
+kind: path
+title: Spenser, Marvell, Day and Goldsmith
+path: method
+body: The pathway on the past beside the present stops four times in this section: at Spenser's nymphs and the Thames they have left; at Marvell's winged chariot and the rat; at Actaeon coming to Diana in John Day's <i>Parliament of Bees</i>, and Sweeney to Mrs. Porter; and at Goldsmith's song of a woman who "stoops to folly", and the gramophone. Take them in order and see what each pairing does. The pathway begins with Chaucer's April and ends at "These fragments I have shored against my ruins", beside Eliot's 1923 sentences on Joyce's <i>Ulysses</i>.
+===
+part: 4
+replaces: The drowned before Phlebas (kind: path, path: water)
+---
+kind: path
+title: The sea-change that does not come
+path: change
+body: Ariel's song in <i>The Tempest</i>, which the poem quotes at lines 48 and 125, promises that the drowned king's body will suffer "a sea-change / Into something rich and strange". Phlebas gets a current that picks his bones. The Metamorphosis pathway follows the poem's changed bodies, Philomel turned nightingale, Tiresias seven years a woman, and the drowned man, and reaches this section at line 315. There it quotes Cleanth Brooks (1939), for whom the drowned Phoenician Sailor recalls the drowned god of the fertility cults and "the way into life may be by death itself".
+===
+part: 5
+replaces: Every 'nothing' (kind: path, path: nothing)
+---
+kind: path
+title: The Passion without Christ's name
+path: passion
+body: Lines 322 to 330, as Cleanth Brooks read them in 1939, tell the arrest by night, the agony in the garden and the death of Christ without naming him. The section goes on to the road to Emmaus, a "maternal lamentation" heard high in the air, Ezekiel's dry bones, the cock on the rooftree and Isaiah's warning to a dying king. The pathway on the Bible and the Prayer Book takes them in order and ends at the last line, where Eliot's note glosses "Shantih" with words from the Prayer Book's blessing that ends Holy Communion.

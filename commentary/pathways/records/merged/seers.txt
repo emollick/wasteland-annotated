@@ -1,0 +1,89 @@
+id: seers
+title: Prophecy and sight
+intro: Prophecy in the poem, and the sight it depends on. The poem is full of people who claim to see what others cannot, and it shows what each of them is allowed to see. Its epigraph is spoken by a man who saw a prophetess with his own eyes, and all she had left to say was that she wanted to die. Eliot’s note on line 218 calls the blind Tiresias the poem’s most important personage and what he sees its substance; but what he foretells is a scene he says he has “foresuffered”, enacted before on the same bed. The thunder near the end says one syllable, and each hearer must make out the word for himself. Between the seers come the eyes that fail, from the hyacinth garden to the road to Emmaus. The stops say at each what is seen, by whom, and on what authority.
+why: The poem’s prophets, fortune-tellers and blind seers, from the Sibyl in the epigraph to Isaiah’s warning near the end, with the eyes that fail between them.
+---
+path: seers
+line: 0
+text: The poem's first seer is the Sibyl of Cumae, a prophetess, hanging in a jar; when boys ask what she wants, she answers that she wants to die. The speaker is Trimalchio, the rich freedman of Petronius's <i>Satyricon</i>, who says he saw her with his own eyes; the card gives his words and Ovid's story of how she came by her years and forgot to ask for youth. The one thing left for her to foretell, in Ovid, is her own dwindling, until only her voice remains.
+sources: Petronius, Satyricon 48
+Ovid, Metamorphoses XIV 130–153
+Southam, Guide, note on the epigraph
+---
+path: seers
+line: 19
+text: The lines from here to 30 take a prophet's address and a prophet's promise. "Son of man" is how God addresses Ezekiel (the card at line 20 gives it), and the speaker who borrows it addresses someone who knows only "A heap of broken images"; Southam sets the phrase beside Ezekiel's judgement on idols, "your images shall be broken" (6:4). The voice promises what a prophet is given, something shown ("I will show you", twice), and what it shows is not a vision but "fear in a handful of dust".
+sources: King James Bible, Ezekiel 2:1–3
+King James Bible, Ezekiel 6:4
+Southam, Guide, notes on lines 20 and 22
+Rainey, Annotated Waste Land, note on line 22
+---
+path: seers
+line: 39
+text: The first eyes in the poem after Trimalchio's in the epigraph are these, and they fail while looking "into the heart of light". The next line is Wagner's shepherd, set to watch for Isolde's ship and to pipe a merry tune if he sees it, reporting the sea desolate and empty (the card at line 42 gives the scene). In the garden the eyes fail and see nothing; on the shore they work, and there is nothing to see.
+sources: Wagner, Tristan und Isolde, Act III
+Southam, Guide, note on line 42
+Rainey, Annotated Waste Land, note on line 42
+---
+path: seers
+line: 43
+text: Madame Sosostris is the poem's seer by trade; the card in the margin gives her name's source and Eliot's note on line 46. What she cannot see matters here: one of her cards that she is "forbidden to see", and the Hanged Man, whom she does not find; the same note associates him with the hooded figure at line 364. Hugh Kenner (1959) saw in her parting line, "One must be so careful these days", a fortune-teller "harried by police"; the card in the margin gives the Vagrancy Act.
+sources: Huxley, Crome Yellow, ch. 27
+Vagrancy Act 1824, s. 4
+Kenner (1959)
+Southam, Guide, notes on lines 43–55
+Rainey, Annotated Waste Land, note on line 43
+---
+path: seers
+line: 48
+text: Ariel's song, which the card in the margin gives, has no "Look!"; the command is Eliot's addition, and the one order to look in Part I. The card in the margin also gives the line's return at 125, the one thing the man in Part II says he remembers, and Eliot's note on line 125 (numbered 126), which sends it back here and to the garden of line 37, where eyes failed.
+sources: Shakespeare, The Tempest I.ii
+Rainey, Annotated Waste Land, note on line 48
+---
+path: seers
+line: 65
+text: The crowd that Dante's line has just called dead (the card gives his passage) comes over the bridge with every eye on the ground, and the one who looks at it, and sees what it is, is the speaker. The one command to look in Part I was "Look!" (line 48); here no one in the crowd looks.
+sources: Dante, Inferno III 55–57
+Southam, Guide, note on line 63
+---
+path: seers
+line: 138
+text: Eliot's note names the chess game in Middleton's <i>Women Beware Women</i>; the card gives the scene, in which Livia keeps a widow at the board while the Duke seduces her daughter-in-law Bianca. Eliot quoted the exchange in 1927, ending at "I've given thee blind mate twice", and wrote that "The irony could not be improved upon". In the play the widow answers that her "eyes begin to fail". The watcher at the board sees nothing of what matters; the eyes at this line are "lidless", sleepless as the card says.
+sources: Middleton, Women Beware Women II.ii
+Eliot, "Thomas Middleton" (1927)
+Southam, Guide, note on line 137
+---
+path: seers
+line: 218
+text: Tiresias is the blind prophet of Thebes; the card gives Ovid's story of how Juno blinded him and Jupiter gave him foreknowledge. Brooks (1939) drew the irony that the commentator here is the seer who in Sophocles told Oedipus the cause of the plague on Thebes. What he foretells at line 229 he has already seen, "foresuffered all", enacted before on the same bed. Kenner (1959) read Eliot's note, which calls him "the most important personage in the poem", as an offer of "a nameable point of view".
+sources: Ovid, Metamorphoses III 316–338
+Brooks (1939)
+Kenner (1959)
+Southam, Guide, note on lines 218–220
+Rainey, Annotated Waste Land, note on line 218
+---
+path: seers
+line: 360
+text: Eliot's headnote to Part V names the journey to Emmaus; the card in the margin gives Luke's story and Shackleton's. The pathway takes one clause from Luke: the disciples walked beside the risen Christ and "their eyes were holden that they should not know him" (24:16). Here counting and looking give different answers, and what the eyes see is hooded, "a man or a woman" unknown. Eliot's note on line 46 associates this figure with the Hanged Man, the card Madame Sosostris could not find at line 55.
+sources: King James Bible, Luke 24:13–31
+Shackleton, South, ch. X
+Southam, Guide, note on lines 360–365
+Rainey, Annotated Waste Land, note on line 359
+---
+path: seers
+line: 367
+text: Eliot's note on these lines quotes the close of an essay on Dostoevsky's <i>The Brothers Karamazov</i> by the German novelist Hermann Hesse: half of Europe is on the way to chaos, singing drunkenly as Dmitri Karamazov sang, and while the citizen laughs, "der Heilige und Seher hört sie mit Tränen", the saint and the seer hear them with tears. Read lines 367 to 385 as what such a seer hears and sees: questions first, "What is that sound", "Who are those hooded hordes", and from line 378 plain statements.
+sources: Hesse, Blick ins Chaos, "Die Brüder Karamasoff oder der Untergang Europas"
+Southam, Guide, note on lines 368–369
+---
+path: seers
+line: 400
+text: After the Sibyl, Madame Sosostris and Tiresias, the poem's prophecy passes to a voice that is not a person's. The thunder says one syllable, and the card at line 401 gives the fable in which gods, men and demons each hear a different word in it. Read the thunder as an oracle whose meaning lies with the hearer; the poem, at lines 402, 412 and 419, takes all three words in turn and follows each with an answer in its own voice.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+---
+path: seers
+line: 426
+text: The last prophet in the poem is Isaiah, and the card gives his words to the dying King Hezekiah, "Set thine house in order: for thou shalt die, and not live" (Isaiah 38:1; the same words in 2 Kings 20:1). The fisher on the shore, the wounded keeper of the Grail as the card takes him, speaks the prophet's sentence himself, as a question and about his lands. No prophet answers him; the next line is London Bridge falling.
+sources: King James Bible, Isaiah 38:1
+King James Bible, 2 Kings 20:1
+Southam, Guide, note on line 425

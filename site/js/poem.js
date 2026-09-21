@@ -553,7 +553,7 @@
     const { p, i } = state.walk;
     if (i < 0) {
       w.className = 'walk intro';
-      w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${ui('walk-title')}</p><p class="walk-head">${p.title}</p>${p.why ? `<p class="walk-why">${p.why}</p>` : ''}<p class="walk-text">${p.intro}</p><div class="walk-nav"><button class="next begin">${ui('walk-begin')}</button><span class="pos">${ui('walk-stops').replace('{n}', p.stops.length)}</span></div>`;
+      w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${ui('walk-title')}</p><p class="walk-head">${p.title}</p>${p.why ? `<p class="walk-why">${p.why}</p>` : ''}<p class="walk-text">${p.intro}</p>${p.cites || ''}<div class="walk-nav"><button class="next begin">${ui('walk-begin')}</button><span class="pos">${ui('walk-stops').replace('{n}', p.stops.length)}</span></div>`;
       w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.next')) { state.walk.i = 0; renderWalk(); } };
       $$('.line.cur').forEach(l => l.classList.remove('cur'));
       return;

@@ -38,9 +38,9 @@ lens: water
 body: Part I names water, or the lack of it, again and again: spring rain and forgetful snow in the first seven lines, a shower over the Starnbergersee, a dry stone with no sound of water, a handful of dust, a drowned sailor, and then "Fear death by water." The Water lens tints the lines that name water and the lines that name its absence.
 ---
 kind: path
-title: Meet the dead
-path: dead
-body: The Dead pathway goes through Part I with the sources open beside the lines: Dante's crowd at the gate of Hell and the sighs in Limbo, Webster's dirge, the corpse in Stetson's garden, and the buried god of Frazer's <i>Golden Bough</i>.
+title: Weston's plan, from the title on
+path: grail
+body: Eliot's headnote credits Jessie L. Weston's book on the Grail legend with "not only the title, but the plan and a good deal of the incidental symbolism of the poem". The Grail pathway starts on the title page and stops where the plan shows in Part I: the dead land and the dry stone with "no sound of water", the Tarot cards Weston connected with the Grail, the warning "Fear death by water", and the corpse in Stetson's garden, one of the "references to vegetation ceremonies" the headnote says a reader of Frazer's <i>Golden Bough</i> will recognise.
 ---
 kind: draft
 title: Read what was cut
@@ -109,9 +109,9 @@ Ricks and McCue, textual notes on lines 120–139, 153 and 164
 Litz (1973)
 ---
 kind: path
-title: The women, one after another
-path: women
-body: The lady in the chair, who speaks at line 111; Philomel, raped and turned into a bird; Lil, and the friend who tells her story; Ophelia. Eliot's note to line 218 says "all the women are one woman". Walk through them and decide whether you believe him.
+title: The couples in the room and the pub
+path: love
+body: In the room a woman asks to be spoken to and a man does not answer; in the pub Lil is told to get herself some teeth before Albert comes home, and the good night at closing time is Ophelia's, from <i>Hamlet</i>. The pathway on the loves that fail takes the poem's couples in order, from the hyacinth garden to the heart that "would have responded" at line 421, and stops four times here. Eliot's note on line 218 says "all the women are one woman"; the pathway sets the couples side by side so that you can judge it.
 ---
 kind: ask
 title: Who is not in the room
@@ -173,9 +173,9 @@ sources: Warren, Buddhism in Translations, § 73, pp. 351–353
 Augustine, Confessions III.1
 ---
 kind: path
-title: Every bird
-path: birds
-body: The Birds pathway stops at each bird in the poem in order: the nightingale (here at 203–206, and in Part II), the gulls of Part IV, the hermit-thrush and the cock of Part V, and the swallow at 429, with recordings where they exist.
+title: Spenser, Marvell, Day and Goldsmith
+path: method
+body: The pathway on the past beside the present stops four times in this section: at Spenser's nymphs and the Thames they have left; at Marvell's winged chariot and the rat; at Actaeon coming to Diana in John Day's <i>Parliament of Bees</i>, and Sweeney to Mrs. Porter; and at Goldsmith's song of a woman who "stoops to folly", and the gramophone. Take them in order and see what each pairing does. The pathway begins with Chaucer's April and ends at "These fragments I have shored against my ruins", beside Eliot's 1923 sentences on Joyce's <i>Ulysses</i>.
 ---
 kind: source
 title: Tiresias in Ovid
@@ -207,11 +207,9 @@ Pound, Letters, ed. Paige, no. 183
 Perloff (1981)
 ---
 kind: path
-title: The drowned before Phlebas
-path: water
-body: Before it reaches Phlebas the poem has warned of drowning and shown the drowned: "Fear death by water" (55); the pearls that were his eyes (48, 125); Ophelia's good night (172), said not long before she drowns; and "the king my brother's wreck" (191). The Water pathway takes them in order.
-sources: Shakespeare, The Tempest I.ii
-Shakespeare, Hamlet IV.v and IV.vii
+title: The sea-change that does not come
+path: change
+body: Ariel's song in <i>The Tempest</i>, which the poem quotes at lines 48 and 125, promises that the drowned king's body will suffer "a sea-change / Into something rich and strange". Phlebas gets a current that picks his bones. The Metamorphosis pathway follows the poem's changed bodies, Philomel turned nightingale, Tiresias seven years a woman, and the drowned man, and reaches this section at line 315. There it quotes Cleanth Brooks (1939), for whom the drowned Phoenician Sailor recalls the drowned god of the fertility cults and "the way into life may be by death itself".
 ---
 kind: source
 title: Ariel's song
@@ -285,9 +283,9 @@ body: The section names Jerusalem, Athens, Alexandria, Vienna and London in two 
 sources: T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
 ---
 kind: path
-title: Every 'nothing'
-path: nothing
-body: "I knew nothing," "Nothing again nothing," "Do you know nothing?," "Nothing with nothing," "expect / Nothing." The pathway follows the word through the poem. It is not said in Part V; the pathway ends at line 305, with the third Thames-daughter on Margate Sands.
+title: The Passion without Christ's name
+path: passion
+body: Lines 322 to 330, as Cleanth Brooks read them in 1939, tell the arrest by night, the agony in the garden and the death of Christ without naming him. The section goes on to the road to Emmaus, a "maternal lamentation" heard high in the air, Ezekiel's dry bones, the cock on the rooftree and Isaiah's warning to a dying king. The pathway on the Bible and the Prayer Book takes them in order and ends at the last line, where Eliot's note glosses "Shantih" with words from the Prayer Book's blessing that ends Holy Communion.
 ---
 kind: draft
 title: OK from here on

@@ -1,0 +1,60 @@
+id: war
+title: After the war
+intro: The war of 1914–1918 and its aftermath, as the poem carries them. Eliot wrote the poem in 1921 and published it in October 1922, three years after the Armistice; at Lloyds Bank, where he worked, he had been put in charge in 1920 of settling the bank’s pre-war debts with Germany. The poem never names the war. It has the trenches in “rats’ alley”, a husband four years in the army and “demobbed”, a pub whose hours the war had cut, a song the Australian troops sang, a Bradford millionaire in a silk hat, the hooded hordes of an eastern Europe that Eliot’s note calls in decay, the capitals of fallen empires, and London Bridge falling down. The stops take these in order and say what of the war each passage carries, naming the reader who first said so where the claim is a reading.
+why: What the poem carries of the war that had ended three years before, from the trenches of rats’ alley to London Bridge falling down.
+sources: The Criterion, October 1922
+Facsimile (1971), introduction
+Letters, vol. 1, Eliot to his mother, 15 February 1920
+---
+path: war
+line: 12
+text: The line's claim of nationality is dated. Southam's note on it says Lithuania, a Baltic state long ruled by Russia, was independent only from 1919, after the war. The card gives Countess Marie Larisch; Rainey's note on line 15 tells her history, in which the archduke was found dead in 1889, and Hugh Kenner (1959) heard in Marie's voice "the vanished Austro-Hungarian Empire, the inbred malaise of Mayerling". The poem's first speakers are thus placed in a Europe the war had ended.
+sources: Southam, Guide, note on line 12
+Rainey, Annotated Waste Land, note on line 15
+Kenner (1959)
+---
+path: war
+line: 70
+text: Mylae was the sea battle of 260 BC in the first war between Rome and Carthage (the card); F. O. Matthiessen (1935) made the identification. Southam's note on the line quotes Eliot's friend John Hayward: the Punic war was a trade war, and "All wars are one war". Cleanth Brooks (1939) read it so, the Punic War as a close parallel to the World War and Stetson, hailed as a shipmate of 260 BC, as every man. The Dante pathway takes the meeting, the Grail pathway the corpse.
+sources: Matthiessen (1935)
+Brooks (1939)
+Southam, Guide, note on line 70
+Rainey, Annotated Waste Land, note on line 70
+---
+path: war
+line: 115
+text: The card gives Rats' Alley as a trench name. Southam's note on the line records the suggestion that "rats' alley" was soldiers' slang for the trenches of the Western Front, alley being the word for a trench. The line has no quotation marks, and is the man's unspoken answer to "Stay with me", as the card at 111 says it is usually read, so the trenches enter the poem as a thought not said aloud. Cleanth Brooks (1939) set this sterile death against the pearls of line 125.
+sources: Southam, Guide, note on line 115
+Brooks (1939)
+---
+path: war
+line: 139
+text: The card gives "demobbed" as slang of 1919 and 1920, an abbreviation of demobilized; Albert has "been in the army four years". HURRY UP PLEASE ITS TIME is closing time, under hours cut in the war (the card at 141) and fixed by the Licensing Act of August 1921, eight hours a day ending at ten at night, nine and eleven in London. The husband home from the army and the state's clock on the wall are the homecoming as the poem has it.
+sources: Southam, Guide, note on line 139
+Rainey, Annotated Waste Land, note on line 139
+Licensing Act 1921, s. 1
+---
+path: war
+line: 199
+text: Eliot's note on the line says the ballad "was reported to me from Sydney, Australia". Southam's note on the line records it as a ballad popular among the Australian troops in the First World War, sung, notably, as they landed at Gallipoli in 1915, with Mrs Porter as a Cairo brothel-keeper, and says Eliot's wording obscures the point of the soldiers' version. It is the only song of the war in the poem, and it comes in cleaned up. The Wagner pathway takes Verlaine's <i>Parsifal</i> at 202.
+sources: Southam, Guide, note on line 199
+---
+path: war
+line: 231
+text: The clerk's assurance is measured by "a silk hat on a Bradford millionaire". Southam's note on 234 says Bradford, a manufacturing town in the north of England, was reputed to have produced a crop of millionaires, men who made their fortunes supplying woollen goods in the First World War; Rainey's says the wool town faced charges of wartime profiteering. The one figure of the war's winners in the poem is a hat, and the clerk is judged by it. The loves pathway owns the scene.
+sources: Southam, Guide, note on line 234
+Rainey, Annotated Waste Land, note on line 234
+---
+path: war
+line: 369
+text: Eliot's note on lines 367–377 quotes Hesse's <i>Blick ins Chaos</i>, the essay on the downfall of Europe, where half of Europe, or at least its eastern half, is on the road to chaos, drunk and singing. His headnote to Part V names "the present decay of eastern Europe" among its themes. Southam's note on the hordes connects them with the Bolshevik Revolution of 1917; Brooks (1939) read the five cities of 375–376 as unreal like the London of Part I. Eliot visited Hesse near Lugano on 28 May 1922.
+sources: Hesse, Blick ins Chaos, the essay Die Brüder Karamasoff oder Der Untergang Europas
+Letters, vol. 1, Eliot to Hermann Hesse, 13 March 1922
+Southam, Guide, note on lines 368–369
+Brooks (1939)
+---
+path: war
+line: 427
+text: The card gives the rhyme. Southam's note on the line prints its first verse, "London Bridge is falling down, falling down, / London Bridge is falling down", and his note on line 62 allows an echo of it already in the crowd flowing over the bridge in Part I. The bridge that crowd crossed comes back here as the first of the fragments, a nursery tune after "Falling towers" and "Vienna London". The method pathway takes the fragments at 431; the Dante pathway, Arnaut at 428.
+sources: Southam, Guide, note on line 426
+Southam, Guide, note on line 62

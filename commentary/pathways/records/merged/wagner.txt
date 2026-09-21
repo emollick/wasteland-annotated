@@ -1,0 +1,58 @@
+id: wagner
+title: Wagner
+intro: Wagner’s three operas in the poem. He is quoted three times, in German: the sailor’s song that opens <i>Tristan und Isolde</i> (lines 31–34), the shepherd’s report from its last act that the sea is empty (42), and the Rhine-daughters’ cry from the last act of <i>Götterdämmerung</i>, set twice on the Thames (277–278, 290–291) and, as it is usually read, worn down to “la la” at 306. A third opera, <i>Parsifal</i>, Wagner’s Grail opera, enters at line 202 through Verlaine’s sonnet on it. Jessie Weston’s <i>From Ritual to Romance</i>, the Grail book Eliot’s first note credits with the poem’s plan, says in its preface that conversations at the Bayreuth Festival of 1911 gave her some of her evidence. Jean Verdenal, Eliot’s friend in Paris, wrote to him in 1912 that <i>Tristan</i> at a first hearing “leaves you prostrate with ecstasy.”
+why: What Wagner’s operas are doing in the poem, quotation by quotation, and where to hear the music.
+sources: Weston, From Ritual to Romance, preface
+Letters, vol. 1, Jean Verdenal to Eliot, 5 February 1912
+---
+path: wagner
+line: 8
+text: Ludwig II of Bavaria, Wagner's patron, was found drowned here in June 1886, after being put under restraint as mad. He brought Wagner to Munich in 1864; <i>Tristan und Isolde</i>, quoted at line 31, was first performed there the next year. Countess Marie Larisch, whose memoir is behind lines 8–18, writes as a member of the family and tells of his death. Herbert Knust (1967) argued that her book plays an important part in the poem; Southam's <i>Guide</i> records the argument.
+sources: Larisch, My Past, ch. VII
+Larisch, My Past, ch. I
+Encyclopaedia Britannica (1911), "Wagner, Wilhelm Richard"
+Southam, Guide, note on lines 8–22
+---
+path: wagner
+line: 31
+text: Straight after "fear in a handful of dust" the poem cuts to the first words sung in <i>Tristan und Isolde</i>, a sailor's song of the wind blowing homeward and a girl left behind; the card at this line gives the scene, and Isolde taking the song as mockery of her. The opera ends with both lovers dead, and the poem puts the opera's first words just before the hyacinth garden. The song, sung unaccompanied as if from the mast, is in the 1928 Bayreuth recording in the <a href="listen.html#rec-tristan-1928-bayreuth-act1-sailor">listening room</a>.
+sources: Wagner, Tristan und Isolde, Act I scene 1
+Wagner, Tristan und Isolde, Act III
+---
+path: wagner
+line: 42
+text: The shepherd, watching for Isolde's ship, tells Kurwenal, Tristan's servant, that nothing is on the sea; the card gives the scene. Cleanth Brooks (1939) read the two <i>Tristan</i> quotations together and noted that the empty sea, on its own, seems "simply an extension of the last figure", the lines just before it; in the opera no ship is yet in sight. For the couple in the garden, see the pathway on the loves that fail; the exchange, from the same 1928 Bayreuth set, is in the <a href="listen.html#rec-tristan-1928-bayreuth-act3-shepherd">listening room</a>.
+sources: Wagner, Tristan und Isolde, Act III scene 1
+Brooks (1939)
+---
+path: wagner
+line: 202
+text: Verlaine's sonnet is on Wagner's <i>Parsifal</i>; the card gives it, and the foot-washing in Wagner's last act, where Kundry, the woman Parsifal has resisted, now penitent, washes his feet before he goes in to heal the king. Cleanth Brooks (1939) read the soda water of line 201 as reminding the poet "ironically of another sort of foot-washing". Wagner's Grail hall follows straight on the song of Mrs. Porter, which the Australian troops sang in the war; for the song, see the pathway After the war.
+sources: Verlaine, "Parsifal", line 14
+Wagner, Parsifal, Act III
+Wagner, Parsifal, Act I
+Brooks (1939)
+---
+path: wagner
+line: 266
+text: Eliot's note sends these lines to the scene that opens the last act of <i>Götterdämmerung</i>, and the card gives it: the three Rhine-daughters swim and sing of the gold stolen from them. The river's depths were bright while the gold lay in them and have been dark since, and the daughters beg Siegfried, the opera's hero, for the ring made from the gold, in vain. The parallel Eliot's note draws sets that darkened river beside the Thames of these lines, sweating "Oil and tar". The refrain comes at 277.
+sources: Wagner, Götterdämmerung, Act III scene 1
+---
+path: wagner
+line: 277
+text: The refrain itself, the Rhine-daughters' cry, stands as a line of the poem. The syllables are Wagner's, the voice he gave the river, sound and not words, and of the poem's three passages from him this is the one with nothing to translate. Eliot's note on line 266 says that a song begins there. Hear the three sing the refrain, in the 1964 Solti recording in the <a href="listen.html#rec-gotterdammerung-solti-1964-rhinemaidens">listening room</a>, and then read lines 266 to 291 aloud with the tune in your ear.
+sources: Wagner, Götterdämmerung, Act III scene 1
+---
+path: wagner
+line: 306
+text: After the three daughters have spoken in turn, the last on Margate Sands, the two syllables here are usually read as what is left of the refrain, the last two of "leialala". Eliot's note on line 266 says "From line 292 to 306 inclusive they speak in turn", counting this line among theirs, so by his count the two syllables are the third daughter's. This is the last of Wagner in the poem. For the three speeches, see the pathway on the loves that fail.
+sources: Wagner, Götterdämmerung, Act III scene 1
+---
+path: wagner
+line: 424
+text: The card gives Weston's Fisher King, the maimed king of the Grail castle. Set beside him the Grail king Eliot's generation knew from the stage, Amfortas in Wagner's <i>Parsifal</i>, wounded by the holy spear and healed by it in the third act, where Verlaine's sonnet at 202 ends. Wagner's king is healed; the poem's sits fishing, with the arid plain still behind him. Weston's chapter on the Perilous Chapel ends by saying that the legend woke again in the nineteenth century "through the genius of Tennyson and Wagner".
+sources: Weston, From Ritual to Romance, ch. IX
+Weston, From Ritual to Romance, ch. XIII
+Wagner, Parsifal, Act I
+Wagner, Parsifal, Act III
+Verlaine, "Parsifal"

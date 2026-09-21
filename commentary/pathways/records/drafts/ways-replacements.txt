@@ -1,0 +1,39 @@
+part: 1
+replaces: Meet the dead (kind: path, path: dead)
+---
+kind: path
+title: Weston's plan, from the title on
+path: grail
+body: Eliot's headnote credits Jessie L. Weston's book on the Grail legend with "not only the title, but the plan and a good deal of the incidental symbolism of the poem". The Grail pathway starts on the title page and stops at the places in Part I where the plan shows: the dead land and the dry stone with "no sound of water", the Tarot cards that Weston connected with the Grail, the warning "Fear death by water", and the corpse in Stetson's garden that readers of Frazer were meant to recognise.
+===
+part: 2
+replaces: The women, one after another (kind: path, path: women)
+---
+kind: path
+title: The couples in the room and the pub
+path: love
+body: A woman who asks to be spoken to and a man who does not answer; Lil, told to get herself some teeth before Albert comes home; Ophelia's good night at closing time. The pathway called The loves that fail takes the poem's couples in order, from the hyacinth garden to the thunder's "moment's surrender", and stops three times in this section. Eliot's note on line 218 says that "all the women are one woman"; the pathway sets the couples side by side so that you can judge it.
+===
+part: 3
+replaces: Every bird (kind: path, path: birds)
+---
+kind: path
+title: Spenser's nymphs and the litter
+path: method
+body: Most of the pathway called The past beside the present is in this section: Spenser's wedding river and what the Thames now carries, Marvell's chariot and the rat, Day's Actaeon and Sweeney, Goldsmith's ruined woman and the gramophone. Take them in order and see what each pairing does. The pathway begins with Chaucer's April and ends at "These fragments I have shored against my ruins", with Eliot's 1923 sentences on the "mythical method" beside it.
+===
+part: 4
+replaces: The drowned before Phlebas (kind: path, path: water)
+---
+kind: path
+title: The sea-change that does not come
+path: change
+body: Ariel's song, which the poem quotes at lines 48 and 125, promises that the drowned king's body will suffer "a sea-change / Into something rich and strange". Phlebas gets a current that picks his bones. The Metamorphosis pathway follows the poem's changed bodies, Philomel's, Tiresias's, the drowned man's, and reaches this section at line 315; Cleanth Brooks's reading, that the poem asks for a transformation it will not show, is set out there and marked as his.
+===
+part: 5
+replaces: Every 'nothing' (kind: path, path: nothing)
+---
+kind: path
+title: The Passion, without the name
+path: passion
+body: Lines 322 to 330 tell the arrest, the trial and the death of Christ without naming him, and the section goes on to the road to Emmaus, the women's lamentation, Ezekiel's dry bones, the cock that crowed for Peter and Isaiah's warning to a dying king. The pathway called The Bible and the Prayer Book takes them in order, and ends where Eliot's note on the last line does, with words from the Prayer Book's blessing at the end of Holy Communion.

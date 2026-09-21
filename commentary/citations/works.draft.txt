@@ -169,6 +169,7 @@ full: Lyndall Gordon, <i>Eliot's Early Years</i> (Oxford: Oxford University Pres
 id: gordon-2022
 short: Gordon, The Hyacinth Girl
 full: Lyndall Gordon, <i>The Hyacinth Girl: T. S. Eliot's Hidden Muse</i> (London: Virago, 2022).
+note: No scan exists; the pathways thread confirmed the book's thesis (Emily Hale as the hyacinth girl, on Eliot's own word in his letter to her of 3 November 1930) from Dickey (2020) and the book's reviews.
 ---
 id: crawford-1987
 short: Crawford, The Savage and the City
@@ -748,7 +749,7 @@ note: The Gutenberg text, opened; its title page gives the imprint and dates.
 ---
 id: deussen-1897
 short: Deussen, Sechzig Upanishad's
-full: Paul Deussen, <i>Sechzig Upanishad's des Veda</i>, aus dem Sanskrit übersetzt (Leipzig: F. A. Brockhaus, 1897), the translation Eliot's note on line 401 names.
+full: Paul Deussen, <i>Sechzig Upanishad's des Veda</i>, aus dem Sanskrit übersetzt (Leipzig: F. A. Brockhaus, 1897; 3rd ed. 1921), the translation Eliot's note on line 401 names; in the 1921 edition, the one linked, the Bṛhadāraṇyaka passage is on pp. 489–490, the page Eliot's note cites.
 url: https://archive.org/details/sechzigupanishad00deusuoft
 note: The open scan is the third edition (1921); the first edition's imprint and date from Open Library.
 ---
@@ -978,8 +979,9 @@ note: verified: scan opened (3rd ed., 1903)
 ---
 id: eliot-dante-1929
 short: Eliot, Dante (1929)
-full: T. S. Eliot, <i>Dante</i> (London: Faber and Faber, 1929), whose preface says he read Dante in Dent's Temple Classics edition; collected in <i>Selected Essays</i> (1932). Described, not quoted.
-note: verified by search inside the 1929 printing (dante0000tsel); series title omitted as unchecked
+full: T. S. Eliot, <i>Dante</i>, The Poets on the Poets, no. 2 (London: Faber and Faber, 1929), whose preface says he read Dante in Dent's Temple Classics edition; collected in <i>Selected Essays</i> (1932). Quoted where a stop quotes it, as a text of 1929.
+url: https://archive.org/details/dante0000tsel
+note: verified by search inside the 1929 printing (dante0000tsel), whose scan is the second impression of May 1930; the series title from the pathways thread's check of the scan.
 ---
 id: musgrove-1952
 short: Musgrove (1952)
@@ -1159,7 +1161,7 @@ note: Details not checked against a catalogue; see the full form.
 ---
 id: homer-odyssey
 short: Homer, Odyssey
-full: Homer, <i>The Odyssey</i>, trans. A. T. Murray, Loeb Classical Library, 2 vols. (Cambridge, Mass.: Harvard University Press; London: Heinemann, 1919), bk. XI, lines 90–151, the ghost of Tiresias.
+full: Homer, <i>The Odyssey</i>, trans. A. T. Murray, Loeb Classical Library, 2 vols. (Cambridge, Mass.: Harvard University Press; London: Heinemann, 1919), cited by book and line; bk. XI, lines 90–151, is the ghost of Tiresias. Samuel Butler's prose translation (1900) is Project Gutenberg no. 1727.
 url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0136%3Abook%3D11%3Acard%3D90
 ---
 id: sophocles-ot
@@ -1216,3 +1218,51 @@ id: moody-1979
 short: Moody (1979)
 full: A. David Moody, <i>Thomas Stearns Eliot: Poet</i> (Cambridge: Cambridge University Press, 1979).
 note: Quotes Eliot's sentence on his bank hours (search inside thomasstearnseli0000mood); the page not seen. The second edition (1994) has the same passage.
+---
+# Added 21 September 2026 from the thematic pathways thread (commentary/pathways/new-works.txt; its own checks in the notes)
+id: charity-1974
+short: Charity (1974)
+full: A. C. Charity, "T. S. Eliot: The Dantean Recognitions," in <i>The Waste Land in Different Voices</i>, ed. A. D. Moody (London: Edward Arnold, 1974), 117–62.
+url: https://archive.org/details/wastelandindiffe0000unse
+note: A lending-library scan. Its contents page gives the essay at 117 and the next essay at 163; the Stetson and Brunetto comparison is in this essay, the volume's one discussion of Inferno XV, but the search-inside snippets carry no page numbers, so the passage's page was not seen.
+---
+id: stephenson-1946
+short: Stephenson (1946)
+full: Ethel M. Stephenson, <i>T. S. Eliot and the Lay Reader</i>, 2nd ed., extended (London: Fortune Press, 1946; first ed. 1944); the copy consulted is the Haskell House reprint (New York, 1966).
+url: https://archive.org/details/tseliotlayreader0000ethe
+note: Eliot's letter to her about Stetson and Brunetto is quoted at pp. 92–93 of the 94-page second edition, which the 1966 reprint reproduces; the first edition of 1944 ran to 56 pages, so the second edition is the first to print the letter. The letter's date is not given in the passage seen.
+---
+id: britannica-1911-wagner
+short: Encyclopaedia Britannica (1911), "Wagner, Wilhelm Richard"
+full: <i>Encyclopædia Britannica</i>, 11th ed., vol. 28, <i>Vetch to Zymotic Diseases</i> (Cambridge: Cambridge University Press, 1911), "Wagner, Wilhelm Richard," by W. S. Rockstro and D. F. Tovey, beginning on p. 236.
+url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Wagner,_Wilhelm_Richard
+note: The Wikisource transcription is proofread from the volume's scan; its page for the article's opening shows the printed page 236. The biographical part is signed W. S. R. and D. F. T.
+---
+id: eliot-ulysses-1923
+short: Eliot, "Ulysses, Order, and Myth" (1923)
+full: T. S. Eliot, "Ulysses, Order, and Myth," <i>The Dial</i> 75, no. 5 (November 1923), 480–483.
+url: https://en.wikisource.org/wiki/The_Dial_(Third_Series)/Volume_75/Ulysses,_Order,_and_Myth
+note: Pages 481–483 are seen in the running heads of the Wikisource transcription and of the archive.org scan of the number (sim_dial_1923-11_75); the review opens on the page before, whose number the scan does not show legibly.
+---
+id: katha
+short: Kaṭha Upaniṣad
+full: <i>Kaṭha Upaniṣad</i>, in <i>The Upanishads</i>, part II, trans. F. Max Müller, Sacred Books of the East 15 (Oxford: Clarendon Press, 1884); its closing formula, "Om! Peace! peace! peace!"
+url: https://archive.org/details/p2upanishads00mluoft
+---
+id: eliot-london-letter-1921-06
+short: Eliot, "London Letter," Dial, June 1921
+full: T. S. Eliot, "London Letter," <i>The Dial</i> 70, no. 6 (June 1921), 686–691, dated May 1921; the section "The True Church and the Nineteen Churches" on pp. 690–691.
+url: https://archive.org/details/sim_dial_1921-06_70
+note: Reprinted in Rainey, Annotated Waste Land, as "London Letter, May 1921". The pages were seen in the scan's running heads.
+---
+id: gardner-1972
+short: Gardner (1972)
+full: Helen Gardner, <i>The Waste Land 1972: The Adamson Lecture, 3rd May 1972, University of Manchester</i> (Manchester: Manchester University Press, 1972).
+url: https://archive.org/details/wasteland1972ada0000gard
+note: A lending-library scan; the foot-washing passage (Mrs Porter, Parsifal, Verlaine) was confirmed by a search inside it.
+---
+id: dickey-2020
+short: Dickey (2020)
+full: Frances Dickey, "May the Record Speak: The Correspondence of T. S. Eliot and Emily Hale," <i>Twentieth-Century Literature</i> 66, no. 4 (December 2020), 431–62.
+url: https://english.missouri.edu/sites/default/files/people-files/may-the-record-speak.the-correspondence-of-t-s-eliot-and-emily-hale.pdf
+note: The author's open copy of the journal's text (DOI 10.1215/0041462X-8770684); Eliot's letters to Hale of 3 November 1930 and 24 July 1931 are paraphrased on pp. 434–36, and his identification of Hale as the hyacinth girl is on p. 443. The letters themselves are described, never quoted: texts after 1929.

@@ -1,0 +1,76 @@
+id: east
+title: The Fire Sermon and the thunder
+intro: The Indian texts in the poem, the Buddha’s Fire Sermon and an Upanishad. Eliot studied Sanskrit at Harvard for two years from 1911 with Charles Rockwell Lanman, and spent a year on the metaphysics of the ancient Indian philosopher Patañjali with James Haughton Woods, a study that left him, he wrote in 1934, in “a state of enlightened mystification”. Part III takes its title from the sermon in which the Buddha says that all things are on fire; the sermon is heard at line 308, beside St Augustine’s <i>Confessions</i>, a pair Eliot’s note calls “representatives of eastern and western asceticism”. Part V’s title and last lines come from the <i>Bṛhadāraṇyaka Upaniṣad</i>, where the thunder’s one syllable is heard as three commands; “Shantih”, repeated, is the formula that closes an Upanishad. Cleo McNelly Kearns’s <i>T. S. Eliot and Indic Traditions</i> (1987) is the study behind this pathway.
+why: The Buddha and the Upanishads in the poem, from the sermon that names Part III to the thunder’s three commands and the last word.
+sources: Warren, Buddhism in Translations, §73
+Bṛhadāraṇyaka Upaniṣad, V.2
+Eliot, After Strange Gods (1934)
+Kearns (1987)
+---
+path: east
+line: 173
+text: Part III's title is the Buddha's. His Fire Sermon, preached at Gaya, says that all things are on fire, eye, ear, nose, tongue, body and mind, each burning "with the fire of passion, say I, with the fire of hatred, with the fire of infatuation" (Henry Clarke Warren's translation, which Eliot's note on line 308 names). The title comes first and the sermon is heard last, at line 308; between them come the river, Sweeney and Mrs. Porter, the merchant, the typist and the women Eliot's note calls the Thames-daughters.
+sources: Warren, Buddhism in Translations, §73
+Southam, Guide, note on the title of Part III
+---
+path: east
+line: 308
+text: Here is the sermon, cut to one word said four times. In Warren the disciple who sees the senses on fire "conceives an aversion" for them, "becomes divested of passion" and is free. The poem keeps the burning and leaves out the disciple and his freedom; the next words are St Augustine's, from the <i>Confessions</i> the card gives. Eliot's note on line 309 calls the pair "representatives of eastern and western asceticism" and their collocation "not an accident"; asceticism, renunciation, is his word for what the two texts share.
+sources: Warren, Buddhism in Translations, §73
+Southam, Guide, note on the title of Part III
+---
+path: east
+line: 327
+text: Part V is called What the Thunder Said, and this is its first thunder, "of spring over distant mountains", in the lines the card at line 322 takes for the Passion, Christ's arrest and death told without his name. The card notes that no Gospel has thunder there; this thunder is the poem's own. It is heard again at line 342, "dry sterile thunder without rain", and speaks only at line 400, and then in Sanskrit.
+sources:
+---
+path: east
+line: 396
+text: The poem goes to India for its rain; the card at this line gives the names. The rain the poem has wanted gathers over the country of the Upanishads, whose thunder speaks at line 400. Jessie L. Weston's <i>From Ritual to Romance</i> is the book on the Grail legend that Eliot's headnote credits with the poem's plan. The first evidence she gives for the "Freeing of the Waters", the Grail hero's task, is Indra, the thunder god of the <i>Rig-Veda</i>, the oldest Indian scripture, who "has inundated the dry land".
+sources: Weston, From Ritual to Romance, ch. III
+Southam, Guide, note on line 395
+Southam, Guide, note on line 397
+---
+path: east
+line: 400
+text: The card at line 401 tells the fable from <i>Bṛhadāraṇyaka Upaniṣad</i> V.2 and records Eliot's numbering, 5, 1. His note cites page 489 of Paul Deussen's German translation; in the 1921 printing the fable, numbered 5, 2, begins on that page, under the running head 5, 1. The Upanishad has the gods' Damyata first and the demons' Dayadhvam last; the poem begins with the men's Datta and ends with the gods' word, a change of order B. C. Southam records in his <i>Guide</i>.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Southam, Guide, note on lines 399–401
+---
+path: east
+line: 402
+text: "Give" is the men's word; in Deussen, whom Eliot cites, they are told to give alms. The poem answers the command with a question, "what have we given?", and what it names is not alms but "a moment's surrender", a gift no obituary or will records; the card gives the spider from Webster's <i>The White Devil</i>. The pathway on the loves that fail reads the surrender as one made in love. What matters here is that the first command is answered outright, in the first person, "we have existed".
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Southam, Guide, note on lines 399–401
+---
+path: east
+line: 412
+text: "Sympathise" is the demons' word, "Be merciful" in Max Müller's English translation and have compassion in Deussen; Southam records that "sympathise" is Eliot's rendering. The poem answers the command to feel for others with a locked door, "each in his prison", and with the sentence of the philosopher F. H. Bradley that Eliot's note quotes, in which a self's experience "falls within my own circle, a circle closed on the outside". The card gives Ugolino, shut in a tower to starve in Dante's <i>Inferno</i>; for him, see the pathway on Dante and the dead.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Bradley, Appearance and Reality, ch. XXIII
+Southam, Guide, note on line 411
+---
+path: east
+line: 419
+text: "Control" is the gods' word, first in the Upanishad and last in the poem; it is "Be subdued" in Müller, restrain yourselves in Deussen, and Southam records that "control" is Eliot's rendering. A boat obeys it, a boat the card at this line connects with Eliot's sailing off Gloucester; when the sentence turns to a heart it turns to the conditional, "your heart would have responded", a thing that did not happen. The pathway on the loves that fail takes up the heart.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Southam, Guide, note on line 418
+---
+path: east
+line: 433
+text: The three words come again, each with a full stop, after the fragments of lines 427 to 432. In the Upanishad the thunder repeats the father's syllable, "Da Da Da", and the passage ends by naming the three things to be taught, subduing, giving and mercy; the poem repeats its own three words instead, in its own order, and sets them down without answer or comment. Cleo McNelly Kearns (1987) reads Eliot's sequence as one that culminates in control.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Kearns (1987)
+Southam, Guide, note on lines 399–401
+---
+path: east
+line: 434
+text: Shantih is peace. Eliot's note calls it, repeated three times, "a formal ending to an Upanishad"; Southam gives the full formula, "Om shantih shantih shantih", and Müller's translation prints it, closing the <i>Kaṭha Upaniṣad</i>, as "Om! Peace! peace! peace!" What the poem takes here is not a passage but the way a scripture closes. The card gives the Prayer Book's blessing behind Eliot's gloss, "The Peace which passeth understanding"; the note was reworded when the poems were reset in 1932, and the pathway on the Bible and the Prayer Book takes that up.
+sources: Kaṭha Upaniṣad, the closing formula
+Southam, Guide, note on line 433
+Kearns (1987)
+Ricks and McCue, commentary on line 433

@@ -1,0 +1,70 @@
+id: method
+title: The past beside the present
+intro: Old poems and modern scenes in the same lines. In November 1923, reviewing Joyce’s <i>Ulysses</i> in <i>The Dial</i>, Eliot wrote that “in manipulating a continuous parallel between contemporaneity and antiquity, Mr Joyce is pursuing a method which others must pursue after him”, and that the method gave “a shape and a significance to the immense panorama of futility and anarchy which is contemporary history”. He was writing about another man’s book, but the critic F. O. Matthiessen was applying the sentences to Eliot’s own work by 1935. This pathway stops where the parallel is plainest, where Chaucer, Baudelaire, Shakespeare, Spenser, Marvell, John Day or Goldsmith is set beside a modern scene in the same lines, so that the reader sees both at once. Cleanth Brooks (1939) wrote that the poem’s surface parallels are really contrasts and its surface contrasts really parallels, and the stops do not assume that the past comes off better.
+why: The places where an old poem and a modern scene are made to share the same lines, from Chaucer’s April to the fragments at the end.
+sources: Eliot, "Ulysses, Order, and Myth" (1923)
+Matthiessen (1935), ch. II
+Brooks (1939)
+---
+path: method
+line: 1
+text: The card gives Chaucer's opening, the April of sweet showers and pilgrimages. Eliot's first sentence answers those lines without quoting them. It keeps the month, and keeps the rain at the roots, where Chaucer's showers have "perced to the roote" and Eliot's stir "Dull roots", and it adds the word "cruellest". The poem does not name Chaucer; a reader who knows his lines hears both Aprils at once, and each stop that follows asks the reader to do the same.
+sources: Chaucer, General Prologue 1–12
+Southam, Guide, note on line 1
+Rainey, Annotated Waste Land, note on line 1
+---
+path: method
+line: 60
+text: Eliot's note quotes the opening of Baudelaire's "Les Sept Vieillards", and the card gives it, a Paris in which a ghost stops the passer-by in broad daylight. Eliot lays that city over the City of London at nine on a working morning, and Baudelaire's dirty yellow fog becomes "the brown fog of a winter dawn". The card has Eliot's own account, from 1950, of what he learned from Baudelaire about the modern city. The crowd on the bridge, Dante's, is left to the pathway on Dante and the dead.
+sources: Baudelaire, Les Fleurs du mal, "Les Sept Vieillards" 1–9
+Eliot, "What Dante Means to Me" (1950)
+Southam, Guide, note on line 60
+---
+path: method
+line: 77
+text: The card gives the speech of Antony's officer Enobarbus on Cleopatra's barge. Eliot keeps its shape and changes the things in it: the barge that "Burn'd on the water" is a chair that "Glowed on the marble", and the perfumed sails are her "strange synthetic perfumes". A queen's arrival by water becomes a woman in a room whose grandeur is borrowed too, from Dido's palace in Virgil's <i>Aeneid</i> and Eden in Milton's <i>Paradise Lost</i>. What she says at 111 is read on the pathway on the loves that fail.
+sources: Shakespeare, Antony and Cleopatra II.ii
+Virgil, Aeneid I 726
+Milton, Paradise Lost IV 140
+Southam, Guide, note on line 77
+---
+path: method
+line: 128
+text: The card gives the song, a ragtime number of 1912 whose chorus calls it "most intelligent, very elegant". The parallel here was not made by Eliot: the song had already set Shakespeare to ragtime, and what runs through the man's head instead of an answer to "Are you alive, or not?" is that song. The card notes the added syllable and the reversed chorus.
+sources: Guerrieri (2017)
+---
+path: method
+line: 176
+text: The card gives Spenser's wedding poem and its refrain, the line each of his stanzas ends on. Eliot keeps the refrain and puts the modern river into it as a list of what is missing: the nymphs "are departed", and the Thames "bears no" bottles, papers or cigarette ends. Cleanth Brooks (1939) wrote that the poem works by "surface contrasts which in reality constitute parallelisms"; Spenser's poem, B. C. Southam notes, itself names Elizabeth, as Elisa, and, as "that great lord", Leicester, the pair in the barge at line 279.
+sources: Spenser, Prothalamion 1–36 and 127–162
+Brooks (1939)
+Southam, Guide, note on line 176
+Southam, Guide, note on line 279
+---
+path: method
+line: 185
+text: The card gives Marvell's lines, in which the lover urging his mistress not to wait hears "Time's wingèd chariot hurrying near". Eliot keeps the line but for one phrase and changes only what is heard: for the chariot, "The rattle of the bones" and a chuckle, while a rat creeps past the speaker, who is fishing in the canal at 189. Marvell's lover hears time coming; the speaker here hears bones. The line comes again at 196, the next stop.
+sources: Marvell, "To His Coy Mistress" 21–24
+Southam, Guide, note on line 185
+---
+path: method
+line: 196
+text: Eliot's note on line 197 quotes John Day's <i>Parliament of Bees</i>, in which horns and hunting bring the hunter Actaeon to the goddess Diana, bathing; the card at 198 gives the passage. Day's terms are replaced one by one, motors for hunting, Sweeney, from Eliot's own poems, for the hunter, Mrs Porter's soda water for the goddess's spring, and "in the spring" is kept word for word. In Day, as <a href="library.html#src-day-parliament-of-bees">the library's record</a> says, the spring is the water Diana bathes in; in Eliot's line it is the season.
+sources: Day, The Parliament of Bees, Character 3
+Ovid, Metamorphoses III 138–252
+Southam, Guide, notes on lines 196–198
+---
+path: method
+line: 253
+text: The card gives the song from Goldsmith's <i>The Vicar of Wakefield</i>, a seduced daughter's, in which the one art left her "is—to die". Eliot keeps its first line and runs it into the typist's room, where the remedy is a record on the gramophone; the two remedies stand side by side without comment. Cleanth Brooks (1939) set her beside Elizabeth, the queen in the barge at 279, and found them "alike as well as different". The scene is read at line 215 on the pathway on the loves that fail.
+sources: Goldsmith, The Vicar of Wakefield, ch. 24
+Brooks (1939)
+Southam, Guide, note on line 253
+Rainey, Annotated Waste Land, note on line 253
+---
+path: method
+line: 431
+text: Among the borrowed lines of the ending, which the card gives one by one, this line is the poet's own. In the earlier draft it read "spelt into my ruins"; "shored against" was the revision. Set it beside the sentence of 1923 in which Eliot called Joyce's method "simply a way of controlling, of ordering" the panorama of contemporary history. The essay's word is order; the poem's is shoring, a builder's word for propping up what would otherwise fall.
+sources: Eliot, "Ulysses, Order, and Myth" (1923)
+Facsimile (1971), the drafts of Part V
+Matthiessen (1935), ch. II

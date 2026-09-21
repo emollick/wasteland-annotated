@@ -1,0 +1,64 @@
+id: change
+title: Metamorphosis
+intro: The poem’s changed bodies, from Ovid and from <i>The Tempest</i>. Ovid’s <i>Metamorphoses</i> gives it Philomel, raped and turned into a nightingale (99), and Tiresias, who was a woman for seven years (218); the song the spirit Ariel sings in <i>The Tempest</i> gives it a drowned king with eyes turned to pearls and a body that suffers “a sea-change / Into something rich and strange”. The poem quotes the pearls twice, at 48 and 125, and the sea-change never. This pathway follows the changes: what Ovid’s and Shakespeare’s bodies are turned into, what becomes of the poem’s own people, the drowned Phlebas among them, and the change the last Latin line asks for, when shall I be like the swallow. That the poem makes no change of its own is the pathway’s reading. Cleanth Brooks (1939) read the poem’s people as not knowing that “the way into life may be by death itself”; the stops set it beside the lines.
+why: Ovid’s changed bodies and the sea-change of Ariel’s song, from Philomel to the swallow, and whether anyone in the poem is changed.
+sources: Ovid, Metamorphoses VI 424–674
+Ovid, Metamorphoses III 316–338
+Shakespeare, The Tempest I.ii
+Brooks (1939)
+---
+path: change
+line: 48
+text: The first change in the poem is a drowned man's, eyes turned to pearls, in a bracket on one of Madame Sosostris's cards. The line is from the song the spirit Ariel sings in <i>The Tempest</i> to a prince who thinks his father drowned; the card in the margin prints the song, which goes on to a sea-change into "something rich and strange". The father, as that card says, is not drowned. The poem quotes the pearls, here and again at line 125, and the sea-change never.
+sources: Shakespeare, The Tempest I.ii
+Rainey, Annotated Waste Land, note on line 48
+---
+path: change
+line: 99
+text: In Ovid the change comes in the middle of a pursuit. Tereus, the "barbarous king", chases Philomel and her sister Procne, his wife, sword drawn, after they have killed his son; they are birds before he reaches them, with the marks of the killing on their breasts (the card gives the story). The poem hangs the finished change on a wall as a picture and keeps the pursuit in the present tense, "still the world pursues". Cleanth Brooks (1939) called Philomela one of the poem's major symbols.
+sources: Ovid, Metamorphoses VI 666–674
+Brooks (1939)
+---
+path: change
+line: 125
+text: The pearls come back as the one thing the man remembers when asked whether he knows, sees or remembers "Nothing". Eliot's note on line 125 (numbered 126) points to line 37, the hyacinth garden, and to line 48, the pearls on the Sailor's card. In the typescript the line began "The hyacinth garden" and ended with the word yes; both were cut. What is left in his head is the drowned king's change from Ariel's song, and "Are you alive, or not?" is answered with a line of ragtime.
+sources: Shakespeare, The Tempest I.ii
+Facsimile (1971), the typescript of Part II
+---
+path: change
+line: 191
+text: Ferdinand in <i>The Tempest</i> sits on the bank "Weeping again the king my father's wreck" when Ariel's song reaches him; the card at line 189 gives the scene. The poem makes the drowned king a brother and adds a father's death before him, and Eliot's note on line 218 says the drowned Sailor is not wholly distinct from Ferdinand, Prince of Naples. In the play the mourned king is alive, and the last act gives him back his son; the poem keeps the mourning and drops the return.
+sources: Shakespeare, The Tempest I.ii
+Shakespeare, The Tempest V.i
+---
+path: change
+line: 203
+text: At line 99 the change of Philomel was a picture on a wall. Here, after Mrs Porter's song, there is no picture and no body, only the cry, "Jug jug", with "So rudely forc'd" from line 100 and "Tereu", the rapist's name, Tereus, as the bird calls it. The card gives the song printed with Lyly's Elizabethan play <i>Campaspe</i>, the source of the words. The change has gone from a woman to a bird to a sound, and the sound keeps the crime in it as a name.
+sources: Lyly, Campaspe, V.i
+Southam, Guide, note on line 206
+---
+path: change
+line: 243
+text: Tiresias, the blind seer of Thebes, has the one change Eliot's notes give in full. His note on line 218 prints Ovid's Latin and says "the two sexes meet in Tiresias". In Ovid he struck two coupling snakes and was a woman for seven years, then struck them again and became a man; having known love from both sides, he was called to judge which sex has the more pleasure. "Foresuffered all / Enacted on this same divan or bed" is said by one who has been both parties.
+sources: Ovid, Metamorphoses III 316–338
+---
+path: change
+line: 257
+text: The line is Ferdinand's again, from the speech behind lines 191–192, as the card says; here the music is a record the typist has put on after smoothing her hair "with automatic hand". In the play the music allays the sea's fury and Ferdinand's grief, and he follows it, "Or it hath drawn me rather", to Miranda, whom he is to marry. Here it goes by the speaker and along the Strand, and comes not to a person but to the walls of Magnus Martyr and their "Inexplicable splendour".
+sources: Shakespeare, The Tempest I.ii
+Shakespeare, The Tempest V.i
+---
+path: change
+line: 315
+text: In Ariel's song the drowned man's bones are coral and his eyes pearls. Phlebas's bones are picked "in whispers" by a current; he passes "the stages of his age and youth" and enters the whirlpool. The French, on the card, has no bones and no whirlpool; they are the English's additions. Brooks (1939) said the drowned Phoenician Sailor "recalls the drowned god of the fertility cults", whose death may be "the way into life"; the lines have a current, bones and a whirlpool, and nothing he becomes.
+sources: Shakespeare, The Tempest I.ii
+Poems (1920), "Dans le Restaurant"
+Rainey, Annotated Waste Land, note on line 312
+Brooks (1939)
+---
+path: change
+line: 429
+text: The last change in the poem is asked for, not made. The Latin is from the last stanza of the <i>Pervigilium Veneris</i>, a late Latin poem: the nightingale sings, the poet is silent and asks when he will become like the swallow, so that he may cease to be silent, and Eliot's line drops that clause. Eliot's note here (numbered 428) points to Philomela in Parts II and III. Brooks (1939) took the swallow for Procne, Philomel's sister, so the bird the poet would become is the one Procne became.
+sources: Pervigilium Veneris, the last stanza
+Tennyson, The Princess, IV ("O Swallow, Swallow")
+Brooks (1939)

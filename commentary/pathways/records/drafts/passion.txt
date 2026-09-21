@@ -1,0 +1,108 @@
+id: passion
+title: The Bible and the Prayer Book
+intro: The Bible and the Book of Common Prayer in the poem. Part I is named after the Prayer Book’s service for a burial, and the desert of lines 19 to 30 speaks in words from Ezekiel, Ecclesiastes and Isaiah. Part V opens, as Cleanth Brooks set out in 1939, with the Passion told without its names, and goes on to the road to Emmaus, where the risen Christ walks unrecognised beside two disciples. Between them the poem passes an exile’s psalm at line 182, a City church at 264 and Augustine’s Carthage at 307, and Eliot’s last note glosses “Shantih” with the blessing that ends the Communion service. Eliot was baptised into the Church of England in June 1927; this pathway does not read the poem as a conversion. It follows what the poem does with the scriptures it quotes, and says at each stop what a passage takes from them and what it leaves out.
+why: What the poem takes from the Bible, the Prayer Book and the Church, from the burial service that names Part I, through the prophets, the Passion and the road to Emmaus, to the blessing Eliot’s last note puts beside “Shantih”.
+sources: Book of Common Prayer, the Order for the Burial of the Dead
+Brooks (1939)
+Southam, Guide, biographical table
+---
+path: passion
+line: 1
+text: Part I takes its title from the Prayer Book's service for the dead, "The Order for the Burial of the Dead", which begins with Christ's words "I am the resurrection and the life" and commits the body to the ground "earth to earth, ashes to ashes, dust to dust; in sure and certain hope of the Resurrection to eternal life". The title puts the part's dead, the crowd on London Bridge, the corpse in the garden, under a service that promises resurrection. The part buries them and raises none.
+sources: Book of Common Prayer, the Order for the Burial of the Dead
+Southam, Guide, note on the title of Part I
+Rainey, Annotated Waste Land, note on the title of Part I
+---
+path: passion
+line: 20
+text: Eliot's note sends "Son of man" to Ezekiel 2:1, where God sets the prophet on his feet to speak to "a rebellious nation"; his note on line 23 sends the cricket to Ecclesiastes 12, the chapter on old age and the grave. The desert speaks in the prophets' words, but this son of man is told he "cannot say, or guess", and the "heap of broken images" is what Ezekiel's God threatened, "your images shall be broken" (6:4), already done. Lawrence Rainey's note on line 22 hears the echo.
+sources: King James Bible, Ezekiel 2:1–3
+King James Bible, Ecclesiastes 12:1–7
+King James Bible, Ezekiel 6:4
+Rainey, Annotated Waste Land, notes on lines 20 and 22
+---
+path: passion
+line: 25
+text: Isaiah 32:2 promises a king in whose reign a man shall be "as the shadow of a great rock in a weary land"; Helen Gardner (1949) set the verse beside this rock, and Southam's note gives it. What the shadow shows here is "fear in a handful of dust", and the dust is scripture's and the burial service's: "dust thou art, and unto dust shalt thou return" (Genesis 3:19, and Ecclesiastes 12:7), "dust to dust". The shelter the prophet promised is where death is shown.
+sources: King James Bible, Isaiah 32:1–2
+King James Bible, Genesis 3:19
+King James Bible, Ecclesiastes 12:7
+Book of Common Prayer, the Order for the Burial of the Dead
+Gardner (1949), ch. IV (The Dry Season)
+Southam, Guide, note on line 25
+---
+path: passion
+line: 67
+text: A church keeps the hours over Dante's crowd of the dead; the card at this line gives the building. Southam's note on line 68 records the reading of the "final stroke of nine" as the ninth hour at which Christ died (Matthew 27:46, Mark 15:34), and notes that the Gospels' ninth hour is the ninth of daylight, about three in the afternoon, not nine in the morning. Eliot's note says only "A phenomenon which I have often noticed". The reading is some readers', not the note's.
+sources: King James Bible, Matthew 27:45–46
+King James Bible, Mark 15:34
+Southam, Guide, note on line 68
+---
+path: passion
+line: 182
+text: Psalm 137 in the Prayer Book's wording: the exiles in Babylon hang up their harps when their captors ask for "one of the songs of Sion", and answer "How shall we sing the Lord's song: in a strange land?" The poem's singer, set down between two lines of Spenser's wedding-song for the Thames, is that exile, and his song is cut short: "I speak not loud or long". The Prayer Book's psalms are Miles Coverdale's, of the 1530s; the pathway meets him again at line 264.
+sources: Book of Common Prayer, Psalm 137
+King James Bible, Psalm 137:1–4
+Southam, Guide, note on line 182
+Rainey, Annotated Waste Land, note on line 182
+---
+path: passion
+line: 259
+text: St Magnus the Martyr was among nineteen City churches proposed for demolition. In his London Letter to <i>The Dial</i> of May 1921 Eliot wrote that the City churches give the business quarter "a beauty which its hideous banks and commercial houses have not quite defaced", and his note on line 264 cites the County Council's report on the scheme. The report records the tablet to Miles Coverdale, once rector here and reburied here, whose psalms the Prayer Book keeps. The poem's one church interior holds a splendour it calls "Inexplicable".
+sources: Eliot, "London Letter," Dial, June 1921, pp. 690–691
+LCC, Nineteen City Churches (1920), the report on St Magnus the Martyr
+Rainey, Annotated Waste Land, note on line 264
+Rainey, Annotated Waste Land, "London Letter, May 1921"
+---
+path: passion
+line: 307
+text: Augustine's <i>Confessions</i>, Book III, in Pusey's translation, which Eliot's note quotes. At line 309, Book X, from the chapter on the temptation of the eyes: Augustine, still entangling his steps "with these outward beauties", says "but Thou pluckest me out, O Lord, Thou pluckest me out". The convert's memory of his lust is set beside the Buddha's sermon on fire, a pairing Eliot's note on line 309 calls "eastern and western asceticism" and "not an accident". "O Lord Thou pluckest me out" are the poem's only words addressed to God.
+sources: Augustine, Confessions, bk. III, ch. 1
+Augustine, Confessions, bk. X, ch. 34
+Rainey, Annotated Waste Land, note on line 307
+---
+path: passion
+line: 322
+text: The Passion without its names. The torchlight is the arrest by night, when Judas comes to the garden "with lanterns and torches and weapons" (John 18:3); "the frosty silence in the gardens" is Gethsemane, where "being in an agony he prayed more earnestly" (Luke 22:44); then the death, "He who was living is now dead". Cleanth Brooks (1939) wrote that the gardens' frosty silence "associates Christ in Gethsemane with the other hanged gods". The resurrection is not told, and the "we" who speak "are now dying".
+sources: King James Bible, John 18:3
+King James Bible, Luke 22:39–46
+Brooks (1939)
+Rainey, Annotated Waste Land, note on line 324
+Southam, Guide, note on lines 322–328
+---
+path: passion
+line: 360
+text: Luke 24: on the day of the resurrection two disciples walking to Emmaus are joined by a stranger they do not know, until he breaks bread and vanishes. Eliot's headnote to the notes on Part V gives "the journey to Emmaus" as the section's first theme, and his note on line 46 associates the Hanged Man with "the hooded figure". The risen Christ is in the poem only as an uncounted companion, "wrapt in a brown mantle, hooded", whose sex the speaker cannot tell, and the question is never answered.
+sources: King James Bible, Luke 24:13–31
+Southam, Guide, note on the headnote to Part V
+Shackleton, South, ch. X
+---
+path: passion
+line: 367
+text: Hugh Kenner (1959) heard in the "Murmur of maternal lamentation" the women who followed Christ to the cross, "Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children" (Luke 23:28); Jerusalem is the first of the five cities named at line 375. Eliot's note on lines 367–377 gives something else, Hermann Hesse on eastern Europe singing drunkenly on its way to chaos. The lamentation is heard "high in the air", with no mourner in sight, as the Passion was told without its names.
+sources: King James Bible, Luke 23:27–28
+Kenner (1959), part III (The Death of Europe)
+---
+path: passion
+line: 391
+text: Ezekiel 37: the prophet is set down in a valley full of bones and asked "Son of man, can these bones live?"; when he prophesies to them they live and stand up, "an exceeding great army". Here no one prophesies, and the bones can neither live nor harm. Then the cock. Cleanth Brooks (1939) read it as the bird of folk-lore "whose voice chases away the powers of evil"; in <i>Hamlet</i> I.i the ghost "faded on the crowing of the cock". Its crow is followed by lightning and rain.
+sources: King James Bible, Ezekiel 37:1–14
+Brooks (1939)
+Shakespeare, Hamlet I.i
+---
+path: passion
+line: 426
+text: Isaiah 38:1: King Hezekiah, "sick unto death", is told by the prophet, "Set thine house in order: for thou shalt die, and not live"; he turns his face to the wall, prays and weeps, and is given fifteen more years. The card at line 424 names him beside Weston's Fisher King, and Hugh Kenner (1959) and Southam's note record the verse. The poem's king takes the sentence without the reprieve and makes it smaller, "at least", "my lands", a question where Isaiah gave a command.
+sources: King James Bible, Isaiah 38:1–5
+King James Bible, 2 Kings 20:1
+Kenner (1959), part III (The Death of Europe)
+Southam, Guide, note on line 425
+---
+path: passion
+line: 434
+text: Eliot's note translates the word with "The Peace which passeth understanding", the words of the blessing that ends the Prayer Book's Communion service, "The peace of God, which passeth all understanding, keep your hearts and minds", from Philippians 4:7. The poem's last word is glossed by its author with the Church's blessing. In 1922 the note called this "a feeble translation of the content of this word"; the words stood in <i>Poems 1909–1925</i>, and when that book was reset in 1932 they became "is our equivalent to this word".
+sources: King James Bible, Philippians 4:7
+Book of Common Prayer, the Order of Holy Communion (the blessing)
+Poems 1909–1925, the note on Shantih (second impression, 1926)
+Poems 1909–1925, the note on Shantih in the resetting of 1932 (Faber Library)
+Southam, Guide, note on line 433

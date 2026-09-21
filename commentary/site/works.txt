@@ -36,6 +36,10 @@ id: eliot-whitman-1926
 short: Eliot, "Whitman and Tennyson" (1926)
 full: T. S. Eliot, "Whitman and Tennyson," <i>The Nation and Athenaeum</i> 40 (18 December 1926), 426, a review of Emory Holloway's <i>Whitman: An Interpretation in Narrative</i>.
 ---
+id: eliot-middleton-1927
+short: Eliot, "Thomas Middleton" (1927)
+full: T. S. Eliot, "Thomas Middleton," <i>Times Literary Supplement</i>, no. 1326, 30 June 1927, 445–46 (unsigned); collected in <i>Selected Essays</i> (1932).
+---
 id: eliot-pascal-1931
 short: Eliot, "The Pensées of Pascal" (1931)
 full: T. S. Eliot, introduction to Pascal's <i>Pensées</i>, trans. W. F. Trotter, Everyman's Library 874 (London: Dent, 1931); collected as "The 'Pensées' of Pascal" in <i>Selected Essays</i> (1932). Described, not quoted at length: a text after 1929.
@@ -127,6 +131,10 @@ full: Grover Smith, <i>T. S. Eliot's Poetry and Plays: A Study in Sources and Me
 id: kenner-1959
 short: Kenner (1959)
 full: Hugh Kenner, <i>The Invisible Poet: T. S. Eliot</i> (New York: McDowell, Obolensky, 1959).
+---
+id: gardner-1949
+short: Gardner (1949)
+full: Helen Gardner, <i>The Art of T. S. Eliot</i> (London: Cresset Press, 1949).
 ---
 id: gordon-1977
 short: Gordon, Eliot's Early Years
@@ -658,7 +666,7 @@ url: https://www.gutenberg.org/ebooks/24869
 ---
 id: deussen-1897
 short: Deussen, Sechzig Upanishad's
-full: Paul Deussen, <i>Sechzig Upanishad's des Veda</i>, aus dem Sanskrit übersetzt (Leipzig: F. A. Brockhaus, 1897), the translation Eliot's note on line 401 names.
+full: Paul Deussen, <i>Sechzig Upanishad's des Veda</i>, aus dem Sanskrit übersetzt (Leipzig: F. A. Brockhaus, 1897; 3rd ed. 1921), the translation Eliot's note on line 401 names; in the 1921 edition, the one linked, the Bṛhadāraṇyaka passage is on pp. 489–490, the page Eliot's note cites.
 url: https://archive.org/details/sechzigupanishad00deusuoft
 ---
 id: eliot-knowledge-experience
@@ -850,7 +858,8 @@ url: https://archive.org/details/purgatorio00aliguoft
 ---
 id: eliot-dante-1929
 short: Eliot, Dante (1929)
-full: T. S. Eliot, <i>Dante</i> (London: Faber and Faber, 1929), whose preface says he read Dante in Dent's Temple Classics edition; collected in <i>Selected Essays</i> (1932). Described, not quoted.
+full: T. S. Eliot, <i>Dante</i>, The Poets on the Poets, no. 2 (London: Faber and Faber, 1929), whose preface says he read Dante in Dent's Temple Classics edition; collected in <i>Selected Essays</i> (1932). Quoted where a stop quotes it, as a text of 1929.
+url: https://archive.org/details/dante0000tsel
 ---
 id: musgrove-1952
 short: Musgrove (1952)
@@ -991,7 +1000,7 @@ url: https://www.opera-arias.com/wagner/parsifal/libretto/
 ---
 id: homer-odyssey
 short: Homer, Odyssey
-full: Homer, <i>The Odyssey</i>, trans. A. T. Murray, Loeb Classical Library, 2 vols. (Cambridge, Mass.: Harvard University Press; London: Heinemann, 1919), bk. XI, lines 90–151, the ghost of Tiresias.
+full: Homer, <i>The Odyssey</i>, trans. A. T. Murray, Loeb Classical Library, 2 vols. (Cambridge, Mass.: Harvard University Press; London: Heinemann, 1919), cited by book and line; bk. XI, lines 90–151, is the ghost of Tiresias. Samuel Butler's prose translation (1900) is Project Gutenberg no. 1727.
 url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0136%3Abook%3D11%3Acard%3D90
 ---
 id: sophocles-ot
@@ -1035,3 +1044,60 @@ full: T. S. Eliot, <i>To Criticize the Critic and Other Writings</i> (London: Fa
 id: moody-1979
 short: Moody (1979)
 full: A. David Moody, <i>Thomas Stearns Eliot: Poet</i> (Cambridge: Cambridge University Press, 1979).
+---
+id: charity-1974
+short: Charity (1974)
+full: A. C. Charity, "T. S. Eliot: The Dantean Recognitions," in <i>The Waste Land in Different Voices</i>, ed. A. D. Moody (London: Edward Arnold, 1974), 117–62.
+url: https://archive.org/details/wastelandindiffe0000unse
+---
+id: stephenson-1946
+short: Stephenson (1946)
+full: Ethel M. Stephenson, <i>T. S. Eliot and the Lay Reader</i>, 2nd ed., extended (London: Fortune Press, 1946; first ed. 1944); the copy consulted is the Haskell House reprint (New York, 1966).
+url: https://archive.org/details/tseliotlayreader0000ethe
+---
+id: britannica-1911-wagner
+short: Encyclopaedia Britannica (1911), "Wagner, Wilhelm Richard"
+full: <i>Encyclopædia Britannica</i>, 11th ed., vol. 28, <i>Vetch to Zymotic Diseases</i> (Cambridge: Cambridge University Press, 1911), "Wagner, Wilhelm Richard," by W. S. Rockstro and D. F. Tovey, beginning on p. 236.
+url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Wagner,_Wilhelm_Richard
+---
+id: eliot-ulysses-1923
+short: Eliot, "Ulysses, Order, and Myth" (1923)
+full: T. S. Eliot, "Ulysses, Order, and Myth," <i>The Dial</i> 75, no. 5 (November 1923), 480–483.
+url: https://en.wikisource.org/wiki/The_Dial_(Third_Series)/Volume_75/Ulysses,_Order,_and_Myth
+---
+id: katha
+short: Kaṭha Upaniṣad
+full: <i>Kaṭha Upaniṣad</i>, in <i>The Upanishads</i>, part II, trans. F. Max Müller, Sacred Books of the East 15 (Oxford: Clarendon Press, 1884); its closing formula, "Om! Peace! peace! peace!"
+url: https://archive.org/details/p2upanishads00mluoft
+---
+id: eliot-london-letter-1921-06
+short: Eliot, "London Letter," Dial, June 1921
+full: T. S. Eliot, "London Letter," <i>The Dial</i> 70, no. 6 (June 1921), 686–691, dated May 1921; the section "The True Church and the Nineteen Churches" on pp. 690–691.
+url: https://archive.org/details/sim_dial_1921-06_70
+---
+id: gardner-1972
+short: Gardner (1972)
+full: Helen Gardner, <i>The Waste Land 1972: The Adamson Lecture, 3rd May 1972, University of Manchester</i> (Manchester: Manchester University Press, 1972).
+url: https://archive.org/details/wasteland1972ada0000gard
+---
+id: dickey-2020
+short: Dickey (2020)
+full: Frances Dickey, "May the Record Speak: The Correspondence of T. S. Eliot and Emily Hale," <i>Twentieth-Century Literature</i> 66, no. 4 (December 2020), 431–62.
+url: https://english.missouri.edu/sites/default/files/people-files/may-the-record-speak.the-correspondence-of-t-s-eliot-and-emily-hale.pdf
+---
+id: deussen
+short: Deussen, Sechzig Upanishad's
+full: Paul Deussen, <i>Sechzig Upanishad's des Veda, aus dem Sanskrit übersetzt und mit Einleitungen und Anmerkungen versehen</i>, 3rd ed. (Leipzig: F. A. Brockhaus, 1921; first ed. 1897); the Bṛhadāraṇyaka-Upanishad 5, 2 on pp. 489–490, the page Eliot's note on the thunder cites.
+url: https://archive.org/details/sechzigupanishad00deusuoft
+note: Eliot's note cites "Deussen's Sechzig Upanishads des Veda, p. 489"; the 1921 printing was checked, not the 1897 first edition.
+---
+id: sophocles-oedipus
+short: Sophocles, Oedipus Tyrannus
+full: Sophocles, <i>Oedipus the King</i>, in <i>Sophocles, with an English Translation by F. Storr</i>, vol. I, Loeb Classical Library (London: William Heinemann; New York: The Macmillan Co., 1912).
+url: https://www.gutenberg.org/ebooks/31
+note: The Gutenberg text gives Storr's translation without the imprint; the place, publishers and date are from the title page of the 1912 Loeb volume in the University of Toronto copy on archive.org (sophocleswitheng01soph).
+---
+id: parsifal
+short: Wagner, Parsifal
+full: Richard Wagner, <i>Parsifal</i> (1882), libretto, cited by act.
+url: https://www.librettoarchive.com/Parsifal_libretto_German

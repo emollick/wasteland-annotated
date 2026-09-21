@@ -1,6 +1,6 @@
 id: meta-description
 where: the one-line description of the site that search engines and link previews show, on every page
-text: T. S. Eliot’s The Waste Land (1922): the whole text with Eliot’s notes, and beside each line its sources, translations, speakers and places; with a map of its London, the recordings, the drafts, and nine pathways through the poem.
+text: T. S. Eliot’s The Waste Land (1922): the whole text with Eliot’s notes, and beside each line its sources, translations, speakers and places; with a map of its London, the recordings, the drafts, and thirteen pathways through the poem.
 ---
 id: nav-poem
 where: the running head at the top of every page: the link to the poem
@@ -88,7 +88,7 @@ text: About the epigraph
 ---
 id: tp-sub
 where: the title page: the line under the dedication that says what the edition holds
-text: The whole poem, with Eliot’s notes, and beside each line its sources, translations, speakers and places. On other pages, the map, the recordings, the drafts, and nine pathways through the poem.
+text: The whole poem, with Eliot’s notes, and beside each line its sources, translations, speakers and places. On other pages, the map, the recordings, the drafts, and thirteen pathways through the poem.
 ---
 id: tp-begin
 where: the title page: the first of the three ways to start (goes to Part I)
@@ -500,7 +500,7 @@ text: Pathways
 ---
 id: paths-lede
 where: the pathways page: the paragraph under the title
-text: Nine pathways through the poem, each a sequence of stops. Choose one and the poem page opens with a small guide in the corner that takes you from stop to stop.
+text: Thirteen pathways through the poem, each a sequence of stops. Choose one and the poem page opens with a small guide in the corner that takes you from stop to stop.
 ---
 id: about-title
 where: the About page: its title

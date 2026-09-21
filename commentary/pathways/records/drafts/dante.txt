@@ -1,0 +1,82 @@
+id: dante
+title: Dante and the dead
+intro: The poem’s dead seen beside Dante’s. Five of Eliot’s notes send the reader to Dante, more than to any other writer: to the <i>Inferno</i> for the crowd on London Bridge (the notes on lines 63 and 64) and for Ugolino’s tower (412), and to the <i>Purgatorio</i> for La Pia (293) and for Arnaut Daniel in the refining fire (428), the canto from which the dedication to Pound is also taken. Dante’s dead, met and known by name, tell the living who they were and ask to be remembered. This pathway stops at the poem’s dead in order and asks what each passage keeps of that. Eliot’s essay on Dante in <i>The Sacred Wood</i> (1920) and his <i>Dante</i> of 1929 are quoted where they bear on a line; what he said in 1950 about the Dante references in his notes is described.
+why: Follow the poem’s dead through the cantos of Dante that Eliot’s notes point to, from the crowd on London Bridge to Arnaut in the refining fire.
+sources: The Sacred Wood, "Dante"
+Eliot, Dante (1929)
+Eliot, "What Dante Means to Me" (1950)
+---
+path: dante
+line: 0
+text: The dedication card gives the line. In the fire of <i>Purgatorio</i> XXVI the poet Guido Guinizelli points Dante to Arnaut Daniel as the better craftsman of the mother tongue; then he asks Dante for a paternoster when he reaches heaven, and vanishes into the fire "like a fish going through water to the bottom" (XXVI 127–135). The poem's last words from Dante, at line 428, are from the same canto, Arnaut stepping back into the fire, so the canto at the front of the poem returns at its end.
+sources: Dante, Purgatorio XXVI 115–117 and 127–135
+Dante, Purgatorio XXVI 140–148
+---
+path: dante
+line: 62
+text: Eliot's notes send this crowd to two places at the edge of Dante's Hell, short of its torments: the neutrals inside the gate, whom heaven casts out and deep Hell will not receive (<i>Inferno</i> III 40–42), and Limbo, where the unbaptised sigh in "grief without torments" (IV 28). In 1950 Eliot said that he gave the references so that a reader who recognised the allusion would know he was meant to; the crowd, he said, was his city clerks going from the station to their offices.
+sources: Dante, Inferno III 34–42 and 55–57
+Dante, Inferno IV 25–30
+Eliot, "What Dante Means to Me" (1950)
+Southam, Guide, note on line 63
+---
+path: dante
+line: 69
+text: In <i>Inferno</i> XV Dante knows a face among the dead: a burnt figure catches him by the hem, and he asks "Are you here, ser Brunetto?" (XV 23–30), Brunetto Latini, who had been his teacher (XV 82–85). In <i>The Sacred Wood</i> (1920) Eliot placed the passage's emotion in "Brunetto's excellence in damnation". The comparison with Stetson is a reader's: A. C. Charity (1974) set the greetings side by side, and when Ethel Stephenson made it in the 1940s Eliot told her that the association had not occurred to him.
+sources: Dante, Inferno XV 22–33 and 82–85
+The Sacred Wood, "Dante"
+Charity (1974)
+Stephenson (1944)
+---
+path: dante
+line: 193
+text: The poem's dead are not buried. Part I is named for the burial service; its one buried body, the corpse in the garden, may be dug up again (71–75, Cornelia's dirge in Webster's <i>The White Devil</i>, over her murdered son, for "the friendless bodies of unburied men"); here bones lie in a garret, rattled "year to year"; Phlebas's are picked by the current (316). The fisher has mourned "the king my father's death" in Ferdinand's words from <i>The Tempest</i>, and Ferdinand's father, whom he thinks drowned, is alive.
+sources: Webster, The White Devil V.iv
+Shakespeare, The Tempest I.ii
+Book of Common Prayer, the Order for the Burial of the Dead
+---
+path: dante
+line: 245
+text: Tiresias gives two credentials. Thebes is the city of Sophocles' <i>Oedipus the King</i>, where he told the king what he could not see. The walk among the dead is <i>Odyssey</i> XI, where Odysseus summons the shades to a trench of blood; Circe has told him that Tiresias alone keeps his understanding in death, "but the other ghosts flit about aimlessly" (X 490–495, in Butler's translation). He is the only speaker who says he has been among the dead and come back, which is Dante's own position in the <i>Commedia</i>.
+sources: Homer, Odyssey X 490–495 and XI
+Sophocles, Oedipus the King
+Rainey, Annotated Waste Land, note on line 246
+---
+path: dante
+line: 293
+text: The card gives La Pia's line. She begins with a request, "ricorditi di me", remember me, as Dante's dead often do: in the canto of the dedication Guinizelli asks for a paternoster and Arnaut to be remembered (<i>Purgatorio</i> XXVI 130, 147); the Thames-daughter asks nothing. "Undid me" translates "disfecemi", and the same verb, disfare, lies behind "undone" at line 63, where the crowd is what death has "disfatta" (<i>Inferno</i> III 57). Eliot's own translation, in his <i>Dante</i> of 1929, is "Siena made me, Maremma unmade me".
+sources: Dante, Purgatorio V 130–136
+Dante, Inferno III 55–57
+Dante, Purgatorio XXVI 127–132 and 145–148
+Eliot, Dante (1929)
+Southam, Guide, note on line 293
+---
+path: dante
+line: 312
+text: Eliot said in 1959 that the draft of this section, a voyage ending in a wreck, had been "rather inspired" by the Ulysses canto of the <i>Inferno</i>. There Ulysses tells, from his flame, how his ship came in sight of the mountain of Purgatory, was spun three times by a whirlwind, and went down as the sea closed over it (XXVI 133–142). Pound cut the voyage; when Eliot asked "Perhaps better omit Phlebas also???", Pound answered, in January 1922, "I DO advise keeping Phlebas". The card gives the draft.
+sources: Dante, Inferno XXVI 133–142
+Paris Review interview (1959)
+Facsimile (1971), the typescript of Part IV
+Pound, Letters, ed. Paige, nos. 182–183
+Southam, Guide, note on Part IV
+Rainey, Annotated Waste Land, note on Part IV
+---
+path: dante
+line: 328
+text: So far the poem has looked at its dead from outside: the crowd undone at 63, the corpse in the garden, Phlebas. Here the speaker counts himself among the dying, and "were living" gives the living the past tense in which Dante's dead speak of their lives, La Pia's "Siena mi fé" (<i>Purgatorio</i> V 134). The lines before are the Passion, as the card at 322 says; this pathway stops only for line 329, and the comparison with Dante's grammar is its own.
+sources: Dante, Purgatorio V 133–134
+---
+path: dante
+line: 412
+text: The card tells Ugolino's story. He is in the ninth and lowest circle, held in ice among the traitors, gnawing the skull of the archbishop who starved him (<i>Inferno</i> XXXIII 1–3 and 14): the lowest of the poem's dead, and the last it takes from the <i>Inferno</i>. He speaks so that his words may be "seed" bearing infamy for his enemy (XXXIII 7–9). The thunder's word means sympathise, Eliot's note says; in this pathway's reading the poem answers from the place in Dante furthest from pity.
+sources: Dante, Inferno XXXIII 1–78
+Southam, Guide, note on line 412
+Rainey, Annotated Waste Land, note on line 412
+---
+path: dante
+line: 428
+text: Eliot's note gives the lines. Arnaut Daniel asks Dante to remember his pain, "then hid himself in the fire that refines them". Eliot had taken "Ara Vos Prec" as the title of his volume of 1920, and in <i>The Sacred Wood</i> the line ends a list of what the next world does to Dante's souls, "and the errors of Arnaut are corrected". In <i>Dante</i> (1929) he translated the passage and wrote that purgatory's flame, unlike hell's, "is deliberately and consciously accepted by the penitent": "In their suffering is hope".
+sources: Dante, Purgatorio XXVI 140–148
+The Sacred Wood, "Dante"
+Eliot, Dante (1929)
+Gallup, entry A4

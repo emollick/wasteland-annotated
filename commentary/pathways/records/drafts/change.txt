@@ -1,0 +1,66 @@
+id: change
+title: Metamorphosis
+intro: Two books of changed bodies lie under the poem. Ovid’s <i>Metamorphoses</i> gives it Philomel, raped and turned into a nightingale (line 99), and Tiresias, who was a woman for seven years (218); Ariel’s song in <i>The Tempest</i> gives it a drowned king whose eyes have become pearls and whose body suffers “a sea-change / Into something rich and strange”. The poem quotes the pearls twice, at lines 48 and 125, and the sea-change never. This pathway follows the changes: what Ovid’s and Shakespeare’s bodies are turned into, what becomes of the poem’s own people, Phlebas among them, and the change the last Latin line asks for, when shall I be like the swallow. Cleanth Brooks, in 1939, read the poem’s people as not realizing that “the way into life may be by death itself”; the stops mark that reading as his and set the texts beside the lines.
+why: Ovid’s changed bodies and Ariel’s sea-change in the poem, from Philomel to the swallow, and whether anyone in it is changed.
+sources: Ovid, Metamorphoses VI 424–674
+Ovid, Metamorphoses III 316–338
+Shakespeare, The Tempest I.ii
+Brooks (1939)
+---
+path: change
+line: 48
+text: The first change in the poem is a drowned man's, and it comes in a bracket on a card. The card at this line gives Ariel's song. Its next lines, which the poem never quotes, say that nothing of the father fades "But doth suffer a sea-change / Into something rich and strange"; and the father, as the card says, is not drowned. The poem takes the pearls, here and again at line 125, and leaves the promise of the sea-change behind.
+sources: Shakespeare, The Tempest I.ii
+Rainey, Annotated Waste Land, note on line 48
+---
+path: change
+line: 99
+text: In Ovid the change comes in the middle of a pursuit. Tereus, sword drawn, chases the two sisters, and they are birds before he reaches them, the marks of the child's murder still on their breasts; the card gives the story. The poem keeps the pursuit in the present tense, "still the world pursues", and gives the bird what the woman lost, a voice that cannot be violated, which reaches the world as "Jug Jug". Cleanth Brooks (1939) called Philomela one of the poem's major symbols.
+sources: Ovid, Metamorphoses VI 667–674
+Rainey, Annotated Waste Land, note on line 99
+Brooks (1939)
+---
+path: change
+line: 125
+text: The pearls again, in a room, as the one thing the man remembers when asked whether he knows, sees or remembers "Nothing". Eliot's note on line 126 sends the reader back to line 37, the hyacinth garden, and to line 48, the card. In the typescript the line began "The hyacinth garden" and ended with the word yes; the garden was cut. What is left in his head is another man's change, and the question "Are you alive, or not?" goes unanswered.
+sources: Shakespeare, The Tempest I.ii
+Facsimile (1971), the typescript of Part II
+---
+path: change
+line: 191
+text: Ferdinand in <i>The Tempest</i> sits on the bank "Weeping again the king my father's wreck" when Ariel's song reaches him; the card at line 189 gives the scene. The poem makes the drowned king a brother and adds a father's death before him, and Eliot's note on line 218 says the drowned Sailor is not wholly distinct from Ferdinand, Prince of Naples. In the play the mourned king is alive, and the last act gives him back his son; the poem keeps the mourning and drops the return.
+sources: Shakespeare, The Tempest I.ii
+Shakespeare, The Tempest V.i
+---
+path: change
+line: 203
+text: The nightingale comes back as its cry alone, "Jug jug", "So rudely forc'd" and "Tereu", which is the name of Tereus in the vocative, the rapist called by the bird. Eliot's note on line 100 ties this passage to that one, and the card gives Lyly's song, the Elizabethan source of the words. Of Philomel there is now no body at all, only the sound, and the sound keeps the crime in it as a name.
+sources: Lyly, Campaspe, V.i
+Rainey, Annotated Waste Land, note on line 206
+---
+path: change
+line: 243
+text: Tiresias's change is the one the poem prints in full. Eliot's note on line 218 gives Ovid's Latin and says that the two sexes meet in him. Struck into a woman for seven years and back into a man, he had, in Ovid, known love from both sides, and was called in to judge which side has the more pleasure. That is what the change is for here: "foresuffered all / Enacted on this same divan or bed" is said by one who has been both parties.
+sources: Ovid, Metamorphoses III 316–338
+---
+path: change
+line: 257
+text: Ferdinand again, from the speech at lines 191–192, as the card says. In the play the music allayed the sea's fury and his grief and drew him up the shore to Miranda, and the play ends with his father alive. Here it follows the record the typist put on with an "automatic hand", and ends at the "Inexplicable splendour" of Magnus Martyr. The one splendour in the poem comes in on borrowed music, and the drowning that the play undoes is not undone here.
+sources: Shakespeare, The Tempest I.ii
+Shakespeare, The Tempest V.i
+---
+path: change
+line: 315
+text: The poem's own drowned man has no sea-change. The current picks his bones "in whispers" and passes the body back through "the stages of his age and youth" into the whirlpool. The French original, on the card, has the current carry him off through the stages of his former life; the bones and the whirlpool are additions of the English. Cleanth Brooks (1939) took Phlebas for the drowned god of the fertility cults, whose death is "the way into life"; the lines give the current and the bones.
+sources: Shakespeare, The Tempest I.ii
+Poems (1920), "Dans le Restaurant"
+Southam, Guide, note on line 312
+Brooks (1939)
+---
+path: change
+line: 429
+text: The last change in the poem is asked for, not made. The Latin ends the <i>Pervigilium Veneris</i>, a late Latin poem for Venus's spring festival: the nightingale sings, the poet is silent and asks when he will become like the swallow, so that he may cease to be silent; the poem stops before that clause. The swallow is Procne, Philomel's sister, and Eliot's note here refers to Philomela in Parts II and III; Tennyson's "O Swallow, Swallow" in <i>The Princess</i> is a lover's message sent south with the bird.
+sources: Pervigilium Veneris, the last stanza
+Tennyson, The Princess, IV ("O Swallow, Swallow")
+Ovid, Metamorphoses VI 667–674
+Brooks (1939)

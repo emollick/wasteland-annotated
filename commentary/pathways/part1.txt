@@ -1,0 +1,199 @@
+path: grail
+line: 0
+text: Weston's summary of the romances is that the object of the Grail quest is "the restoration to health and vigour of a King" whose infirmity "reacts disastrously upon his kingdom". Earlier scholars, she says, had treated the land's misfortunes as an accident of the story; for her the "Waste Land" is "the very heart of our problem", and it is that land the title names. The stops that follow say what the poem does with her king and his waters.
+sources: Weston, From Ritual to Romance, ch. II
+Weston, From Ritual to Romance, ch. V
+---
+path: grail
+line: 1
+text: The rites Frazer collected were performed to bring the spring back. The dead, he writes, "came back in the sprouting corn" and were imagined to return in the spring flowers, "the violets and the hyacinths", which "sprang from their dust". The poem's first voice feels that return as cruelty and prefers the "forgetful snow". Brooks (1939) wrote that the poem's people "are afraid to live in reality", so that "April, the month of rebirth, is not the most joyful season but the cruelest".
+sources: Frazer, The Golden Bough (1922), ch. XXXII
+Brooks (1939)
+---
+path: grail
+line: 19
+text: These lines are the poem's first picture of the waste land, dry stone and dead tree and "no sound of water". Weston traces the Grail hero's oldest task, the freeing of the waters, to the <i>Rig-Veda</i>, whose ancient Sanskrit hymns praise the god Indra for killing the giant that had "imprisoned" the rivers: "Indra has filled the rivers, he has inundated the dry land." The waters of this land are still imprisoned; no rain is offered to it until the "damp gust / Bringing rain" of line 394.
+sources: Weston, From Ritual to Romance, ch. III
+Weston, From Ritual to Romance, ch. II
+---
+path: grail
+line: 43
+text: Weston's chapter on the symbols holds that the four Grail talismans, Cup, Lance, Sword and Dish, survive as the four suits of the Tarot, and suggests that the pack may first have been used "to predict the rise and fall of the waters which brought fertility to the land". Brooks (1939) wrote that Madame Sosostris "has fallen a long way from the high function of her predecessors". Eliot's note on line 46 ties one of her cards, the man with three staves, "quite arbitrarily" to the Fisher King.
+sources: Weston, From Ritual to Romance, ch. VI
+Brooks (1939)
+---
+path: grail
+line: 55
+text: The missing card is the dying god's. Eliot's note on line 46 ties the Hanged Man to "the Hanged God of Frazer", a chapter of Frazer's <i>Adonis, Attis, Osiris</i> on the god Attis, whose effigy hung on a pine and whose human representative, Frazer conjectures, was once hanged there. Weston's dead god is "not buried in the earth, but thrown into the water", and Brooks (1939) read "Fear death by water" as spoken by one who does not know "that the way into life may be by death itself".
+sources: Frazer, Adonis, Attis, Osiris, bk. II, ch. V
+Frazer, The Golden Bough (1922), ch. XXXIV
+Weston, From Ritual to Romance, ch. IV
+Brooks (1939)
+---
+path: grail
+line: 71
+text: In Frazer, the Egyptian priests of Osiris buried effigies of the god made of earth and corn at the sowing and took them up with the corn "found to have sprouted from the body of Osiris", a sprouting hailed as the cause of the crops (the card at this line gives the rites). "Will it bloom this year?" is the rite's own question. The poem gives it to a man who asks, in the same speech, that the Dog be kept from digging the corpse up again.
+sources: Frazer, The Golden Bough (1922), ch. XXXIX
+===
+path: passion
+line: 1
+text: Part I is named after the Prayer Book's "Order for the Burial of the Dead". The service begins "I am the resurrection and the life" and commits the body "earth to earth, ashes to ashes, dust to dust; in sure and certain hope of the Resurrection to eternal life". The part so named has its dead, the crowd of line 62 and the corpse of line 71, and none of the service's hope; the questions asked over the corpse, "Has it begun to sprout?" among them, get no answer.
+sources: Book of Common Prayer, the Order for the Burial of the Dead
+Southam, Guide, note on the title of Part I
+Rainey, Annotated Waste Land, note on the title of Part I
+---
+path: passion
+line: 20
+text: The card at this line gives Ezekiel and Ecclesiastes, and the tracing of the "heap of broken images" to Ezekiel 6, which Lawrence Rainey's annotated edition of the poem offers as a possible echo. Ezekiel's "Son of man" is set on his feet to speak and sent to "a rebellious nation"; the one addressed here is told he "cannot say, or guess". In Ezekiel the breaking of the images is a threat, "your images shall be broken" (6:4); here it has already happened.
+sources: King James Bible, Ezekiel 2:1–3
+King James Bible, Ecclesiastes 12:1–7
+King James Bible, Ezekiel 6:4
+Rainey, Annotated Waste Land, notes on lines 20 and 22
+---
+path: passion
+line: 25
+text: The card at this line gives Isaiah 32:2; Helen Gardner (1949) set the verse beside this rock, and B. C. Southam's <i>Guide</i> records it. In Isaiah the rock is "the shadow of a great rock in a weary land", a shelter promised for the reign of a righteous king. What is shown under this one is "fear in a handful of dust", and the dust, on this pathway, is that of Genesis 3:19, "dust thou art, and unto dust shalt thou return", and of the burial service, "dust to dust".
+sources: King James Bible, Isaiah 32:1–2
+King James Bible, Genesis 3:19
+Book of Common Prayer, the Order for the Burial of the Dead
+Gardner (1949), ch. IV (The Dry Season)
+Southam, Guide, note on line 25
+---
+path: passion
+line: 67
+text: The card at this line gives the church, and Eliot's hours at the bank a few doors along. The "final stroke of nine" has been read as the ninth hour of the Crucifixion, when Christ cried out and died (Matthew 27:46, Mark 15:34). B. C. Southam's <i>Guide</i>, in its note on line 68, records the reading and points out that the Gospels' ninth hour is the ninth of daylight, about three in the afternoon, not nine in the morning.
+sources: King James Bible, Matthew 27:45–46
+King James Bible, Mark 15:34
+King James Bible, Luke 23:44–46
+Southam, Guide, note on line 68
+===
+path: dante
+line: 0
+text: The dedication, "il miglior fabbro", the better craftsman, is Dante's; the card gives the line (<i>Purgatorio</i> XXVI 117). In the fire that purges the lustful, the poet Guido Guinizelli points Dante to the troubadour Arnaut Daniel with these words, asks Dante to say a paternoster for him in heaven, and vanishes into the fire like a fish going through water to the bottom (XXVI 127–135). Arnaut's own plea, at the end of the canto, gives the poem its last words from Dante, at line 428, where this pathway ends.
+sources: Dante, Purgatorio XXVI 115–117 and 127–135
+Dante, Purgatorio XXVI 140–148
+---
+path: dante
+line: 62
+text: Eliot's notes send this crowd to two places at the edge of Dante's Hell: the neutrals in the vestibule inside the gate, whom heaven casts out and deep Hell will not receive (<i>Inferno</i> III 40–42), and Limbo, the first circle, where the unbaptised sigh in "grief without torments" (IV 28). The crowd here is undone and sighing, "so many", and no one in it named until Stetson at line 69. The card at line 63 has what Eliot said of this crowd in 1950.
+sources: Dante, Inferno III 34–42 and 55–57
+Dante, Inferno IV 25–30
+Eliot, "What Dante Means to Me" (1950)
+Southam, Guide, note on line 63
+---
+path: dante
+line: 69
+text: To know a face among the dead and stop it is Dante's scene. In <i>Inferno</i> XV a burnt figure catches Dante by the hem; it is Brunetto Latini, his old teacher, and Dante asks "Are you here, ser Brunetto?" (XV 23–30, 82–85). In <i>The Sacred Wood</i> (1920) Eliot placed the passage's emotion in "Brunetto's excellence in damnation". The comparison with Stetson is a critic's, A. C. Charity's (1974); when Ethel Stephenson, writing for lay readers in the 1940s, put it to Eliot, he said it had not occurred to him.
+sources: Dante, Inferno XV 22–33 and 82–85
+The Sacred Wood, "Dante"
+Charity (1974)
+Stephenson (1946)
+===
+path: love
+line: 35
+text: This is the poem's first love, and it fails. A girl remembers being given hyacinths, and another voice the return from the garden, unable to speak. Grover Smith (1956) reads the garden as the Grail scene of Weston's book, the girl as the maiden who bears the Grail and the man as the knight who seeks it and fails. Eliot himself, writing to Emily Hale in 1930, asked her to reread these lines to see how his love for her had grown, as Lyndall Gordon's <i>The Hyacinth Girl</i> (2022) made known.
+sources: Grover Smith (1956)
+Dickey (2020)
+Gordon, The Hyacinth Girl
+---
+path: love
+line: 49
+text: The second of Madame Sosostris's cards is a woman; the card in the margin gives the two meanings of her name. Cleanth Brooks (1939) took her as "woman in the waste land", and Grover Smith (1956) put her with Madame Sosostris and with Lil, the wife in the pub scene of Part II, at the far end of the poem's women from the hyacinth girl. Eliot's note on line 218 says all the women are one woman; Belladonna is dealt before any of those women has appeared.
+sources: Southam, Guide, note on line 49
+Brooks (1939)
+Grover Smith (1956)
+===
+path: seers
+line: 0
+text: The poem's first seer is the Sibyl of Cumae, a prophetess, hanging in a jar; when boys ask what she wants, she answers that she wants to die. The speaker is Trimalchio, the rich freedman of Petronius's <i>Satyricon</i>, who says he saw her with his own eyes; the card gives his words and Ovid's story of how she came by her years and forgot to ask for youth. The one thing left for her to foretell, in Ovid, is her own dwindling, until only her voice remains.
+sources: Petronius, Satyricon 48
+Ovid, Metamorphoses XIV 130–153
+Southam, Guide, note on the epigraph
+---
+path: seers
+line: 19
+text: The lines from here to 30 take a prophet's address and a prophet's promise. "Son of man" is how God addresses Ezekiel (the card at line 20 gives it), and the speaker who borrows it addresses someone who knows only "A heap of broken images"; Southam sets the phrase beside Ezekiel's judgement on idols, "your images shall be broken" (6:4). The voice promises what a prophet is given, something shown ("I will show you", twice), and what it shows is not a vision but "fear in a handful of dust".
+sources: King James Bible, Ezekiel 2:1–3
+King James Bible, Ezekiel 6:4
+Southam, Guide, notes on lines 20 and 22
+Rainey, Annotated Waste Land, note on line 22
+---
+path: seers
+line: 39
+text: The first eyes in the poem after Trimalchio's in the epigraph are these, and they fail while looking "into the heart of light". The next line is Wagner's shepherd, set to watch for Isolde's ship and to pipe a merry tune if he sees it, reporting the sea desolate and empty (the card at line 42 gives the scene). In the garden the eyes fail and see nothing; on the shore they work, and there is nothing to see.
+sources: Wagner, Tristan und Isolde, Act III
+Southam, Guide, note on line 42
+Rainey, Annotated Waste Land, note on line 42
+---
+path: seers
+line: 43
+text: Madame Sosostris is the poem's seer by trade; the card in the margin gives her name's source and Eliot's note on line 46. What she cannot see matters here: one of her cards that she is "forbidden to see", and the Hanged Man, whom she does not find; the same note associates him with the hooded figure at line 364. Hugh Kenner (1959) saw in her parting line, "One must be so careful these days", a fortune-teller "harried by police"; the card in the margin gives the Vagrancy Act.
+sources: Huxley, Crome Yellow, ch. 27
+Vagrancy Act 1824, s. 4
+Kenner (1959)
+Southam, Guide, notes on lines 43–55
+Rainey, Annotated Waste Land, note on line 43
+---
+path: seers
+line: 48
+text: Ariel's song, which the card in the margin gives, has no "Look!"; the command is Eliot's addition, and the one order to look in Part I. The card in the margin also gives the line's return at 125, the one thing the man in Part II says he remembers, and Eliot's note on line 125 (numbered 126), which sends it back here and to the garden of line 37, where eyes failed.
+sources: Shakespeare, The Tempest I.ii
+Rainey, Annotated Waste Land, note on line 48
+---
+path: seers
+line: 65
+text: The crowd that Dante's line has just called dead (the card gives his passage) comes over the bridge with every eye on the ground, and the one who looks at it, and sees what it is, is the speaker. The one command to look in Part I was "Look!" (line 48); here no one in the crowd looks.
+sources: Dante, Inferno III 55–57
+Southam, Guide, note on line 63
+===
+path: change
+line: 48
+text: The first change in the poem is a drowned man's, eyes turned to pearls, in a bracket on one of Madame Sosostris's cards. The line is from the song the spirit Ariel sings in <i>The Tempest</i> to a prince who thinks his father drowned; the card in the margin prints the song, which goes on to a sea-change into "something rich and strange". The father, as that card says, is not drowned. The poem quotes the pearls, here and again at line 125, and the sea-change never.
+sources: Shakespeare, The Tempest I.ii
+Rainey, Annotated Waste Land, note on line 48
+===
+path: method
+line: 1
+text: The card gives Chaucer's opening, the April of sweet showers and pilgrimages. Eliot's first sentence answers those lines without quoting them. It keeps the month, and keeps the rain at the roots, where Chaucer's showers have "perced to the roote" and Eliot's stir "Dull roots", and it adds the word "cruellest". The poem does not name Chaucer; a reader who knows his lines hears both Aprils at once, and each stop that follows asks the reader to do the same.
+sources: Chaucer, General Prologue 1–12
+Southam, Guide, note on line 1
+Rainey, Annotated Waste Land, note on line 1
+---
+path: method
+line: 60
+text: Eliot's note quotes the opening of Baudelaire's "Les Sept Vieillards", and the card gives it, a Paris in which a ghost stops the passer-by in broad daylight. Eliot lays that city over the City of London at nine on a working morning, and Baudelaire's dirty yellow fog becomes "the brown fog of a winter dawn". The card has Eliot's own account, from 1950, of what he learned from Baudelaire about the modern city. The crowd on the bridge, Dante's, is left to the pathway on Dante and the dead.
+sources: Baudelaire, Les Fleurs du mal, "Les Sept Vieillards" 1–9
+Eliot, "What Dante Means to Me" (1950)
+Southam, Guide, note on line 60
+===
+path: war
+line: 12
+text: The poem's first speakers belong to the Europe of before the war. Lithuania declared its independence in 1918 (the card at this line); Southam's note on the line dates it "only from 1919", after the war. The archduke of line 13 fits Crown Prince Rudolf, found dead at Mayerling in 1889; the card at 15 gives him and his cousin Countess Marie Larisch, whose memoir is behind lines 8–18. Hugh Kenner (1959) heard in the voice of these lines "the vanished Austro-Hungarian Empire, the inbred malaise of Mayerling".
+sources: Southam, Guide, note on line 12
+Kenner (1959)
+---
+path: war
+line: 70
+text: The card at this line gives Mylae and the reading of Cleanth Brooks (1939) that the Punic War, a trade war, parallels the war of 1914–18. Southam's note on the line quotes John Hayward, whose notes to the French translation of the poems (1947) were made with Eliot's advice: "All wars are one war". Brooks also read Stetson, hailed as a shipmate of 260 BC, as "every man". For the corpse in the garden at 71, see the Grail pathway, which sets it beside Frazer's buried effigies of Osiris.
+sources: Brooks (1939)
+Southam, Guide, note on line 70
+===
+path: wagner
+line: 8
+text: Ludwig II of Bavaria, Wagner's patron, was found drowned here in June 1886, after being put under restraint as mad. He brought Wagner to Munich in 1864; <i>Tristan und Isolde</i>, quoted at line 31, was first performed there the next year. Countess Marie Larisch, whose memoir is behind lines 8–18, writes as a member of the family and tells of his death. Herbert Knust (1967) argued that her book plays an important part in the poem; Southam's <i>Guide</i> records the argument.
+sources: Larisch, My Past, ch. VII
+Larisch, My Past, ch. I
+Encyclopaedia Britannica (1911), "Wagner, Wilhelm Richard"
+Southam, Guide, note on lines 8–22
+---
+path: wagner
+line: 31
+text: Straight after "fear in a handful of dust" the poem cuts to the first words sung in <i>Tristan und Isolde</i>, a sailor's song of the wind blowing homeward and a girl left behind; the card at this line gives the scene, and Isolde taking the song as mockery of her. The opera ends with both lovers dead, and the poem puts the opera's first words just before the hyacinth garden. The song, sung unaccompanied as if from the mast, is in the 1928 Bayreuth recording in the <a href="listen.html#rec-tristan-1928-bayreuth-act1-sailor">listening room</a>.
+sources: Wagner, Tristan und Isolde, Act I scene 1
+Wagner, Tristan und Isolde, Act III
+---
+path: wagner
+line: 42
+text: The shepherd, watching for Isolde's ship, tells Kurwenal, Tristan's servant, that nothing is on the sea; the card gives the scene. Cleanth Brooks (1939) read the two <i>Tristan</i> quotations together and noted that the empty sea, on its own, seems "simply an extension of the last figure", the lines just before it; in the opera no ship is yet in sight. For the couple in the garden, see the pathway on the loves that fail; the exchange, from the same 1928 Bayreuth set, is in the <a href="listen.html#rec-tristan-1928-bayreuth-act3-shepherd">listening room</a>.
+sources: Wagner, Tristan und Isolde, Act III scene 1
+Brooks (1939)

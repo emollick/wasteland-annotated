@@ -1,0 +1,97 @@
+id: love
+title: The loves that fail
+intro: The loves in the poem, taken in order, and how each of them fails. Eliot’s note on line 218 says that in the poem “all the women are one woman, and the two sexes meet in Tiresias”, the blind seer who has lived as both and who watches the typist and the clerk. Behind the couples stands Jessie Weston’s <i>From Ritual to Romance</i>, which Eliot’s headnote credits with the poem’s plan: in the Grail legend as she reads it, “the loss of virility” in the king “brings about a suspension of the reproductive processes of Nature”, and the land lies waste until he is healed. Cleanth Brooks (1939) read the poem through that account, as the land of the Fisher King, “rendered impotent by maiming or sickness”. The pathway ends at the thunder, with the one love the poem speaks of as possible, in the conditional, at line 421.
+why: The poem’s couples and seductions, from the hyacinth garden to the typist’s divan, with what Tiresias and the thunder make of them.
+sources: Weston, From Ritual to Romance, ch. II
+Brooks (1939)
+---
+path: love
+line: 35
+text: The poem's first love, and its failure. A girl remembers being given hyacinths; another voice remembers coming back late from the garden, unable to speak, "neither / Living nor dead". Wagner frames the scene: the sailor's love-song from Tristan's ship before it (31–34), the shepherd's empty sea after it, as Tristan waits for Isolde (42). Grover Smith (1956) reads the garden as the Grail scene of Weston's book, the girl as Grail-bearer and the man as the quester who fails; Lyndall Gordon reads the girl as Emily Hale.
+sources: Wagner, Tristan und Isolde, Act I
+Wagner, Tristan und Isolde, Act III
+Grover Smith (1956)
+Gordon, The Hyacinth Girl
+Southam, Guide, note on lines 37–41
+---
+path: love
+line: 49
+text: The second card dealt is a woman. Belladonna is Italian for beautiful lady and the name of deadly nightshade, whose drug women used to widen their pupils (Southam's note). Brooks (1939) took her as "woman in the waste land", and Grover Smith (1956) sets her, with Madame Sosostris and Lil, on the far side of the poem's women from the hyacinth girl. Eliot's note on 218 says all the women are one woman; the card is dealt before those women appear, and they fill it.
+sources: Southam, Guide, note on line 49
+Brooks (1939)
+Grover Smith (1956)
+---
+path: love
+line: 77
+text: The room is furnished from two queens' loves. The chair like a burnished throne and the perfumed air come from Cleopatra's barge as Enobarbus describes it (the card gives the speech); the "laquearia" and the burning lamps come from Dido's banquet for Aeneas in the first book of the <i>Aeneid</i> (Eliot's note on 92). Both loves ended in death: Cleopatra killed herself after Antony's defeat, and Dido on a pyre when Aeneas sailed. The woman in the chair sits among their furniture with a man who does not answer her.
+sources: Shakespeare, Antony and Cleopatra II.ii
+Shakespeare, Antony and Cleopatra V.ii
+Virgil, Aeneid I 726
+Virgil, Aeneid IV 642–665
+Southam, Guide, notes on lines 77 and 92
+---
+path: love
+line: 99
+text: The picture over the mantel shows a rape. In Ovid, Tereus, king of Thrace, forces his wife's sister Philomela and cuts out her tongue; she tells it in a weaving, and the sisters are turned into birds (the card gives the story). The first sexual act in the poem is on the wall as art. The nightingale's "inviolable voice" reaches the world as "Jug Jug" to dirty ears; the cry returns at 203–206 with "Tereu", the rapist's name, and Eliot's note on 429 sends the swallow there back to Philomela.
+sources: Ovid, Metamorphoses VI 424–674
+---
+path: love
+line: 111
+text: One speaks and the other does not answer: her words are in quotation marks, his are not (the card gives the reading). What he remembers is "Those are pearls that were his eyes", and Eliot's note on 126 sends it back to the hyacinth garden and the drowned sailor. Vivien Eliot wrote "Yes &amp; wonderful wonderful" up the margin of the typescript; a line after 137, "The ivory men make company between us", was cut at her wish and restored by Eliot in a copy he wrote out in 1960.
+sources: Facsimile (1971), the typescript of Part II
+Ricks and McCue, textual history of Part II
+---
+path: love
+line: 139
+text: A marriage told in a pub. Albert, four years in the army, "wants a good time"; Lil has had five children and took pills "to bring it off". "What you get married for if you dont want children?" is Weston's theme: her waste land is a country where generation has failed, and here a wife has paid a chemist to stop it. Eliot said the passage was "pure Ellen Kellond", the Eliots' maid, who told it. The goodnights at 172 are Ophelia's, whom Hamlet courted and cast off.
+sources: Weston, From Ritual to Romance, ch. II
+Facsimile (1971), editorial note on the typescript of Part II
+Southam, Guide, note on lines 142–72
+Shakespeare, Hamlet III.i
+Shakespeare, Hamlet IV.v
+---
+path: love
+line: 173
+text: Eliot's note on 176 gives Spenser's <i>Prothalamion</i>, "a spousall verse": the poet walks by the Thames and sees nymphs gathering flowers for two brides, with the refrain Eliot takes over at 176. Here the refrain is sung over a river with no litter on it because the summer is over: "The nymphs are departed", and so have "their friends, the loitering heirs of city directors", who "have left no addresses". A wedding song is borrowed for the affairs of a season, which end without a trace.
+sources: Spenser, Prothalamion
+Southam, Guide, note on lines 175–9
+---
+path: love
+line: 199
+text: The song is a brothel ballad. Eliot's note says it "was reported to me from Sydney, Australia"; Southam records that Australian soldiers sang it, notably as they landed at Gallipoli in 1915, and that Mrs Porter was a legendary brothel-keeper in Cairo. The French line after it ends Verlaine's sonnet on Parsifal, the knight who resisted the Flower-maidens; Helen Gardner (1972) traced the way from the soda water to Verlaine through the washing of Parsifal's feet in Wagner's opera. The poem's one chaste lover gets one line.
+sources: Verlaine, "Parsifal"
+Southam, Guide, note on line 199
+Gardner (1972)
+---
+path: love
+line: 215
+text: The poem's central scene of love, watched by one who has been both sexes. First, Mr Eugenides's "weekend at the Metropole" (a Brighton hotel, Rainey notes), which James E. Miller (1977) reads as a proposition; then the typist and the clerk, "Exploring hands encounter no defence", "I'm glad it's over". Eliot's note on 218 says what Tiresias sees "is the substance of the poem". Cleanth Brooks (1939) found an irony in the witness, since in <i>Oedipus Rex</i> Tiresias knows that the plague on Thebes comes from a sexual sin.
+sources: Rainey, Annotated Waste Land, note on line 214
+Miller (1977)
+Brooks (1939)
+---
+path: love
+line: 279
+text: The queen and Lord Robert Dudley, later Earl of Leicester, in a barge on the Thames, June 1561, talking of marriage where the Spanish ambassador could hear: Eliot's note quotes his letter from Froude. It never became a marriage, and Froude's chapter tells what stood in the way: Dudley's wife Amy had been found dead at the foot of a staircase in September 1560, amid talk of murder. F. O. Matthiessen (1935) found the "stale pretence" of their relationship as empty as the typist's and the clerk's.
+sources: Froude, Reign of Elizabeth, vol. I, ch. IV
+Matthiessen (1935)
+Southam, Guide, note on lines 279–91
+---
+path: love
+line: 292
+text: Three girls speak in turn (Eliot's note on 266), a few lines each: on the floor of a canoe at Richmond; at Moorgate, "After the event / He wept"; on Margate Sands, "Nothing with nothing". Wagner's Rhine-daughters, whose refrain they have just sung, mourn a theft, the gold taken from their river; these mourn nothing and expect nothing. Their song runs straight into Augustine's Carthage and the Buddha's "burning" (307–311), the fire of passion of the Fire Sermon.
+sources: Wagner, Götterdämmerung III.i
+Southam, Guide, note on lines 292–303
+Warren, Buddhism in Translations, §73
+---
+path: love
+line: 402
+text: The thunder's first word is give, and the one gift the poem records is "The awful daring of a moment's surrender", which "an age of prudence can never retract" and by which alone "we have existed". To whom, and when, is not said; James E. Miller (1977) reads it as a giving of the self to a friend. What follows is where it will not be found: obituaries, memories, wills, and, in Eliot's note on 408, Webster's widow who will remarry before the worm has pierced the winding-sheet.
+sources: Webster, The White Devil V.vi
+Miller (1977)
+Southam, Guide, notes on lines 401 and 407
+---
+path: love
+line: 419
+text: The third word, "control", is answered first by a boat well handled, then by a heart: "your heart would have responded". It is the poem's only love in the conditional, and it comes last, after the couples who could not speak or would not answer: a heart that would have answered, had it been asked. The card gives Eliot's sailing off Gloucester; Southam's note on the line records that Eliot's order of the three words, with this one last, has been much argued over.
+sources: Southam, Guide, note on line 418

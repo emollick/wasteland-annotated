@@ -47,167 +47,693 @@ text: No water from here to line 359. At line 395 a gust brings rain.
 line: 427
 text: The last eight lines are mostly quotations, in five languages. The Fragments view gives each its source.
 ===
-id: water
-title: Water
-intro: The passages where water is present or lacking, in the order of the poem, from the spring rain of line 4 to the fisher on the shore at line 424: the dry stone of line 24 and the empty sea of line 42, the drowned sailor in Madame Sosostris’s pack and her warning “Fear death by water” (47–55), the Thames of Part III and the waters of Leman (182), the drowning of Phlebas in Part IV, the rock without water in Part V (331–359), the rain of line 395, the sunken Ganges (396) and the boat of line 419. Eliot’s headnote to his notes credits Jessie L. Weston’s book on the Grail legend, <i>From Ritual to Romance</i>, one chapter of which is called “The Freeing of the Waters.”
-why: Where the poem has water, or lacks it, from the spring rain of line 4 to the fisher on the shore.
----
-line: 4
-text: "Dull roots with spring rain." The first water in the poem is spring rain reaching the roots, in a sentence that calls the month that brings it the cruellest.
----
-line: 24
-text: "the dry stone no sound of water." The first drought. The sound of water that is missing here is wished for again, at length, in Part V.
----
-line: 42
-text: "Oed' und leer das Meer." Desolate and empty the sea: in the third act of Wagner's <i>Tristan</i>, the shepherd set to watch for Isolde's ship sees nothing on it.
----
-line: 47
-text: The drowned Phoenician Sailor. The first drowned man in the poem is a card in a pack. The line in brackets, "Those are pearls that were his eyes," is from Ariel's song in <i>The Tempest</i>.
----
-line: 55
-text: "Fear death by water." Madame Sosostris warns against water. In the Grail legend that Eliot's headnote points to, water is what the waste land lacks and needs, and Cleanth Brooks (1939) read her warning as a warning against the one death that might bring life. Part IV of the poem is called Death by Water.
----
-line: 125
-text: Ariel's song again (line 48): the drowned man's eyes. The only other water in this section is the hot water at ten and the rain that may come at four (lines 135–136); the sea is in the room only as driftwood on the fire and a carved dolphin (94–96).
----
-line: 172
-text: The pub's goodnights turn into Ophelia's last line in Hamlet; the next we hear of her is the Queen's report of her drowning.
----
-line: 176
-text: "Sweet Thames, run softly, till I end my song": Spenser's refrain from the <i>Prothalamion</i>, a wedding poem. Here the nymphs "are departed" and the river "bears no" litter.
----
-line: 182
-text: "By the waters of Leman I sat down and wept." Psalm 137 in the Prayer Book wording, "By the waters of Babylon we sat down and wept", with Lake Geneva (Lac Léman) in Babylon's place. Eliot wrote Parts IV and V at Lausanne, on the lake, in the winter of 1921–22.
----
-line: 189
-text: "While I was fishing in the dull canal", behind the gashouse. The fisher is usually taken as the Fisher King of Weston's book, whose wound lays his land waste.
----
-line: 266
-text: "The river sweats / Oil and tar." The working Thames of Eliot's day; then, at 279, Elizabeth's barge in 1561, from the Spanish ambassador's letter that Eliot's note quotes.
----
-line: 312
-text: Phlebas is the drowned Phoenician Sailor of the tarot reading (47); here the current under sea picks his bones.
----
-line: 331
-text: "Here is no water but only rock." Rock and no water to line 359, and no rain until the gust of line 395.
----
-line: 353
-text: "If there were the sound of water only." Lines 353 to 359 imagine the sound of water and end on the hermit-thrush, whose song Eliot's note calls "water-dripping."
----
-line: 395
-text: "Bringing rain." The first rain since line 9. The poem does not show it fall.
----
-line: 396
-text: "Ganga was sunken." The Ganges low, and black clouds gathering over Himavant, the Himalaya. The thunder that speaks next is from the Upanishad named in Eliot's note.
----
-line: 419
-text: "The boat responded." A calm sea, and a boat under control.
----
-line: 424
-text: "I sat upon the shore / Fishing, with the arid plain behind me." The Fisher King, by water, with the waste land behind him.
-===
-id: dead
-title: The dead
-intro: The poem’s dead, in the order they appear, among them the crowd on London Bridge (lines 62–63), the corpse planted in the garden (71), Phlebas in Part IV and the “Dry bones” of line 391. Part I takes its title, The Burial of the Dead, from the burial service in the Book of Common Prayer.
-why: The poem’s dead, from the Sibyl in the epigraph to Ugolino in his tower.
+id: grail
+title: The Grail and the waste land
+intro: The Grail legend as Eliot took it from Weston and Frazer. Eliot’s headnote to his notes credits the title, the plan and “a good deal of the incidental symbolism” to Jessie L. Weston’s <i>From Ritual to Romance</i> (1920), a study of the Grail legend, and names beside it the anthropologist J. G. Frazer’s <i>The Golden Bough</i>. Weston argued that the Grail romances preserve an old rite, in which the wound of a king, the Fisher King, leaves his land waste and its waters dry until a knight asks the right question, so that the king is healed and the waters flow. Frazer supplied the rite, the god (Adonis, Attis, Osiris) who dies with the year and is buried or drowned so that he may return in spring. The critic Cleanth Brooks made the legend the key to the poem in 1939; in 1956 Eliot regretted having sent readers on a “wild goose chase” after the Tarot and the Grail.
+why: The Grail legend behind the title, followed through the poem from the dead land of the first lines to the king fishing on the shore.
+sources: Weston, From Ritual to Romance, ch. II
+Frazer, The Golden Bough (1922), ch. XXIX
+Frazer, The Golden Bough (1922), ch. XXXII
+Brooks (1939)
+Eliot, "The Frontiers of Criticism" (1956)
 ---
 line: 0
-text: The Sibyl, who cannot die, in her jar.
+text: Weston's summary of the romances is that the object of the Grail quest is "the restoration to health and vigour of a King" whose infirmity "reacts disastrously upon his kingdom". Earlier scholars, she says, had treated the land's misfortunes as an accident of the story; for her the "Waste Land" is "the very heart of our problem", and it is that land the title names. The stops that follow say what the poem does with her king and his waters.
+sources: Weston, From Ritual to Romance, ch. II
+Weston, From Ritual to Romance, ch. V
 ---
-line: 2
-text: "Lilacs out of the dead land." The poem's second line already calls the land dead.
+line: 1
+text: The rites Frazer collected were performed to bring the spring back. The dead, he writes, "came back in the sprouting corn" and were imagined to return in the spring flowers, "the violets and the hyacinths", which "sprang from their dust". The poem's first voice feels that return as cruelty and prefers the "forgetful snow". Brooks (1939) wrote that the poem's people "are afraid to live in reality", so that "April, the month of rebirth, is not the most joyful season but the cruelest".
+sources: Frazer, The Golden Bough (1922), ch. XXXII
+Brooks (1939)
 ---
-line: 23
-text: "the dead tree gives no shelter." Eliot's notes send these lines to the Bible: "Son of man" (20) to Ezekiel 2:1, where God so addresses the prophet, and this line to Ecclesiastes 12:5, where the grasshopper is a burden and "man goeth to his long home," the grave.
----
-line: 39
-text: "I was neither / Living nor dead." The hyacinth garden.
----
-line: 62
-text: Dante's crowd on London Bridge. Line 63, "I had not thought death had undone so many," is from <i>Inferno</i> III, where Dante sees the train of the dead just inside the gate of Hell; Eliot's note gives the passage.
----
-line: 71
-text: "That corpse you planted last year in your garden." Eliot's headnote says that readers of Frazer will recognise "references to vegetation ceremonies" in the poem, and this is one of them: a god buried so that he will come up again, here a corpse in a garden.
----
-line: 74
-text: From the dirge in Webster's <i>The White Devil</i> that Cornelia sings over her murdered son, calling on the birds to cover "the friendless bodies of unburied men." Eliot turns the wolf into a dog and the foe into a friend.
----
-line: 115
-text: "rats' alley / Where the dead men lost their bones." Eliot's note points to the rat on the river bank at line 195. The lines have also been read as the trenches of the war that had ended three years before.
----
-line: 194
-text: "bones cast in a little low dry garret, / Rattled by the rat's foot only, year to year."
----
-line: 245
-text: Tiresias, who "walked among the lowest of the dead."
----
-line: 312
-text: By the time his section opens Phlebas has been dead a fortnight. The drowning itself is never shown.
----
-line: 328
-text: "He who was living is now dead / We who were living are now dying."
----
-line: 388
-text: "the tumbled graves, about the chapel." The Chapel Perilous, and "Dry bones can harm no one."
----
-line: 407
-text: "our obituaries." What the dead leave: memories, wills, empty rooms.
----
-line: 412
-text: Ugolino, hearing the door of the tower locked, or nailed, below him.
-===
-id: women
-title: The women
-intro: Eliot’s note on Tiresias (line 218) says that in the poem “all the women are one woman.” This pathway gives the poem’s women in the order they appear, so that you can judge the claim for yourself. Some speak in their own words; some are figures from older books, named or alluded to; Philomel, from Ovid, appears as a nightingale.
-why: The poem’s women in the order they appear, and Eliot’s note that “all the women are one woman.”
----
-line: 0
-text: The Sibyl, kept in a jar, asked by boys what she wants.
----
-line: 13
-text: Marie, who was frightened on the sled as a child, and who says that in the mountains you feel free.
----
-line: 35
-text: The hyacinth girl. She speaks the two lines in quotation marks, 35–36. The garden that follows is remembered by someone else.
+line: 19
+text: These lines are the poem's first picture of the waste land, dry stone and dead tree and "no sound of water". Weston traces the Grail hero's oldest task, the freeing of the waters, to the <i>Rig-Veda</i>, whose ancient Sanskrit hymns praise the god Indra for killing the giant that had "imprisoned" the rivers: "Indra has filled the rivers, he has inundated the dry land." The waters of this land are still imprisoned; no rain is offered to it until the "damp gust / Bringing rain" of line 394.
+sources: Weston, From Ritual to Romance, ch. III
+Weston, From Ritual to Romance, ch. II
 ---
 line: 43
-text: Madame Sosostris, who has a cold, deals cards that come back later in the poem. "One must be so careful these days" is usually read as a fortune-teller's caution about the law, since telling fortunes for money could be prosecuted.
+text: Weston's chapter on the symbols holds that the four Grail talismans, Cup, Lance, Sword and Dish, survive as the four suits of the Tarot, and suggests that the pack may first have been used "to predict the rise and fall of the waters which brought fertility to the land". Brooks (1939) wrote that Madame Sosostris "has fallen a long way from the high function of her predecessors". Eliot's note on line 46 ties one of her cards, the man with three staves, "quite arbitrarily" to the Fisher King.
+sources: Weston, From Ritual to Romance, ch. VI
+Brooks (1939)
+---
+line: 55
+text: The missing card is the dying god's. Eliot's note on line 46 ties the Hanged Man to "the Hanged God of Frazer", a chapter of Frazer's <i>Adonis, Attis, Osiris</i> on the god Attis, whose effigy hung on a pine and whose human representative, Frazer conjectures, was once hanged there. Weston's dead god is "not buried in the earth, but thrown into the water", and Brooks (1939) read "Fear death by water" as spoken by one who does not know "that the way into life may be by death itself".
+sources: Frazer, Adonis, Attis, Osiris, bk. II, ch. V
+Frazer, The Golden Bough (1922), ch. XXXIV
+Weston, From Ritual to Romance, ch. IV
+Brooks (1939)
+---
+line: 71
+text: In Frazer, the Egyptian priests of Osiris buried effigies of the god made of earth and corn at the sowing and took them up with the corn "found to have sprouted from the body of Osiris", a sprouting hailed as the cause of the crops (the card at this line gives the rites). "Will it bloom this year?" is the rite's own question. The poem gives it to a man who asks, in the same speech, that the Dog be kept from digging the corpse up again.
+sources: Frazer, The Golden Bough (1922), ch. XXXIX
+---
+line: 189
+text: Brooks (1939) read the man fishing here, for "the reader who knows the Weston references", as the Fisher King (the card at this line has Ferdinand of <i>The Tempest</i>, whose lament the lines adapt). In Weston the king's sickness keeps his land waste, and his castle stands by water, "on or near the sea, or on the banks of an important river". The poem gives its king no wound and no castle, only a canal, a rat and the "White bodies naked on the low damp ground".
+sources: Weston, From Ritual to Romance, ch. IX
+Weston, From Ritual to Romance, ch. IV
+Brooks (1939)
+---
+line: 202
+text: The line is the last of Verlaine's sonnet on Wagner's Grail opera <i>Parsifal</i>, and the sonnet's tenth line is "Il a guéri le roi": he has healed the king. This is the only place where the poem touches the quest achieved, in another man's line, between Mrs Porter's soda water and the nightingale's "Jug jug". Weston herself ends her chapter on the Perilous Chapel (the chapel at line 389) with the Grail waking "to new life in the nineteenth century" through "the genius of Tennyson and Wagner".
+sources: Verlaine, "Parsifal", lines 10 and 14
+Weston, From Ritual to Romance, ch. XIII
+---
+line: 312
+text: "Death by Water is executed in Part IV", Eliot's note on line 46 says. In Frazer the women of Alexandria carried the image of the dead Adonis "to the sea-shore and committed it to the waves", and "sang that the lost one would come back again". The poem keeps the drowning and drops the return; a current picks Phlebas's bones, and the section ends in a warning, not in a rising. Brooks (1939) nevertheless suggested that the section "gives an instance of the conquest of death and time".
+sources: Frazer, The Golden Bough (1922), ch. XXXII
+Brooks (1939)
+---
+line: 331
+text: Eliot's headnote to his notes on Part V names three themes, the second "the approach to the Chapel Perilous (see Miss Weston's book)". In Weston the chapel is a test the knight meets on his way to the Grail castle, and he rides to it through a storm; lines 331 to 359 are that road without a knight or a storm, through mountains "of rock without water" where the "dry sterile thunder without rain" is the thunder that will speak at line 400.
+sources: Weston, From Ritual to Romance, ch. XIII
+---
+line: 353
+text: The freeing of the waters is imagined here as sound only, and cancelled at line 359. The sound is the hermit-thrush's, the bird Eliot's note on line 357 names, whose "water-dripping song" the note calls justly celebrated. Eliot told the novelist Ford Madox Ford in 1923 that the poem had "about 30 good lines" and that they were "the 29 lines of the water-dripping song in the last part". The bird is in <a href="listen.html#rec-xc899696-hermit-thrush-quebec">the listening room</a>.
+sources: Weston, From Ritual to Romance, ch. III
+Facsimile (1971), the editor's notes on Part V
+---
+line: 386
+text: Weston's Perilous Chapel (the card at line 389 gives it) is an adventure "fraught with extreme peril to life". The poem's chapel has no body, no hand and no voice, "only the wind's home", and "Dry bones can harm no one". Brooks (1939) and Southam's note both take it for Weston's chapel. After the cock and the lightning comes "a damp gust / Bringing rain", the first rain offered to the dry land of line 24, though the poem does not say that it falls.
+sources: Weston, From Ritual to Romance, ch. XIII
+Brooks (1939)
+Southam, Guide, note on line 388
+---
+line: 424
+text: Eliot's note on line 425 sends the reader to Weston's chapter on the Fisher King, and the card at this line gives her argument. In Weston the quest is achieved when a knight comes to the castle and asks the question, and the king is healed or, in the oldest version, "the waters flowed again thro' their channel". Here no knight has come. The king is still fishing, the plain behind him is still arid, and the one question asked is his own, about his lands and not his healing.
+sources: Weston, From Ritual to Romance, ch. IX
+Weston, From Ritual to Romance, ch. II
+===
+id: passion
+title: The Bible and the Prayer Book
+intro: The Bible and the Book of Common Prayer in the poem. Part I is named after the Prayer Book’s burial service; the desert of lines 19 to 30 speaks in words from Ezekiel and Ecclesiastes, and its rock is usually set beside Isaiah’s. Part V opens with the arrest and death of Christ told without his name, as Cleanth Brooks read it in 1939, and goes on to the road to Emmaus, where the risen Christ walks unrecognised beside two disciples; Eliot’s last note glosses “Shantih” with the blessing that ends the Communion service. Eliot was baptised into the Church of England in June 1927, five years after the poem. This pathway does not read the poem as the record of a conversion, or as a step towards one. It follows what the poem does with the scriptures it quotes, and says at each stop what a passage keeps of its source and what it does not.
+why: What the poem takes from the Bible and the Prayer Book, and what it leaves out, from the burial service that names Part I to the blessing quoted in Eliot’s last note.
+sources: Book of Common Prayer, the Order for the Burial of the Dead
+Brooks (1939)
+Southam, Guide, Biographical Table
+---
+line: 1
+text: Part I is named after the Prayer Book's "Order for the Burial of the Dead". The service begins "I am the resurrection and the life" and commits the body "earth to earth, ashes to ashes, dust to dust; in sure and certain hope of the Resurrection to eternal life". The part so named has its dead, the crowd of line 62 and the corpse of line 71, and none of the service's hope; the questions asked over the corpse, "Has it begun to sprout?" among them, get no answer.
+sources: Book of Common Prayer, the Order for the Burial of the Dead
+Southam, Guide, note on the title of Part I
+Rainey, Annotated Waste Land, note on the title of Part I
+---
+line: 20
+text: The card at this line gives Ezekiel and Ecclesiastes, and the tracing of the "heap of broken images" to Ezekiel 6, which Lawrence Rainey's annotated edition of the poem offers as a possible echo. Ezekiel's "Son of man" is set on his feet to speak and sent to "a rebellious nation"; the one addressed here is told he "cannot say, or guess". In Ezekiel the breaking of the images is a threat, "your images shall be broken" (6:4); here it has already happened.
+sources: King James Bible, Ezekiel 2:1–3
+King James Bible, Ecclesiastes 12:1–7
+King James Bible, Ezekiel 6:4
+Rainey, Annotated Waste Land, notes on lines 20 and 22
+---
+line: 25
+text: The card at this line gives Isaiah 32:2; Helen Gardner (1949) set the verse beside this rock, and B. C. Southam's <i>Guide</i> records it. In Isaiah the rock is "the shadow of a great rock in a weary land", a shelter promised for the reign of a righteous king. What is shown under this one is "fear in a handful of dust", and the dust, on this pathway, is that of Genesis 3:19, "dust thou art, and unto dust shalt thou return", and of the burial service, "dust to dust".
+sources: King James Bible, Isaiah 32:1–2
+King James Bible, Genesis 3:19
+Book of Common Prayer, the Order for the Burial of the Dead
+Gardner (1949), ch. IV (The Dry Season)
+Southam, Guide, note on line 25
+---
+line: 67
+text: The card at this line gives the church, and Eliot's hours at the bank a few doors along. The "final stroke of nine" has been read as the ninth hour of the Crucifixion, when Christ cried out and died (Matthew 27:46, Mark 15:34). B. C. Southam's <i>Guide</i>, in its note on line 68, records the reading and points out that the Gospels' ninth hour is the ninth of daylight, about three in the afternoon, not nine in the morning.
+sources: King James Bible, Matthew 27:45–46
+King James Bible, Mark 15:34
+King James Bible, Luke 23:44–46
+Southam, Guide, note on line 68
+---
+line: 182
+text: The card gives the wording and the lake. In the psalm the exiles in Babylon hang up their harps when their captors ask for "one of the songs of Sion", and answer "How shall we sing the Lord's song: in a strange land?" The singer, between two lines of Spenser's wedding-song for the Thames, speaks as that exile, and his song is short, "I speak not loud or long". The Prayer Book's psalms are Miles Coverdale's translation, of the 1530s; the church at line 264 keeps his tablet.
+sources: Book of Common Prayer, Psalm 137
+King James Bible, Psalm 137:1–4
+Southam, Guide, note on line 182
+Rainey, Annotated Waste Land, note on line 182
+---
+line: 264
+text: The card gives the church and the 1920 scheme to demolish nineteen City churches, this among them. In his London Letter dated May 1921, printed in <i>The Dial</i> for June, Eliot wrote that the City churches give the business quarter "a beauty which its hideous banks and commercial houses have not quite defaced". The County Council's report, which his note on line 264 cites, records the tablet to Miles Coverdale, once rector here and reburied here, whose psalms are the Prayer Book's (line 182).
+sources: Eliot, "London Letter," Dial, June 1921, pp. 690–691
+LCC, Nineteen City Churches (1920), the report on St Magnus the Martyr
+Rainey, Annotated Waste Land, note on line 264
+Rainey, Annotated Waste Land, "London Letter, May 1921"
+---
+line: 307
+text: The card gives both passages, the Carthage of Book III and the "Thou pluckest me out" of Book X, and Eliot's note on line 309 pairing Augustine with the Buddha. Augustine's <i>Confessions</i>, written about 400, are a convert's account of his life, and what the poem takes from them is the convert's memory of his lust and, from the chapter on the temptation of the eyes, his cry to be pulled free. "O Lord Thou pluckest me out" are the poem's only words addressed to God.
+sources: Augustine, Confessions, bk. III, ch. 1
+Augustine, Confessions, bk. X, ch. 34
+Rainey, Annotated Waste Land, note on line 307
+Rainey, Annotated Waste Land, note on line 309
+---
+line: 322
+text: The card gives the Passion, the arrest, trial and death of Christ, event by event, and Eliot's headnote to Part V, which names three themes for the section's first part and does not name this. Cleanth Brooks (1939) read the lines as the Passion, and wrote that the reference to the torchlight and to the frosty silence "obviously associates Christ in Gethsemane with the other hanged gods", the gods of Frazer's <i>Golden Bough</i>. After the death the gospels tell the resurrection. The poem does not; its "we" are "now dying".
+sources: King James Bible, John 18:3
+King James Bible, Luke 22:39–46
+Brooks (1939)
+Rainey, Annotated Waste Land, note on line 324
+Southam, Guide, note on lines 322–328
+---
+line: 360
+text: The card gives Luke's story and Shackleton's, and Eliot's note on line 46 associating the Hanged Man with the hooded figure. In Luke the two disciples know the stranger when he breaks bread, and he vanishes. The poem keeps the unknown companion, "wrapt in a brown mantle, hooded", the only form in which the risen Christ enters it, and leaves out the recognition; the speaker cannot tell a man from a woman, and the question the line asks is never answered.
+sources: King James Bible, Luke 24:13–31
+Southam, Guide, note on the headnote to Part V
+---
+line: 367
+text: The card at line 368 gives Hermann Hesse's essay on the downfall of Europe, which Eliot's note on these lines quotes, and the other reading, of the women who followed Christ to the cross; Hugh Kenner (1959) is one who made it. Those women were told "Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children" (Luke 23:28), and Jerusalem heads the five cities named at lines 375–376. The lamentation here is a sound "high in the air", with no mourner in sight.
+sources: King James Bible, Luke 23:27–28
+Kenner (1959), part III (The Death of Europe)
+---
+line: 391
+text: In Ezekiel 37 the prophet of line 20 is set down in a valley of bones and asked "Son of man, can these bones live?"; he prophesies to them, and they stand up "an exceeding great army". Here no one prophesies, and the bones can neither live nor harm. The card at this line gives the cock that crowed at Peter's denial and the cock of <i>Hamlet</i>; Cleanth Brooks (1939) read the poem's cock as the bird of folk-lore "whose voice chases away the powers of evil".
+sources: King James Bible, Ezekiel 37:1–14
+Brooks (1939)
+Shakespeare, Hamlet I.i
+---
+line: 426
+text: The card at line 424 gives Isaiah's message to King Hezekiah, "sick unto death", and the fifteen years the king was given when he turned his face to the wall and wept; Hugh Kenner (1959) and B. C. Southam's <i>Guide</i> record the verse. The poem's king takes the sentence without the reprieve. Isaiah's command has become a question, and the setting in order is hedged with "at least".
+sources: King James Bible, Isaiah 38:1–5
+King James Bible, 2 Kings 20:1
+Kenner (1959), part III (The Death of Europe)
+Southam, Guide, note on line 425
+---
+line: 434
+text: The card gives the note and Philippians 4:7. The note's English is the blessing that ends the Prayer Book's Communion service, "The peace of God, which passeth all understanding, keep your hearts and minds"; the poem that began under the burial service ends with a Sanskrit word glossed by its author with the Communion blessing. In 1922 the note called this "a feeble translation"; the wording stood in <i>Poems 1909–1925</i>, and when that book was reset in 1932 it became "is our equivalent to this word".
+sources: King James Bible, Philippians 4:7
+Book of Common Prayer, the Order of Holy Communion
+Poems 1909–1925, the note on Shantih
+Ricks and McCue, commentary on line 433
+Southam, Guide, note on line 433
+===
+id: east
+title: The Fire Sermon and the thunder
+intro: The Indian texts in the poem, the Buddha’s Fire Sermon and an Upanishad. Eliot studied Sanskrit at Harvard for two years from 1911 with Charles Rockwell Lanman, and spent a year on the metaphysics of the ancient Indian philosopher Patañjali with James Haughton Woods, a study that left him, he wrote in 1934, in “a state of enlightened mystification”. Part III takes its title from the sermon in which the Buddha says that all things are on fire; the sermon is heard at line 308, beside St Augustine’s <i>Confessions</i>, a pair Eliot’s note calls “representatives of eastern and western asceticism”. Part V’s title and last lines come from the <i>Bṛhadāraṇyaka Upaniṣad</i>, where the thunder’s one syllable is heard as three commands; “Shantih”, repeated, is the formula that closes an Upanishad. Cleo McNelly Kearns’s <i>T. S. Eliot and Indic Traditions</i> (1987) is the study behind this pathway.
+why: The Buddha and the Upanishads in the poem, from the sermon that names Part III to the thunder’s three commands and the last word.
+sources: Warren, Buddhism in Translations, §73
+Bṛhadāraṇyaka Upaniṣad, V.2
+Eliot, After Strange Gods (1934)
+Kearns (1987)
+---
+line: 173
+text: Part III's title is the Buddha's. His Fire Sermon, preached at Gaya, says that all things are on fire, eye, ear, nose, tongue, body and mind, each burning "with the fire of passion, say I, with the fire of hatred, with the fire of infatuation" (Henry Clarke Warren's translation, which Eliot's note on line 308 names). The title comes first and the sermon is heard last, at line 308; between them come the river, Sweeney and Mrs. Porter, the merchant, the typist and the women Eliot's note calls the Thames-daughters.
+sources: Warren, Buddhism in Translations, §73
+Southam, Guide, note on the title of Part III
+---
+line: 308
+text: Here is the sermon, cut to one word said four times. In Warren the disciple who sees the senses on fire "conceives an aversion" for them, "becomes divested of passion" and is free. The poem keeps the burning and leaves out the disciple and his freedom; the next words are St Augustine's, from the <i>Confessions</i> the card gives. Eliot's note on line 309 calls the pair "representatives of eastern and western asceticism" and their collocation "not an accident"; asceticism, renunciation, is his word for what the two texts share.
+sources: Warren, Buddhism in Translations, §73
+Southam, Guide, note on the title of Part III
+---
+line: 327
+text: Part V is called What the Thunder Said, and this is its first thunder, "of spring over distant mountains", in the lines the card at line 322 takes for the Passion, Christ's arrest and death told without his name. The card notes that no Gospel has thunder there; this thunder is the poem's own. It is heard again at line 342, "dry sterile thunder without rain", and speaks only at line 400, and then in Sanskrit.
+---
+line: 396
+text: The poem goes to India for its rain; the card at this line gives the names. The rain the poem has wanted gathers over the country of the Upanishads, whose thunder speaks at line 400. Jessie L. Weston's <i>From Ritual to Romance</i> is the book on the Grail legend that Eliot's headnote credits with the poem's plan. The first evidence she gives for the "Freeing of the Waters", the Grail hero's task, is Indra, the thunder god of the <i>Rig-Veda</i>, the oldest Indian scripture, who "has inundated the dry land".
+sources: Weston, From Ritual to Romance, ch. III
+Southam, Guide, note on line 395
+Southam, Guide, note on line 397
+---
+line: 400
+text: The card at line 401 tells the fable from <i>Bṛhadāraṇyaka Upaniṣad</i> V.2 and records Eliot's numbering, 5, 1. His note cites page 489 of Paul Deussen's German translation; in the 1921 printing the fable, numbered 5, 2, begins on that page, under the running head 5, 1. The Upanishad has the gods' Damyata first and the demons' Dayadhvam last; the poem begins with the men's Datta and ends with the gods' word, a change of order B. C. Southam records in his <i>Guide</i>.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Southam, Guide, note on lines 399–401
+---
+line: 402
+text: "Give" is the men's word; in Deussen, whom Eliot cites, they are told to give alms. The poem answers the command with a question, "what have we given?", and what it names is not alms but "a moment's surrender", a gift no obituary or will records; the card gives the spider from Webster's <i>The White Devil</i>. The pathway on the loves that fail reads the surrender as one made in love. What matters here is that the first command is answered outright, in the first person, "we have existed".
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Southam, Guide, note on lines 399–401
+---
+line: 412
+text: "Sympathise" is the demons' word, "Be merciful" in Max Müller's English translation and have compassion in Deussen; Southam records that "sympathise" is Eliot's rendering. The poem answers the command to feel for others with a locked door, "each in his prison", and with the sentence of the philosopher F. H. Bradley that Eliot's note quotes, in which a self's experience "falls within my own circle, a circle closed on the outside". The card gives Ugolino, shut in a tower to starve in Dante's <i>Inferno</i>; for him, see the pathway on Dante and the dead.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Bradley, Appearance and Reality, ch. XXIII
+Southam, Guide, note on line 411
+---
+line: 419
+text: "Control" is the gods' word, first in the Upanishad and last in the poem; it is "Be subdued" in Müller, restrain yourselves in Deussen, and Southam records that "control" is Eliot's rendering. A boat obeys it, a boat the card at this line connects with Eliot's sailing off Gloucester; when the sentence turns to a heart it turns to the conditional, "your heart would have responded", a thing that did not happen. The pathway on the loves that fail takes up the heart.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Southam, Guide, note on line 418
+---
+line: 433
+text: The three words come again, each with a full stop, after the fragments of lines 427 to 432. In the Upanishad the thunder repeats the father's syllable, "Da Da Da", and the passage ends by naming the three things to be taught, subduing, giving and mercy; the poem repeats its own three words instead, in its own order, and sets them down without answer or comment. Cleo McNelly Kearns (1987) reads Eliot's sequence as one that culminates in control.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Kearns (1987)
+Southam, Guide, note on lines 399–401
+---
+line: 434
+text: Shantih is peace. Eliot's note calls it, repeated three times, "a formal ending to an Upanishad"; Southam gives the full formula, "Om shantih shantih shantih", and Müller's translation prints it, closing the <i>Kaṭha Upaniṣad</i>, as "Om! Peace! peace! peace!" What the poem takes here is not a passage but the way a scripture closes. The card gives the Prayer Book's blessing behind Eliot's gloss, "The Peace which passeth understanding"; the note was reworded when the poems were reset in 1932, and the pathway on the Bible and the Prayer Book takes that up.
+sources: Kaṭha Upaniṣad, the closing formula
+Southam, Guide, note on line 433
+Kearns (1987)
+Ricks and McCue, commentary on line 433
+===
+id: dante
+title: Dante and the dead
+intro: The poem’s dead, and what they keep of Dante’s. Five of Eliot’s notes send the reader to Dante, more than to any other writer: to the <i>Inferno</i> for the crowd on London Bridge (the notes on lines 63 and 64) and for Count Ugolino, starved in his tower (412), and to the <i>Purgatorio</i> for La Pia, a murdered wife (293), and for the troubadour Arnaut Daniel in the refining fire (428), the canto from which the dedication to Pound is also taken. Dante’s dead, met and known by name, tell the living who they were and ask to be remembered. This pathway stops at the poem’s dead in order and asks what each passage keeps of that. Eliot’s essay on Dante in <i>The Sacred Wood</i> (1920) and his <i>Dante</i> of 1929 are quoted where they bear on a line, and his lecture of 1950 on what Dante meant to him is drawn on at line 62.
+why: The poem’s dead taken in order and set beside Dante’s, from the crowd on London Bridge to the poet Arnaut Daniel in the fire of Purgatory.
+sources: The Sacred Wood, "Dante"
+Eliot, Dante (1929)
+Eliot, "What Dante Means to Me" (1950)
+---
+line: 0
+text: The dedication, "il miglior fabbro", the better craftsman, is Dante's; the card gives the line (<i>Purgatorio</i> XXVI 117). In the fire that purges the lustful, the poet Guido Guinizelli points Dante to the troubadour Arnaut Daniel with these words, asks Dante to say a paternoster for him in heaven, and vanishes into the fire like a fish going through water to the bottom (XXVI 127–135). Arnaut's own plea, at the end of the canto, gives the poem its last words from Dante, at line 428, where this pathway ends.
+sources: Dante, Purgatorio XXVI 115–117 and 127–135
+Dante, Purgatorio XXVI 140–148
+---
+line: 62
+text: Eliot's notes send this crowd to two places at the edge of Dante's Hell: the neutrals in the vestibule inside the gate, whom heaven casts out and deep Hell will not receive (<i>Inferno</i> III 40–42), and Limbo, the first circle, where the unbaptised sigh in "grief without torments" (IV 28). The crowd here is undone and sighing, "so many", and no one in it named until Stetson at line 69. The card at line 63 has what Eliot said of this crowd in 1950.
+sources: Dante, Inferno III 34–42 and 55–57
+Dante, Inferno IV 25–30
+Eliot, "What Dante Means to Me" (1950)
+Southam, Guide, note on line 63
+---
+line: 69
+text: To know a face among the dead and stop it is Dante's scene. In <i>Inferno</i> XV a burnt figure catches Dante by the hem; it is Brunetto Latini, his old teacher, and Dante asks "Are you here, ser Brunetto?" (XV 23–30, 82–85). In <i>The Sacred Wood</i> (1920) Eliot placed the passage's emotion in "Brunetto's excellence in damnation". The comparison with Stetson is a critic's, A. C. Charity's (1974); when Ethel Stephenson, writing for lay readers in the 1940s, put it to Eliot, he said it had not occurred to him.
+sources: Dante, Inferno XV 22–33 and 82–85
+The Sacred Wood, "Dante"
+Charity (1974)
+Stephenson (1946)
+---
+line: 193
+text: Dante's dead have their places; few of the poem's are buried. Part I is named for the burial service, and its one buried body, the corpse, may be dug up again (71–75, Cornelia's dirge in Webster's <i>The White Devil</i> over her murdered son, for "the friendless bodies of unburied men"). The bones here are rattled "year to year"; a current picks Phlebas's (316). The man fishing at line 189 has mourned "the king my father's death" in words from Ferdinand's in <i>The Tempest</i>; Ferdinand's father, thought drowned, is alive.
+sources: Webster, The White Devil V.iv
+Shakespeare, The Tempest I.ii
+Book of Common Prayer, the Order for the Burial of the Dead
+---
+line: 245
+text: Tiresias, the blind seer, gives two credentials. Thebes is the city of Sophocles' <i>Oedipus the King</i>, where Tiresias told Oedipus what the king could not see. The walk among the dead is <i>Odyssey</i> XI, where Odysseus summons the shades with blood; Circe has told him that Tiresias alone keeps his understanding in death, "but the other ghosts flit about aimlessly" (X 490–495, in Butler's translation). He is the only speaker who says he has been among the dead and come back, as Dante has in the <i>Commedia</i>.
+sources: Homer, Odyssey X 490–495 and XI
+Sophocles, Oedipus Tyrannus
+---
+line: 293
+text: Eliot's note gives La Pia's line (<i>Purgatorio</i> V), a murdered wife's account of herself; the card has the passage. She begins with a request, "ricorditi di me", remember me, as Dante's dead often do (Guinizelli and Arnaut at XXVI 130 and 147). The first of Eliot's three Thames-daughters, speaking here, asks nothing. "Undid me" translates "disfecemi", and the same verb, disfare, is behind "undone" at line 63, where death has "disfatta" the crowd (<i>Inferno</i> III 57). "Siena made me, Maremma unmade me" is Eliot's own translation, of 1929.
+sources: Dante, Purgatorio V 130–136
+Dante, Inferno III 55–57
+Dante, Purgatorio XXVI 127–132 and 145–148
+Eliot, Dante (1929)
+Southam, Guide, note on line 293
+---
+line: 312
+text: The card gives the draft, some ninety lines of voyage and wreck, and Eliot's remark of 1959 that it was "rather inspired" by the Ulysses canto of the <i>Inferno</i>. There Ulysses, one of Dante's dead, tells from his flame how his ship, in sight of the mountain of Purgatory, was spun three times by a whirlwind and went down as the sea closed over it (XXVI 133–142). Pound cut the voyage and, in January 1922, insisted that Phlebas stay. Ulysses tells his own death; Phlebas has his told for him.
+sources: Dante, Inferno XXVI 133–142
+Paris Review interview (1959)
+Facsimile (1971), the typescript of Part IV
+Pound, Letters, ed. Paige, nos. 182–183
+Southam, Guide, note on Part IV
+---
+line: 329
+text: Here the speaker counts himself among the dying. The crowd at line 63 was undone and seen from outside; now "we" are dying, and "were living" puts the living in the past tense in which Dante's dead tell their lives, as in La Pia's "Siena mi fé", Siena made me (<i>Purgatorio</i> V 134). The lines before, "He who was living is now dead" among them, are the Passion, as the card says; this stop is for line 329 alone, and the comparison with Dante's grammar is the pathway's own.
+sources: Dante, Purgatorio V 133–134
+---
+line: 412
+text: Eliot's note sends the key to Count Ugolino, starved in a tower at Pisa with his sons (<i>Inferno</i> XXXIII 46); the card tells the story. He is in the ninth and lowest circle, in ice among the traitors, gnawing the skull of the archbishop who starved him (XXXIII 1–3 and 14). He speaks so that his words may be "seed" bearing infamy for his enemy (7–9). The thunder's word means sympathise, Eliot's note says; in this pathway's reading the poem answers from the place in Dante furthest from pity.
+sources: Dante, Inferno XXXIII 1–78
+Southam, Guide, note on line 411
+Rainey, Annotated Waste Land, note on line 411
+---
+line: 428
+text: Eliot's note gives the lines. Arnaut Daniel asks Dante to remember his pain and hides in the refining fire. Eliot had taken "Ara vos prec", now I pray you, as the title of his 1920 volume, printed "Ara Vus Prec", a misprint for Dante's "vos". In <i>Dante</i> (1929), translating the passage, he wrote that purgatory's flame, unlike hell's, "is deliberately and consciously accepted by the penitent", and "In their suffering is hope".
+sources: Dante, Purgatorio XXVI 140–148
+Eliot, Dante (1929)
+Gallup, entry A4
+===
+id: love
+title: The loves that fail
+intro: The loves in the poem, taken in order, and how each of them fails. Eliot’s note on line 218 says “all the women are one woman, and the two sexes meet in Tiresias”, the blind seer who has lived as both. Behind the couples the pathway sets a wounded king, the Fisher King of the Grail legend as Jessie Weston tells it in <i>From Ritual to Romance</i>, which Eliot’s headnote credits with the poem’s plan. His wound is “the loss of virility”, and because of it nothing grows in his land, “a suspension of the reproductive processes of Nature”, until he is healed. Cleanth Brooks (1939) read the poem as that land, “rendered impotent by maiming or sickness”. This pathway sets each couple beside the king and reads each failed love as a form of his wound. It ends at the thunder, with the one love the poem speaks of as possible, in the conditional, at line 421.
+why: The poem’s couples and seductions, from the hyacinth garden to the typist’s divan, with what Tiresias and the thunder make of them.
+sources: Weston, From Ritual to Romance, ch. II
+Brooks (1939)
+---
+line: 35
+text: This is the poem's first love, and it fails. A girl remembers being given hyacinths, and another voice the return from the garden, unable to speak. Grover Smith (1956) reads the garden as the Grail scene of Weston's book, the girl as the maiden who bears the Grail and the man as the knight who seeks it and fails. Eliot himself, writing to Emily Hale in 1930, asked her to reread these lines to see how his love for her had grown, as Lyndall Gordon's <i>The Hyacinth Girl</i> (2022) made known.
+sources: Grover Smith (1956)
+Dickey (2020)
+Gordon, The Hyacinth Girl
 ---
 line: 49
-text: Belladonna, the Lady of the Rocks. Belladonna is deadly nightshade, a poison and a cosmetic, and the word means beautiful lady; her title is usually traced to Leonardo's <i>Virgin of the Rocks</i>.
+text: The second of Madame Sosostris's cards is a woman; the card in the margin gives the two meanings of her name. Cleanth Brooks (1939) took her as "woman in the waste land", and Grover Smith (1956) put her with Madame Sosostris and with Lil, the wife in the pub scene of Part II, at the far end of the poem's women from the hyacinth girl. Eliot's note on line 218 says all the women are one woman; Belladonna is dealt before any of those women has appeared.
+sources: Southam, Guide, note on line 49
+Brooks (1939)
+Grover Smith (1956)
 ---
 line: 77
-text: The lady in the chair. Her room is made from Cleopatra's barge (line 77), Dido's ceiling (92) and Eve's garden (98).
+text: The card at this line gives the room's furniture: the chair from Cleopatra's barge, in the speech of Antony's officer Enobarbus, and the "laquearia" from the ceiling of Dido's palace in the <i>Aeneid</i> (Eliot's notes on lines 77 and 92). Both queens' loves ended in death. Cleopatra killed herself after Antony's defeat, and Dido, queen of Carthage, on a pyre when Aeneas sailed. The woman in the chair sits among the furniture of those two loves, with a man who does not answer her (lines 111–138).
+sources: Shakespeare, Antony and Cleopatra II.ii
+Shakespeare, Antony and Cleopatra V.ii
+Virgil, Aeneid I 726
+Virgil, Aeneid IV 642–665
+Southam, Guide, notes on lines 77 and 92
 ---
 line: 99
-text: Philomel, raped and turned into a nightingale, singing "Jug Jug" to dirty ears.
+text: The picture over the mantel shows a rape; the card at this line gives Ovid's story of Tereus and Philomela and her change into the nightingale. It is the first act of sex the poem names, and it is on the wall as a picture, in the room where at line 111 a woman asks a man to speak to her and is not answered. Philomela's cry comes back at lines 203–206 with "Tereu", the rapist's name, and Eliot's note on line 429 sends the swallow there back to her.
+sources: Ovid, Metamorphoses VI 424–674
 ---
 line: 111
-text: The woman with bad nerves, who wants to be spoken to.
+text: One speaks and the other does not answer; the card at this line gives the reading. What he remembers is "Those are pearls that were his eyes", and Eliot's note on line 125 (numbered 126) sends it back to the hyacinth garden and the drowned sailor: the poem's first failed love is in his head. Vivien Eliot, the poet's wife, read the scene in typescript; the cards here and at 137 give what she wrote beside it and the line taken out at her wish.
+sources: Facsimile (1971), the typescript of Part II
+Ricks and McCue, textual history, [II] 120–39 and [II] 137a
+Southam, Guide, note on line 137
 ---
 line: 139
-text: Lil, thirty-one, five children, bad teeth, and the friend who did not mince her words.
+text: Here a marriage is told in a pub. Albert, four years in the army, "wants a good time"; Lil has had five children and took pills "to bring it off". In Weston's legend the land is waste because generation has failed; here a wife has paid a chemist to stop it, and this pathway reads the friend's question, "What you get married for if you dont want children?", as that failure in the poem's own words. The goodnights at 172 are Ophelia's, whom Hamlet courted and cast off.
+sources: Weston, From Ritual to Romance, ch. II
+Southam, Guide, note on lines 142–72
+Shakespeare, Hamlet III.i
+Shakespeare, Hamlet IV.v
 ---
-line: 172
-text: Ophelia, leaving.
+line: 173
+text: Eliot's note on line 176 names the poem the refrain comes from, Spenser's <i>Prothalamion</i>, a song for a double wedding; the card at 176 gives it. Here the refrain is sung when the summer is over, for the nymphs and their friends, "the loitering heirs of city directors", who have gone with the season and "have left no addresses". Spenser's song was for two brides; this one is for the affairs of a summer, which end without a trace.
+sources: Spenser, Prothalamion
+Southam, Guide, note on lines 175–9
 ---
 line: 199
-text: Mrs Porter and her daughter, from a ballad which, Eliot's note says, "was reported to me from Sydney, Australia"; it has been identified as a song of the Australian troops of the First World War.
+text: The lines are from a soldiers' ballad about a brothel-keeper; the card at this line gives it, and Southam's note adds that Australian troops sang it as they landed at Gallipoli in 1915. The French line after it ends Verlaine's sonnet on Wagner's <i>Parsifal</i>, the knight who resisted the Flower-maidens' temptation (the card at 202 gives the sonnet). Helen Gardner (1972) traced the way from the soda water to Verlaine through the washing of Parsifal's feet. The one line on the knight who refused follows straight on the brothel song.
+sources: Verlaine, "Parsifal"
+Southam, Guide, note on line 199
+Gardner (1972)
 ---
-line: 222
-text: The typist, who "smoothes her hair with automatic hand."
+line: 215
+text: Tiresias, who has lived as a woman and as a man and has "foresuffered all", watches the typist and the clerk; Eliot's note on line 218 calls what he sees "the substance of the poem". Just before, Mr Eugenides's "weekend at the Metropole", a Brighton hotel, is read by James E. Miller (1977) as a homosexual proposition. Cleanth Brooks (1939) found an irony in the witness, since in Sophocles' <i>Oedipus Rex</i> it is Tiresias who knows that the plague on Thebes comes from a sexual sin.
+sources: Rainey, Annotated Waste Land, note on line 214
+Miller (1977)
+Brooks (1939)
 ---
 line: 279
-text: Elizabeth and Leicester in a barge, where they "began to talk nonsense" (the Spanish ambassador's words, in Eliot's note).
+text: The card at this line gives the scene from Froude's history: Queen Elizabeth and Robert Dudley, later Earl of Leicester, talking of marriage in a barge on the Thames, June 1561, in the Spanish ambassador's hearing. Froude's chapter tells what stood in the way: Dudley's wife Amy had been found dead at the foot of a staircase in September 1560, amid talk of murder. It never became a marriage, and F. O. Matthiessen (1935) found the "stale pretence" of their relationship as empty as the typist's and the clerk's.
+sources: Froude, Reign of Elizabeth, vol. I, ch. IV
+Matthiessen (1935)
+Southam, Guide, note on lines 279–91
 ---
 line: 292
-text: The three Thames-daughters, who Eliot's note says speak in turn, from Highbury, Moorgate and Margate. The first echoes La Pia in Dante, "Siena made me, Maremma unmade me" (Eliot's note at 293).
+text: The three Thames-daughters of Eliot's note on line 266 speak here in turn, and each tells a seduction: on the floor of a canoe by Richmond; at Moorgate, where "After the event / He wept"; on Margate Sands. Wagner's Rhine-daughters, whose refrain they have just sung, mourn the gold stolen from their river; these three make no complaint, and the last expects "Nothing". Their song runs straight into Augustine at Carthage and the "burning" of the Buddha's Fire Sermon (307–311), which the card at 307 gives.
+sources: Wagner, Götterdämmerung III.i
+Southam, Guide, notes on lines 293, 296 and 300
+Warren, Buddhism in Translations, §73
 ---
-line: 368
-text: "Murmur of maternal lamentation." Commentators connect it with the women who lamented on the way to the cross (Luke 23:27) and with the headnote's "present decay of eastern Europe."
+line: 402
+text: The thunder's first word is give; the card at this line gives the one gift the poem records, "a moment's surrender". This pathway takes the surrender as one made in love; it is said to "My friend", and James E. Miller (1977) reads it as a giving of the self to a friend. What follows lists where the gift is not recorded, and for the spider at 408 Eliot's note (numbered 407) quotes Flamineo's warning in Webster's <i>The White Devil</i> that wives remarry "Ere the worm pierce your winding-sheet".
+sources: Webster, The White Devil V.vi
+Miller (1977)
+Southam, Guide, notes on lines 401 and 407
 ---
-line: 378
-text: The woman who draws her long black hair out tight and plays it.
+line: 419
+text: The card here gives the boat and the turn at 421 to the conditional, "your heart would have responded". After the couples on this pathway, who could not speak or would not answer, this heart would have answered, had it been asked; it is the one love the poem speaks of as possible. Southam's note on the thunder's fable records that Eliot's departure from the Upanishad's order, in placing this word last, has been argued over; for that order, see the pathway on the Fire Sermon and the thunder.
+sources: Southam, Guide, note on lines 399–401
+===
+id: seers
+title: Prophecy and sight
+intro: Prophecy in the poem, and the sight it depends on. The poem is full of people who claim to see what others cannot, and it shows what each of them is allowed to see. Its epigraph is spoken by a man who saw a prophetess with his own eyes, and all she had left to say was that she wanted to die. Eliot’s note on line 218 calls the blind Tiresias the poem’s most important personage and what he sees its substance; but what he foretells is a scene he says he has “foresuffered”, enacted before on the same bed. The thunder near the end says one syllable, and each hearer must make out the word for himself. Between the seers come the eyes that fail, from the hyacinth garden to the road to Emmaus. The stops say at each what is seen, by whom, and on what authority.
+why: The poem’s prophets, fortune-tellers and blind seers, from the Sibyl in the epigraph to Isaiah’s warning near the end, with the eyes that fail between them.
+---
+line: 0
+text: The poem's first seer is the Sibyl of Cumae, a prophetess, hanging in a jar; when boys ask what she wants, she answers that she wants to die. The speaker is Trimalchio, the rich freedman of Petronius's <i>Satyricon</i>, who says he saw her with his own eyes; the card gives his words and Ovid's story of how she came by her years and forgot to ask for youth. The one thing left for her to foretell, in Ovid, is her own dwindling, until only her voice remains.
+sources: Petronius, Satyricon 48
+Ovid, Metamorphoses XIV 130–153
+Southam, Guide, note on the epigraph
+---
+line: 19
+text: The lines from here to 30 take a prophet's address and a prophet's promise. "Son of man" is how God addresses Ezekiel (the card at line 20 gives it), and the speaker who borrows it addresses someone who knows only "A heap of broken images"; Southam sets the phrase beside Ezekiel's judgement on idols, "your images shall be broken" (6:4). The voice promises what a prophet is given, something shown ("I will show you", twice), and what it shows is not a vision but "fear in a handful of dust".
+sources: King James Bible, Ezekiel 2:1–3
+King James Bible, Ezekiel 6:4
+Southam, Guide, notes on lines 20 and 22
+Rainey, Annotated Waste Land, note on line 22
+---
+line: 39
+text: The first eyes in the poem after Trimalchio's in the epigraph are these, and they fail while looking "into the heart of light". The next line is Wagner's shepherd, set to watch for Isolde's ship and to pipe a merry tune if he sees it, reporting the sea desolate and empty (the card at line 42 gives the scene). In the garden the eyes fail and see nothing; on the shore they work, and there is nothing to see.
+sources: Wagner, Tristan und Isolde, Act III
+Southam, Guide, note on line 42
+Rainey, Annotated Waste Land, note on line 42
+---
+line: 43
+text: Madame Sosostris is the poem's seer by trade; the card in the margin gives her name's source and Eliot's note on line 46. What she cannot see matters here: one of her cards that she is "forbidden to see", and the Hanged Man, whom she does not find; the same note associates him with the hooded figure at line 364. Hugh Kenner (1959) saw in her parting line, "One must be so careful these days", a fortune-teller "harried by police"; the card in the margin gives the Vagrancy Act.
+sources: Huxley, Crome Yellow, ch. 27
+Vagrancy Act 1824, s. 4
+Kenner (1959)
+Southam, Guide, notes on lines 43–55
+Rainey, Annotated Waste Land, note on line 43
+---
+line: 48
+text: Ariel's song, which the card in the margin gives, has no "Look!"; the command is Eliot's addition, and the one order to look in Part I. The card in the margin also gives the line's return at 125, the one thing the man in Part II says he remembers, and Eliot's note on line 125 (numbered 126), which sends it back here and to the garden of line 37, where eyes failed.
+sources: Shakespeare, The Tempest I.ii
+Rainey, Annotated Waste Land, note on line 48
+---
+line: 65
+text: The crowd that Dante's line has just called dead (the card gives his passage) comes over the bridge with every eye on the ground, and the one who looks at it, and sees what it is, is the speaker. The one command to look in Part I was "Look!" (line 48); here no one in the crowd looks.
+sources: Dante, Inferno III 55–57
+Southam, Guide, note on line 63
+---
+line: 138
+text: Eliot's note names the chess game in Middleton's <i>Women Beware Women</i>; the card gives the scene, in which Livia keeps a widow at the board while the Duke seduces her daughter-in-law Bianca. Eliot quoted the exchange in 1927, ending at "I've given thee blind mate twice", and wrote that "The irony could not be improved upon". In the play the widow answers that her "eyes begin to fail". The watcher at the board sees nothing of what matters; the eyes at this line are "lidless", sleepless as the card says.
+sources: Middleton, Women Beware Women II.ii
+Eliot, "Thomas Middleton" (1927)
+Southam, Guide, note on line 137
+---
+line: 218
+text: Tiresias is the blind prophet of Thebes; the card gives Ovid's story of how Juno blinded him and Jupiter gave him foreknowledge. Brooks (1939) drew the irony that the commentator here is the seer who in Sophocles told Oedipus the cause of the plague on Thebes. What he foretells at line 229 he has already seen, "foresuffered all", enacted before on the same bed. Kenner (1959) read Eliot's note, which calls him "the most important personage in the poem", as an offer of "a nameable point of view".
+sources: Ovid, Metamorphoses III 316–338
+Brooks (1939)
+Kenner (1959)
+Southam, Guide, note on lines 218–220
+Rainey, Annotated Waste Land, note on line 218
+---
+line: 360
+text: Eliot's headnote to Part V names the journey to Emmaus; the card in the margin gives Luke's story and Shackleton's. The pathway takes one clause from Luke: the disciples walked beside the risen Christ and "their eyes were holden that they should not know him" (24:16). Here counting and looking give different answers, and what the eyes see is hooded, "a man or a woman" unknown. Eliot's note on line 46 associates this figure with the Hanged Man, the card Madame Sosostris could not find at line 55.
+sources: King James Bible, Luke 24:13–31
+Shackleton, South, ch. X
+Southam, Guide, note on lines 360–365
+Rainey, Annotated Waste Land, note on line 359
+---
+line: 367
+text: Eliot's note on these lines quotes the close of an essay on Dostoevsky's <i>The Brothers Karamazov</i> by the German novelist Hermann Hesse: half of Europe is on the way to chaos, singing drunkenly as Dmitri Karamazov sang, and while the citizen laughs, "der Heilige und Seher hört sie mit Tränen", the saint and the seer hear them with tears. Read lines 367 to 385 as what such a seer hears and sees: questions first, "What is that sound", "Who are those hooded hordes", and from line 378 plain statements.
+sources: Hesse, Blick ins Chaos, "Die Brüder Karamasoff oder der Untergang Europas"
+Southam, Guide, note on lines 368–369
+---
+line: 400
+text: After the Sibyl, Madame Sosostris and Tiresias, the poem's prophecy passes to a voice that is not a person's. The thunder says one syllable, and the card at line 401 gives the fable in which gods, men and demons each hear a different word in it. Read the thunder as an oracle whose meaning lies with the hearer; the poem, at lines 402, 412 and 419, takes all three words in turn and follows each with an answer in its own voice.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+---
+line: 426
+text: The last prophet in the poem is Isaiah, and the card gives his words to the dying King Hezekiah, "Set thine house in order: for thou shalt die, and not live" (Isaiah 38:1; the same words in 2 Kings 20:1). The fisher on the shore, the wounded keeper of the Grail as the card takes him, speaks the prophet's sentence himself, as a question and about his lands. No prophet answers him; the next line is London Bridge falling.
+sources: King James Bible, Isaiah 38:1
+King James Bible, 2 Kings 20:1
+Southam, Guide, note on line 425
+===
+id: change
+title: Metamorphosis
+intro: The poem’s changed bodies, from Ovid and from <i>The Tempest</i>. Ovid’s <i>Metamorphoses</i> gives it Philomel, raped and turned into a nightingale (99), and Tiresias, who was a woman for seven years (218); the song the spirit Ariel sings in <i>The Tempest</i> gives it a drowned king with eyes turned to pearls and a body that suffers “a sea-change / Into something rich and strange”. The poem quotes the pearls twice, at 48 and 125, and the sea-change never. This pathway follows the changes: what Ovid’s and Shakespeare’s bodies are turned into, what becomes of the poem’s own people, the drowned Phlebas among them, and the change the last Latin line asks for, when shall I be like the swallow. That the poem makes no change of its own is the pathway’s reading. Cleanth Brooks (1939) read the poem’s people as not knowing that “the way into life may be by death itself”; the stops set it beside the lines.
+why: Ovid’s changed bodies and the sea-change of Ariel’s song, from Philomel to the swallow, and whether anyone in the poem is changed.
+sources: Ovid, Metamorphoses VI 424–674
+Ovid, Metamorphoses III 316–338
+Shakespeare, The Tempest I.ii
+Brooks (1939)
+---
+line: 48
+text: The first change in the poem is a drowned man's, eyes turned to pearls, in a bracket on one of Madame Sosostris's cards. The line is from the song the spirit Ariel sings in <i>The Tempest</i> to a prince who thinks his father drowned; the card in the margin prints the song, which goes on to a sea-change into "something rich and strange". The father, as that card says, is not drowned. The poem quotes the pearls, here and again at line 125, and the sea-change never.
+sources: Shakespeare, The Tempest I.ii
+Rainey, Annotated Waste Land, note on line 48
+---
+line: 99
+text: In Ovid the change comes in the middle of a pursuit. Tereus, the "barbarous king", chases Philomel and her sister Procne, his wife, sword drawn, after they have killed his son; they are birds before he reaches them, with the marks of the killing on their breasts (the card gives the story). The poem hangs the finished change on a wall as a picture and keeps the pursuit in the present tense, "still the world pursues". Cleanth Brooks (1939) called Philomela one of the poem's major symbols.
+sources: Ovid, Metamorphoses VI 666–674
+Brooks (1939)
+---
+line: 125
+text: The pearls come back as the one thing the man remembers when asked whether he knows, sees or remembers "Nothing". Eliot's note on line 125 (numbered 126) points to line 37, the hyacinth garden, and to line 48, the pearls on the Sailor's card. In the typescript the line began "The hyacinth garden" and ended with the word yes; both were cut. What is left in his head is the drowned king's change from Ariel's song, and "Are you alive, or not?" is answered with a line of ragtime.
+sources: Shakespeare, The Tempest I.ii
+Facsimile (1971), the typescript of Part II
+---
+line: 191
+text: Ferdinand in <i>The Tempest</i> sits on the bank "Weeping again the king my father's wreck" when Ariel's song reaches him; the card at line 189 gives the scene. The poem makes the drowned king a brother and adds a father's death before him, and Eliot's note on line 218 says the drowned Sailor is not wholly distinct from Ferdinand, Prince of Naples. In the play the mourned king is alive, and the last act gives him back his son; the poem keeps the mourning and drops the return.
+sources: Shakespeare, The Tempest I.ii
+Shakespeare, The Tempest V.i
+---
+line: 203
+text: At line 99 the change of Philomel was a picture on a wall. Here, after Mrs Porter's song, there is no picture and no body, only the cry, "Jug jug", with "So rudely forc'd" from line 100 and "Tereu", the rapist's name, Tereus, as the bird calls it. The card gives the song printed with Lyly's Elizabethan play <i>Campaspe</i>, the source of the words. The change has gone from a woman to a bird to a sound, and the sound keeps the crime in it as a name.
+sources: Lyly, Campaspe, V.i
+Southam, Guide, note on line 206
+---
+line: 243
+text: Tiresias, the blind seer of Thebes, has the one change Eliot's notes give in full. His note on line 218 prints Ovid's Latin and says "the two sexes meet in Tiresias". In Ovid he struck two coupling snakes and was a woman for seven years, then struck them again and became a man; having known love from both sides, he was called to judge which sex has the more pleasure. "Foresuffered all / Enacted on this same divan or bed" is said by one who has been both parties.
+sources: Ovid, Metamorphoses III 316–338
+---
+line: 257
+text: The line is Ferdinand's again, from the speech behind lines 191–192, as the card says; here the music is a record the typist has put on after smoothing her hair "with automatic hand". In the play the music allays the sea's fury and Ferdinand's grief, and he follows it, "Or it hath drawn me rather", to Miranda, whom he is to marry. Here it goes by the speaker and along the Strand, and comes not to a person but to the walls of Magnus Martyr and their "Inexplicable splendour".
+sources: Shakespeare, The Tempest I.ii
+Shakespeare, The Tempest V.i
+---
+line: 315
+text: In Ariel's song the drowned man's bones are coral and his eyes pearls. Phlebas's bones are picked "in whispers" by a current; he passes "the stages of his age and youth" and enters the whirlpool. The French, on the card, has no bones and no whirlpool; they are the English's additions. Brooks (1939) said the drowned Phoenician Sailor "recalls the drowned god of the fertility cults", whose death may be "the way into life"; the lines have a current, bones and a whirlpool, and nothing he becomes.
+sources: Shakespeare, The Tempest I.ii
+Poems (1920), "Dans le Restaurant"
+Rainey, Annotated Waste Land, note on line 312
+Brooks (1939)
+---
+line: 429
+text: The last change in the poem is asked for, not made. The Latin is from the last stanza of the <i>Pervigilium Veneris</i>, a late Latin poem: the nightingale sings, the poet is silent and asks when he will become like the swallow, so that he may cease to be silent, and Eliot's line drops that clause. Eliot's note here (numbered 428) points to Philomela in Parts II and III. Brooks (1939) took the swallow for Procne, Philomel's sister, so the bird the poet would become is the one Procne became.
+sources: Pervigilium Veneris, the last stanza
+Tennyson, The Princess, IV ("O Swallow, Swallow")
+Brooks (1939)
+===
+id: method
+title: The past beside the present
+intro: Old poems and modern scenes in the same lines. In November 1923, reviewing Joyce’s <i>Ulysses</i> in <i>The Dial</i>, Eliot wrote that “in manipulating a continuous parallel between contemporaneity and antiquity, Mr Joyce is pursuing a method which others must pursue after him”, and that the method gave “a shape and a significance to the immense panorama of futility and anarchy which is contemporary history”. He was writing about another man’s book, but the critic F. O. Matthiessen was applying the sentences to Eliot’s own work by 1935. This pathway stops where the parallel is plainest, where Chaucer, Baudelaire, Shakespeare, Spenser, Marvell, John Day or Goldsmith is set beside a modern scene in the same lines, so that the reader sees both at once. Cleanth Brooks (1939) wrote that the poem’s surface parallels are really contrasts and its surface contrasts really parallels, and the stops do not assume that the past comes off better.
+why: The places where an old poem and a modern scene are made to share the same lines, from Chaucer’s April to the fragments at the end.
+sources: Eliot, "Ulysses, Order, and Myth" (1923)
+Matthiessen (1935), ch. II
+Brooks (1939)
+---
+line: 1
+text: The card gives Chaucer's opening, the April of sweet showers and pilgrimages. Eliot's first sentence answers those lines without quoting them. It keeps the month, and keeps the rain at the roots, where Chaucer's showers have "perced to the roote" and Eliot's stir "Dull roots", and it adds the word "cruellest". The poem does not name Chaucer; a reader who knows his lines hears both Aprils at once, and each stop that follows asks the reader to do the same.
+sources: Chaucer, General Prologue 1–12
+Southam, Guide, note on line 1
+Rainey, Annotated Waste Land, note on line 1
+---
+line: 60
+text: Eliot's note quotes the opening of Baudelaire's "Les Sept Vieillards", and the card gives it, a Paris in which a ghost stops the passer-by in broad daylight. Eliot lays that city over the City of London at nine on a working morning, and Baudelaire's dirty yellow fog becomes "the brown fog of a winter dawn". The card has Eliot's own account, from 1950, of what he learned from Baudelaire about the modern city. The crowd on the bridge, Dante's, is left to the pathway on Dante and the dead.
+sources: Baudelaire, Les Fleurs du mal, "Les Sept Vieillards" 1–9
+Eliot, "What Dante Means to Me" (1950)
+Southam, Guide, note on line 60
+---
+line: 77
+text: The card gives the speech of Antony's officer Enobarbus on Cleopatra's barge. Eliot keeps its shape and changes the things in it: the barge that "Burn'd on the water" is a chair that "Glowed on the marble", and the perfumed sails are her "strange synthetic perfumes". A queen's arrival by water becomes a woman in a room whose grandeur is borrowed too, from Dido's palace in Virgil's <i>Aeneid</i> and Eden in Milton's <i>Paradise Lost</i>. What she says at 111 is read on the pathway on the loves that fail.
+sources: Shakespeare, Antony and Cleopatra II.ii
+Virgil, Aeneid I 726
+Milton, Paradise Lost IV 140
+Southam, Guide, note on line 77
+---
+line: 128
+text: The card gives the song, a ragtime number of 1912 whose chorus calls it "most intelligent, very elegant". The parallel here was not made by Eliot: the song had already set Shakespeare to ragtime, and what runs through the man's head instead of an answer to "Are you alive, or not?" is that song. The card notes the added syllable and the reversed chorus.
+sources: Guerrieri (2017)
+---
+line: 176
+text: The card gives Spenser's wedding poem and its refrain, the line each of his stanzas ends on. Eliot keeps the refrain and puts the modern river into it as a list of what is missing: the nymphs "are departed", and the Thames "bears no" bottles, papers or cigarette ends. Cleanth Brooks (1939) wrote that the poem works by "surface contrasts which in reality constitute parallelisms"; Spenser's poem, B. C. Southam notes, itself names Elizabeth, as Elisa, and, as "that great lord", Leicester, the pair in the barge at line 279.
+sources: Spenser, Prothalamion 1–36 and 127–162
+Brooks (1939)
+Southam, Guide, note on line 176
+Southam, Guide, note on line 279
+---
+line: 185
+text: The card gives Marvell's lines, in which the lover urging his mistress not to wait hears "Time's wingèd chariot hurrying near". Eliot keeps the line but for one phrase and changes only what is heard: for the chariot, "The rattle of the bones" and a chuckle, while a rat creeps past the speaker, who is fishing in the canal at 189. Marvell's lover hears time coming; the speaker here hears bones. The line comes again at 196, the next stop.
+sources: Marvell, "To His Coy Mistress" 21–24
+Southam, Guide, note on line 185
+---
+line: 196
+text: Eliot's note on line 197 quotes John Day's <i>Parliament of Bees</i>, in which horns and hunting bring the hunter Actaeon to the goddess Diana, bathing; the card at 198 gives the passage. Day's terms are replaced one by one, motors for hunting, Sweeney, from Eliot's own poems, for the hunter, Mrs Porter's soda water for the goddess's spring, and "in the spring" is kept word for word. In Day, as <a href="library.html#src-day-parliament-of-bees">the library's record</a> says, the spring is the water Diana bathes in; in Eliot's line it is the season.
+sources: Day, The Parliament of Bees, Character 3
+Ovid, Metamorphoses III 138–252
+Southam, Guide, notes on lines 196–198
+---
+line: 253
+text: The card gives the song from Goldsmith's <i>The Vicar of Wakefield</i>, a seduced daughter's, in which the one art left her "is—to die". Eliot keeps its first line and runs it into the typist's room, where the remedy is a record on the gramophone; the two remedies stand side by side without comment. Cleanth Brooks (1939) set her beside Elizabeth, the queen in the barge at 279, and found them "alike as well as different". The scene is read at line 215 on the pathway on the loves that fail.
+sources: Goldsmith, The Vicar of Wakefield, ch. 24
+Brooks (1939)
+Southam, Guide, note on line 253
+Rainey, Annotated Waste Land, note on line 253
+---
+line: 431
+text: Among the borrowed lines of the ending, which the card gives one by one, this line is the poet's own. In the earlier draft it read "spelt into my ruins"; "shored against" was the revision. Set it beside the sentence of 1923 in which Eliot called Joyce's method "simply a way of controlling, of ordering" the panorama of contemporary history. The essay's word is order; the poem's is shoring, a builder's word for propping up what would otherwise fall.
+sources: Eliot, "Ulysses, Order, and Myth" (1923)
+Facsimile (1971), the drafts of Part V
+Matthiessen (1935), ch. II
+===
+id: war
+title: After the war
+intro: The war of 1914–1918 and its aftermath, as the poem carries them. Eliot wrote the poem in 1921, three years after the Armistice, and published it in October 1922; at Lloyds Bank, where he worked, he had been put in charge in 1920 of settling the bank’s pre-war debts with Germany. The poem never names the war. The eight stops go in the poem’s order. They are a claim of nationality (line 12) and a sea battle of 260 BC (70), set by readers beside the war just ended; the trench name in “rats’ alley” (115); a husband “demobbed” after four years in the army (139); the song the Australian troops sang (199); a Bradford millionaire’s silk hat (233); the “hooded hordes” of Eliot’s note on eastern Europe (369); and London Bridge falling down (427). Each says what of the war is in the passage, and names the reader who first said so where the claim is a reading.
+why: What the poem has of the war that had ended three years before, taken in order from the German line at 12 to London Bridge falling down.
+sources: The Criterion, October 1922
+Facsimile (1971), introduction
+Letters, vol. 1, Eliot to his mother, 15 February 1920
+---
+line: 12
+text: The poem's first speakers belong to the Europe of before the war. Lithuania declared its independence in 1918 (the card at this line); Southam's note on the line dates it "only from 1919", after the war. The archduke of line 13 fits Crown Prince Rudolf, found dead at Mayerling in 1889; the card at 15 gives him and his cousin Countess Marie Larisch, whose memoir is behind lines 8–18. Hugh Kenner (1959) heard in the voice of these lines "the vanished Austro-Hungarian Empire, the inbred malaise of Mayerling".
+sources: Southam, Guide, note on line 12
+Kenner (1959)
+---
+line: 70
+text: The card at this line gives Mylae and the reading of Cleanth Brooks (1939) that the Punic War, a trade war, parallels the war of 1914–18. Southam's note on the line quotes John Hayward, whose notes to the French translation of the poems (1947) were made with Eliot's advice: "All wars are one war". Brooks also read Stetson, hailed as a shipmate of 260 BC, as "every man". For the corpse in the garden at 71, see the Grail pathway, which sets it beside Frazer's buried effigies of Osiris.
+sources: Brooks (1939)
+Southam, Guide, note on line 70
+---
+line: 115
+text: The card gives Rats' Alley as a trench name; Southam's note on the line adds the suggestion that "rats' alley" was soldiers' slang for the trenches, alley being the word for a trench. The line is his unspoken answer to "What are you thinking of?" (the cards at 111 and 115), so the trenches enter the poem as a thought not said aloud. Cleanth Brooks (1939) set the sterile death of rats' alley against the pearls of 125, the drowned man's eyes of Ariel's song (the card at 48).
+sources: Southam, Guide, note on line 115
+Brooks (1939)
+---
+line: 139
+text: The scene is the homecoming from the war as the poem has it. Albert has "been in the army four years", and the card gives "demobbed", demobilised, as the slang of 1919 and 1920 for it. HURRY UP PLEASE ITS TIME is the landlord's closing time, under hours cut in the war (the card at 141) and then fixed by the Licensing Act of August 1921, eight hours a day, ending not later than ten at night, or nine hours and eleven o'clock in London.
+sources: Southam, Guide, note on line 139
+Rainey, Annotated Waste Land, note on line 139
+Licensing Act 1921, s. 1
+---
+line: 199
+text: The card gives the ballad, the Cairo brothel-keeper its Mrs Porter is said to have been, and Eliot's note that it "was reported to me from Sydney, Australia". Southam's note on the line adds that the Australian troops sang it as they landed at Gallipoli in 1915, and that Eliot's wording obscures the point of the soldiers' version. It is the only song of the war in the poem, and it comes in cleaned up.
+sources: Southam, Guide, note on line 199
+---
+line: 233
+text: The clerk's assurance is measured against "a silk hat on a Bradford millionaire" (233–234). Southam's note on 234 says Bradford, in the north of England, was reputed to have produced a crop of millionaires, men who made their fortunes supplying woollen goods in the First World War; Rainey's note says the wool town faced charges of wartime profiteering. It is the poem's one reference to those who made money from the war, and it is a simile. For the scene itself, see the pathway on the loves that fail.
+sources: Southam, Guide, note on line 234
+Rainey, Annotated Waste Land, note on line 234
+---
+line: 369
+text: Eliot's note on lines 367–377 quotes the close of the first of the three essays in Hermann Hesse's <i>Blick ins Chaos</i>, on <i>The Brothers Karamazov</i> and the downfall of Europe (the card at 368). Southam's note on the lines refers the hordes to Hesse and reads the "Murmur of maternal lamentation" of 368 as Mother Russia lamenting the Bolshevik Revolution of 1917. Cleanth Brooks (1939) read the cities of 375–376, Jerusalem, Athens, Alexandria and Vienna, capital of an empire the war had ended, as unreal like the London of Part I.
+sources: Hesse, Blick ins Chaos, the essay Die Brüder Karamasoff oder Der Untergang Europas
+Southam, Guide, note on lines 368–369
+Brooks (1939)
+---
+line: 427
+text: The nursery rhyme is the first of the fragments, and the card at 431 gives it. Southam's note on the line prints its refrain, "London Bridge is falling down, falling down, / London Bridge is falling down, / My fair lady", and Hugh Kenner (1959) linked the crowd flowing over the bridge in Part I with the rhyme. The line comes after the "Falling towers" of 374 and "Vienna London" at 376, so that after the cities it is London's own bridge that falls, in a nursery tune.
+sources: Southam, Guide, note on line 426
+Kenner (1959)
+===
+id: wagner
+title: Wagner
+intro: Wagner’s three operas in the poem. He is quoted three times, in German: the sailor’s song that opens <i>Tristan und Isolde</i> (lines 31–34), the shepherd’s report from its last act that the sea is empty (42), and the Rhine-daughters’ cry from the last act of <i>Götterdämmerung</i>, set twice on the Thames (277–278, 290–291) and, as it is usually read, worn down to “la la” at 306. A third opera, <i>Parsifal</i>, Wagner’s Grail opera, enters at line 202 through Verlaine’s sonnet on it. Jessie Weston’s <i>From Ritual to Romance</i>, the Grail book Eliot’s first note credits with the poem’s plan, says in its preface that conversations at the Bayreuth Festival of 1911 gave her some of her evidence. Jean Verdenal, Eliot’s friend in Paris, wrote to him in 1912 that <i>Tristan</i> at a first hearing “leaves you prostrate with ecstasy.”
+why: What Wagner’s operas are doing in the poem, quotation by quotation, and where to hear the music.
+sources: Weston, From Ritual to Romance, preface
+Letters, vol. 1, Jean Verdenal to Eliot, 5 February 1912
+---
+line: 8
+text: Ludwig II of Bavaria, Wagner's patron, was found drowned here in June 1886, after being put under restraint as mad. He brought Wagner to Munich in 1864; <i>Tristan und Isolde</i>, quoted at line 31, was first performed there the next year. Countess Marie Larisch, whose memoir is behind lines 8–18, writes as a member of the family and tells of his death. Herbert Knust (1967) argued that her book plays an important part in the poem; Southam's <i>Guide</i> records the argument.
+sources: Larisch, My Past, ch. VII
+Larisch, My Past, ch. I
+Encyclopaedia Britannica (1911), "Wagner, Wilhelm Richard"
+Southam, Guide, note on lines 8–22
+---
+line: 31
+text: Straight after "fear in a handful of dust" the poem cuts to the first words sung in <i>Tristan und Isolde</i>, a sailor's song of the wind blowing homeward and a girl left behind; the card at this line gives the scene, and Isolde taking the song as mockery of her. The opera ends with both lovers dead, and the poem puts the opera's first words just before the hyacinth garden. The song, sung unaccompanied as if from the mast, is in the 1928 Bayreuth recording in the <a href="listen.html#rec-tristan-1928-bayreuth-act1-sailor">listening room</a>.
+sources: Wagner, Tristan und Isolde, Act I scene 1
+Wagner, Tristan und Isolde, Act III
+---
+line: 42
+text: The shepherd, watching for Isolde's ship, tells Kurwenal, Tristan's servant, that nothing is on the sea; the card gives the scene. Cleanth Brooks (1939) read the two <i>Tristan</i> quotations together and noted that the empty sea, on its own, seems "simply an extension of the last figure", the lines just before it; in the opera no ship is yet in sight. For the couple in the garden, see the pathway on the loves that fail; the exchange, from the same 1928 Bayreuth set, is in the <a href="listen.html#rec-tristan-1928-bayreuth-act3-shepherd">listening room</a>.
+sources: Wagner, Tristan und Isolde, Act III scene 1
+Brooks (1939)
+---
+line: 202
+text: Verlaine's sonnet is on Wagner's <i>Parsifal</i>; the card gives it, and the foot-washing in Wagner's last act, where Kundry, the woman Parsifal has resisted, now penitent, washes his feet before he goes in to heal the king. Cleanth Brooks (1939) read the soda water of line 201 as reminding the poet "ironically of another sort of foot-washing". Wagner's Grail hall follows straight on the song of Mrs. Porter, which the Australian troops sang in the war; for the song, see the pathway After the war.
+sources: Verlaine, "Parsifal", line 14
+Wagner, Parsifal, Act III
+Wagner, Parsifal, Act I
+Brooks (1939)
+---
+line: 266
+text: Eliot's note sends these lines to the scene that opens the last act of <i>Götterdämmerung</i>, and the card gives it: the three Rhine-daughters swim and sing of the gold stolen from them. The river's depths were bright while the gold lay in them and have been dark since, and the daughters beg Siegfried, the opera's hero, for the ring made from the gold, in vain. The parallel Eliot's note draws sets that darkened river beside the Thames of these lines, sweating "Oil and tar". The refrain comes at 277.
+sources: Wagner, Götterdämmerung, Act III scene 1
+---
+line: 277
+text: The refrain itself, the Rhine-daughters' cry, stands as a line of the poem. The syllables are Wagner's, the voice he gave the river, sound and not words, and of the poem's three passages from him this is the one with nothing to translate. Eliot's note on line 266 says that a song begins there. Hear the three sing the refrain, in the 1964 Solti recording in the <a href="listen.html#rec-gotterdammerung-solti-1964-rhinemaidens">listening room</a>, and then read lines 266 to 291 aloud with the tune in your ear.
+sources: Wagner, Götterdämmerung, Act III scene 1
+---
+line: 306
+text: After the three daughters have spoken in turn, the last on Margate Sands, the two syllables here are usually read as what is left of the refrain, the last two of "leialala". Eliot's note on line 266 says "From line 292 to 306 inclusive they speak in turn", counting this line among theirs, so by his count the two syllables are the third daughter's. This is the last of Wagner in the poem. For the three speeches, see the pathway on the loves that fail.
+sources: Wagner, Götterdämmerung, Act III scene 1
+---
+line: 424
+text: The card gives Weston's Fisher King, the maimed king of the Grail castle. Set beside him the Grail king Eliot's generation knew from the stage, Amfortas in Wagner's <i>Parsifal</i>, wounded by the holy spear and healed by it in the third act, where Verlaine's sonnet at 202 ends. Wagner's king is healed; the poem's sits fishing, with the arid plain still behind him. Weston's chapter on the Perilous Chapel ends by saying that the legend woke again in the nineteenth century "through the genius of Tennyson and Wagner".
+sources: Weston, From Ritual to Romance, ch. IX
+Weston, From Ritual to Romance, ch. XIII
+Wagner, Parsifal, Act I
+Wagner, Parsifal, Act III
+Verlaine, "Parsifal"
 ===
 id: cities
 title: Cities
@@ -274,99 +800,6 @@ text: "Jerusalem Athens Alexandria / Vienna London / Unreal."
 line: 396
 text: Ganga and Himavant: the Ganges and the Himalaya. After them the poem names only London Bridge and Aquitaine.
 sources: Southam, Guide, notes on lines 396–397
-===
-id: birds
-title: Birds
-intro: The poem’s birds, in the order they appear, with the lines where each is heard or named: the nightingale into which Philomel was changed (99–103 and 203–206), the gulls that Phlebas forgot (313), the hermit-thrush of line 357, which Eliot’s note says he heard in Quebec County, the cock on the rooftree (392) and the swallow of line 429. Three stops are for other creatures the poem sets beside them: the cricket of line 23, the cicada of line 354 and the bats of line 380. Recordings of the birds themselves, where they exist, are in the listening room.
-why: The poem’s birds in order, with the cricket, the cicada and the bats beside them, and three recordings of the hermit-thrush.
----
-line: 23
-text: "the cricket no relief." Not a bird, but the first creature in the poem that sings. Eliot's cricket stands in for the grasshopper of Ecclesiastes 12:5, the verse his note cites, where "the grasshopper shall be a burden."
----
-line: 99
-text: Philomel, the nightingale, "Jug Jug."
----
-line: 203
-text: "Twit twit twit / Jug jug jug jug jug jug." The nightingale again (line 100), singing the words Elizabethan poets gave her song; "Tereu" is both one of those words and the name of Tereus, who raped her.
----
-line: 313
-text: Phlebas, a fortnight drowned, has forgotten "the cry of gulls".
----
-line: 354
-text: "Not the cicada." Not a bird: the dry sound that is there instead of water.
----
-line: 357
-text: The hermit-thrush, whose "water-dripping song" Eliot heard in Quebec. Three recordings of it are in <a href="listen.html#rec-xc899696-hermit-thrush-quebec">the listening room</a>.
----
-line: 380
-text: "bats with baby faces." Not birds, but they whistle and beat their wings.
----
-line: 392
-text: "Co co rico": the French spelling of a cock-crow. Readers have heard in it the cock of Peter's denial and the cock of <i>Hamlet</i> I.i.
----
-line: 429
-text: "O swallow swallow." Procne, sister of the Philomel of lines 99 and 203.
-===
-id: nothing
-title: Nothing
-intro: The word “nothing” wherever the poem uses it: at line 40, by the one who came back from the hyacinth garden and could not speak; at lines 120–126, in the exchange between the woman with bad nerves and the man who does not answer her; and at lines 302 and 305, by the third Thames-daughter on Margate Sands.
-why: The word “nothing” at each place the poem uses it, from the hyacinth garden to Margate Sands.
----
-line: 40
-text: "I knew nothing, / Looking into the heart of light, the silence." The one who came back from the hyacinth garden.
----
-line: 120
-text: "Nothing again nothing."
----
-line: 122
-text: "Do / You know nothing? Do you see nothing? Do you remember / Nothing?"
----
-line: 126
-text: "Is there nothing in your head?"
----
-line: 302
-text: "I can connect / Nothing with nothing."
----
-line: 305
-text: "My people humble people who expect / Nothing."
-===
-id: eyes
-title: Eyes
-intro: Eyes in the poem, from the epigraph, where Trimalchio says he saw the Sibyl with his own eyes, to Part V: the eyes that fail in the hyacinth garden (line 39), the pearls that were the drowned man’s eyes (48), the one-eyed merchant (52), the eyes each man fixes before his feet on London Bridge (65), the “lidless eyes” of line 138, and the blind Tiresias (218). Eliot’s note on Part V names the journey to Emmaus, where, in Luke 24, the disciples’ eyes “were holden,” held, so that they did not know who walked beside them.
-why: Eyes in the poem, from the Sibyl in the epigraph to the disciples at Emmaus in Part V.
----
-line: 0
-text: "oculis meis vidi": with my own eyes I saw the Sibyl.
----
-line: 39
-text: "my eyes failed."
----
-line: 48
-text: "Those are pearls that were his eyes."
----
-line: 52
-text: "the one-eyed merchant."
----
-line: 65
-text: "each man fixed his eyes before his feet."
----
-line: 81
-text: "Another hid his eyes behind his wing."
----
-line: 138
-text: "Pressing lidless eyes."
----
-line: 215
-text: "when the eyes and back / Turn upward from the desk."
----
-line: 218
-text: "I Tiresias, though blind."
----
-line: 232
-text: "with one bold stare."
----
-line: 360
-text: "Who is the third who walks always beside you?" Luke 24:16: "their eyes were holden that they should not know him."
 ===
 id: eliot
 title: The poem in Eliot's life

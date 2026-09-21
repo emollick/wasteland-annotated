@@ -1,0 +1,78 @@
+id: grail
+title: The Grail and the waste land
+intro: The Grail legend as Eliot took it from Weston and Frazer. Eliot’s headnote to his notes credits the title, the plan and “a good deal of the incidental symbolism” to Jessie L. Weston’s <i>From Ritual to Romance</i> (1920), a study of the Grail legend, and names beside it the anthropologist J. G. Frazer’s <i>The Golden Bough</i>. Weston argued that the Grail romances preserve an old rite, in which the wound of a king, the Fisher King, leaves his land waste and its waters dry until a knight asks the right question, so that the king is healed and the waters flow. Frazer supplied the rite, the god (Adonis, Attis, Osiris) who dies with the year and is buried or drowned so that he may return in spring. The critic Cleanth Brooks made the legend the key to the poem in 1939; in 1956 Eliot regretted having sent readers on a “wild goose chase” after the Tarot and the Grail.
+why: The Grail legend behind the title, followed through the poem from the dead land of the first lines to the king fishing on the shore.
+sources: Weston, From Ritual to Romance, ch. II
+Frazer, The Golden Bough (1922), ch. XXIX
+Frazer, The Golden Bough (1922), ch. XXXII
+Brooks (1939)
+Eliot, "The Frontiers of Criticism" (1956)
+---
+id: passion
+title: The Bible and the Prayer Book
+intro: The Bible and the Book of Common Prayer in the poem. Part I is named after the Prayer Book’s burial service; the desert of lines 19 to 30 speaks in words from Ezekiel and Ecclesiastes, and its rock is usually set beside Isaiah’s. Part V opens with the arrest and death of Christ told without his name, as Cleanth Brooks read it in 1939, and goes on to the road to Emmaus, where the risen Christ walks unrecognised beside two disciples; Eliot’s last note glosses “Shantih” with the blessing that ends the Communion service. Eliot was baptised into the Church of England in June 1927, five years after the poem. This pathway does not read the poem as the record of a conversion, or as a step towards one. It follows what the poem does with the scriptures it quotes, and says at each stop what a passage keeps of its source and what it does not.
+why: What the poem takes from the Bible and the Prayer Book, and what it leaves out, from the burial service that names Part I to the blessing quoted in Eliot’s last note.
+sources: Book of Common Prayer, the Order for the Burial of the Dead
+Brooks (1939)
+Southam, Guide, Biographical Table
+---
+id: east
+title: The Fire Sermon and the thunder
+intro: The Indian texts in the poem, the Buddha’s Fire Sermon and an Upanishad. Eliot studied Sanskrit at Harvard for two years from 1911 with Charles Rockwell Lanman, and spent a year on the metaphysics of the ancient Indian philosopher Patañjali with James Haughton Woods, a study that left him, he wrote in 1934, in “a state of enlightened mystification”. Part III takes its title from the sermon in which the Buddha says that all things are on fire; the sermon is heard at line 308, beside St Augustine’s <i>Confessions</i>, a pair Eliot’s note calls “representatives of eastern and western asceticism”. Part V’s title and last lines come from the <i>Bṛhadāraṇyaka Upaniṣad</i>, where the thunder’s one syllable is heard as three commands; “Shantih”, repeated, is the formula that closes an Upanishad. Cleo McNelly Kearns’s <i>T. S. Eliot and Indic Traditions</i> (1987) is the study behind this pathway.
+why: The Buddha and the Upanishads in the poem, from the sermon that names Part III to the thunder’s three commands and the last word.
+sources: Warren, Buddhism in Translations, §73
+Bṛhadāraṇyaka Upaniṣad, V.2
+Eliot, After Strange Gods (1934)
+Kearns (1987)
+---
+id: dante
+title: Dante and the dead
+intro: The poem’s dead, and what they keep of Dante’s. Five of Eliot’s notes send the reader to Dante, more than to any other writer: to the <i>Inferno</i> for the crowd on London Bridge (the notes on lines 63 and 64) and for Count Ugolino, starved in his tower (412), and to the <i>Purgatorio</i> for La Pia, a murdered wife (293), and for the troubadour Arnaut Daniel in the refining fire (428), the canto from which the dedication to Pound is also taken. Dante’s dead, met and known by name, tell the living who they were and ask to be remembered. This pathway stops at the poem’s dead in order and asks what each passage keeps of that. Eliot’s essay on Dante in <i>The Sacred Wood</i> (1920) and his <i>Dante</i> of 1929 are quoted where they bear on a line, and his lecture of 1950 on what Dante meant to him is drawn on at line 62.
+why: The poem’s dead taken in order and set beside Dante’s, from the crowd on London Bridge to the poet Arnaut Daniel in the fire of Purgatory.
+sources: The Sacred Wood, "Dante"
+Eliot, Dante (1929)
+Eliot, "What Dante Means to Me" (1950)
+---
+id: love
+title: The loves that fail
+intro: The loves in the poem, taken in order, and how each of them fails. Eliot’s note on line 218 says “all the women are one woman, and the two sexes meet in Tiresias”, the blind seer who has lived as both. Behind the couples the pathway sets a wounded king, the Fisher King of the Grail legend as Jessie Weston tells it in <i>From Ritual to Romance</i>, which Eliot’s headnote credits with the poem’s plan. His wound is “the loss of virility”, and because of it nothing grows in his land, “a suspension of the reproductive processes of Nature”, until he is healed. Cleanth Brooks (1939) read the poem as that land, “rendered impotent by maiming or sickness”. This pathway sets each couple beside the king and reads each failed love as a form of his wound. It ends at the thunder, with the one love the poem speaks of as possible, in the conditional, at line 421.
+why: The poem’s couples and seductions, from the hyacinth garden to the typist’s divan, with what Tiresias and the thunder make of them.
+sources: Weston, From Ritual to Romance, ch. II
+Brooks (1939)
+---
+id: seers
+title: Prophecy and sight
+intro: Prophecy in the poem, and the sight it depends on. The poem is full of people who claim to see what others cannot, and it shows what each of them is allowed to see. Its epigraph is spoken by a man who saw a prophetess with his own eyes, and all she had left to say was that she wanted to die. Eliot’s note on line 218 calls the blind Tiresias the poem’s most important personage and what he sees its substance; but what he foretells is a scene he says he has “foresuffered”, enacted before on the same bed. The thunder near the end says one syllable, and each hearer must make out the word for himself. Between the seers come the eyes that fail, from the hyacinth garden to the road to Emmaus. The stops say at each what is seen, by whom, and on what authority.
+why: The poem’s prophets, fortune-tellers and blind seers, from the Sibyl in the epigraph to Isaiah’s warning near the end, with the eyes that fail between them.
+---
+id: change
+title: Metamorphosis
+intro: The poem’s changed bodies, from Ovid and from <i>The Tempest</i>. Ovid’s <i>Metamorphoses</i> gives it Philomel, raped and turned into a nightingale (99), and Tiresias, who was a woman for seven years (218); the song the spirit Ariel sings in <i>The Tempest</i> gives it a drowned king with eyes turned to pearls and a body that suffers “a sea-change / Into something rich and strange”. The poem quotes the pearls twice, at 48 and 125, and the sea-change never. This pathway follows the changes: what Ovid’s and Shakespeare’s bodies are turned into, what becomes of the poem’s own people, the drowned Phlebas among them, and the change the last Latin line asks for, when shall I be like the swallow. That the poem makes no change of its own is the pathway’s reading. Cleanth Brooks (1939) read the poem’s people as not knowing that “the way into life may be by death itself”; the stops set it beside the lines.
+why: Ovid’s changed bodies and the sea-change of Ariel’s song, from Philomel to the swallow, and whether anyone in the poem is changed.
+sources: Ovid, Metamorphoses VI 424–674
+Ovid, Metamorphoses III 316–338
+Shakespeare, The Tempest I.ii
+Brooks (1939)
+---
+id: method
+title: The past beside the present
+intro: Old poems and modern scenes in the same lines. In November 1923, reviewing Joyce’s <i>Ulysses</i> in <i>The Dial</i>, Eliot wrote that “in manipulating a continuous parallel between contemporaneity and antiquity, Mr Joyce is pursuing a method which others must pursue after him”, and that the method gave “a shape and a significance to the immense panorama of futility and anarchy which is contemporary history”. He was writing about another man’s book, but the critic F. O. Matthiessen was applying the sentences to Eliot’s own work by 1935. This pathway stops where the parallel is plainest, where Chaucer, Baudelaire, Shakespeare, Spenser, Marvell, John Day or Goldsmith is set beside a modern scene in the same lines, so that the reader sees both at once. Cleanth Brooks (1939) wrote that the poem’s surface parallels are really contrasts and its surface contrasts really parallels, and the stops do not assume that the past comes off better.
+why: The places where an old poem and a modern scene are made to share the same lines, from Chaucer’s April to the fragments at the end.
+sources: Eliot, "Ulysses, Order, and Myth" (1923)
+Matthiessen (1935), ch. II
+Brooks (1939)
+---
+id: war
+title: After the war
+intro: The war of 1914–1918 and its aftermath, as the poem carries them. Eliot wrote the poem in 1921, three years after the Armistice, and published it in October 1922; at Lloyds Bank, where he worked, he had been put in charge in 1920 of settling the bank’s pre-war debts with Germany. The poem never names the war. The eight stops go in the poem’s order. They are a claim of nationality (line 12) and a sea battle of 260 BC (70), set by readers beside the war just ended; the trench name in “rats’ alley” (115); a husband “demobbed” after four years in the army (139); the song the Australian troops sang (199); a Bradford millionaire’s silk hat (233); the “hooded hordes” of Eliot’s note on eastern Europe (369); and London Bridge falling down (427). Each says what of the war is in the passage, and names the reader who first said so where the claim is a reading.
+why: What the poem has of the war that had ended three years before, taken in order from the German line at 12 to London Bridge falling down.
+sources: The Criterion, October 1922
+Facsimile (1971), introduction
+Letters, vol. 1, Eliot to his mother, 15 February 1920
+---
+id: wagner
+title: Wagner
+intro: Wagner’s three operas in the poem. He is quoted three times, in German: the sailor’s song that opens <i>Tristan und Isolde</i> (lines 31–34), the shepherd’s report from its last act that the sea is empty (42), and the Rhine-daughters’ cry from the last act of <i>Götterdämmerung</i>, set twice on the Thames (277–278, 290–291) and, as it is usually read, worn down to “la la” at 306. A third opera, <i>Parsifal</i>, Wagner’s Grail opera, enters at line 202 through Verlaine’s sonnet on it. Jessie Weston’s <i>From Ritual to Romance</i>, the Grail book Eliot’s first note credits with the poem’s plan, says in its preface that conversations at the Bayreuth Festival of 1911 gave her some of her evidence. Jean Verdenal, Eliot’s friend in Paris, wrote to him in 1912 that <i>Tristan</i> at a first hearing “leaves you prostrate with ecstasy.”
+why: What Wagner’s operas are doing in the poem, quotation by quotation, and where to hear the music.
+sources: Weston, From Ritual to Romance, preface
+Letters, vol. 1, Jean Verdenal to Eliot, 5 February 1912

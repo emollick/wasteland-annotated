@@ -1,0 +1,56 @@
+id: war
+title: After the war
+intro: The war of 1914–1918 and its aftermath, as the poem carries them. Eliot wrote the poem in 1921, three years after the Armistice, and published it in October 1922; at Lloyds Bank, where he worked, he had been put in charge in 1920 of settling the bank’s pre-war debts with Germany. The poem never names the war. The eight stops go in the poem’s order. They are a claim of nationality (line 12) and a sea battle of 260 BC (70), set by readers beside the war just ended; the trench name in “rats’ alley” (115); a husband “demobbed” after four years in the army (139); the song the Australian troops sang (199); a Bradford millionaire’s silk hat (233); the “hooded hordes” of Eliot’s note on eastern Europe (369); and London Bridge falling down (427). Each says what of the war is in the passage, and names the reader who first said so where the claim is a reading.
+why: What the poem has of the war that had ended three years before, taken in order from the German line at 12 to London Bridge falling down.
+sources: The Criterion, October 1922
+Facsimile (1971), introduction
+Letters, vol. 1, Eliot to his mother, 15 February 1920
+---
+path: war
+line: 12
+text: The poem's first speakers belong to the Europe of before the war. Lithuania declared its independence in 1918 (the card at this line); Southam's note on the line dates it "only from 1919", after the war. The archduke of line 13 fits Crown Prince Rudolf, found dead at Mayerling in 1889; the card at 15 gives him and his cousin Countess Marie Larisch, whose memoir is behind lines 8–18. Hugh Kenner (1959) heard in the voice of these lines "the vanished Austro-Hungarian Empire, the inbred malaise of Mayerling".
+sources: Southam, Guide, note on line 12
+Kenner (1959)
+---
+path: war
+line: 70
+text: The card at this line gives Mylae and the reading of Cleanth Brooks (1939) that the Punic War, a trade war, parallels the war of 1914–18. Southam's note on the line quotes John Hayward, whose notes to the French translation of the poems (1947) were made with Eliot's advice: "All wars are one war". Brooks also read Stetson, hailed as a shipmate of 260 BC, as "every man". For the corpse in the garden at 71, see the Grail pathway, which sets it beside Frazer's buried effigies of Osiris.
+sources: Brooks (1939)
+Southam, Guide, note on line 70
+---
+path: war
+line: 115
+text: The card gives Rats' Alley as a trench name; Southam's note on the line adds the suggestion that "rats' alley" was soldiers' slang for the trenches, alley being the word for a trench. The line is his unspoken answer to "What are you thinking of?" (the cards at 111 and 115), so the trenches enter the poem as a thought not said aloud. Cleanth Brooks (1939) set the sterile death of rats' alley against the pearls of 125, the drowned man's eyes of Ariel's song (the card at 48).
+sources: Southam, Guide, note on line 115
+Brooks (1939)
+---
+path: war
+line: 139
+text: The scene is the homecoming from the war as the poem has it. Albert has "been in the army four years", and the card gives "demobbed", demobilised, as the slang of 1919 and 1920 for it. HURRY UP PLEASE ITS TIME is the landlord's closing time, under hours cut in the war (the card at 141) and then fixed by the Licensing Act of August 1921, eight hours a day, ending not later than ten at night, or nine hours and eleven o'clock in London.
+sources: Southam, Guide, note on line 139
+Rainey, Annotated Waste Land, note on line 139
+Licensing Act 1921, s. 1
+---
+path: war
+line: 199
+text: The card gives the ballad, the Cairo brothel-keeper its Mrs Porter is said to have been, and Eliot's note that it "was reported to me from Sydney, Australia". Southam's note on the line adds that the Australian troops sang it as they landed at Gallipoli in 1915, and that Eliot's wording obscures the point of the soldiers' version. It is the only song of the war in the poem, and it comes in cleaned up.
+sources: Southam, Guide, note on line 199
+---
+path: war
+line: 233
+text: The clerk's assurance is measured against "a silk hat on a Bradford millionaire" (233–234). Southam's note on 234 says Bradford, in the north of England, was reputed to have produced a crop of millionaires, men who made their fortunes supplying woollen goods in the First World War; Rainey's note says the wool town faced charges of wartime profiteering. It is the poem's one reference to those who made money from the war, and it is a simile. For the scene itself, see the pathway on the loves that fail.
+sources: Southam, Guide, note on line 234
+Rainey, Annotated Waste Land, note on line 234
+---
+path: war
+line: 369
+text: Eliot's note on lines 367–377 quotes the close of the first of the three essays in Hermann Hesse's <i>Blick ins Chaos</i>, on <i>The Brothers Karamazov</i> and the downfall of Europe (the card at 368). Southam's note on the lines refers the hordes to Hesse and reads the "Murmur of maternal lamentation" of 368 as Mother Russia lamenting the Bolshevik Revolution of 1917. Cleanth Brooks (1939) read the cities of 375–376, Jerusalem, Athens, Alexandria and Vienna, capital of an empire the war had ended, as unreal like the London of Part I.
+sources: Hesse, Blick ins Chaos, the essay Die Brüder Karamasoff oder Der Untergang Europas
+Southam, Guide, note on lines 368–369
+Brooks (1939)
+---
+path: war
+line: 427
+text: The nursery rhyme is the first of the fragments, and the card at 431 gives it. Southam's note on the line prints its refrain, "London Bridge is falling down, falling down, / London Bridge is falling down, / My fair lady", and Hugh Kenner (1959) linked the crowd flowing over the bridge in Part I with the rhyme. The line comes after the "Falling towers" of 374 and "Vienna London" at 376, so that after the cities it is London's own bridge that falls, in a nursery tune.
+sources: Southam, Guide, note on line 426
+Kenner (1959)

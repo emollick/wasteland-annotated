@@ -1,0 +1,43 @@
+# Merge record, round 1: love ("The loves that fail")
+
+Rule followed: the checker on substance, the reader on wording; the seven decisions taken before the merge applied and not argued again; another pathway named as MERGE-BRIEF.md says. Every "Eliot's note on line N" in the merged text was checked against poem.txt: 218 (Tiresias; intro, 49, 215), 77 and 92 (the chair and "laquearia"; 77), 125 numbered 126 (the pearls line; 111), 176 (the refrain; 173), 429 (the swallow, Eliot's 428; 99), 266 (the Thames-daughters; 292), and the note numbered 407 on the spider at 408 (402). At 49, within Madame Sosostris's lines, the gloss is "the card in the margin" and the tarot "the second of Madame Sosostris's cards", as the brief asks.
+
+- head: the draft's naming first sentence kept, by the licence the brief gives the intro alone (decision 6); the rest is the reader's corrected intro, which states the chain from Weston's wounded king to the couples in order and marks the last step as the pathway's reading. Title, why line and sources (Weston ch. II; Brooks) unchanged. 158 words.
+- line 35: reader's text (the plain opening) with the checker's facts. The Grail reading kept in the draft's substance as the checker accepted it, its terms glossed ("the maiden who bears the Grail", "the knight who seeks it and fails"); the reader's rewording marked [to check] ("Weston's Grail castle", the knight "who must ask about it and cannot speak") not taken. The Hale sentence in the checker's substance (decision 1): the identification is Eliot's own, in a letter to Hale of 1930, described in a phrase and not quoted, made known by Gordon's book; it replaces the reader's pointer at the card, which gives Gordon's reading and who Hale was but not Eliot's letter. The reader's pointer at the cards at 31 and 42 cut for length (99 words with the checker's sentence, 87 without), and the two Tristan citations cut with it. Sources as decided: Grover Smith (1956); Dickey (2020); Gordon, The Hyacinth Girl; Southam's note on lines 37–41 dropped.
+- line 49: reader's text, with the Part I wording for the two kinds of card ("the second of Madame Sosostris's cards", "the card in the margin", "Belladonna is dealt"). The checker accepted the facts and sources; sources unchanged.
+- line 77: reader's text; the checker accepted the record. Sources unchanged.
+- line 99: reader's text, with "Her cry" made "Philomela's cry", the nearest antecedent in the reader's sentence having become the woman of line 111. Sources unchanged.
+- line 111: reader's text, with "Eliot's note on line 125 (numbered 126)" as decided. Sources as decided (decision 2): Facsimile (1971), the typescript of Part II; Ricks and McCue, textual history, [II] 120–39 and [II] 137a, the keys the checker saw, in place of the draft's "textual history of Part II"; Southam, Guide, note on line 137 added.
+- line 139: reader's text, with the Weston reading marked as the pathway's ("this pathway reads the friend's question ... as that failure in the poem's own words"), as the reader's [to check] asked: neither report names a critic for it, and the intro says the readings are the pathway's. The Ellen Kellond sentence cut as the card's, and the facsimile's editorial note cut with it, having supported only that sentence; Weston ch. II, Southam's note on lines 142–72 and the two Hamlet citations kept as the checker accepted them.
+- line 173: reader's text; the checker accepted the record. Sources unchanged (Southam's key 175–9 unconfirmed but not contradicted, as the checker says).
+- line 199: reader's text, which cuts the Cairo brothel as the card's (so the checker's "on Robert Sencourt's authority" is not needed) and keeps Gallipoli, which the card at lines 198–201 does not have; the reader's close taken over the checker's, the two saying the same thing (a single line on the knight who refused, after the brothel song). Sources unchanged.
+- line 215: reader's text, with the kind of proposition put in from the checker's quotation of Miller ("the single homosexual episode"): "a homosexual proposition", as the reader's [to check] asked. Sources unchanged.
+- line 279: reader's text; the checker accepted the record. Sources unchanged.
+- line 292: reader's text, with "a few lines each" cut for length (the lines are on the page; 86 words). Sources as decided (decision 3): Southam, Guide, notes on lines 293, 296 and 300 for the draft's 292–303.
+- line 402: reader's text, with the checker's judgement (decision 5): "to whom, and when, the poem does not say" out, "it is said to 'My friend'" in; the Webster sentence names Flamineo and his warning that wives remarry, with the printed number of Eliot's note (407) in brackets; "The lines after it list" shortened to "What follows lists" for length (89 words). Miller's reading kept and marked as his. Sources unchanged; the checker's optional addition of the Hale letter not taken (not asked for, and the stop is at the limit).
+- line 419: reader's text, with the checker's correction (decision 4): the remark on the order of the three words is Southam's note on the thunder's fable, keyed 399–401, and says that Eliot's departure from the Upanishad's order, in placing this word last, has been argued over (the reader's "argued over", without the draft's "much"); the pointer in the brief's form ("for that order, see the pathway on the Fire Sermon and the thunder"; merged/east.txt gives the order at its stop at 402). The reader's "and only in the conditional" cut for length, the stop's first sentence having the conditional already (89 words). Sources: Southam, Guide, note on lines 399–401 in place of the draft's note on line 418.
+
+## Sentences the editor wrote
+
+None. Clauses reworded inside the reports' sentences: at 35 the Grail terms glossed and the Hale sentence's close ("as Lyndall Gordon's The Hyacinth Girl (2022) made known", for the checker's "is named for it"); at 49 the two kinds of card; at 99 "Philomela's cry"; at 139 "this pathway reads the friend's question ... as that failure in the poem's own words"; at 215 "a homosexual proposition"; at 402 "What follows lists" and "quotes Flamineo's warning in Webster's The White Devil that wives remarry"; at 419 the Southam sentence in the checker's substance and the pointer in the brief's form.
+
+## Disagreements decided for the scholar
+
+1. line 35: "The card at this line gives Lyndall Gordon's reading (2022) of the girl as Emily Hale": the identification is Eliot's own, in his letter to Hale of 1930 as Dickey (2020) reports it; Gordon's book is what made it known.
+2. line 35: the reader's rewording of Grover Smith's reading ("Weston's Grail castle"; the knight "who must ask about it and cannot speak"), marked [to check]: not in the checker's quotations from Smith; the draft's substance kept as the checker accepted it.
+3. line 402: "to whom, and when, the poem does not say": line 403 says "My friend".
+4. line 402: "widows who remarry" in Webster: the speaker is Flamineo, warning men that their wives will remarry.
+5. line 419: "Southam's note records that Eliot's order of the three words, with this one last, has been argued over": the remark is in Southam's note on lines 399–401, not on line 418, and is about Eliot's departure from the Upanishad's order.
+
+## Corrections to new-works.txt
+
+None outstanding. The checker confirms the Gardner (1972) entry as written and offers a fuller note (the archive.org record's title, "The waste land 1972: the Adamson lecture, 3rd May 1972, University of Manchester", 25 pp., ISBN 0-7190-0540-X, and that the scan also has the remark on the ivory-men line); the entry may stand. The Dickey (2020) entry the checker asked for is already in new-works.txt as the checker gave it.
+
+For the citations thread (works.txt, not new-works.txt): the checker recommends that the record for Gordon, The Hyacinth Girl note that no scan exists and that its thesis (Hale as the hyacinth girl, on Eliot's own word in the letter of 3 November 1930) is confirmed only from Dickey (2020), the book's subtitle and its reviews; and that the record for Ricks and McCue drop the remark that the scan never answers, since it answered for [II] 120–39 and [II] 137a.
+
+## validate.py
+
+Four lines, all "quotation not found in poem" for quotations from sources (Brooks at 49, Eliot's note at 215, Matthiessen at 279, Eliot's note quoting Webster at 402); nothing else. Intro 158 words; stops 79 to 90 words.
+
+
+Editor of the thread, after the merge: at 35 "reread these lines for his love for her" became "reread these lines to see how his love for her had grown" (Dickey's paraphrase of the 1930 letter; still described, not quoted).

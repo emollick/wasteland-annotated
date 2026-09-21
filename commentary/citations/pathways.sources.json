@@ -1,0 +1,551 @@
+{
+ "heads.txt:grail:": [
+  "Weston, From Ritual to Romance, ch. II",
+  "Frazer, The Golden Bough (1922), ch. XXIX",
+  "Frazer, The Golden Bough (1922), ch. XXXII",
+  "Brooks (1939)",
+  "Eliot, \"The Frontiers of Criticism\" (1956)"
+ ],
+ "heads.txt:passion:": [
+  "Book of Common Prayer, the Order for the Burial of the Dead",
+  "Brooks (1939)",
+  "Southam, Guide, Biographical Table"
+ ],
+ "heads.txt:east:": [
+  "Warren, Buddhism in Translations, §73",
+  "Bṛhadāraṇyaka Upaniṣad, V.2",
+  "Eliot, After Strange Gods (1934)",
+  "Kearns (1987)"
+ ],
+ "heads.txt:dante:": [
+  "The Sacred Wood, \"Dante\"",
+  "Eliot, Dante (1929)",
+  "Eliot, \"What Dante Means to Me\" (1950)"
+ ],
+ "heads.txt:love:": [
+  "Weston, From Ritual to Romance, ch. II",
+  "Brooks (1939)"
+ ],
+ "heads.txt:change:": [
+  "Ovid, Metamorphoses VI 424–674",
+  "Ovid, Metamorphoses III 316–338",
+  "Shakespeare, The Tempest I.ii",
+  "Brooks (1939)"
+ ],
+ "heads.txt:method:": [
+  "Eliot, \"Ulysses, Order, and Myth\" (1923)",
+  "Matthiessen (1935), ch. II",
+  "Brooks (1939)"
+ ],
+ "heads.txt:war:": [
+  "The Criterion, October 1922",
+  "Facsimile (1971), introduction",
+  "Letters, vol. 1, Eliot to his mother, 15 February 1920"
+ ],
+ "heads.txt:wagner:": [
+  "Weston, From Ritual to Romance, preface",
+  "Letters, vol. 1, Jean Verdenal to Eliot, 5 February 1912"
+ ],
+ "part1.txt:grail:0": [
+  "Weston, From Ritual to Romance, ch. II",
+  "Weston, From Ritual to Romance, ch. V"
+ ],
+ "part1.txt:grail:1": [
+  "Frazer, The Golden Bough (1922), ch. XXXII",
+  "Brooks (1939)"
+ ],
+ "part1.txt:grail:19": [
+  "Weston, From Ritual to Romance, ch. III",
+  "Weston, From Ritual to Romance, ch. II"
+ ],
+ "part1.txt:grail:43": [
+  "Weston, From Ritual to Romance, ch. VI",
+  "Brooks (1939)"
+ ],
+ "part1.txt:grail:55": [
+  "Frazer, Adonis, Attis, Osiris, bk. II, ch. V",
+  "Frazer, The Golden Bough (1922), ch. XXXIV",
+  "Weston, From Ritual to Romance, ch. IV",
+  "Brooks (1939)"
+ ],
+ "part1.txt:grail:71": [
+  "Frazer, The Golden Bough (1922), ch. XXXIX"
+ ],
+ "part1.txt:passion:1": [
+  "Book of Common Prayer, the Order for the Burial of the Dead",
+  "Southam, Guide, note on the title of Part I",
+  "Rainey, Annotated Waste Land, note on the title of Part I"
+ ],
+ "part1.txt:passion:20": [
+  "King James Bible, Ezekiel 2:1–3",
+  "King James Bible, Ecclesiastes 12:1–7",
+  "King James Bible, Ezekiel 6:4",
+  "Rainey, Annotated Waste Land, notes on lines 20 and 22"
+ ],
+ "part1.txt:passion:25": [
+  "King James Bible, Isaiah 32:1–2",
+  "King James Bible, Genesis 3:19",
+  "Book of Common Prayer, the Order for the Burial of the Dead",
+  "Gardner (1949), ch. IV (The Dry Season)",
+  "Southam, Guide, note on line 25"
+ ],
+ "part1.txt:passion:67": [
+  "King James Bible, Matthew 27:45–46",
+  "King James Bible, Mark 15:34",
+  "King James Bible, Luke 23:44–46",
+  "Southam, Guide, note on line 68"
+ ],
+ "part1.txt:dante:0": [
+  "Dante, Purgatorio XXVI 115–117 and 127–135",
+  "Dante, Purgatorio XXVI 140–148"
+ ],
+ "part1.txt:dante:62": [
+  "Dante, Inferno III 34–42 and 55–57",
+  "Dante, Inferno IV 25–30",
+  "Eliot, \"What Dante Means to Me\" (1950)",
+  "Southam, Guide, note on line 63"
+ ],
+ "part1.txt:dante:69": [
+  "Dante, Inferno XV 22–33 and 82–85",
+  "The Sacred Wood, \"Dante\"",
+  "Charity (1974)",
+  "Stephenson (1946)"
+ ],
+ "part1.txt:love:35": [
+  "Grover Smith (1956)",
+  "Dickey (2020)",
+  "Gordon, The Hyacinth Girl"
+ ],
+ "part1.txt:love:49": [
+  "Southam, Guide, note on line 49",
+  "Brooks (1939)",
+  "Grover Smith (1956)"
+ ],
+ "part1.txt:seers:0": [
+  "Petronius, Satyricon 48",
+  "Ovid, Metamorphoses XIV 130–153",
+  "Southam, Guide, note on the epigraph"
+ ],
+ "part1.txt:seers:19": [
+  "King James Bible, Ezekiel 2:1–3",
+  "King James Bible, Ezekiel 6:4",
+  "Southam, Guide, notes on lines 20 and 22",
+  "Rainey, Annotated Waste Land, note on line 22"
+ ],
+ "part1.txt:seers:39": [
+  "Wagner, Tristan und Isolde, Act III",
+  "Southam, Guide, note on line 42",
+  "Rainey, Annotated Waste Land, note on line 42"
+ ],
+ "part1.txt:seers:43": [
+  "Huxley, Crome Yellow, ch. 27",
+  "Vagrancy Act 1824, s. 4",
+  "Kenner (1959)",
+  "Southam, Guide, notes on lines 43–55",
+  "Rainey, Annotated Waste Land, note on line 43"
+ ],
+ "part1.txt:seers:48": [
+  "Shakespeare, The Tempest I.ii",
+  "Rainey, Annotated Waste Land, note on line 48"
+ ],
+ "part1.txt:seers:65": [
+  "Dante, Inferno III 55–57",
+  "Southam, Guide, note on line 63"
+ ],
+ "part1.txt:change:48": [
+  "Shakespeare, The Tempest I.ii",
+  "Rainey, Annotated Waste Land, note on line 48"
+ ],
+ "part1.txt:method:1": [
+  "Chaucer, General Prologue 1–12",
+  "Southam, Guide, note on line 1",
+  "Rainey, Annotated Waste Land, note on line 1"
+ ],
+ "part1.txt:method:60": [
+  "Baudelaire, Les Fleurs du mal, \"Les Sept Vieillards\" 1–9",
+  "Eliot, \"What Dante Means to Me\" (1950)",
+  "Southam, Guide, note on line 60"
+ ],
+ "part1.txt:war:12": [
+  "Southam, Guide, note on line 12",
+  "Kenner (1959)"
+ ],
+ "part1.txt:war:70": [
+  "Brooks (1939)",
+  "Southam, Guide, note on line 70"
+ ],
+ "part1.txt:wagner:8": [
+  "Larisch, My Past, ch. VII",
+  "Larisch, My Past, ch. I",
+  "Encyclopaedia Britannica (1911), \"Wagner, Wilhelm Richard\"",
+  "Southam, Guide, note on lines 8–22"
+ ],
+ "part1.txt:wagner:31": [
+  "Wagner, Tristan und Isolde, Act I scene 1",
+  "Wagner, Tristan und Isolde, Act III"
+ ],
+ "part1.txt:wagner:42": [
+  "Wagner, Tristan und Isolde, Act III scene 1",
+  "Brooks (1939)"
+ ],
+ "part2.txt:love:77": [
+  "Shakespeare, Antony and Cleopatra II.ii",
+  "Shakespeare, Antony and Cleopatra V.ii",
+  "Virgil, Aeneid I 726",
+  "Virgil, Aeneid IV 642–665",
+  "Southam, Guide, notes on lines 77 and 92"
+ ],
+ "part2.txt:love:99": [
+  "Ovid, Metamorphoses VI 424–674"
+ ],
+ "part2.txt:love:111": [
+  "Facsimile (1971), the typescript of Part II",
+  "Ricks and McCue, textual history, [II] 120–39 and [II] 137a",
+  "Southam, Guide, note on line 137"
+ ],
+ "part2.txt:love:139": [
+  "Weston, From Ritual to Romance, ch. II",
+  "Southam, Guide, note on lines 142–72",
+  "Shakespeare, Hamlet III.i",
+  "Shakespeare, Hamlet IV.v"
+ ],
+ "part2.txt:seers:138": [
+  "Middleton, Women Beware Women II.ii",
+  "Eliot, \"Thomas Middleton\" (1927)",
+  "Southam, Guide, note on line 137"
+ ],
+ "part2.txt:change:99": [
+  "Ovid, Metamorphoses VI 666–674",
+  "Brooks (1939)"
+ ],
+ "part2.txt:change:125": [
+  "Shakespeare, The Tempest I.ii",
+  "Facsimile (1971), the typescript of Part II"
+ ],
+ "part2.txt:method:77": [
+  "Shakespeare, Antony and Cleopatra II.ii",
+  "Virgil, Aeneid I 726",
+  "Milton, Paradise Lost IV 140",
+  "Southam, Guide, note on line 77"
+ ],
+ "part2.txt:method:128": [
+  "Guerrieri (2017)"
+ ],
+ "part2.txt:war:115": [
+  "Southam, Guide, note on line 115",
+  "Brooks (1939)"
+ ],
+ "part2.txt:war:139": [
+  "Southam, Guide, note on line 139",
+  "Rainey, Annotated Waste Land, note on line 139",
+  "Licensing Act 1921, s. 1"
+ ],
+ "part3.txt:grail:189": [
+  "Weston, From Ritual to Romance, ch. IX",
+  "Weston, From Ritual to Romance, ch. IV",
+  "Brooks (1939)"
+ ],
+ "part3.txt:grail:202": [
+  "Verlaine, \"Parsifal\", lines 10 and 14",
+  "Weston, From Ritual to Romance, ch. XIII"
+ ],
+ "part3.txt:passion:182": [
+  "Book of Common Prayer, Psalm 137",
+  "King James Bible, Psalm 137:1–4",
+  "Southam, Guide, note on line 182",
+  "Rainey, Annotated Waste Land, note on line 182"
+ ],
+ "part3.txt:passion:264": [
+  "Eliot, \"London Letter,\" Dial, June 1921, pp. 690–691",
+  "LCC, Nineteen City Churches (1920), the report on St Magnus the Martyr",
+  "Rainey, Annotated Waste Land, note on line 264",
+  "Rainey, Annotated Waste Land, \"London Letter, May 1921\""
+ ],
+ "part3.txt:passion:307": [
+  "Augustine, Confessions, bk. III, ch. 1",
+  "Augustine, Confessions, bk. X, ch. 34",
+  "Rainey, Annotated Waste Land, note on line 307",
+  "Rainey, Annotated Waste Land, note on line 309"
+ ],
+ "part3.txt:east:173": [
+  "Warren, Buddhism in Translations, §73",
+  "Southam, Guide, note on the title of Part III"
+ ],
+ "part3.txt:east:308": [
+  "Warren, Buddhism in Translations, §73",
+  "Southam, Guide, note on the title of Part III"
+ ],
+ "part3.txt:dante:193": [
+  "Webster, The White Devil V.iv",
+  "Shakespeare, The Tempest I.ii",
+  "Book of Common Prayer, the Order for the Burial of the Dead"
+ ],
+ "part3.txt:dante:245": [
+  "Homer, Odyssey X 490–495 and XI",
+  "Sophocles, Oedipus Tyrannus"
+ ],
+ "part3.txt:dante:293": [
+  "Dante, Purgatorio V 130–136",
+  "Dante, Inferno III 55–57",
+  "Dante, Purgatorio XXVI 127–132 and 145–148",
+  "Eliot, Dante (1929)",
+  "Southam, Guide, note on line 293"
+ ],
+ "part3.txt:love:173": [
+  "Spenser, Prothalamion",
+  "Southam, Guide, note on lines 175–9"
+ ],
+ "part3.txt:love:199": [
+  "Verlaine, \"Parsifal\"",
+  "Southam, Guide, note on line 199",
+  "Gardner (1972)"
+ ],
+ "part3.txt:love:215": [
+  "Rainey, Annotated Waste Land, note on line 214",
+  "Miller (1977)",
+  "Brooks (1939)"
+ ],
+ "part3.txt:love:279": [
+  "Froude, Reign of Elizabeth, vol. I, ch. IV",
+  "Matthiessen (1935)",
+  "Southam, Guide, note on lines 279–91"
+ ],
+ "part3.txt:love:292": [
+  "Wagner, Götterdämmerung III.i",
+  "Southam, Guide, notes on lines 293, 296 and 300",
+  "Warren, Buddhism in Translations, §73"
+ ],
+ "part3.txt:seers:218": [
+  "Ovid, Metamorphoses III 316–338",
+  "Brooks (1939)",
+  "Kenner (1959)",
+  "Southam, Guide, note on lines 218–220",
+  "Rainey, Annotated Waste Land, note on line 218"
+ ],
+ "part3.txt:change:191": [
+  "Shakespeare, The Tempest I.ii",
+  "Shakespeare, The Tempest V.i"
+ ],
+ "part3.txt:change:203": [
+  "Lyly, Campaspe, V.i",
+  "Southam, Guide, note on line 206"
+ ],
+ "part3.txt:change:243": [
+  "Ovid, Metamorphoses III 316–338"
+ ],
+ "part3.txt:change:257": [
+  "Shakespeare, The Tempest I.ii",
+  "Shakespeare, The Tempest V.i"
+ ],
+ "part3.txt:method:176": [
+  "Spenser, Prothalamion 1–36 and 127–162",
+  "Brooks (1939)",
+  "Southam, Guide, note on line 176",
+  "Southam, Guide, note on line 279"
+ ],
+ "part3.txt:method:185": [
+  "Marvell, \"To His Coy Mistress\" 21–24",
+  "Southam, Guide, note on line 185"
+ ],
+ "part3.txt:method:196": [
+  "Day, The Parliament of Bees, Character 3",
+  "Ovid, Metamorphoses III 138–252",
+  "Southam, Guide, notes on lines 196–198"
+ ],
+ "part3.txt:method:253": [
+  "Goldsmith, The Vicar of Wakefield, ch. 24",
+  "Brooks (1939)",
+  "Southam, Guide, note on line 253",
+  "Rainey, Annotated Waste Land, note on line 253"
+ ],
+ "part3.txt:war:199": [
+  "Southam, Guide, note on line 199"
+ ],
+ "part3.txt:war:233": [
+  "Southam, Guide, note on line 234",
+  "Rainey, Annotated Waste Land, note on line 234"
+ ],
+ "part3.txt:wagner:202": [
+  "Verlaine, \"Parsifal\", line 14",
+  "Wagner, Parsifal, Act III",
+  "Wagner, Parsifal, Act I",
+  "Brooks (1939)"
+ ],
+ "part3.txt:wagner:266": [
+  "Wagner, Götterdämmerung, Act III scene 1"
+ ],
+ "part3.txt:wagner:277": [
+  "Wagner, Götterdämmerung, Act III scene 1"
+ ],
+ "part3.txt:wagner:306": [
+  "Wagner, Götterdämmerung, Act III scene 1"
+ ],
+ "part4.txt:grail:312": [
+  "Frazer, The Golden Bough (1922), ch. XXXII",
+  "Brooks (1939)"
+ ],
+ "part4.txt:dante:312": [
+  "Dante, Inferno XXVI 133–142",
+  "Paris Review interview (1959)",
+  "Facsimile (1971), the typescript of Part IV",
+  "Pound, Letters, ed. Paige, nos. 182–183",
+  "Southam, Guide, note on Part IV"
+ ],
+ "part4.txt:change:315": [
+  "Shakespeare, The Tempest I.ii",
+  "Poems (1920), \"Dans le Restaurant\"",
+  "Rainey, Annotated Waste Land, note on line 312",
+  "Brooks (1939)"
+ ],
+ "part5.txt:grail:331": [
+  "Weston, From Ritual to Romance, ch. XIII"
+ ],
+ "part5.txt:grail:353": [
+  "Weston, From Ritual to Romance, ch. III",
+  "Facsimile (1971), the editor's notes on Part V"
+ ],
+ "part5.txt:grail:386": [
+  "Weston, From Ritual to Romance, ch. XIII",
+  "Brooks (1939)",
+  "Southam, Guide, note on line 388"
+ ],
+ "part5.txt:grail:424": [
+  "Weston, From Ritual to Romance, ch. IX",
+  "Weston, From Ritual to Romance, ch. II"
+ ],
+ "part5.txt:passion:322": [
+  "King James Bible, John 18:3",
+  "King James Bible, Luke 22:39–46",
+  "Brooks (1939)",
+  "Rainey, Annotated Waste Land, note on line 324",
+  "Southam, Guide, note on lines 322–328"
+ ],
+ "part5.txt:passion:360": [
+  "King James Bible, Luke 24:13–31",
+  "Southam, Guide, note on the headnote to Part V"
+ ],
+ "part5.txt:passion:367": [
+  "King James Bible, Luke 23:27–28",
+  "Kenner (1959), part III (The Death of Europe)"
+ ],
+ "part5.txt:passion:391": [
+  "King James Bible, Ezekiel 37:1–14",
+  "Brooks (1939)",
+  "Shakespeare, Hamlet I.i"
+ ],
+ "part5.txt:passion:426": [
+  "King James Bible, Isaiah 38:1–5",
+  "King James Bible, 2 Kings 20:1",
+  "Kenner (1959), part III (The Death of Europe)",
+  "Southam, Guide, note on line 425"
+ ],
+ "part5.txt:passion:434": [
+  "King James Bible, Philippians 4:7",
+  "Book of Common Prayer, the Order of Holy Communion",
+  "Poems 1909–1925, the note on Shantih",
+  "Ricks and McCue, commentary on line 433",
+  "Southam, Guide, note on line 433"
+ ],
+ "part5.txt:east:396": [
+  "Weston, From Ritual to Romance, ch. III",
+  "Southam, Guide, note on line 395",
+  "Southam, Guide, note on line 397"
+ ],
+ "part5.txt:east:400": [
+  "Bṛhadāraṇyaka Upaniṣad, V.2",
+  "Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2",
+  "Southam, Guide, note on lines 399–401"
+ ],
+ "part5.txt:east:402": [
+  "Bṛhadāraṇyaka Upaniṣad, V.2",
+  "Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2",
+  "Southam, Guide, note on lines 399–401"
+ ],
+ "part5.txt:east:412": [
+  "Bṛhadāraṇyaka Upaniṣad, V.2",
+  "Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2",
+  "Bradley, Appearance and Reality, ch. XXIII",
+  "Southam, Guide, note on line 411"
+ ],
+ "part5.txt:east:419": [
+  "Bṛhadāraṇyaka Upaniṣad, V.2",
+  "Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2",
+  "Southam, Guide, note on line 418"
+ ],
+ "part5.txt:east:433": [
+  "Bṛhadāraṇyaka Upaniṣad, V.2",
+  "Kearns (1987)",
+  "Southam, Guide, note on lines 399–401"
+ ],
+ "part5.txt:east:434": [
+  "Kaṭha Upaniṣad, the closing formula",
+  "Southam, Guide, note on line 433",
+  "Kearns (1987)",
+  "Ricks and McCue, commentary on line 433"
+ ],
+ "part5.txt:dante:329": [
+  "Dante, Purgatorio V 133–134"
+ ],
+ "part5.txt:dante:412": [
+  "Dante, Inferno XXXIII 1–78",
+  "Southam, Guide, note on line 411",
+  "Rainey, Annotated Waste Land, note on line 411"
+ ],
+ "part5.txt:dante:428": [
+  "Dante, Purgatorio XXVI 140–148",
+  "Eliot, Dante (1929)",
+  "Gallup, entry A4"
+ ],
+ "part5.txt:love:402": [
+  "Webster, The White Devil V.vi",
+  "Miller (1977)",
+  "Southam, Guide, notes on lines 401 and 407"
+ ],
+ "part5.txt:love:419": [
+  "Southam, Guide, note on lines 399–401"
+ ],
+ "part5.txt:seers:360": [
+  "King James Bible, Luke 24:13–31",
+  "Shackleton, South, ch. X",
+  "Southam, Guide, note on lines 360–365",
+  "Rainey, Annotated Waste Land, note on line 359"
+ ],
+ "part5.txt:seers:367": [
+  "Hesse, Blick ins Chaos, \"Die Brüder Karamasoff oder der Untergang Europas\"",
+  "Southam, Guide, note on lines 368–369"
+ ],
+ "part5.txt:seers:400": [
+  "Bṛhadāraṇyaka Upaniṣad, V.2"
+ ],
+ "part5.txt:seers:426": [
+  "King James Bible, Isaiah 38:1",
+  "King James Bible, 2 Kings 20:1",
+  "Southam, Guide, note on line 425"
+ ],
+ "part5.txt:change:429": [
+  "Pervigilium Veneris, the last stanza",
+  "Tennyson, The Princess, IV (\"O Swallow, Swallow\")",
+  "Brooks (1939)"
+ ],
+ "part5.txt:method:431": [
+  "Eliot, \"Ulysses, Order, and Myth\" (1923)",
+  "Facsimile (1971), the drafts of Part V",
+  "Matthiessen (1935), ch. II"
+ ],
+ "part5.txt:war:369": [
+  "Hesse, Blick ins Chaos, the essay Die Brüder Karamasoff oder Der Untergang Europas",
+  "Southam, Guide, note on lines 368–369",
+  "Brooks (1939)"
+ ],
+ "part5.txt:war:427": [
+  "Southam, Guide, note on line 426",
+  "Kenner (1959)"
+ ],
+ "part5.txt:wagner:424": [
+  "Weston, From Ritual to Romance, ch. IX",
+  "Weston, From Ritual to Romance, ch. XIII",
+  "Wagner, Parsifal, Act I",
+  "Wagner, Parsifal, Act III",
+  "Verlaine, \"Parsifal\""
+ ]
+}

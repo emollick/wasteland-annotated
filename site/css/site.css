@@ -492,7 +492,9 @@ body.heart .line .txt .w.show, body.heart .line .txt .w:hover { color: inherit; 
 /* paths page */
 .path-list { display: grid; grid-template-columns: 1fr; gap: 1rem; margin-top: 1.6rem; }
 @media (min-width: 720px) { .path-list { grid-template-columns: 1fr 1fr; } }
-.path-card { display: block; text-decoration: none; padding: 1rem 1.1rem 1rem; border-top: 3px solid var(--gold); background: var(--card); box-shadow: var(--shadow); transition: transform .25s, box-shadow .25s; }
+.path-card { display: block; padding: 1rem 1.1rem 1rem; border-top: 3px solid var(--gold); background: var(--card); box-shadow: var(--shadow); transition: transform .25s, box-shadow .25s; }
+.path-link { display: block; color: inherit; text-decoration: none; }
+.path-card .cites { font-size: .7rem; color: var(--ink-3); margin: .2rem 0 0; line-height: 1.45; }
 .path-card:hover { transform: translateY(-2px); }
 .path-card h2 { font-family: var(--display); font-weight: 400; font-size: 1.6rem; margin: 0 0 .3rem; }
 .path-card p { font-size: .88rem; color: var(--ink-2); margin: 0 0 .5rem; line-height: 1.45; }

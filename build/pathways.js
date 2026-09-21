@@ -1,12 +1,13 @@
 #!/usr/bin/env node
 // Take in the thematic pathways written by the "Pathways on the poem's themes" thread.
-// Usage: node build/pathways.js [dir] [--dry]
+// Usage: node build/pathways.js [dir] [--dry] [--order=id,id,...]
 //   dir   the delivered directory (default /mnt/project-files/commentary/pathways), holding
 //         heads.txt              one head record per pathway (id, title, intro, why), in the order of the chooser
 //         part1.txt … part5.txt  the stops of that part (path, line, text, optional sources), in walking order
 //         ways-replacements.txt  way-in items to put in place of those that pointed at a retired pathway
 //                                (each with part:, and either replaces: <old path id> or a path: that is new)
-//   --dry print what would change and write nothing
+//   --dry   print what would change and write nothing
+//   --order the final set of pathways in the order of the chooser: delivered ids and ids kept from data/paths.txt (default: heads.txt alone)
 // A pathway in heads.txt keeps its old stops when the delivery has none for it; a pathway not in heads.txt is retired.
 // Then data/paths.txt and data/ways.txt are rewritten, and the texts that count the pathways (pages.txt) are
 // changed in data/ and in the shared copy, so that the two stay identical for the site import.
@@ -32,14 +33,23 @@ const problems = [], notes = [];
 
 // ---- what was delivered
 if (!exists(path.join(DIR, 'heads.txt'))) { console.error(`no heads.txt in ${DIR}`); process.exit(1); }
-const heads = records(read(path.join(DIR, 'heads.txt')));
+const delivered = records(read(path.join(DIR, 'heads.txt')));
+const orderArg = args.find(a => a.startsWith('--order='));
+const order = orderArg ? orderArg.slice(8).split(',').map(s => s.trim()).filter(Boolean) : delivered.map(h => keyOf(h, 'id'));
+for (const h of delivered) for (const k of ['id', 'title', 'intro', 'why']) if (!keyOf(h, k)) problems.push(`heads.txt: record without ${k} (${h.split('\n')[0]})`);
+const deliveredIds = delivered.map(h => keyOf(h, 'id'));
+const dup = deliveredIds.filter((id, i) => deliveredIds.indexOf(id) !== i); if (dup.length) problems.push(`heads.txt: repeated id ${dup.join(', ')}`);
+for (const id of deliveredIds) if (!order.includes(id)) problems.push(`heads.txt delivers "${id}", which --order leaves out`);
+// the pathways as they stand
+const oldSecs = sections(read(path.join(DATA, 'paths.txt')));
+const oldById = Object.fromEntries(oldSecs.map(s => [keyOf(s[0], 'id'), s]));
+const heads = order.map(id => delivered.find(h => keyOf(h, 'id') === id) || (oldById[id] ? oldById[id][0] : null)).filter(Boolean);
+for (const id of order) if (!delivered.some(h => keyOf(h, 'id') === id) && !oldById[id]) problems.push(`--order names "${id}", which is neither delivered nor on file`);
 const headIds = heads.map(h => keyOf(h, 'id'));
-for (const h of heads) for (const k of ['id', 'title', 'intro', 'why']) if (!keyOf(h, k)) problems.push(`heads.txt: record without ${k} (${h.split('\n')[0]})`);
-const dup = headIds.filter((id, i) => headIds.indexOf(id) !== i); if (dup.length) problems.push(`heads.txt: repeated id ${dup.join(', ')}`);
 const stopsByPath = {};
 for (const p of [1, 2, 3, 4, 5]) {
   const f = path.join(DIR, `part${p}.txt`); if (!exists(f)) { notes.push(`no part${p}.txt`); continue; }
-  for (const st of records(read(f))) {
+  for (const st of sections(read(f)).flat()) { // === between pathways, --- between stops, as in partN/paths.txt
     const id = keyOf(st, 'path'), line = keyOf(st, 'line'), text = valueOf(st, 'text');
     if (!id || !headIds.includes(id)) problems.push(`part${p}.txt: a stop for "${id}", which heads.txt does not list (line ${line})`);
     if (!/^\d+$/.test(line || '') || +line > 434) problems.push(`part${p}.txt: stop of ${id} with line "${line}"`);
@@ -49,9 +59,7 @@ for (const p of [1, 2, 3, 4, 5]) {
   }
 }
 
-// ---- the pathways as they stand
-const oldSecs = sections(read(path.join(DATA, 'paths.txt')));
-const oldById = Object.fromEntries(oldSecs.map(s => [keyOf(s[0], 'id'), s]));
+// ---- what stays and what goes
 const retired = Object.keys(oldById).filter(id => !headIds.includes(id));
 const newSecs = heads.map(h => {
   const id = keyOf(h, 'id');
@@ -65,13 +73,15 @@ const newSecs = heads.map(h => {
 const waySecs = sections(read(path.join(DATA, 'ways.txt')));
 const replFile = path.join(DIR, 'ways-replacements.txt');
 if (exists(replFile)) {
-  for (const r of records(read(replFile))) {
-    const part = +keyOf(r, 'part'), target = keyOf(r, 'replaces'), to = keyOf(r, 'path');
+  for (const recs of sections(read(replFile))) { // a section is [part + replaces][the new item], or one record holding both
+    const meta = recs[0], r = recs[1] || recs[0];
+    const part = +keyOf(meta, 'part'), target = keyOf(meta, 'replaces') || '', to = keyOf(r, 'path');
     const sec = waySecs.find(s => +keyOf(s[0], 'part') === part);
-    if (!sec) { problems.push(`ways-replacements.txt: no part ${part}`); continue; }
-    if (to && !headIds.includes(to)) problems.push(`ways-replacements.txt: an item pointing at "${to}", which heads.txt does not list`);
-    const i = sec.findIndex((it, k) => k > 0 && (target ? keyOf(it, 'path') === target : retired.includes(keyOf(it, 'path'))));
-    if (i < 0) { problems.push(`ways-replacements.txt: nothing in part ${part} to replace${target ? ` (no item points at ${target})` : ''}`); continue; }
+    if (!sec) { problems.push(`ways-replacements.txt: no part ${part || '(none given)'}`); continue; }
+    if (to && !headIds.includes(to)) problems.push(`ways-replacements.txt: an item pointing at "${to}", which the final set does not hold`);
+    const pm = /path:\s*([a-z0-9-]+)/.exec(target); const targetId = pm ? pm[1] : target; const targetTitle = target.replace(/\s*\(.*$/, '').trim(); // "replaces:" may give the old item's path id, its title, or "Title (kind: path, path: id)"
+    const i = sec.findIndex((it, k) => k > 0 && (target ? (keyOf(it, 'path') === targetId || keyOf(it, 'title') === targetTitle) : retired.includes(keyOf(it, 'path'))));
+    if (i < 0) { problems.push(`ways-replacements.txt: nothing in part ${part} to replace${target ? ` (no item is "${target}")` : ''}`); continue; }
     notes.push(`part ${part}: way in "${keyOf(sec[i], 'title')}" (${keyOf(sec[i], 'path')}) replaced by "${keyOf(r, 'title')}" (${to})`);
     sec[i] = stripKey(stripKey(r, 'part'), 'replaces');
   }

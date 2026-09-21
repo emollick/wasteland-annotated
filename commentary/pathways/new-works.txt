@@ -1,0 +1,86 @@
+# Works cited on the thematic pathways' stops that are not in the citations thread's works list, in its record format. Written by the pathways thread, 20 September 2026. VERIFY marks a detail not confirmed.
+
+id: deussen
+short: Deussen, Sechzig Upanishad's
+full: Paul Deussen, <i>Sechzig Upanishad's des Veda, aus dem Sanskrit übersetzt und mit Einleitungen und Anmerkungen versehen</i>, 3rd ed. (Leipzig: F. A. Brockhaus, 1921; first ed. 1897); the Bṛhadāraṇyaka-Upanishad 5, 2 on pp. 489–490, the page Eliot's note on the thunder cites.
+url: https://archive.org/details/sechzigupanishad00deusuoft
+note: Eliot's note cites "Deussen's Sechzig Upanishads des Veda, p. 489"; the 1921 printing was checked, not the 1897 first edition.
+---
+id: eliot-dante-1929
+short: Eliot, Dante (1929)
+full: T. S. Eliot, <i>Dante</i>, The Poets on the Poets, no. 2 (London: Faber and Faber, 1929); collected in <i>Selected Essays 1917–1932</i> (London: Faber, 1932).
+url: https://archive.org/details/dante0000tsel
+note: The scan is the second impression of May 1930. Quoted where the stop says, since it is before 1930.
+---
+id: homer-odyssey
+short: Homer, Odyssey
+full: Homer, <i>The Odyssey</i>, rendered into English prose by Samuel Butler (London: A. C. Fifield, 1900); cited by book and the Greek line numbers.
+url: https://www.gutenberg.org/ebooks/1727
+---
+id: sophocles-oedipus
+short: Sophocles, Oedipus Tyrannus
+full: Sophocles, <i>Oedipus the King</i>, in <i>Sophocles, with an English Translation by F. Storr</i>, vol. I, Loeb Classical Library (London: William Heinemann; New York: The Macmillan Co., 1912).
+url: https://www.gutenberg.org/ebooks/31
+note: The Gutenberg text gives Storr's translation without the imprint; the place, publishers and date are from the title page of the 1912 Loeb volume in the University of Toronto copy on archive.org (sophocleswitheng01soph).
+---
+id: charity-1974
+short: Charity (1974)
+full: A. C. Charity, "T. S. Eliot: The Dantean Recognitions," in <i>The Waste Land in Different Voices</i>, ed. A. D. Moody (London: Edward Arnold, 1974), 117–62.
+url: https://archive.org/details/wastelandindiffe0000unse
+note: A lending-library scan. Its contents page gives the essay at 117 and the next essay at 163; the Stetson and Brunetto comparison is in this essay, the volume's one discussion of Inferno XV, but the search-inside snippets carry no page numbers, so the passage's page was not seen.
+---
+id: stephenson-1946
+short: Stephenson (1946)
+full: Ethel M. Stephenson, <i>T. S. Eliot and the Lay Reader</i>, 2nd ed., extended (London: Fortune Press, 1946; first ed. 1944); the copy consulted is the Haskell House reprint (New York, 1966).
+url: https://archive.org/details/tseliotlayreader0000ethe
+note: Eliot's letter to her about Stetson and Brunetto is quoted at pp. 92–93 of the 94-page second edition, which the 1966 reprint reproduces; the first edition of 1944 ran to 56 pages, so the second edition is the first to print the letter. The letter's date is not given in the passage seen.
+---
+id: parsifal
+short: Wagner, Parsifal
+full: Richard Wagner, <i>Parsifal</i> (1882), libretto, cited by act.
+url: https://www.librettoarchive.com/Parsifal_libretto_German
+---
+id: britannica-1911-wagner
+short: Encyclopaedia Britannica (1911), "Wagner, Wilhelm Richard"
+full: <i>Encyclopædia Britannica</i>, 11th ed., vol. 28, <i>Vetch to Zymotic Diseases</i> (Cambridge: Cambridge University Press, 1911), "Wagner, Wilhelm Richard," by W. S. Rockstro and D. F. Tovey, beginning on p. 236.
+url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Wagner,_Wilhelm_Richard
+note: The Wikisource transcription is proofread from the volume's scan; its page for the article's opening shows the printed page 236. The biographical part is signed W. S. R. and D. F. T.
+---
+id: eliot-ulysses-1923
+short: Eliot, "Ulysses, Order, and Myth" (1923)
+full: T. S. Eliot, "Ulysses, Order, and Myth," <i>The Dial</i> 75, no. 5 (November 1923), 480–483.
+url: https://en.wikisource.org/wiki/The_Dial_(Third_Series)/Volume_75/Ulysses,_Order,_and_Myth
+note: Pages 481–483 are seen in the running heads of the Wikisource transcription and of the archive.org scan of the number (sim_dial_1923-11_75); the review opens on the page before, whose number the scan does not show legibly.
+---
+id: katha
+short: Kaṭha Upaniṣad
+full: <i>Kaṭha Upaniṣad</i>, in <i>The Upanishads</i>, part II, trans. F. Max Müller, Sacred Books of the East 15 (Oxford: Clarendon Press, 1884); its closing formula, "Om! Peace! peace! peace!"
+url: https://archive.org/details/p2upanishads00mluoft
+---
+id: eliot-london-letter-1921-06
+short: Eliot, "London Letter," Dial, June 1921
+full: T. S. Eliot, "London Letter," <i>The Dial</i> 70, no. 6 (June 1921), 686–691, dated May 1921; the section "The True Church and the Nineteen Churches" on pp. 690–691.
+url: https://archive.org/details/sim_dial_1921-06_70
+note: Reprinted in Rainey, Annotated Waste Land, as "London Letter, May 1921". The pages were seen in the scan's running heads.
+---
+id: gardner-1972
+short: Gardner (1972)
+full: Helen Gardner, <i>The Waste Land 1972: The Adamson Lecture, 3rd May 1972, University of Manchester</i> (Manchester: Manchester University Press, 1972).
+url: https://archive.org/details/wasteland1972ada0000gard
+note: A lending-library scan; the foot-washing passage (Mrs Porter, Parsifal, Verlaine) was confirmed by a search inside it.
+---
+id: dickey-2020
+short: Dickey (2020)
+full: Frances Dickey, "May the Record Speak: The Correspondence of T. S. Eliot and Emily Hale," <i>Twentieth-Century Literature</i> 66, no. 4 (December 2020), 431–62.
+url: https://english.missouri.edu/sites/default/files/people-files/may-the-record-speak.the-correspondence-of-t-s-eliot-and-emily-hale.pdf
+note: The author's open copy of the journal's text (DOI 10.1215/0041462X-8770684); Eliot's letters to Hale of 3 November 1930 and 24 July 1931 are paraphrased on pp. 434–36, and his identification of Hale as the hyacinth girl is on p. 443. The letters themselves are described, never quoted: texts after 1929.
+---
+id: gardner-1949
+short: Gardner (1949)
+full: Helen Gardner, <i>The Art of T. S. Eliot</i> (London: Cresset Press, 1949).
+note: Cited on one stop (the Bible and the Prayer Book pathway, line 25), where the checking scholar confirmed in the scan that Gardner sets Isaiah 32:2 beside the rock; the works list of 22:04 UTC on 20 Sept no longer carries the record the earlier list had, so it is repeated here in that list's form.
+---
+id: eliot-middleton-1927
+short: Eliot, "Thomas Middleton" (1927)
+full: T. S. Eliot, "Thomas Middleton," <i>Times Literary Supplement</i>, no. 1326, 30 June 1927, 445–46 (unsigned); collected in <i>Selected Essays</i> (1932).
+note: Cited on one stop (the Prophecy and sight pathway, line 138); an essay of 1927, so before the 1929 line. The works list of 22:04 UTC on 20 Sept no longer carries the record the earlier list had, so it is repeated here in that list's form.

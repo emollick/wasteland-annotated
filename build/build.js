@@ -166,7 +166,7 @@ function citeHTML(src) {
 const waysRaw = read(path.join(DATA, 'ways.txt')).split(/^===\s*$/m).map(sec => parseRecords(sec));
 const ways = waysRaw.map(recs => ({ part: +recs[0].part, title: typo(recs[0].title), items: recs.slice(1).map(it => typoFields(it, ['title', 'body'])) }));
 const pathsRaw = read(path.join(DATA, 'paths.txt')).split(/^===\s*$/m).map(sec => parseRecords(sec));
-const paths = pathsRaw.map(recs => ({ id: recs[0].id, title: typo(recs[0].title), intro: typo(recs[0].intro), why: typo(recs[0].why || ''), stops: recs.slice(1).map(s => ({ line: +s.line, text: typo(s.text), sources: s.sources || '' })) }));
+const paths = pathsRaw.map(recs => ({ id: recs[0].id, title: typo(recs[0].title), intro: typo(recs[0].intro), why: typo(recs[0].why || ''), sources: recs[0].sources || '', stops: recs.slice(1).map(s => ({ line: +s.line, text: typo(s.text), sources: s.sources || '' })) }));
 const drafts = parseRecords(read(path.join(DATA, 'drafts.txt')));
 for (const d of drafts) { typoFields(d, ['title', 'body']); d.line = +d.line; d.part = +d.part; d.body = paragraphs(d.body); }
 
@@ -289,7 +289,7 @@ const U = Object.fromEntries(parseRecords(read(path.join(DATA, 'ui.txt'))).map(r
 
 // the citations each record carries, rendered once here for the pages and for the poem page's cards
 for (const g of glosses) g.cites = citeHTML(g.sources);
-for (const p of paths) for (const s of p.stops) s.cites = citeHTML(s.sources);
+for (const p of paths) { p.cites = citeHTML(p.sources); for (const s of p.stops) s.cites = citeHTML(s.sources); }
 for (const d of drafts) d.cites = citeHTML(d.sources);
 for (const s of sources) s.cites = citeHTML(s.sources);
 for (const w of ways) for (const it of w.items) it.cites = citeHTML(it.sources);
@@ -656,7 +656,7 @@ function renderListenPage() {
 // ---------- paths page ----------
 function renderPathsPage() {
   let body = `<main class="prose paths"><h1 class="pagetitle">${page('paths-title')}</h1><p class="lede">${page('paths-lede')}</p><div class="path-list">`;
-  for (const p of paths) body += `<a class="path-card" href="index.html#path=${p.id}"><h2>${p.title}</h2><p class="why">${p.why}</p><p>${p.intro}</p><p class="stops">${p.stops.length} stops</p></a>`;
+  for (const p of paths) body += `<article class="path-card"><a class="path-link" href="index.html#path=${p.id}"><h2>${p.title}</h2><p class="why">${p.why}</p><p>${p.intro}</p><p class="stops">${p.stops.length} stops</p></a>${p.cites}</article>`;
   body += `</div></main>`;
   fs.writeFileSync(path.join(SITE, 'paths.html'), head(page('title-paths')) + `<body class="paths-page">${runningHead('paths.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
 }

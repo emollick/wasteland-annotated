@@ -1,0 +1,73 @@
+path: love
+line: 77
+text: The card at this line gives the room's furniture: the chair from Cleopatra's barge, in the speech of Antony's officer Enobarbus, and the "laquearia" from the ceiling of Dido's palace in the <i>Aeneid</i> (Eliot's notes on lines 77 and 92). Both queens' loves ended in death. Cleopatra killed herself after Antony's defeat, and Dido, queen of Carthage, on a pyre when Aeneas sailed. The woman in the chair sits among the furniture of those two loves, with a man who does not answer her (lines 111–138).
+sources: Shakespeare, Antony and Cleopatra II.ii
+Shakespeare, Antony and Cleopatra V.ii
+Virgil, Aeneid I 726
+Virgil, Aeneid IV 642–665
+Southam, Guide, notes on lines 77 and 92
+---
+path: love
+line: 99
+text: The picture over the mantel shows a rape; the card at this line gives Ovid's story of Tereus and Philomela and her change into the nightingale. It is the first act of sex the poem names, and it is on the wall as a picture, in the room where at line 111 a woman asks a man to speak to her and is not answered. Philomela's cry comes back at lines 203–206 with "Tereu", the rapist's name, and Eliot's note on line 429 sends the swallow there back to her.
+sources: Ovid, Metamorphoses VI 424–674
+---
+path: love
+line: 111
+text: One speaks and the other does not answer; the card at this line gives the reading. What he remembers is "Those are pearls that were his eyes", and Eliot's note on line 125 (numbered 126) sends it back to the hyacinth garden and the drowned sailor: the poem's first failed love is in his head. Vivien Eliot, the poet's wife, read the scene in typescript; the cards here and at 137 give what she wrote beside it and the line taken out at her wish.
+sources: Facsimile (1971), the typescript of Part II
+Ricks and McCue, textual history, [II] 120–39 and [II] 137a
+Southam, Guide, note on line 137
+---
+path: love
+line: 139
+text: Here a marriage is told in a pub. Albert, four years in the army, "wants a good time"; Lil has had five children and took pills "to bring it off". In Weston's legend the land is waste because generation has failed; here a wife has paid a chemist to stop it, and this pathway reads the friend's question, "What you get married for if you dont want children?", as that failure in the poem's own words. The goodnights at 172 are Ophelia's, whom Hamlet courted and cast off.
+sources: Weston, From Ritual to Romance, ch. II
+Southam, Guide, note on lines 142–72
+Shakespeare, Hamlet III.i
+Shakespeare, Hamlet IV.v
+===
+path: seers
+line: 138
+text: Eliot's note names the chess game in Middleton's <i>Women Beware Women</i>; the card gives the scene, in which Livia keeps a widow at the board while the Duke seduces her daughter-in-law Bianca. Eliot quoted the exchange in 1927, ending at "I've given thee blind mate twice", and wrote that "The irony could not be improved upon". In the play the widow answers that her "eyes begin to fail". The watcher at the board sees nothing of what matters; the eyes at this line are "lidless", sleepless as the card says.
+sources: Middleton, Women Beware Women II.ii
+Eliot, "Thomas Middleton" (1927)
+Southam, Guide, note on line 137
+===
+path: change
+line: 99
+text: In Ovid the change comes in the middle of a pursuit. Tereus, the "barbarous king", chases Philomel and her sister Procne, his wife, sword drawn, after they have killed his son; they are birds before he reaches them, with the marks of the killing on their breasts (the card gives the story). The poem hangs the finished change on a wall as a picture and keeps the pursuit in the present tense, "still the world pursues". Cleanth Brooks (1939) called Philomela one of the poem's major symbols.
+sources: Ovid, Metamorphoses VI 666–674
+Brooks (1939)
+---
+path: change
+line: 125
+text: The pearls come back as the one thing the man remembers when asked whether he knows, sees or remembers "Nothing". Eliot's note on line 125 (numbered 126) points to line 37, the hyacinth garden, and to line 48, the pearls on the Sailor's card. In the typescript the line began "The hyacinth garden" and ended with the word yes; both were cut. What is left in his head is the drowned king's change from Ariel's song, and "Are you alive, or not?" is answered with a line of ragtime.
+sources: Shakespeare, The Tempest I.ii
+Facsimile (1971), the typescript of Part II
+===
+path: method
+line: 77
+text: The card gives the speech of Antony's officer Enobarbus on Cleopatra's barge. Eliot keeps its shape and changes the things in it: the barge that "Burn'd on the water" is a chair that "Glowed on the marble", and the perfumed sails are her "strange synthetic perfumes". A queen's arrival by water becomes a woman in a room whose grandeur is borrowed too, from Dido's palace in Virgil's <i>Aeneid</i> and Eden in Milton's <i>Paradise Lost</i>. What she says at 111 is read on the pathway on the loves that fail.
+sources: Shakespeare, Antony and Cleopatra II.ii
+Virgil, Aeneid I 726
+Milton, Paradise Lost IV 140
+Southam, Guide, note on line 77
+---
+path: method
+line: 128
+text: The card gives the song, a ragtime number of 1912 whose chorus calls it "most intelligent, very elegant". The parallel here was not made by Eliot: the song had already set Shakespeare to ragtime, and what runs through the man's head instead of an answer to "Are you alive, or not?" is that song. The card notes the added syllable and the reversed chorus.
+sources: Guerrieri (2017)
+===
+path: war
+line: 115
+text: The card gives Rats' Alley as a trench name; Southam's note on the line adds the suggestion that "rats' alley" was soldiers' slang for the trenches, alley being the word for a trench. The line is his unspoken answer to "What are you thinking of?" (the cards at 111 and 115), so the trenches enter the poem as a thought not said aloud. Cleanth Brooks (1939) set the sterile death of rats' alley against the pearls of 125, the drowned man's eyes of Ariel's song (the card at 48).
+sources: Southam, Guide, note on line 115
+Brooks (1939)
+---
+path: war
+line: 139
+text: The scene is the homecoming from the war as the poem has it. Albert has "been in the army four years", and the card gives "demobbed", demobilised, as the slang of 1919 and 1920 for it. HURRY UP PLEASE ITS TIME is the landlord's closing time, under hours cut in the war (the card at 141) and then fixed by the Licensing Act of August 1921, eight hours a day, ending not later than ten at night, or nine hours and eleven o'clock in London.
+sources: Southam, Guide, note on line 139
+Rainey, Annotated Waste Land, note on line 139
+Licensing Act 1921, s. 1
