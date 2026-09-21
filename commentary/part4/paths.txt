@@ -2,17 +2,28 @@ path: first
 line: 312
 text: The poem's shortest section gives ten lines to a drowned sailor. Madame Sosostris warned of this in Part I: "Fear death by water" (55).
 ---
-path: water
+path: grail
 line: 312
-text: Phlebas is the drowned Phoenician Sailor of the tarot reading (47); here the current under sea picks his bones.
+text: "Death by Water is executed in Part IV", Eliot's note on line 46 says. In Frazer the women of Alexandria carried the image of the dead Adonis "to the sea-shore and committed it to the waves", and "sang that the lost one would come back again". The poem keeps the drowning and drops the return; a current picks Phlebas's bones, and the section ends in a warning, not in a rising. Brooks (1939) nevertheless suggested that the section "gives an instance of the conquest of death and time".
+sources: Frazer, The Golden Bough (1922), ch. XXXII
+Brooks (1939)
 ---
-path: dead
+path: dante
 line: 312
-text: By the time his section opens Phlebas has been dead a fortnight. The drowning itself is never shown.
+text: The card gives the draft, some ninety lines of voyage and wreck, and Eliot's remark of 1959 that it was "rather inspired" by the Ulysses canto of the <i>Inferno</i>. There Ulysses, one of Dante's dead, tells from his flame how his ship, in sight of the mountain of Purgatory, was spun three times by a whirlwind and went down as the sea closed over it (XXVI 133–142). Pound cut the voyage and, in January 1922, insisted that Phlebas stay. Ulysses tells his own death; Phlebas has his told for him.
+sources: Dante, Inferno XXVI 133–142
+Paris Review interview (1959)
+Facsimile (1971), the typescript of Part IV
+Pound, Letters, ed. Paige, nos. 182–183
+Southam, Guide, note on Part IV
 ---
-path: birds
-line: 313
-text: Phlebas, a fortnight drowned, has forgotten "the cry of gulls".
+path: change
+line: 315
+text: In Ariel's song the drowned man's bones are coral and his eyes pearls. Phlebas's bones are picked "in whispers" by a current; he passes "the stages of his age and youth" and enters the whirlpool. The French, on the card, has no bones and no whirlpool; they are the English's additions. Brooks (1939) said the drowned Phoenician Sailor "recalls the drowned god of the fertility cults", whose death may be "the way into life"; the lines have a current, bones and a whirlpool, and nothing he becomes.
+sources: Shakespeare, The Tempest I.ii
+Poems (1920), "Dans le Restaurant"
+Rainey, Annotated Waste Land, note on line 312
+Brooks (1939)
 ---
 path: eliot
 line: 312

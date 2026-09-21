@@ -6,53 +6,222 @@ path: first
 line: 427
 text: The last eight lines are mostly quotations, in five languages. The Fragments view gives each its source.
 ---
-path: water
+path: grail
 line: 331
-text: "Here is no water but only rock." Rock and no water to line 359, and no rain until the gust of line 395.
+text: Eliot's headnote to his notes on Part V names three themes, the second "the approach to the Chapel Perilous (see Miss Weston's book)". In Weston the chapel is a test the knight meets on his way to the Grail castle, and he rides to it through a storm; lines 331 to 359 are that road without a knight or a storm, through mountains "of rock without water" where the "dry sterile thunder without rain" is the thunder that will speak at line 400.
+sources: Weston, From Ritual to Romance, ch. XIII
 ---
-path: water
+path: grail
 line: 353
-text: "If there were the sound of water only." Lines 353 to 359 imagine the sound of water and end on the hermit-thrush, whose song Eliot's note calls "water-dripping."
+text: The freeing of the waters is imagined here as sound only, and cancelled at line 359. The sound is the hermit-thrush's, the bird Eliot's note on line 357 names, whose "water-dripping song" the note calls justly celebrated. Eliot told the novelist Ford Madox Ford in 1923 that the poem had "about 30 good lines" and that they were "the 29 lines of the water-dripping song in the last part". The bird is in <a href="listen.html#rec-xc899696-hermit-thrush-quebec">the listening room</a>.
+sources: Weston, From Ritual to Romance, ch. III
+Facsimile (1971), the editor's notes on Part V
 ---
-path: water
-line: 395
-text: "Bringing rain." The first rain since line 9. The poem does not show it fall.
+path: grail
+line: 386
+text: Weston's Perilous Chapel (the card at line 389 gives it) is an adventure "fraught with extreme peril to life". The poem's chapel has no body, no hand and no voice, "only the wind's home", and "Dry bones can harm no one". Brooks (1939) and Southam's note both take it for Weston's chapel. After the cock and the lightning comes "a damp gust / Bringing rain", the first rain offered to the dry land of line 24, though the poem does not say that it falls.
+sources: Weston, From Ritual to Romance, ch. XIII
+Brooks (1939)
+Southam, Guide, note on line 388
 ---
-path: water
-line: 396
-text: "Ganga was sunken." The Ganges low, and black clouds gathering over Himavant, the Himalaya. The thunder that speaks next is from the Upanishad named in Eliot's note.
----
-path: water
-line: 419
-text: "The boat responded." A calm sea, and a boat under control.
----
-path: water
+path: grail
 line: 424
-text: "I sat upon the shore / Fishing, with the arid plain behind me." The Fisher King, by water, with the waste land behind him.
+text: Eliot's note on line 425 sends the reader to Weston's chapter on the Fisher King, and the card at this line gives her argument. In Weston the quest is achieved when a knight comes to the castle and asks the question, and the king is healed or, in the oldest version, "the waters flowed again thro' their channel". Here no knight has come. The king is still fishing, the plain behind him is still arid, and the one question asked is his own, about his lands and not his healing.
+sources: Weston, From Ritual to Romance, ch. IX
+Weston, From Ritual to Romance, ch. II
 ---
-path: dead
-line: 328
-text: "He who was living is now dead / We who were living are now dying."
+path: passion
+line: 322
+text: The card gives the Passion, the arrest, trial and death of Christ, event by event, and Eliot's headnote to Part V, which names three themes for the section's first part and does not name this. Cleanth Brooks (1939) read the lines as the Passion, and wrote that the reference to the torchlight and to the frosty silence "obviously associates Christ in Gethsemane with the other hanged gods", the gods of Frazer's <i>Golden Bough</i>. After the death the gospels tell the resurrection. The poem does not; its "we" are "now dying".
+sources: King James Bible, John 18:3
+King James Bible, Luke 22:39–46
+Brooks (1939)
+Rainey, Annotated Waste Land, note on line 324
+Southam, Guide, note on lines 322–328
 ---
-path: dead
-line: 388
-text: "the tumbled graves, about the chapel." The Chapel Perilous, and "Dry bones can harm no one."
+path: passion
+line: 360
+text: The card gives Luke's story and Shackleton's, and Eliot's note on line 46 associating the Hanged Man with the hooded figure. In Luke the two disciples know the stranger when he breaks bread, and he vanishes. The poem keeps the unknown companion, "wrapt in a brown mantle, hooded", the only form in which the risen Christ enters it, and leaves out the recognition; the speaker cannot tell a man from a woman, and the question the line asks is never answered.
+sources: King James Bible, Luke 24:13–31
+Southam, Guide, note on the headnote to Part V
 ---
-path: dead
-line: 407
-text: "our obituaries." What the dead leave: memories, wills, empty rooms.
+path: passion
+line: 367
+text: The card at line 368 gives Hermann Hesse's essay on the downfall of Europe, which Eliot's note on these lines quotes, and the other reading, of the women who followed Christ to the cross; Hugh Kenner (1959) is one who made it. Those women were told "Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children" (Luke 23:28), and Jerusalem heads the five cities named at lines 375–376. The lamentation here is a sound "high in the air", with no mourner in sight.
+sources: King James Bible, Luke 23:27–28
+Kenner (1959), part III (The Death of Europe)
 ---
-path: dead
+path: passion
+line: 391
+text: In Ezekiel 37 the prophet of line 20 is set down in a valley of bones and asked "Son of man, can these bones live?"; he prophesies to them, and they stand up "an exceeding great army". Here no one prophesies, and the bones can neither live nor harm. The card at this line gives the cock that crowed at Peter's denial and the cock of <i>Hamlet</i>; Cleanth Brooks (1939) read the poem's cock as the bird of folk-lore "whose voice chases away the powers of evil".
+sources: King James Bible, Ezekiel 37:1–14
+Brooks (1939)
+Shakespeare, Hamlet I.i
+---
+path: passion
+line: 426
+text: The card at line 424 gives Isaiah's message to King Hezekiah, "sick unto death", and the fifteen years the king was given when he turned his face to the wall and wept; Hugh Kenner (1959) and B. C. Southam's <i>Guide</i> record the verse. The poem's king takes the sentence without the reprieve. Isaiah's command has become a question, and the setting in order is hedged with "at least".
+sources: King James Bible, Isaiah 38:1–5
+King James Bible, 2 Kings 20:1
+Kenner (1959), part III (The Death of Europe)
+Southam, Guide, note on line 425
+---
+path: passion
+line: 434
+text: The card gives the note and Philippians 4:7. The note's English is the blessing that ends the Prayer Book's Communion service, "The peace of God, which passeth all understanding, keep your hearts and minds"; the poem that began under the burial service ends with a Sanskrit word glossed by its author with the Communion blessing. In 1922 the note called this "a feeble translation"; the wording stood in <i>Poems 1909–1925</i>, and when that book was reset in 1932 it became "is our equivalent to this word".
+sources: King James Bible, Philippians 4:7
+Book of Common Prayer, the Order of Holy Communion
+Poems 1909–1925, the note on Shantih
+Ricks and McCue, commentary on line 433
+Southam, Guide, note on line 433
+---
+path: east
+line: 327
+text: Part V is called What the Thunder Said, and this is its first thunder, "of spring over distant mountains", in the lines the card at line 322 takes for the Passion, Christ's arrest and death told without his name. The card notes that no Gospel has thunder there; this thunder is the poem's own. It is heard again at line 342, "dry sterile thunder without rain", and speaks only at line 400, and then in Sanskrit.
+---
+path: east
+line: 396
+text: The poem goes to India for its rain; the card at this line gives the names. The rain the poem has wanted gathers over the country of the Upanishads, whose thunder speaks at line 400. Jessie L. Weston's <i>From Ritual to Romance</i> is the book on the Grail legend that Eliot's headnote credits with the poem's plan. The first evidence she gives for the "Freeing of the Waters", the Grail hero's task, is Indra, the thunder god of the <i>Rig-Veda</i>, the oldest Indian scripture, who "has inundated the dry land".
+sources: Weston, From Ritual to Romance, ch. III
+Southam, Guide, note on line 395
+Southam, Guide, note on line 397
+---
+path: east
+line: 400
+text: The card at line 401 tells the fable from <i>Bṛhadāraṇyaka Upaniṣad</i> V.2 and records Eliot's numbering, 5, 1. His note cites page 489 of Paul Deussen's German translation; in the 1921 printing the fable, numbered 5, 2, begins on that page, under the running head 5, 1. The Upanishad has the gods' Damyata first and the demons' Dayadhvam last; the poem begins with the men's Datta and ends with the gods' word, a change of order B. C. Southam records in his <i>Guide</i>.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Southam, Guide, note on lines 399–401
+---
+path: east
+line: 402
+text: "Give" is the men's word; in Deussen, whom Eliot cites, they are told to give alms. The poem answers the command with a question, "what have we given?", and what it names is not alms but "a moment's surrender", a gift no obituary or will records; the card gives the spider from Webster's <i>The White Devil</i>. The pathway on the loves that fail reads the surrender as one made in love. What matters here is that the first command is answered outright, in the first person, "we have existed".
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Southam, Guide, note on lines 399–401
+---
+path: east
 line: 412
-text: Ugolino, hearing the door of the tower locked, or nailed, below him.
+text: "Sympathise" is the demons' word, "Be merciful" in Max Müller's English translation and have compassion in Deussen; Southam records that "sympathise" is Eliot's rendering. The poem answers the command to feel for others with a locked door, "each in his prison", and with the sentence of the philosopher F. H. Bradley that Eliot's note quotes, in which a self's experience "falls within my own circle, a circle closed on the outside". The card gives Ugolino, shut in a tower to starve in Dante's <i>Inferno</i>; for him, see the pathway on Dante and the dead.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Bradley, Appearance and Reality, ch. XXIII
+Southam, Guide, note on line 411
 ---
-path: women
-line: 368
-text: "Murmur of maternal lamentation." Commentators connect it with the women who lamented on the way to the cross (Luke 23:27) and with the headnote's "present decay of eastern Europe."
+path: east
+line: 419
+text: "Control" is the gods' word, first in the Upanishad and last in the poem; it is "Be subdued" in Müller, restrain yourselves in Deussen, and Southam records that "control" is Eliot's rendering. A boat obeys it, a boat the card at this line connects with Eliot's sailing off Gloucester; when the sentence turns to a heart it turns to the conditional, "your heart would have responded", a thing that did not happen. The pathway on the loves that fail takes up the heart.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Deussen, Sechzig Upanishad's, Bṛhadāraṇyaka-Upanishad 5, 2
+Southam, Guide, note on line 418
 ---
-path: women
-line: 378
-text: The woman who draws her long black hair out tight and plays it.
+path: east
+line: 433
+text: The three words come again, each with a full stop, after the fragments of lines 427 to 432. In the Upanishad the thunder repeats the father's syllable, "Da Da Da", and the passage ends by naming the three things to be taught, subduing, giving and mercy; the poem repeats its own three words instead, in its own order, and sets them down without answer or comment. Cleo McNelly Kearns (1987) reads Eliot's sequence as one that culminates in control.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+Kearns (1987)
+Southam, Guide, note on lines 399–401
+---
+path: east
+line: 434
+text: Shantih is peace. Eliot's note calls it, repeated three times, "a formal ending to an Upanishad"; Southam gives the full formula, "Om shantih shantih shantih", and Müller's translation prints it, closing the <i>Kaṭha Upaniṣad</i>, as "Om! Peace! peace! peace!" What the poem takes here is not a passage but the way a scripture closes. The card gives the Prayer Book's blessing behind Eliot's gloss, "The Peace which passeth understanding"; the note was reworded when the poems were reset in 1932, and the pathway on the Bible and the Prayer Book takes that up.
+sources: Kaṭha Upaniṣad, the closing formula
+Southam, Guide, note on line 433
+Kearns (1987)
+Ricks and McCue, commentary on line 433
+---
+path: dante
+line: 329
+text: Here the speaker counts himself among the dying. The crowd at line 63 was undone and seen from outside; now "we" are dying, and "were living" puts the living in the past tense in which Dante's dead tell their lives, as in La Pia's "Siena mi fé", Siena made me (<i>Purgatorio</i> V 134). The lines before, "He who was living is now dead" among them, are the Passion, as the card says; this stop is for line 329 alone, and the comparison with Dante's grammar is the pathway's own.
+sources: Dante, Purgatorio V 133–134
+---
+path: dante
+line: 412
+text: Eliot's note sends the key to Count Ugolino, starved in a tower at Pisa with his sons (<i>Inferno</i> XXXIII 46); the card tells the story. He is in the ninth and lowest circle, in ice among the traitors, gnawing the skull of the archbishop who starved him (XXXIII 1–3 and 14). He speaks so that his words may be "seed" bearing infamy for his enemy (7–9). The thunder's word means sympathise, Eliot's note says; in this pathway's reading the poem answers from the place in Dante furthest from pity.
+sources: Dante, Inferno XXXIII 1–78
+Southam, Guide, note on line 411
+Rainey, Annotated Waste Land, note on line 411
+---
+path: dante
+line: 428
+text: Eliot's note gives the lines. Arnaut Daniel asks Dante to remember his pain and hides in the refining fire. Eliot had taken "Ara vos prec", now I pray you, as the title of his 1920 volume, printed "Ara Vus Prec", a misprint for Dante's "vos". In <i>Dante</i> (1929), translating the passage, he wrote that purgatory's flame, unlike hell's, "is deliberately and consciously accepted by the penitent", and "In their suffering is hope".
+sources: Dante, Purgatorio XXVI 140–148
+Eliot, Dante (1929)
+Gallup, entry A4
+---
+path: love
+line: 402
+text: The thunder's first word is give; the card at this line gives the one gift the poem records, "a moment's surrender". This pathway takes the surrender as one made in love; it is said to "My friend", and James E. Miller (1977) reads it as a giving of the self to a friend. What follows lists where the gift is not recorded, and for the spider at 408 Eliot's note (numbered 407) quotes Flamineo's warning in Webster's <i>The White Devil</i> that wives remarry "Ere the worm pierce your winding-sheet".
+sources: Webster, The White Devil V.vi
+Miller (1977)
+Southam, Guide, notes on lines 401 and 407
+---
+path: love
+line: 419
+text: The card here gives the boat and the turn at 421 to the conditional, "your heart would have responded". After the couples on this pathway, who could not speak or would not answer, this heart would have answered, had it been asked; it is the one love the poem speaks of as possible. Southam's note on the thunder's fable records that Eliot's departure from the Upanishad's order, in placing this word last, has been argued over; for that order, see the pathway on the Fire Sermon and the thunder.
+sources: Southam, Guide, note on lines 399–401
+---
+path: seers
+line: 360
+text: Eliot's headnote to Part V names the journey to Emmaus; the card in the margin gives Luke's story and Shackleton's. The pathway takes one clause from Luke: the disciples walked beside the risen Christ and "their eyes were holden that they should not know him" (24:16). Here counting and looking give different answers, and what the eyes see is hooded, "a man or a woman" unknown. Eliot's note on line 46 associates this figure with the Hanged Man, the card Madame Sosostris could not find at line 55.
+sources: King James Bible, Luke 24:13–31
+Shackleton, South, ch. X
+Southam, Guide, note on lines 360–365
+Rainey, Annotated Waste Land, note on line 359
+---
+path: seers
+line: 367
+text: Eliot's note on these lines quotes the close of an essay on Dostoevsky's <i>The Brothers Karamazov</i> by the German novelist Hermann Hesse: half of Europe is on the way to chaos, singing drunkenly as Dmitri Karamazov sang, and while the citizen laughs, "der Heilige und Seher hört sie mit Tränen", the saint and the seer hear them with tears. Read lines 367 to 385 as what such a seer hears and sees: questions first, "What is that sound", "Who are those hooded hordes", and from line 378 plain statements.
+sources: Hesse, Blick ins Chaos, "Die Brüder Karamasoff oder der Untergang Europas"
+Southam, Guide, note on lines 368–369
+---
+path: seers
+line: 400
+text: After the Sibyl, Madame Sosostris and Tiresias, the poem's prophecy passes to a voice that is not a person's. The thunder says one syllable, and the card at line 401 gives the fable in which gods, men and demons each hear a different word in it. Read the thunder as an oracle whose meaning lies with the hearer; the poem, at lines 402, 412 and 419, takes all three words in turn and follows each with an answer in its own voice.
+sources: Bṛhadāraṇyaka Upaniṣad, V.2
+---
+path: seers
+line: 426
+text: The last prophet in the poem is Isaiah, and the card gives his words to the dying King Hezekiah, "Set thine house in order: for thou shalt die, and not live" (Isaiah 38:1; the same words in 2 Kings 20:1). The fisher on the shore, the wounded keeper of the Grail as the card takes him, speaks the prophet's sentence himself, as a question and about his lands. No prophet answers him; the next line is London Bridge falling.
+sources: King James Bible, Isaiah 38:1
+King James Bible, 2 Kings 20:1
+Southam, Guide, note on line 425
+---
+path: change
+line: 429
+text: The last change in the poem is asked for, not made. The Latin is from the last stanza of the <i>Pervigilium Veneris</i>, a late Latin poem: the nightingale sings, the poet is silent and asks when he will become like the swallow, so that he may cease to be silent, and Eliot's line drops that clause. Eliot's note here (numbered 428) points to Philomela in Parts II and III. Brooks (1939) took the swallow for Procne, Philomel's sister, so the bird the poet would become is the one Procne became.
+sources: Pervigilium Veneris, the last stanza
+Tennyson, The Princess, IV ("O Swallow, Swallow")
+Brooks (1939)
+---
+path: method
+line: 431
+text: Among the borrowed lines of the ending, which the card gives one by one, this line is the poet's own. In the earlier draft it read "spelt into my ruins"; "shored against" was the revision. Set it beside the sentence of 1923 in which Eliot called Joyce's method "simply a way of controlling, of ordering" the panorama of contemporary history. The essay's word is order; the poem's is shoring, a builder's word for propping up what would otherwise fall.
+sources: Eliot, "Ulysses, Order, and Myth" (1923)
+Facsimile (1971), the drafts of Part V
+Matthiessen (1935), ch. II
+---
+path: war
+line: 369
+text: Eliot's note on lines 367–377 quotes the close of the first of the three essays in Hermann Hesse's <i>Blick ins Chaos</i>, on <i>The Brothers Karamazov</i> and the downfall of Europe (the card at 368). Southam's note on the lines refers the hordes to Hesse and reads the "Murmur of maternal lamentation" of 368 as Mother Russia lamenting the Bolshevik Revolution of 1917. Cleanth Brooks (1939) read the cities of 375–376, Jerusalem, Athens, Alexandria and Vienna, capital of an empire the war had ended, as unreal like the London of Part I.
+sources: Hesse, Blick ins Chaos, the essay Die Brüder Karamasoff oder Der Untergang Europas
+Southam, Guide, note on lines 368–369
+Brooks (1939)
+---
+path: war
+line: 427
+text: The nursery rhyme is the first of the fragments, and the card at 431 gives it. Southam's note on the line prints its refrain, "London Bridge is falling down, falling down, / London Bridge is falling down, / My fair lady", and Hugh Kenner (1959) linked the crowd flowing over the bridge in Part I with the rhyme. The line comes after the "Falling towers" of 374 and "Vienna London" at 376, so that after the cities it is London's own bridge that falls, in a nursery tune.
+sources: Southam, Guide, note on line 426
+Kenner (1959)
+---
+path: wagner
+line: 424
+text: The card gives Weston's Fisher King, the maimed king of the Grail castle. Set beside him the Grail king Eliot's generation knew from the stage, Amfortas in Wagner's <i>Parsifal</i>, wounded by the holy spear and healed by it in the third act, where Verlaine's sonnet at 202 ends. Wagner's king is healed; the poem's sits fishing, with the arid plain still behind him. Weston's chapter on the Perilous Chapel ends by saying that the legend woke again in the nineteenth century "through the genius of Tennyson and Wagner".
+sources: Weston, From Ritual to Romance, ch. IX
+Weston, From Ritual to Romance, ch. XIII
+Wagner, Parsifal, Act I
+Wagner, Parsifal, Act III
+Verlaine, "Parsifal"
 ---
 path: cities
 line: 375
@@ -62,30 +231,6 @@ path: cities
 line: 396
 text: Ganga and Himavant: the Ganges and the Himalaya. After them the poem names only London Bridge and Aquitaine.
 sources: Southam, Guide, notes on lines 396–397
----
-path: birds
-line: 354
-text: "Not the cicada." Not a bird: the dry sound that is there instead of water.
----
-path: birds
-line: 357
-text: The hermit-thrush, whose "water-dripping song" Eliot heard in Quebec. Three recordings of it are in <a href="listen.html#rec-xc899696-hermit-thrush-quebec">the listening room</a>.
----
-path: birds
-line: 380
-text: "bats with baby faces." Not birds, but they whistle and beat their wings.
----
-path: birds
-line: 392
-text: "Co co rico": the French spelling of a cock-crow. Readers have heard in it the cock of Peter's denial and the cock of <i>Hamlet</i> I.i.
----
-path: birds
-line: 429
-text: "O swallow swallow." Procne, sister of the Philomel of lines 99 and 203.
----
-path: eyes
-line: 360
-text: "Who is the third who walks always beside you?" Luke 24:16: "their eyes were holden that they should not know him."
 ---
 path: eliot
 line: 419

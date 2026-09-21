@@ -9,45 +9,205 @@ line: 266
 text: The Thames-daughters' song, in short lines, with the refrain of Wagner's Rhine-daughters (Eliot's note gives <i>Götterdämmerung</i>, III, i). Worth reading aloud.
 sources: Wagner, Götterdämmerung, III.i
 ---
-path: water
-line: 176
-text: "Sweet Thames, run softly, till I end my song": Spenser's refrain from the <i>Prothalamion</i>, a wedding poem. Here the nymphs "are departed" and the river "bears no" litter.
----
-path: water
-line: 182
-text: "By the waters of Leman I sat down and wept." Psalm 137 in the Prayer Book wording, "By the waters of Babylon we sat down and wept", with Lake Geneva (Lac Léman) in Babylon's place. Eliot wrote Parts IV and V at Lausanne, on the lake, in the winter of 1921–22.
----
-path: water
+path: grail
 line: 189
-text: "While I was fishing in the dull canal", behind the gashouse. The fisher is usually taken as the Fisher King of Weston's book, whose wound lays his land waste.
+text: Brooks (1939) read the man fishing here, for "the reader who knows the Weston references", as the Fisher King (the card at this line has Ferdinand of <i>The Tempest</i>, whose lament the lines adapt). In Weston the king's sickness keeps his land waste, and his castle stands by water, "on or near the sea, or on the banks of an important river". The poem gives its king no wound and no castle, only a canal, a rat and the "White bodies naked on the low damp ground".
+sources: Weston, From Ritual to Romance, ch. IX
+Weston, From Ritual to Romance, ch. IV
+Brooks (1939)
 ---
-path: water
-line: 266
-text: "The river sweats / Oil and tar." The working Thames of Eliot's day; then, at 279, Elizabeth's barge in 1561, from the Spanish ambassador's letter that Eliot's note quotes.
+path: grail
+line: 202
+text: The line is the last of Verlaine's sonnet on Wagner's Grail opera <i>Parsifal</i>, and the sonnet's tenth line is "Il a guéri le roi": he has healed the king. This is the only place where the poem touches the quest achieved, in another man's line, between Mrs Porter's soda water and the nightingale's "Jug jug". Weston herself ends her chapter on the Perilous Chapel (the chapel at line 389) with the Grail waking "to new life in the nineteenth century" through "the genius of Tennyson and Wagner".
+sources: Verlaine, "Parsifal", lines 10 and 14
+Weston, From Ritual to Romance, ch. XIII
 ---
-path: dead
-line: 194
-text: "bones cast in a little low dry garret, / Rattled by the rat's foot only, year to year."
+path: passion
+line: 182
+text: The card gives the wording and the lake. In the psalm the exiles in Babylon hang up their harps when their captors ask for "one of the songs of Sion", and answer "How shall we sing the Lord's song: in a strange land?" The singer, between two lines of Spenser's wedding-song for the Thames, speaks as that exile, and his song is short, "I speak not loud or long". The Prayer Book's psalms are Miles Coverdale's translation, of the 1530s; the church at line 264 keeps his tablet.
+sources: Book of Common Prayer, Psalm 137
+King James Bible, Psalm 137:1–4
+Southam, Guide, note on line 182
+Rainey, Annotated Waste Land, note on line 182
 ---
-path: dead
+path: passion
+line: 264
+text: The card gives the church and the 1920 scheme to demolish nineteen City churches, this among them. In his London Letter dated May 1921, printed in <i>The Dial</i> for June, Eliot wrote that the City churches give the business quarter "a beauty which its hideous banks and commercial houses have not quite defaced". The County Council's report, which his note on line 264 cites, records the tablet to Miles Coverdale, once rector here and reburied here, whose psalms are the Prayer Book's (line 182).
+sources: Eliot, "London Letter," Dial, June 1921, pp. 690–691
+LCC, Nineteen City Churches (1920), the report on St Magnus the Martyr
+Rainey, Annotated Waste Land, note on line 264
+Rainey, Annotated Waste Land, "London Letter, May 1921"
+---
+path: passion
+line: 307
+text: The card gives both passages, the Carthage of Book III and the "Thou pluckest me out" of Book X, and Eliot's note on line 309 pairing Augustine with the Buddha. Augustine's <i>Confessions</i>, written about 400, are a convert's account of his life, and what the poem takes from them is the convert's memory of his lust and, from the chapter on the temptation of the eyes, his cry to be pulled free. "O Lord Thou pluckest me out" are the poem's only words addressed to God.
+sources: Augustine, Confessions, bk. III, ch. 1
+Augustine, Confessions, bk. X, ch. 34
+Rainey, Annotated Waste Land, note on line 307
+Rainey, Annotated Waste Land, note on line 309
+---
+path: east
+line: 173
+text: Part III's title is the Buddha's. His Fire Sermon, preached at Gaya, says that all things are on fire, eye, ear, nose, tongue, body and mind, each burning "with the fire of passion, say I, with the fire of hatred, with the fire of infatuation" (Henry Clarke Warren's translation, which Eliot's note on line 308 names). The title comes first and the sermon is heard last, at line 308; between them come the river, Sweeney and Mrs. Porter, the merchant, the typist and the women Eliot's note calls the Thames-daughters.
+sources: Warren, Buddhism in Translations, §73
+Southam, Guide, note on the title of Part III
+---
+path: east
+line: 308
+text: Here is the sermon, cut to one word said four times. In Warren the disciple who sees the senses on fire "conceives an aversion" for them, "becomes divested of passion" and is free. The poem keeps the burning and leaves out the disciple and his freedom; the next words are St Augustine's, from the <i>Confessions</i> the card gives. Eliot's note on line 309 calls the pair "representatives of eastern and western asceticism" and their collocation "not an accident"; asceticism, renunciation, is his word for what the two texts share.
+sources: Warren, Buddhism in Translations, §73
+Southam, Guide, note on the title of Part III
+---
+path: dante
+line: 193
+text: Dante's dead have their places; few of the poem's are buried. Part I is named for the burial service, and its one buried body, the corpse, may be dug up again (71–75, Cornelia's dirge in Webster's <i>The White Devil</i> over her murdered son, for "the friendless bodies of unburied men"). The bones here are rattled "year to year"; a current picks Phlebas's (316). The man fishing at line 189 has mourned "the king my father's death" in words from Ferdinand's in <i>The Tempest</i>; Ferdinand's father, thought drowned, is alive.
+sources: Webster, The White Devil V.iv
+Shakespeare, The Tempest I.ii
+Book of Common Prayer, the Order for the Burial of the Dead
+---
+path: dante
 line: 245
-text: Tiresias, who "walked among the lowest of the dead."
+text: Tiresias, the blind seer, gives two credentials. Thebes is the city of Sophocles' <i>Oedipus the King</i>, where Tiresias told Oedipus what the king could not see. The walk among the dead is <i>Odyssey</i> XI, where Odysseus summons the shades with blood; Circe has told him that Tiresias alone keeps his understanding in death, "but the other ghosts flit about aimlessly" (X 490–495, in Butler's translation). He is the only speaker who says he has been among the dead and come back, as Dante has in the <i>Commedia</i>.
+sources: Homer, Odyssey X 490–495 and XI
+Sophocles, Oedipus Tyrannus
 ---
-path: women
+path: dante
+line: 293
+text: Eliot's note gives La Pia's line (<i>Purgatorio</i> V), a murdered wife's account of herself; the card has the passage. She begins with a request, "ricorditi di me", remember me, as Dante's dead often do (Guinizelli and Arnaut at XXVI 130 and 147). The first of Eliot's three Thames-daughters, speaking here, asks nothing. "Undid me" translates "disfecemi", and the same verb, disfare, is behind "undone" at line 63, where death has "disfatta" the crowd (<i>Inferno</i> III 57). "Siena made me, Maremma unmade me" is Eliot's own translation, of 1929.
+sources: Dante, Purgatorio V 130–136
+Dante, Inferno III 55–57
+Dante, Purgatorio XXVI 127–132 and 145–148
+Eliot, Dante (1929)
+Southam, Guide, note on line 293
+---
+path: love
+line: 173
+text: Eliot's note on line 176 names the poem the refrain comes from, Spenser's <i>Prothalamion</i>, a song for a double wedding; the card at 176 gives it. Here the refrain is sung when the summer is over, for the nymphs and their friends, "the loitering heirs of city directors", who have gone with the season and "have left no addresses". Spenser's song was for two brides; this one is for the affairs of a summer, which end without a trace.
+sources: Spenser, Prothalamion
+Southam, Guide, note on lines 175–9
+---
+path: love
 line: 199
-text: Mrs Porter and her daughter, from a ballad which, Eliot's note says, "was reported to me from Sydney, Australia"; it has been identified as a song of the Australian troops of the First World War.
+text: The lines are from a soldiers' ballad about a brothel-keeper; the card at this line gives it, and Southam's note adds that Australian troops sang it as they landed at Gallipoli in 1915. The French line after it ends Verlaine's sonnet on Wagner's <i>Parsifal</i>, the knight who resisted the Flower-maidens' temptation (the card at 202 gives the sonnet). Helen Gardner (1972) traced the way from the soda water to Verlaine through the washing of Parsifal's feet. The one line on the knight who refused follows straight on the brothel song.
+sources: Verlaine, "Parsifal"
+Southam, Guide, note on line 199
+Gardner (1972)
 ---
-path: women
-line: 222
-text: The typist, who "smoothes her hair with automatic hand."
+path: love
+line: 215
+text: Tiresias, who has lived as a woman and as a man and has "foresuffered all", watches the typist and the clerk; Eliot's note on line 218 calls what he sees "the substance of the poem". Just before, Mr Eugenides's "weekend at the Metropole", a Brighton hotel, is read by James E. Miller (1977) as a homosexual proposition. Cleanth Brooks (1939) found an irony in the witness, since in Sophocles' <i>Oedipus Rex</i> it is Tiresias who knows that the plague on Thebes comes from a sexual sin.
+sources: Rainey, Annotated Waste Land, note on line 214
+Miller (1977)
+Brooks (1939)
 ---
-path: women
+path: love
 line: 279
-text: Elizabeth and Leicester in a barge, where they "began to talk nonsense" (the Spanish ambassador's words, in Eliot's note).
+text: The card at this line gives the scene from Froude's history: Queen Elizabeth and Robert Dudley, later Earl of Leicester, talking of marriage in a barge on the Thames, June 1561, in the Spanish ambassador's hearing. Froude's chapter tells what stood in the way: Dudley's wife Amy had been found dead at the foot of a staircase in September 1560, amid talk of murder. It never became a marriage, and F. O. Matthiessen (1935) found the "stale pretence" of their relationship as empty as the typist's and the clerk's.
+sources: Froude, Reign of Elizabeth, vol. I, ch. IV
+Matthiessen (1935)
+Southam, Guide, note on lines 279–91
 ---
-path: women
+path: love
 line: 292
-text: The three Thames-daughters, who Eliot's note says speak in turn, from Highbury, Moorgate and Margate. The first echoes La Pia in Dante, "Siena made me, Maremma unmade me" (Eliot's note at 293).
+text: The three Thames-daughters of Eliot's note on line 266 speak here in turn, and each tells a seduction: on the floor of a canoe by Richmond; at Moorgate, where "After the event / He wept"; on Margate Sands. Wagner's Rhine-daughters, whose refrain they have just sung, mourn the gold stolen from their river; these three make no complaint, and the last expects "Nothing". Their song runs straight into Augustine at Carthage and the "burning" of the Buddha's Fire Sermon (307–311), which the card at 307 gives.
+sources: Wagner, Götterdämmerung III.i
+Southam, Guide, notes on lines 293, 296 and 300
+Warren, Buddhism in Translations, §73
+---
+path: seers
+line: 218
+text: Tiresias is the blind prophet of Thebes; the card gives Ovid's story of how Juno blinded him and Jupiter gave him foreknowledge. Brooks (1939) drew the irony that the commentator here is the seer who in Sophocles told Oedipus the cause of the plague on Thebes. What he foretells at line 229 he has already seen, "foresuffered all", enacted before on the same bed. Kenner (1959) read Eliot's note, which calls him "the most important personage in the poem", as an offer of "a nameable point of view".
+sources: Ovid, Metamorphoses III 316–338
+Brooks (1939)
+Kenner (1959)
+Southam, Guide, note on lines 218–220
+Rainey, Annotated Waste Land, note on line 218
+---
+path: change
+line: 191
+text: Ferdinand in <i>The Tempest</i> sits on the bank "Weeping again the king my father's wreck" when Ariel's song reaches him; the card at line 189 gives the scene. The poem makes the drowned king a brother and adds a father's death before him, and Eliot's note on line 218 says the drowned Sailor is not wholly distinct from Ferdinand, Prince of Naples. In the play the mourned king is alive, and the last act gives him back his son; the poem keeps the mourning and drops the return.
+sources: Shakespeare, The Tempest I.ii
+Shakespeare, The Tempest V.i
+---
+path: change
+line: 203
+text: At line 99 the change of Philomel was a picture on a wall. Here, after Mrs Porter's song, there is no picture and no body, only the cry, "Jug jug", with "So rudely forc'd" from line 100 and "Tereu", the rapist's name, Tereus, as the bird calls it. The card gives the song printed with Lyly's Elizabethan play <i>Campaspe</i>, the source of the words. The change has gone from a woman to a bird to a sound, and the sound keeps the crime in it as a name.
+sources: Lyly, Campaspe, V.i
+Southam, Guide, note on line 206
+---
+path: change
+line: 243
+text: Tiresias, the blind seer of Thebes, has the one change Eliot's notes give in full. His note on line 218 prints Ovid's Latin and says "the two sexes meet in Tiresias". In Ovid he struck two coupling snakes and was a woman for seven years, then struck them again and became a man; having known love from both sides, he was called to judge which sex has the more pleasure. "Foresuffered all / Enacted on this same divan or bed" is said by one who has been both parties.
+sources: Ovid, Metamorphoses III 316–338
+---
+path: change
+line: 257
+text: The line is Ferdinand's again, from the speech behind lines 191–192, as the card says; here the music is a record the typist has put on after smoothing her hair "with automatic hand". In the play the music allays the sea's fury and Ferdinand's grief, and he follows it, "Or it hath drawn me rather", to Miranda, whom he is to marry. Here it goes by the speaker and along the Strand, and comes not to a person but to the walls of Magnus Martyr and their "Inexplicable splendour".
+sources: Shakespeare, The Tempest I.ii
+Shakespeare, The Tempest V.i
+---
+path: method
+line: 176
+text: The card gives Spenser's wedding poem and its refrain, the line each of his stanzas ends on. Eliot keeps the refrain and puts the modern river into it as a list of what is missing: the nymphs "are departed", and the Thames "bears no" bottles, papers or cigarette ends. Cleanth Brooks (1939) wrote that the poem works by "surface contrasts which in reality constitute parallelisms"; Spenser's poem, B. C. Southam notes, itself names Elizabeth, as Elisa, and, as "that great lord", Leicester, the pair in the barge at line 279.
+sources: Spenser, Prothalamion 1–36 and 127–162
+Brooks (1939)
+Southam, Guide, note on line 176
+Southam, Guide, note on line 279
+---
+path: method
+line: 185
+text: The card gives Marvell's lines, in which the lover urging his mistress not to wait hears "Time's wingèd chariot hurrying near". Eliot keeps the line but for one phrase and changes only what is heard: for the chariot, "The rattle of the bones" and a chuckle, while a rat creeps past the speaker, who is fishing in the canal at 189. Marvell's lover hears time coming; the speaker here hears bones. The line comes again at 196, the next stop.
+sources: Marvell, "To His Coy Mistress" 21–24
+Southam, Guide, note on line 185
+---
+path: method
+line: 196
+text: Eliot's note on line 197 quotes John Day's <i>Parliament of Bees</i>, in which horns and hunting bring the hunter Actaeon to the goddess Diana, bathing; the card at 198 gives the passage. Day's terms are replaced one by one, motors for hunting, Sweeney, from Eliot's own poems, for the hunter, Mrs Porter's soda water for the goddess's spring, and "in the spring" is kept word for word. In Day, as <a href="library.html#src-day-parliament-of-bees">the library's record</a> says, the spring is the water Diana bathes in; in Eliot's line it is the season.
+sources: Day, The Parliament of Bees, Character 3
+Ovid, Metamorphoses III 138–252
+Southam, Guide, notes on lines 196–198
+---
+path: method
+line: 253
+text: The card gives the song from Goldsmith's <i>The Vicar of Wakefield</i>, a seduced daughter's, in which the one art left her "is—to die". Eliot keeps its first line and runs it into the typist's room, where the remedy is a record on the gramophone; the two remedies stand side by side without comment. Cleanth Brooks (1939) set her beside Elizabeth, the queen in the barge at 279, and found them "alike as well as different". The scene is read at line 215 on the pathway on the loves that fail.
+sources: Goldsmith, The Vicar of Wakefield, ch. 24
+Brooks (1939)
+Southam, Guide, note on line 253
+Rainey, Annotated Waste Land, note on line 253
+---
+path: war
+line: 199
+text: The card gives the ballad, the Cairo brothel-keeper its Mrs Porter is said to have been, and Eliot's note that it "was reported to me from Sydney, Australia". Southam's note on the line adds that the Australian troops sang it as they landed at Gallipoli in 1915, and that Eliot's wording obscures the point of the soldiers' version. It is the only song of the war in the poem, and it comes in cleaned up.
+sources: Southam, Guide, note on line 199
+---
+path: war
+line: 233
+text: The clerk's assurance is measured against "a silk hat on a Bradford millionaire" (233–234). Southam's note on 234 says Bradford, in the north of England, was reputed to have produced a crop of millionaires, men who made their fortunes supplying woollen goods in the First World War; Rainey's note says the wool town faced charges of wartime profiteering. It is the poem's one reference to those who made money from the war, and it is a simile. For the scene itself, see the pathway on the loves that fail.
+sources: Southam, Guide, note on line 234
+Rainey, Annotated Waste Land, note on line 234
+---
+path: wagner
+line: 202
+text: Verlaine's sonnet is on Wagner's <i>Parsifal</i>; the card gives it, and the foot-washing in Wagner's last act, where Kundry, the woman Parsifal has resisted, now penitent, washes his feet before he goes in to heal the king. Cleanth Brooks (1939) read the soda water of line 201 as reminding the poet "ironically of another sort of foot-washing". Wagner's Grail hall follows straight on the song of Mrs. Porter, which the Australian troops sang in the war; for the song, see the pathway After the war.
+sources: Verlaine, "Parsifal", line 14
+Wagner, Parsifal, Act III
+Wagner, Parsifal, Act I
+Brooks (1939)
+---
+path: wagner
+line: 266
+text: Eliot's note sends these lines to the scene that opens the last act of <i>Götterdämmerung</i>, and the card gives it: the three Rhine-daughters swim and sing of the gold stolen from them. The river's depths were bright while the gold lay in them and have been dark since, and the daughters beg Siegfried, the opera's hero, for the ring made from the gold, in vain. The parallel Eliot's note draws sets that darkened river beside the Thames of these lines, sweating "Oil and tar". The refrain comes at 277.
+sources: Wagner, Götterdämmerung, Act III scene 1
+---
+path: wagner
+line: 277
+text: The refrain itself, the Rhine-daughters' cry, stands as a line of the poem. The syllables are Wagner's, the voice he gave the river, sound and not words, and of the poem's three passages from him this is the one with nothing to translate. Eliot's note on line 266 says that a song begins there. Hear the three sing the refrain, in the 1964 Solti recording in the <a href="listen.html#rec-gotterdammerung-solti-1964-rhinemaidens">listening room</a>, and then read lines 266 to 291 aloud with the tune in your ear.
+sources: Wagner, Götterdämmerung, Act III scene 1
+---
+path: wagner
+line: 306
+text: After the three daughters have spoken in turn, the last on Margate Sands, the two syllables here are usually read as what is left of the refrain, the last two of "leialala". Eliot's note on line 266 says "From line 292 to 306 inclusive they speak in turn", counting this line among theirs, so by his count the two syllables are the third daughter's. This is the last of Wagner in the poem. For the three speeches, see the pathway on the loves that fail.
+sources: Wagner, Götterdämmerung, Act III scene 1
 ---
 path: cities
 line: 182
@@ -88,30 +248,6 @@ path: cities
 line: 307
 text: Carthage, where Augustine went as a student; his <i>Confessions</i> call it "a cauldron of unholy loves" (Eliot's note).
 sources: Augustine, Confessions, bk. III
----
-path: birds
-line: 203
-text: "Twit twit twit / Jug jug jug jug jug jug." The nightingale again (line 100), singing the words Elizabethan poets gave her song; "Tereu" is both one of those words and the name of Tereus, who raped her.
----
-path: nothing
-line: 302
-text: "I can connect / Nothing with nothing."
----
-path: nothing
-line: 305
-text: "My people humble people who expect / Nothing."
----
-path: eyes
-line: 215
-text: "when the eyes and back / Turn upward from the desk."
----
-path: eyes
-line: 218
-text: "I Tiresias, though blind."
----
-path: eyes
-line: 232
-text: "with one bold stare."
 ---
 path: eliot
 line: 182

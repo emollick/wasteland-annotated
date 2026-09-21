@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Export the site's commentary to the shared commentary directory for the debate threads, and pull it back.
-//   node build/commentary.js export
+//   node build/commentary.js export            (everything; never while another thread is editing the shared directory)
+//   node build/commentary.js export paths      (the pathway heads and stops alone, after build/pathways.js)
 //   node build/commentary.js import part1|part2|part3|part4|part5|site|all [--force]
 // Files are handled as raw record text (records split on '---' lines, sections on '===' lines), so a round trip
 // keeps every character the threads wrote. Import refuses if a fixed field changed, unless --force.
@@ -54,6 +55,17 @@ function diffFixed(oldRecs, newRecs, kind, label) {
   return problems;
 }
 
+// paths alone: heads to site/, stops to the part of their line, tagged with path: (run after build/pathways.js, so that the shared copies match)
+function exportPaths() {
+  const heads = [], stops = { 1: [], 2: [], 3: [], 4: [], 5: [] };
+  for (const sec of sections(read(path.join(DATA, 'paths.txt')))) {
+    const id = keyOf(sec[0], 'id'); heads.push(sec[0]);
+    for (const st of sec.slice(1)) { const p = partOf(+keyOf(st, 'line')); stops[p].push(`path: ${id}\n${st}`); }
+  }
+  write(path.join(OUT, 'site', 'paths.txt'), joinRecords(heads));
+  for (const p of [1, 2, 3, 4, 5]) write(path.join(OUT, 'part' + p, 'paths.txt'), joinRecords(stops[p]));
+}
+
 function doExport() {
   for (const [p] of PARTS) {
     const dir = path.join(OUT, 'part' + p);
@@ -64,14 +76,7 @@ function doExport() {
     const p = +keyOf(sec[0], 'part');
     write(path.join(OUT, 'part' + p, 'ways.txt'), joinRecords(sec));
   }
-  // paths: heads to site/, stops to the part of their line, tagged with path:
-  const heads = [], stops = { 1: [], 2: [], 3: [], 4: [], 5: [] };
-  for (const sec of sections(read(path.join(DATA, 'paths.txt')))) {
-    const id = keyOf(sec[0], 'id'); heads.push(sec[0]);
-    for (const st of sec.slice(1)) { const p = partOf(+keyOf(st, 'line')); stops[p].push(`path: ${id}\n${st}`); }
-  }
-  write(path.join(OUT, 'site', 'paths.txt'), joinRecords(heads));
-  for (const p of [1, 2, 3, 4, 5]) write(path.join(OUT, 'part' + p, 'paths.txt'), joinRecords(stops[p]));
+  exportPaths();
   // drafts: by part:, 0 to site
   const dr = { 0: [], 1: [], 2: [], 3: [], 4: [], 5: [] };
   for (const r of records(read(path.join(DATA, 'drafts.txt')))) dr[+keyOf(r, 'part')].push(r);
@@ -151,7 +156,7 @@ function importSite(force) {
 
 const [cmd, target, flag] = process.argv.slice(2);
 const force = flag === '--force' || target === '--force';
-if (cmd === 'export') doExport();
+if (cmd === 'export') (target === 'paths' ? exportPaths : doExport)();
 else if (cmd === 'import') {
   const t = target && !target.startsWith('--') ? target : 'all';
   if (t === 'all') { for (const [p] of PARTS) importPart(p, force); importSite(force); }

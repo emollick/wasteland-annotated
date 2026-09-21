@@ -1084,20 +1084,3 @@ id: dickey-2020
 short: Dickey (2020)
 full: Frances Dickey, "May the Record Speak: The Correspondence of T. S. Eliot and Emily Hale," <i>Twentieth-Century Literature</i> 66, no. 4 (December 2020), 431–62.
 url: https://english.missouri.edu/sites/default/files/people-files/may-the-record-speak.the-correspondence-of-t-s-eliot-and-emily-hale.pdf
----
-id: deussen
-short: Deussen, Sechzig Upanishad's
-full: Paul Deussen, <i>Sechzig Upanishad's des Veda, aus dem Sanskrit übersetzt und mit Einleitungen und Anmerkungen versehen</i>, 3rd ed. (Leipzig: F. A. Brockhaus, 1921; first ed. 1897); the Bṛhadāraṇyaka-Upanishad 5, 2 on pp. 489–490, the page Eliot's note on the thunder cites.
-url: https://archive.org/details/sechzigupanishad00deusuoft
-note: Eliot's note cites "Deussen's Sechzig Upanishads des Veda, p. 489"; the 1921 printing was checked, not the 1897 first edition.
----
-id: sophocles-oedipus
-short: Sophocles, Oedipus Tyrannus
-full: Sophocles, <i>Oedipus the King</i>, in <i>Sophocles, with an English Translation by F. Storr</i>, vol. I, Loeb Classical Library (London: William Heinemann; New York: The Macmillan Co., 1912).
-url: https://www.gutenberg.org/ebooks/31
-note: The Gutenberg text gives Storr's translation without the imprint; the place, publishers and date are from the title page of the 1912 Loeb volume in the University of Toronto copy on archive.org (sophocleswitheng01soph).
----
-id: parsifal
-short: Wagner, Parsifal
-full: Richard Wagner, <i>Parsifal</i> (1882), libretto, cited by act.
-url: https://www.librettoarchive.com/Parsifal_libretto_German

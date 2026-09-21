@@ -4,7 +4,7 @@ Live at https://the-waste-land.netlify.app since 22:08 UTC on 20 September 2026.
 
 ## Where the references appear
 
-Every card on the poem page (the glosses, the voices, the ways in), every record on the Library, Listen and Drafts pages, and every stop of the pathways that are staying (A first reading, Cities, The poem in Eliot's life) ends with a References line: the works in short form, separated by semicolons, each linked to a Works cited list at the foot of the Library page. That list gives each work in full, with a link to the copy consulted where one is free to read. 236 records carry references, 733 citations in all, to 224 works.
+Every card on the poem page (the glosses, the voices, the ways in), every record on the Library, Listen and Drafts pages, and the pathways' heads and stops end with a References line: the works in short form, separated by semicolons, each linked to a Works cited list at the foot of the Library page. That list gives each work in full, with a link to the copy consulted where one is free to read. 349 records carry references, 1,056 citations in all, to 234 works.
 
 ## How the sources were found and checked
 
@@ -26,6 +26,6 @@ Nineteen in the notes, all reported to the build thread, which corrected fifteen
 
 Left as they were, with the reason: the Columbia recording's date (the Poetry Archive says 1933, PennSound 1935; both are cited); the Hughes audiobook's date (1996 or 1997); Paige's December date for Pound's letter of 24 January 1922 (the note's date is right); Gutenberg's "IT'S" against the 1922 printings' "ITS" (the gloss is right); Stevenson's "Home is the sailor" (comma or semicolon by edition). One sentence stays unverified rather than corrected: that the Schiff letter called the Margate lines "a rough draft of part of part III".
 
-## Still to come
+## The thematic pathways
 
-The thematic pathways being written in their own thread carry references in the same form, and their works join the list when they land.
+The ten thematic pathways, written in their own thread, carry references in the same form: their 113 heads and stops cite 323 times, to 75 works. The scholars who wrote them checked the sources as they wrote. This thread checked that every citation names a work in the list, and added the fifteen works the pathways bring, eight of them new, after a catalogue check. Commentaries are cited by their own keys: Southam's Guide numbers the lines one behind the site's from line 346 (his note on line 388 is on the site's line 389), and Ricks and McCue likewise where it was checked, so a reference gives the commentary's number and the stop's text the site's.
