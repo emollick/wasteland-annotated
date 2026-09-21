@@ -178,7 +178,7 @@ const markByLine = {}; // line -> gloss marks
       const ids = m.source.split(',').map(s => s.trim()).filter(Boolean);
       const s = sourceById[ids[0]];
       if (!s) { console.warn(`mark on line ${m.line}: no source "${ids[0]}" in the library`); continue; }
-      const g = { id: `src-${ids[0]}-${m.line}`, line: m.line, anchor: m.anchor, kind: 'echo', source: ids.join(', '), title: m.title ? typo(m.title) : `${s.author}, <i>${s.title}</i>`, quote: s.passage || '', trans: s.trans || '', body: paragraphs(s.what), lang: langNames.includes(s.lang) ? s.lang : '', sources: s.sources || '' };
+      const g = { id: `src-${ids[0]}-${m.line}`, line: m.line, anchor: m.anchor, kind: 'echo', source: ids.join(', '), title: m.title ? typo(m.title) : `${s.author}, <i>${s.title}</i>`, quote: m.passage || s.passage || '', trans: m.trans || s.trans || '', body: paragraphs(m.what ? typo(m.what) : s.what), lang: langNames.includes(s.lang) ? s.lang : '', sources: m.sources || s.sources || '' }; // a mark may carry its own caption, passage or references when the library record serves two lines
       while (byId[g.id]) g.id += '-';
       byId[g.id] = g; glosses.push(g);
     } else console.warn(`mark on line ${m.line}: neither gloss nor source`);

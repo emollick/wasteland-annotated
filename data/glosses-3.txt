@@ -36,7 +36,7 @@ source: marvell-coy-mistress
 title: Time's chariot, twice
 quote: But at my back I always hear<br>Time’s wingèd chariot hurrying near;<br>And yonder all before us lie<br>Deserts of vast eternity.
 body:
-Marvell, "To His Coy Mistress" (published 1681), in which the lover urges his mistress to yield because time is short and the grave is near. Eliot uses the line twice. Here what is heard "at my back" is "the rattle of the bones, and chuckle spread from ear to ear"; at line 196 it is "the sound of horns and motors". Eliot's note gives the source at the second use, line 196. In the 1922 notes it is numbered 197 and the Day note 196, the wrong way round.
+The poet Andrew Marvell’s “To His Coy Mistress” (published 1681), in which the lover urges his mistress to yield because time is short and the grave is near. Eliot uses the line twice. Here what is heard "at my back" is "the rattle of the bones, and chuckle spread from ear to ear"; at line 196 it is "the sound of horns and motors". Eliot's note gives the source at the second use, line 196.
 sources: Marvell, "To His Coy Mistress", lines 21–24
 ---
 id: fishing-canal
@@ -48,7 +48,7 @@ source: shakespeare-tempest
 title: Ferdinand on the bank, and the Fisher King
 quote: Sitting on a bank,<br>Weeping again the king my father’s wreck,<br>This music crept by me upon the waters,<br>Allaying both their fury and my passion<br>With its sweet air.
 body:
-Ferdinand in <i>The Tempest</i>, Act I scene ii, sitting on the shore and weeping for the father he believes drowned, just before Ariel sings "Full fathom five". Eliot's note gives the source at line 192, and the same speech returns at 257. Eliot adds a brother to Shakespeare's father and puts the fisherman by a canal behind a gashouse in winter. Because Eliot's headnote says the poem's title and plan came from Weston's <i>From Ritual to Romance</i>, the man fishing is usually taken also as the Fisher King of the Grail legend, whose wound leaves his land barren. He fishes again at 424–425. Eliot himself links the rat and the bones to line 115: his note to "rats' alley" there reads "Cf. Part III, l. 195". The "White bodies naked on the low damp ground" have been read as the war dead.
+Ferdinand in <i>The Tempest</i>, Act I scene ii, sitting on the shore and weeping for the father he believes drowned, just before Ariel sings "Full fathom five". Eliot's note gives the source at line 192, and the same speech returns at 257. Eliot adds a brother to Shakespeare's father and puts the fisherman by a canal behind a gashouse in winter. Because Eliot's headnote says the poem's title and plan came from Jessie L. Weston’s book on the Grail legend, <i>From Ritual to Romance</i>, the man fishing is usually taken also as the Fisher King of that legend, whose wound leaves his land barren. He fishes again at 424–425. Eliot himself links the rat and the bones to line 115: his note to "rats' alley" there reads "Cf. Part III, l. 195". The "White bodies naked on the low damp ground" have been read as the war dead.
 sources: Shakespeare, The Tempest I.ii
 Weston, From Ritual to Romance, ch. IX
 Brooks (1939)
@@ -62,7 +62,7 @@ source: day-parliament-of-bees
 title: Actaeon and Mrs Porter
 quote: When of the sudden, listening, you shall hear,<br>A noise of horns and hunting, which shall bring<br>Actaeon to Diana in the spring,<br>Where all shall see her naked skin . . .
 body:
-John Day's <i>The Parliament of Bees</i> (printed 1641), quoted in Eliot's note: a noise of horns and hunting brings Actaeon to Diana bathing. In Ovid the hunter who sees the goddess naked is turned into a stag and torn apart by his own hounds. In Eliot the horns are motor horns, the hunter is Sweeney, the "Apeneck Sweeney" of his poems of 1918–20, and in Diana's place Mrs Porter and her daughter wash their feet in soda water. The three lines of song are from a bawdy ballad sung by Australian troops in the First World War. Its Mrs Porter is said to have kept a brothel in Cairo, and the soldiers' versions were cruder than this. Eliot's note says only that it "was reported to me from Sydney, Australia".
+John Day's <i>The Parliament of Bees</i> (printed 1641), quoted in Eliot's note: a noise of horns and hunting brings Actaeon to Diana bathing. In Ovid’s <i>Metamorphoses</i>, the Latin poem the story comes from, the hunter who sees the goddess naked is turned into a stag and torn apart by his own hounds. In Eliot the horns are motor horns, the hunter is Sweeney, the "Apeneck Sweeney" of his poems of 1918–20, and in Diana's place Mrs Porter and her daughter wash their feet in soda water. The three lines of song are from a bawdy ballad sung by Australian troops in the First World War. Its Mrs Porter is said to have kept a brothel in Cairo, and the soldiers' versions were cruder than this. Eliot's note says only that it "was reported to me from Sydney, Australia".
 sources: Day, The Parliament of Bees, Character 3
 Ovid, Metamorphoses III 138–252
 Poems (1920), "Sweeney Among the Nightingales"
@@ -77,7 +77,7 @@ source: verlaine-parsifal
 lang: French
 title: The children's voices in the dome
 quote: Parsifal a vaincu les Filles, leur gentil<br>Babil et la luxure amusante — et sa pente<br>Vers la Chair de garçon vierge que cela tente<br>D’aimer les seins légers et ce gentil babil; . . .<br>— Et, ô ces voix d’enfants chantant dans la coupole!
-trans: Parsifal has overcome the Maidens, their pretty chatter and amusing lust, and his own leaning, a virgin boy's flesh tempted to love light breasts and that pretty chatter; . . . And, oh, those children's voices singing in the dome!
+trans: Parsifal has overcome the Maidens, their pretty chatter and amusing lust, and his own leaning toward the flesh, a virgin boy’s flesh that all this tempts to love light breasts and that pretty chatter; . . . And, oh, those children's voices singing in the dome!
 body:
 The last line of Verlaine's sonnet "Parsifal" (1886), on Wagner's opera: the knight has resisted the Flower-maidens and Kundry, healed the wounded king Amfortas and adores the Grail, and the sonnet ends on the sound of the boys' choir in the dome of the Grail temple. Eliot's note gives the source. The line follows Mrs Porter and her daughter washing their feet; in Wagner's third act Kundry washes Parsifal's feet before he goes in to the Grail, a parallel critics have often drawn.
 sources: Verlaine, "Parsifal", line 14
@@ -85,15 +85,15 @@ Wagner, Parsifal, Act III
 Rainey, Annotated Waste Land, note on line 202
 ---
 id: tereu
-line: 206
+line: 203
 to: 206
-anchor: Tereu
+anchor: Twit twit twit
 kind: echo
 source: lyly-campaspe
 title: Tereu, the nightingale's cry
 quote: What bird so sings, yet so does wail?<br>O ’tis the ravish’d nightingale.<br>Jug, jug, jug, jug, tereu! she cries,<br>And still her woes at midnight rise.
 body:
-The song printed with Lyly's <i>Campaspe</i> (the play 1584, its songs 1632) gives the Elizabethan convention that the nightingale sings "jug jug" and cries "tereu", the vocative of Tereus, the name of the king who raped her and cut out her tongue. The story is Ovid's (<i>Metamorphoses</i> VI) and is told at lines 99–103. Line 205 repeats line 100, "So rudely forced", in an older spelling, and Eliot's own note at line 100 points to this passage ("Cf. Part III, l. 204").
+The song printed with Lyly's <i>Campaspe</i> (the play 1584, its songs 1632) gives the Elizabethan convention that the nightingale sings "jug jug" and cries "tereu", the vocative of Tereus, the name of the king who raped Philomela and cut out her tongue before she was changed into the nightingale. The story is Ovid's (<i>Metamorphoses</i> VI) and is told at lines 99–103. Line 205 repeats line 100, "So rudely forced", in an older spelling, and Eliot's own note at line 100 points to this passage ("Cf. Part III, l. 204").
 sources: Lyly, Campaspe V.i
 Ovid, Metamorphoses VI 424–674
 ---
@@ -107,7 +107,7 @@ image: smyrna-1920
 body:
 Eugenides is a Greek surname, from <i>eugenēs</i>, well-born. Smyrna, now İzmir, was the chief port of Asia Minor and a centre of the dried-fruit trade. The currants in his pocket are presumably samples. "C.i.f. London: documents at sight" is trade shorthand of the kind Eliot handled at Lloyds Bank. The price covers cost, insurance and freight to London, and the shipping documents are handed over when the sight draft is paid. Eliot's note expands it as "carriage and insurance free", which is not the trade usage. French was the trading language of the Levant, and Mr. Eugenides speaks the "demotic", or colloquial, kind. The Cannon Street Hotel formed the front of Cannon Street station in the City and was much used for business meetings. The Metropole is usually taken as the Hotel Metropole on the Brighton seafront, and the weekend as a proposition, often read as a homosexual one.
 
-Eliot's note to line 218 makes him the "one-eyed merchant, seller of currants" of Madame Sosostris's pack, who "melts into the Phoenician Sailor". His one eye is sometimes explained by the playing cards that show a face in profile. Weston (<i>From Ritual to Romance</i>, chapter XII) counts Syrian merchants, with slaves, officials and soldiers, among the carriers of the mystery cults behind the Grail to the western Roman Empire.
+Eliot's note to line 218 makes him the "one-eyed merchant, seller of currants" of Madame Sosostris's pack, who "melts into the Phoenician Sailor". His one eye is sometimes explained by the playing cards that show a face in profile. In <i>From Ritual to Romance</i>, the book on the Grail legend that Eliot’s headnote cites, Jessie L. Weston counts Syrian merchants, with slaves, officials and soldiers, among the carriers of the mystery cults behind the Grail to the western Roman Empire.
 sources: Weston, From Ritual to Romance, ch. XII
 Southam, Guide, notes on lines 209–214
 Rainey, Annotated Waste Land, notes on lines 209–214
@@ -124,8 +124,8 @@ title: Sappho's evening star
 quote: Ἔσπερε πάντα φέρων ὄσα φαίνολις ἐσκέδασ’ Αὔως,<br>φέρεις ὄιν, φέρεις αἶγα, φέρεις ἄπυ μάτερι παῖδα.
 trans: Evening star, bringing back everything that shining dawn scattered: you bring the sheep, you bring the goat, you bring the child back to its mother.
 body:
-Sappho's two lines on the evening star, which brings back all that dawn scattered, are behind "the evening hour that strives / Homeward, and brings the sailor home from sea". Eliot's note concedes that his lines "may not appear as exact as Sappho's" and says he had in mind the "longshore" or "dory" fisherman coming in at nightfall. The dory is the small boat of the New England fishing fleets, and Gloucester, Massachusetts, where the Eliots spent their summers, was one of their ports. Stevenson's "Requiem" ("Home is the sailor, home from sea") is also usually cited. The violet hour is dusk, the end of the working day, when "the eyes and back / Turn upward from the desk". The word returns in Part V, in "the violet air" (373) and "the violet light" (380).
-sources: Sappho, fr. 104 (104a in Lobel and Page)
+The two lines of Sappho, the Greek lyric poet of Lesbos (about 600 BC), on the evening star, which brings back all that dawn scattered, are behind "the evening hour that strives / Homeward, and brings the sailor home from sea". Eliot's note concedes that his lines "may not appear as exact as Sappho's" and says he had in mind the "longshore" or "dory" fisherman coming in at nightfall. The dory is the small boat of the New England fishing fleets, and Gloucester, Massachusetts, where the Eliots spent their summers, was one of their ports. Robert Louis Stevenson’s “Requiem” (1887), which ends “Home is the sailor, home from sea, / And the hunter home from the hill”, is also heard in the line. The violet hour is dusk, the end of the working day, when "the eyes and back / Turn upward from the desk". The word returns in Part V, in "the violet air" (373) and "the violet light" (380).
+sources: Sappho, fr. 104 (104a in Lobel and Page; the Greek as in Wharton, Sappho (1887), fr. 95)
 Stevenson, "Requiem", line 7
 T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
 ---
@@ -138,9 +138,9 @@ source: ovid-met3
 title: The man who had been a woman
 image: tiresias
 body:
-Ovid, <i>Metamorphoses</i> III, which Eliot's note quotes in Latin. Tiresias struck two coupling snakes with his staff and was turned into a woman; in the eighth year he struck them again and became a man. When Jupiter and Juno argued over which sex has the greater pleasure in love they asked him, as the one who had been both, and he sided with Jupiter, who said women do. Juno blinded him; Jupiter, who could not undo another god's act, gave him foresight instead. He is also the blind prophet of Thebes in Sophocles' <i>Oedipus</i>, and the dead seer Odysseus consults in <i>Odyssey</i> XI: "I who have sat by Thebes below the wall / And walked among the lowest of the dead."
+Ovid, <i>Metamorphoses</i> III, which Eliot's note quotes in Latin. Tiresias struck two coupling snakes with his staff and was turned into a woman; in the eighth year he struck them again and became a man. When Jupiter and Juno argued over which sex has the greater pleasure in love they asked him, as the one who had been both, and he sided with Jupiter, who said women do. Juno blinded him; Jupiter, who could not undo another god's act, gave him foresight instead. He is also the blind prophet of Thebes in Sophocles’ tragedy <i>Oedipus the King</i>, and the dead seer whom Odysseus consults among the ghosts in Book XI of Homer’s <i>Odyssey</i>: "I who have sat by Thebes below the wall / And walked among the lowest of the dead."
 
-Eliot's note calls him "the most important personage in the poem, uniting all the rest", and says "What Tiresias <i>sees</i>, in fact, is the substance of the poem." The claim is Eliot's, made in the notes he wrote for the book edition of December 1922, a year after the scene was typed. In 1956 he said the notes had been expanded to fill out the volume and called them "bogus scholarship". Critics divide: some read the whole poem as what Tiresias sees, others take him as one voice among many and the note as an afterthought. In the poem he names himself three times, at 218, 228 and 243, all in this scene. Pound, in the margin of the typescript, objected to the scene's hedging: beside "Perhaps a cheap house agent's clerk" he wrote "Perhaps be damned", and beside the typist's "one half-formed thought may pass" he told Eliot that Tiresias should "make up yr. mind" whether he knew or not.
+Eliot's note calls him "the most important personage in the poem, uniting all the rest", and says "What Tiresias <i>sees</i>, in fact, is the substance of the poem." The claim is Eliot's, made in the notes he wrote for the book edition of December 1922, a year after the scene was typed. In 1956 he said the notes had been expanded to fill out the volume and called them "bogus scholarship". Readers divide. Grover Smith, in his study of Eliot’s poetry (1956), read the whole poem as what Tiresias sees; the critic Hugh Kenner, in his book <i>The Invisible Poet</i> (1959), took him as one voice among the poem’s many and the note as an afterthought. In the poem he names himself three times, at 218, 228 and 243, all in this scene. Ezra Pound, who cut the poem, objected in the margin of the typescript to the scene’s hedging: beside "Perhaps a cheap house agent's clerk" he wrote "Perhaps be damned", and beside the typist's "one half-formed thought may pass" he told Eliot that Tiresias should "make up yr. mind" whether he knew or not.
 sources: Ovid, Metamorphoses III 316–338
 Sophocles, Oedipus Tyrannus, lines 300–462
 Homer, Odyssey XI 90–151
@@ -160,7 +160,7 @@ title: The typist and the clerk
 body:
 The typist lives in one rented room. Her food comes out of tins, the divan is her bed at night, her "combinations" (a one-piece undergarment) are drying out of the window, and her "stays" (a corset) are piled on the divan with the stockings and camisoles. Her visitor is a clerk in a house agent's (an estate agent's) office; "carbuncular" means pimply. In the simile at 233–234, Bradford is the Yorkshire wool town that stood for fortunes made in the war, and a silk hat is a gentleman's top hat. Eliot's note at line 218 says that what Tiresias sees "is the substance of the poem"; here Tiresias says he has "foresuffered all" and foretells the rest.
 
-In the typescript the scene ran in regular quatrains rhyming abab, and Pound cut several stanzas, writing beside it that the verse was "not interesting enough as verse" for so much of it. What survives keeps the quatrains from 231 to 246 and loosens them before and after. Critics have read Tiresias's watching as compassion and as voyeurism.
+In the typescript the scene ran in regular quatrains rhyming abab, and Ezra Pound, who cut the poem, struck out several stanzas, writing beside them that the verse was “not interesting enough as verse to warrant so much of it”. What survives keeps the quatrains from 231 to 246 and again at 253–256, and loosens the verse before and between.
 sources: Facsimile (1971), the typescript of Part III
 Ricks and McCue, commentary on lines 222–230
 ---
@@ -171,9 +171,9 @@ anchor: When lovely woman stoops to folly
 kind: echo
 source: goldsmith-vicar
 title: Goldsmith's song
-quote: When lovely woman stoops to folly,<br>And finds too late that men betray,<br>What charm can soothe her melancholy,<br>What art can wash her guilt away?<br><br>The only art her guilt to cover,<br>To hide her shame from every eye,<br>To give repentance to her lover,<br>And wring his bosom, is—to die.
+quote: When lovely woman stoops to folly,<br>And finds too late that men betray,<br>What charm can sooth her melancholy,<br>What art can wash her guilt away?<br><br>The only art her guilt to cover,<br>To hide her shame from every eye,<br>To give repentance to her lover,<br>And wring his bosom—is to die.
 body:
-Olivia Primrose's song in <i>The Vicar of Wakefield</i> (1766), chapter 24, sung to her family some weeks after her father has found her at an inn, cast off by the squire who seduced her, and brought her home. Eliot takes Goldsmith's first line and adds "and" to carry it into his own longer line; Goldsmith's lines have four beats, Eliot's five. In the song the only art left to the fallen woman is to die; Eliot's typist puts a record on the gramophone. The scene has been read as contempt for her and as a kind of mercy.
+Olivia Primrose’s song in Oliver Goldsmith’s novel <i>The Vicar of Wakefield</i> (1766), chapter 24: the vicar’s elder daughter sings it to her family some weeks after her father has found her at an inn, cast off by the squire who seduced her, and brought her home. Eliot takes Goldsmith's first line and adds "and" to carry it into his own longer line; Goldsmith's lines have four beats, Eliot's five. In the song the only art left to the fallen woman is to die; Eliot's typist puts a record on the gramophone.
 sources: Goldsmith, The Vicar of Wakefield, chs. 21–24
 ---
 id: strand
@@ -184,7 +184,7 @@ kind: place
 image: st-magnus-interior
 title: From the Strand to Lower Thames Street
 body:
-Ferdinand's line in <i>The Tempest</i>, I, ii, from the speech already echoed at lines 191–192, which is what Eliot's "as above" refers to. The music goes along the Strand, up Queen Victoria Street, which runs from Blackfriars to the Bank, and down to Lower Thames Street, where Billingsgate fish market stood until 1982, hence the "fishmen". St Magnus the Martyr is Wren's church at the north end of the old London Bridge, rebuilt after the Great Fire, the body of the church complete by 1676; "Ionian" is usually taken to mean the Ionic columns that divide its nave from the aisles. In April 1920 a commission appointed by the Bishop of London and chaired by Lord Phillimore recommended removing nineteen City churches, St Magnus among them. The London County Council's reply, <i>The Proposed Demolition of Nineteen City Churches</i> (October 1920), is the pamphlet Eliot's note cites. It calls St Magnus "one of the most beautiful of all Wren's works" but finds the interior "disappointing"; Eliot's "to my mind one of the finest among Wren's interiors" takes the other side. The church stands; its interior was redecorated in 1924.
+Line 257 is Ferdinand’s, in Shakespeare’s <i>The Tempest</i>, Act I scene ii: the prince of Naples, sitting on the shore and believing his father drowned, hears Ariel’s music. The same speech is behind lines 191–192, and Eliot’s note on line 257, “V. <i>The Tempest</i>, as above”, points back to his note on line 192. The music goes along the Strand, up Queen Victoria Street, which runs from Blackfriars to the Bank, and down to Lower Thames Street, where Billingsgate fish market stood until 1982, hence the "fishmen". St Magnus the Martyr is the architect Sir Christopher Wren’s church at the north end of the old London Bridge, rebuilt after the Great Fire of 1666, the body of the church complete by 1676; "Ionian" is usually taken to mean the Ionic columns that divide its nave from the aisles. In April 1920 a commission appointed by the Bishop of London and chaired by Lord Phillimore recommended removing nineteen City churches, St Magnus among them. The London County Council's reply, <i>The Proposed Demolition of Nineteen City Churches</i> (October 1920), is the pamphlet Eliot's note cites. It calls St Magnus "one of the most beautiful of all Wren's works" but finds the interior "disappointing"; Eliot's "to my mind one of the finest among Wren's interiors" takes the other side. The church stands; its interior was redecorated in 1924.
 sources: Shakespeare, The Tempest I.ii
 LCC, Nineteen City Churches (1920), preface and pp. 18–19
 Hansard, HL Deb 15 July 1926, vol. 64, col. 1181
@@ -201,7 +201,7 @@ source: gotterdammerung
 title: The Rhine-daughters on the Thames
 image: rhinemaidens
 body:
-"Weialala leia / Wallala leialala" is the refrain of the three Rhine-daughters at the opening of Act III of Wagner's <i>Götterdämmerung</i>, as they swim and sing of the gold stolen from them at the start of the <i>Ring</i>. Eliot's note says the Song of the Thames-daughters begins here and that from line 292 to 306 they speak in turn. Lines 266–276 give the working river of Eliot's day. The barges are Thames sailing barges, whose sails were dressed red-brown; the "heavy spar" is the sprit that carries the mainsail. Greenwich Reach is the stretch of river opposite Greenwich, and the Isle of Dogs is the peninsula of docks on its north bank.
+"Weialala leia / Wallala leialala" is the refrain of the three Rhine-daughters at the opening of Act III of <i>Götterdämmerung</i> (1876), the last of the four operas of Richard Wagner’s <i>Ring</i> cycle, as they swim and sing of the gold stolen from them in the first of them, <i>Das Rheingold</i>. Eliot's note says the Song of the Thames-daughters begins here and that from line 292 to 306 they speak in turn. Lines 266–276 give the working river of Eliot's day. The barges are Thames sailing barges, whose sails were dressed red-brown; the "heavy spar" is the sprit that carries the mainsail. Greenwich Reach is the stretch of river opposite Greenwich, and the Isle of Dogs is the peninsula of docks on its north bank.
 sources: Wagner, Götterdämmerung III.i
 Rainey, Annotated Waste Land, notes on lines 275–276
 Shipping Wonders of the World, "Thames Sailing Barges"
@@ -216,7 +216,7 @@ title: Elizabeth and Leicester on the river
 image: elizabeth-leicester
 quote: In the afternoon we were in a barge, watching the games on the river. She was alone with the Lord Robert and myself on the poop, when they began to talk nonsense, and went so far that Lord Robert at last said, as I was on the spot there was no reason why they should not be married if the queen pleased.
 body:
-Eliot's note quotes Froude's <i>History of England</i> (the volume on Elizabeth, chapter iv). Froude translates a letter of 30 June 1561 from Álvaro de la Quadra, Philip II's ambassador in London, describing a water party at which Elizabeth and Robert Dudley joked in his hearing about marrying. Dudley was made Earl of Leicester three years later. His wife had died the year before the outing, in a fall that left him under suspicion, and the marriage never took place. The gilded stern, the red and gold, the south-west wind and the peal of bells are not in the letter. Eliot does not say what the "White towers" are; they are usually taken as the Tower of London. Critics have set the passage beside the "burnished throne" of line 77, Shakespeare's Cleopatra in her barge.
+Eliot’s note quotes the Victorian historian J. A. Froude’s <i>History of England</i> (1856–70), in the volume on Elizabeth, chapter iv. Froude translates a letter of 30 June 1561 from Álvaro de la Quadra, Philip II's ambassador in London, describing a water party at which Elizabeth and Robert Dudley joked in his hearing about marrying. Dudley was made Earl of Leicester three years later. His wife had died the year before the outing, in a fall that left him under suspicion, and the marriage never took place. The gilded stern, the red and gold, the south-west wind and the peal of bells are not in the letter. Eliot does not say what the "White towers" are; they are usually taken as the Tower of London. The gilded stern and the red and gold recall the “burnished throne” of line 77, which Eliot’s note on that line traces to Cleopatra in her barge in Shakespeare’s <i>Antony and Cleopatra</i>.
 sources: Froude, Reign of Elizabeth, vol. I, ch. iv, p. 244
 Froude, Reign of Elizabeth, vol. I, pp. 198–200
 Calendar of State Papers, Simancas, vol. 1, no. 134, Quadra to the King, 30 June 1561
@@ -233,7 +233,7 @@ title: La Pia's line
 quote: “Ricorditi di me, che son la Pia;<br>Siena mi fé, disfecemi Maremma:<br>salsi colui che ’nnanellata pria<br>disposando m’avea con la sua gemma.”
 trans: “Remember me, who am La Pia; Siena made me, Maremma unmade me: he knows it who, having first put a ring on me, wedded me with his gem.”
 body:
-<i>Purgatorio</i> V, 133–136. Among the late-repentant who died by violence, a woman gives Dante her name, her birthplace and the place of her death in one sentence, and points at her husband without naming him. The early commentators made her Pia de' Tolomei of Siena, killed on her husband's orders at his castle in the Maremma; nothing certain is known of her. The first Thames-daughter's speech (lines 292–295) keeps the shape of Dante's line: Siena made me, Maremma unmade me; Highbury bore me, Richmond and Kew undid me. Highbury is in north London, and "Trams and dusty trees" (line 292) is her own first line. Richmond and Kew are on the river above London, where Londoners went boating. She gives no name.
+<i>Purgatorio</i> V, 133–136. Among the late-repentant who died by violence, a woman gives Dante her name, her birthplace and the place of her death in one sentence, and points at her husband without naming him. The early commentators made her Pia de' Tolomei of Siena, killed on her husband's orders at his castle in the Maremma; nothing certain is known of her. Eliot’s note on line 293 quotes the first two of these lines. The speech of the first of the three Thames-daughters named in Eliot’s note on line 266 (lines 292–295) keeps the shape of Dante’s line: Siena made me, Maremma unmade me; Highbury bore me, Richmond and Kew undid me. Highbury is in north London, and "Trams and dusty trees" (line 292) is her own first line. Richmond and Kew are on the river above London, where Londoners went boating. She gives no name.
 sources: Dante, Purgatorio V 130–136
 Toynbee, Dante Dictionary, "Pia, La"
 Rainey, Annotated Waste Land, notes on lines 293–294
@@ -245,7 +245,7 @@ anchor: My feet are at Moorgate, and my heart
 kind: voice
 title: The second daughter
 body:
-The second of the three Thames-daughters of Eliot's note speaks from Moorgate, a street and district on the north edge of the City of London, the business district, named from a gate in the old wall. "The event" is the seduction; "a new start" is his phrase, reported without comment.
+The second of the three Thames-daughters named in Eliot’s note on line 266 speaks from Moorgate, a street and district on the north edge of the City of London, the business district, named from a gate in the old wall. "The event" is the seduction; "a new start" is his phrase, reported without comment.
 ---
 id: margate
 line: 300
@@ -255,12 +255,13 @@ kind: place
 image: margate-sands
 title: Margate Sands
 body:
-Margate is a resort on the north Kent coast, where the Thames estuary opens to the sea. Eliot went there in the autumn of 1921, on three months' leave from Lloyds Bank after a breakdown, and stayed four weeks, from 15 October to 12 November, from late October to mid-November. On 4 November he told Sydney Schiff he had done "a rough draft of part of part III", written sitting in a shelter on the front. That part is usually identified as the pencil drafts of lines 266–311, from "The river sweats" to "burning". The Nayland Rock shelter on the promenade, which still stands, was given listed-building protection in 2009 as the likely place. Lyndall Gordon and others have read "I can connect / Nothing with nothing" as Eliot's own confession as well as the third daughter's.
+Margate is a resort on the north Kent coast, where the Thames estuary opens to the sea. Eliot went there in the autumn of 1921, on three months' leave from Lloyds Bank after a breakdown, and stayed four weeks, from 15 October to 12 November. On 4 November he wrote to his friend Sydney Schiff, a novelist and patron of writers, that he had done "a rough draft of part of part III", written sitting in a shelter on the front. That part is usually identified as the pencil drafts of lines 266–311, from "The river sweats" to "burning". The Nayland Rock shelter on the promenade, which still stands, was given listed-building protection in 2009 as the likely place. Eliot’s biographer Lyndall Gordon and others have read "I can connect / Nothing with nothing" as Eliot's own confession as well as the third daughter's.
 sources: Letters, vol. 1, Eliot to Sydney Schiff, 4 November 1921
 Letters, vol. 1, chronology, October–November 1921
 Facsimile (1971), pp. 48–53
 Rainey, Revisiting The Waste Land, ch. 1
 Southam, Guide, note on line 300
+Gordon, Eliot's Early Years
 Historic England, list entry 1393490
 The Observer, 12 July 2009
 ---
@@ -273,7 +274,7 @@ source: augustine-confessions, buddha-fire-sermon
 title: Augustine and the Buddha
 quote: To Carthage I came, where there sang all around me in my ears a cauldron of unholy loves.
 body:
-The opening of Book III of Augustine's <i>Confessions</i> (c. 400), in Pusey's translation (1838), given above; the line, like Eliot's note, rewords it. The Latin has a pun, Carthago and sartago, a frying pan, which is Pusey's "cauldron". Augustine had come to Carthage at about seventeen to study rhetoric, and Book III begins with his love affairs and the theatre. "Burning" is from the Buddha's Fire Sermon, which gives Part III its title: "All things, O priests, are on fire . . . The eye, O priests, is on fire; forms are on fire . . . with the fire of passion, say I, with the fire of hatred, with the fire of infatuation." Eliot's note sends readers to Henry Clarke Warren's <i>Buddhism in Translations</i> (Harvard Oriental Series, 1896). Eliot studied Sanskrit and Pali at Harvard in 1911–13, and it is generally assumed that he met the sermon there. "O Lord Thou pluckest me out" is Augustine again, Book X: "I . . . entangle my steps with these outward beauties; but Thou pluckest me out, O Lord, Thou pluckest me out." Eliot's note at line 309 says that putting "these two representatives of eastern and western asceticism" together here "is not an accident". Critics have connected this burning with the refining fire of <i>Purgatorio</i> XXVI, quoted at line 428.
+The opening of Book III of Augustine's <i>Confessions</i> (c. 400), in the translation (1838) by the Oxford theologian E. B. Pusey, given above; the line, like Eliot's note, rewords it. The Latin has a pun, Carthago and sartago, a frying pan, which is Pusey's "cauldron". Augustine had come to Carthage at about seventeen to study rhetoric, and Book III begins with his love affairs and the theatre. "Burning" is from the Buddha's Fire Sermon, which gives Part III its title: "All things, O priests, are on fire . . . The eye, O priests, is on fire; forms are on fire . . . with the fire of passion, say I, with the fire of hatred, with the fire of infatuation." Eliot's note sends readers to Henry Clarke Warren's <i>Buddhism in Translations</i> (Harvard Oriental Series, 1896). Eliot studied Sanskrit and Pali at Harvard in 1911–13, and it is generally assumed that he met the sermon there. "O Lord Thou pluckest me out" is Augustine again, Book X: "I . . . entangle my steps with these outward beauties; but Thou pluckest me out, O Lord, Thou pluckest me out." Eliot's note at line 309 says that putting "these two representatives of eastern and western asceticism" together here "is not an accident". Critics have connected this burning with the refining fire of <i>Purgatorio</i> XXVI, quoted at line 428.
 sources: Augustine, Confessions III.1
 Augustine, Confessions X.34
 Warren, Buddhism in Translations, § 73, pp. 351–353

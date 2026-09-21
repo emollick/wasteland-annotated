@@ -2,7 +2,7 @@
 const { Card, Path, C, INK, deg, rot, clipTo, clipPolyline, offsetPolyline } = require('../lib');
 const { tube } = require('../fig');
 module.exports = function badNerves() {
-  const c = new Card({ name: 'My Nerves Are Bad To-night', numeral: 'CXI', seed: 111 });
+  const c = new Card({ name: 'My Nerves Are Bad Tonight', numeral: 'CXI', seed: 111 });
   const { px0, px1, py0, py1 } = c; const rnd = c.rnd;
   const S = (pts, t = 0.5) => Path.smooth(pts, { closed: true, tension: t });
   const all = [Path.rect(0, 0, 300, 520).polys()[0]];

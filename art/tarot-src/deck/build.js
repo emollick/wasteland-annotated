@@ -1,6 +1,6 @@
 // node deck/build.js [names...]  -> writes SVGs to out/ and /mnt/project-files/art/tarot, renders PNGs
 const fs = require('fs'), path = require('path'); const { execFileSync } = require('child_process');
-const OUT = path.join(__dirname, '..', 'out'); const DEST = '/mnt/project-files/art/tarot';
+const OUT = path.join(__dirname, '..', 'out'); const DEST = process.env.DEST || '/mnt/project-files/art/tarot';
 fs.mkdirSync(OUT, { recursive: true }); fs.mkdirSync(DEST, { recursive: true });
 const names = process.argv.slice(2);
 const files = [];

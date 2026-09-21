@@ -5,6 +5,7 @@ line: 2
 anchor: Lilacs out of the dead land
 source: whitman-lilacs
 title: Whitman’s lilacs
+what: The American poet Walt Whitman’s elegy for Abraham Lincoln, shot in April 1865: its lilacs beside line 2, its hermit thrush beside the bird of line 357.
 ---
 line: 22
 anchor: A heap of broken images
@@ -23,6 +24,10 @@ line: 30
 anchor: a handful of dust
 source: tennyson
 title: A handful of dust
+what: “a handful of dust”: the mad speaker of Tennyson’s poem <i>Maud</i>, who imagines himself buried under a city street.
+passage: Dead, long dead,<br>Long dead!<br>And my heart is a handful of dust,<br>And the wheels go over my head,<br>And my bones are shaken with pain,<br>For into a shallow grave they are thrust,<br>Only a yard beneath the street . . . (Maud, II.v)
+sources: Tennyson, Maud, Part II, section V
+Eliot, "In Memoriam" (1936)
 ---
 line: 32
 anchor: Der Heimat zu,
@@ -102,10 +107,6 @@ line: 201
 anchor: They wash their feet in soda water
 gloss: mrs-porter
 ---
-line: 203
-anchor: Twit twit twit
-gloss: philomel
----
 line: 204
 anchor: Jug jug jug jug jug jug
 gloss: tereu
@@ -113,6 +114,10 @@ gloss: tereu
 line: 205
 anchor: So rudely forc’d.
 gloss: philomel
+---
+line: 206
+anchor: Tereu
+gloss: tereu
 ---
 line: 220
 anchor: the evening hour that strives
@@ -239,11 +244,20 @@ line: 429
 anchor: Quando fiam ceu chelidon
 source: pervigilium-veneris, ovid-met6
 title: The Vigil of Venus
+what: “Quando fiam ceu chelidon”: when shall I be like the swallow? The poem’s “ceu” (like) is Eliot’s: every printing from 1922 to 1932, and his fair copies, read “ceu”, where the Latin text, quoted above, has “uti”; the line was changed to “uti” in <i>Collected Poems 1909–1935</i> (1936), and Lawrence Rainey, in his annotated edition of the poem, doubts that the change was Eliot’s.
+sources: Pervigilium Veneris, lines 85–93
+Poems 1909–1925, The Waste Land, line 428
+Rainey, Annotated Waste Land, note on line 428
 ---
 line: 429
 anchor: O swallow swallow
 source: tennyson
 title: Tennyson’s swallow
+what: “O swallow swallow”: the Prince’s song in Tennyson’s poem <i>The Princess</i>.
+passage: O Swallow, Swallow, flying, flying South,<br>Fly to her, and fall upon her gilded eaves,<br>And tell her, tell her, what I tell to thee. (The Princess)
+sources: Tennyson, The Princess, the song "O Swallow, Swallow"
+Swinburne, "Itylus"
+Eliot, "In Memoriam" (1936)
 ---
 line: 430
 anchor: Le Prince d’Aquitaine à la tour abolie

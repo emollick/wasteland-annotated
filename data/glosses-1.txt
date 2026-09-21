@@ -3,11 +3,11 @@ line: 0
 anchor: The Waste Land
 kind: gloss
 source: weston
-title: Where the title comes from
+title: The title, and Jessie Weston’s book
 body:
-Eliot's first note says that "not only the title, but the plan and a good deal of the incidental symbolism of the poem" were suggested by Jessie L. Weston's <i>From Ritual to Romance</i> (1920). Weston argued that the Grail romances preserve, beneath their Christian story, the rites of a much older fertility cult. In her account the king is wounded or impotent, his land lies waste with him, and it is healed only when a stranger arrives and asks the right question. Eliot's note recommends the book to "any who think such elucidation of the poem worth the trouble."
+Eliot's first note says that "not only the title, but the plan and a good deal of the incidental symbolism of the poem" were suggested by <i>From Ritual to Romance</i> (1920), by the Arthurian scholar Jessie L. Weston. Weston argued that the Grail romances preserve, beneath their Christian story, the rites of a much older fertility cult. In her account the king is wounded or impotent, his land lies waste with him, and it is healed only when a stranger arrives and asks the right question. Eliot's note recommends the book to "any who think such elucidation of the poem worth the trouble."
 
-The typescript had another title. Parts I and II are headed <i>He Do the Police in Different Voices</i>, a phrase from Dickens's <i>Our Mutual Friend</i> (1864–65), Book I, chapter 16, where Betty Higden praises her foundling Sloppy: "You mightn't think it, but Sloppy is a beautiful reader of a newspaper. He do the Police in different voices." The heading was dropped before publication and is known from the drafts, published in facsimile in 1971.
+The typescript carries an earlier heading. Parts I and II are headed <i>He Do the Police in Different Voices</i>, a phrase from Dickens's <i>Our Mutual Friend</i> (1864–65), Book I, chapter 16, where Betty Higden praises her foundling Sloppy: "You mightn't think it, but Sloppy is a beautiful reader of a newspaper. He do the Police in different voices." The heading was dropped before publication and is known from the drafts, published in facsimile in 1971.
 sources: Weston, From Ritual to Romance, chs. II and IX
 Dickens, Our Mutual Friend, bk. I, ch. 16
 Facsimile (1971), the typescript of Part I
@@ -25,7 +25,7 @@ trans: “For I myself, with my own eyes, saw the Sibyl at Cumae hanging in a ja
 body:
 The speaker is Trimalchio, a freed slave grown enormously rich, whose dinner party fills the longest surviving stretch of Petronius's <i>Satyricon</i> (first century AD). In chapter 48 he is boasting to his guests of what he has seen. The Sibyl's story is in Ovid, <i>Metamorphoses</i> XIV, 130–153: Apollo offered her whatever she wished; she picked up a heap of dust and asked for as many years as it had grains, and forgot to ask for youth. Ovid has her foretell that she will shrink until only her voice is left; the jar is Petronius's detail, and the boys' question and her answer are in Greek in his Latin. Ovid's word for what she held is dust, "pulvis," and line 30 of the poem ends in "a handful of dust."
 
-This epigraph was not the first. The typescript carried the passage on Kurtz's death from Conrad's <i>Heart of Darkness</i>, as Eliot typed it: "Did he live his life again in every detail of desire, temptation, and surrender during that supreme moment of complete knowledge? He cried in a whisper at some image, at some vision,—he cried out twice, a cry that was no more than a breath—'The horror! the horror!'" Pound wrote on 24 January 1922 that he doubted "if Conrad is weighty enough to stand the citation." Eliot answered that it was "much the most appropriate I can find, and somewhat elucidative," and gave it up. The <i>Dial</i> printing of November 1922 carried the epigraph but not Eliot's notes; its editors added a footnote that an edition "with annotations by Mr Eliot" was coming from Boni &amp; Liveright. The <i>Criterion</i> printing of October 1922 had no notes either. The book followed in December 1922.
+This epigraph was not the first. The typescript carried the passage on the death of the trader Kurtz from Joseph Conrad’s novella <i>Heart of Darkness</i> (1899), as Eliot typed it: "Did he live his life again in every detail of desire, temptation, and surrender during that supreme moment of complete knowledge? He cried in a whisper at some image, at some vision,—he cried out twice, a cry that was no more than a breath—'The horror! the horror!'" Ezra Pound, the poet who cut the poem down to its final shape, wrote on 24 January 1922 that he doubted “if Conrad is weighty enough to stand the citation.” Eliot answered that it was "much the most appropriate I can find, and somewhat elucidative," and gave it up; the Sibyl stood in its place in every printing of 1922.
 sources: Petronius, Satyricon 48
 Ovid, Metamorphoses XIV 130–153
 Conrad, Heart of Darkness, ch. 3
@@ -46,16 +46,17 @@ title: The better craftsman
 quote: “O frate,” disse, “questi ch’io ti cerno<br>col dito,” e additò un spirto innanzi,<br>“fu miglior fabbro del parlar materno.”
 trans: “O brother,” he said, “this one I point out to you with my finger,” and he pointed to a spirit ahead, “was a better craftsman of the mother tongue.”
 body:
-The line is <i>Purgatorio</i> XXVI, 117. The poet Guido Guinizelli, doing penance among the lustful in the refining fire, points Dante toward Arnaut Daniel, the Provençal troubadour, and calls him the better smith of his native speech. The same canto is quoted near the end of the poem: "Poi s'ascose nel foco che gli affina" at line 428 is Arnaut stepping back into the flames. "Il miglior fabbro" was already Pound's phrase: it is the title of his chapter on Arnaut Daniel in <i>The Spirit of Romance</i> (1910).
+The line is <i>Purgatorio</i> XXVI, 117. The poet Guido Guinizelli, doing penance among the lustful in the refining fire, points Dante toward Arnaut Daniel, the Provençal troubadour, and calls him the better smith of his native speech. The same canto is quoted near the end of the poem: "Poi s'ascose nel foco che gli affina" at line 428 is Arnaut stepping back into the flames. “Il miglior fabbro” was already a phrase of Ezra Pound’s, the poet who cut the poem down to its final shape: it is the title of his chapter on Arnaut Daniel in <i>The Spirit of Romance</i> (1910).
 
-The dedication is not in the printings of 1922, nor in the Hogarth Press edition of 1923. Eliot wrote it by hand in Pound's copy of the Boni &amp; Liveright edition, in January 1923, and first printed it in <i>Poems 1909–1925</i>. Pound had seen the typescript in Paris in November 1921, on Eliot's way to Lausanne, and went through the whole poem with him there in January 1922 on his way back; further comments came by post. Eliot said in 1946 that the poem left Pound's hands "reduced to about half its size." Pound's letter of 24 January 1922, dated "24 Saturnus, An 1" in a calendar of his own devising, gives his verdict: "Complimenti, you bitch. I am wracked by the seven jealousies." (D. D. Paige's 1950 edition of Pound's letters printed it as 24 December 1921.)
+The dedication is not in the printings of 1922, nor in the English edition of 1923, hand-set by Leonard and Virginia Woolf at their Hogarth Press. Eliot wrote it by hand in Pound’s copy of the New York edition of 1922, in January 1923, and first printed it in his collection <i>Poems 1909–1925</i>. Pound had seen the typescript in Paris in November 1921, on Eliot's way to Lausanne, and went through the whole poem with him there in January 1922 on his way back; further comments came by post. Eliot said in 1946 that the poem left Pound's hands "reduced to about half its size." Pound's letter of 24 January 1922, dated "24 Saturnus, An 1" in a calendar of his own devising, gives his verdict: "Complimenti, you bitch. I am wracked by the seven jealousies."
 sources: Dante, Purgatorio XXVI 115–117, 148
 Pound, The Spirit of Romance, ch. II
 The Waste Land (1922)
 The Dial, November 1922
 Poems 1909–1925
 Eliot, "Ezra Pound," Poetry (1946)
-Pound, Letters, ed. Paige, no. 181
+Pound, Letters, ed. Paige, no. 181 (there dated 24 December 1921)
+Letters, vol. 1, Pound to Eliot, 24 January 1922
 Ellmann (1971)
 Rainey, Revisiting The Waste Land, ch. 1
 Southam, Guide, note on the dedication
@@ -71,9 +72,9 @@ title: Chaucer's April, reversed
 quote: Whan that Aprill with his shoures soote<br>The droghte of March hath perced to the roote,<br>And bathed every veyne in swich licour<br>Of which vertu engendred is the flour . . .
 trans: When April with its sweet showers has pierced the drought of March to the root, and bathed every vein in such liquid as has the power to engender the flower . . .
 body:
-Chaucer's opening welcomes April. Its showers end the drought of March, the sap rises, and people set out on pilgrimages. Eliot's first line answers it; every commentary notes the echo. The rain is still there ("stirring / Dull roots with spring rain"), but the month is called cruel because what the rain stirs is "memory and desire". Winter's snow, by contrast, was "forgetful". Five of the first seven lines end on a participle (breeding, mixing, stirring, covering, feeding) whose object is held over to the next line.
+The opening of Chaucer’s <i>Canterbury Tales</i>, the General Prologue, welcomes April. Its showers end the drought of March, the sap rises, and people set out on pilgrimages. Eliot's first line answers it; every commentary notes the echo. The rain is still there ("stirring / Dull roots with spring rain"), but the month is called cruel because what the rain stirs is "memory and desire". Winter's snow, by contrast, was "forgetful". Five of the first seven lines end on a participle (breeding, mixing, stirring, covering, feeding) whose object is held over to the next line.
 
-Two other lilac poems are usually mentioned. Whitman's "When Lilacs Last in the Dooryard Bloom'd" (1865) mourns Lincoln, who was shot in April; it has lilacs, "ever-returning spring" and a hermit thrush, and Eliot's own note to line 357 names the hermit-thrush. Rupert Brooke's "The Old Vicarage, Grantchester", written in Berlin in May 1912, opens "Just now the lilac is in bloom"; Brooke died in April 1915. The Whitman connection is generally accepted; the Brooke one is a suggestion. "Us" in line 5 is never identified. The same verse paragraph runs on without a break through the Munich lines, which begin at line 8, to line 18.
+Two other lilac poems are usually mentioned. Whitman's "When Lilacs Last in the Dooryard Bloom'd" (1865) mourns Lincoln, who was shot in April; it has lilacs, "ever-returning spring" and a hermit thrush, and Eliot's own note to line 357 names the hermit-thrush. Rupert Brooke's "The Old Vicarage, Grantchester", written in Berlin in May 1912, opens "Just now the lilac is in bloom"; Brooke died in April 1915. The Whitman connection is generally accepted; the Brooke one is a suggestion. "Us" in line 5 is never identified. The same verse paragraph runs on without a break through the lines at the lake outside Munich and in the city’s Hofgarten, which begin at line 8, to line 18.
 sources: Chaucer, General Prologue, lines 1–12
 Whitman, "When Lilacs Last in the Dooryard Bloom'd", sections 1 and 4
 Brooke, "The Old Vicarage, Grantchester"
@@ -85,7 +86,7 @@ anchor: April
 kind: draft
 title: What came before "April"
 body:
-In the typescript, "April is the cruellest month" is not the first line. Fifty-four lines come before it. They tell of a night out in Boston, in the voice of one of a party of young men: drinks at "Tom's place," a show, then a call alone at "Myrtle's place" at two in the morning, where he is told he is too drunk; a policeman picks him up for "committing a nuisance," a man he knows gets him off, and he leaves their cab at sunrise to walk home. The passage is struck through in pencil. Valerie Eliot's facsimile attributes the stroke to Eliot, and Pound's annotations begin only after it, which is why the cut is credited to Eliot rather than Pound. The typescript is in the Berg Collection of the New York Public Library, among John Quinn's papers, and is reproduced in the facsimile edition of 1971.
+In the typescript, "April is the cruellest month" is not the first line. Fifty-four lines come before it. They tell of a night out in Boston, in the voice of one of a party of young men: drinks at "Tom's place," a show, then a call alone at "Myrtle's place" at two in the morning, where he is told he is too drunk; a policeman picks him up for "committing a nuisance," a man he knows gets him off, and he leaves their cab at sunrise to walk home. The passage is struck through in pencil. The facsimile edition of the drafts made in 1971 by Valerie Eliot, the poet’s widow, attributes the stroke to Eliot, and the pencilled comments of Ezra Pound, who went through the typescript, begin only after it, which is why the cut is credited to Eliot rather than Pound. Eliot gave the typescript in 1922 to John Quinn, the New York lawyer and collector; after Quinn’s death in 1924 it lay unnoticed with his family until his niece sold it, in 1958, to the Berg Collection of the New York Public Library, which made it known in 1968.
 sources: Facsimile (1971), the typescript of Part I
 Edmund Wilson (1971)
 Ellmann (1971)
@@ -98,7 +99,7 @@ anchor: Starnbergersee
 kind: place
 title: The lake and the Hofgarten
 body:
-The Starnberger See (one word in the poem) is the long lake south-west of Munich; the Hofgarten is the court garden beside the Residenz in the city centre, with arcades along two sides, which are probably the "colonnade". In the typescript the lake was the Königssee, in the far south-east of Bavaria; Eliot changed it (the typescript is reproduced in the 1971 facsimile). He was in Munich in July and August 1911, at the end of his year in Paris, and finished "The Love Song of J. Alfred Prufrock" there. King Ludwig II of Bavaria, Wagner's patron and the builder of Neuschwanstein, was found dead in the lake on 13 June 1886; the verdict was suicide by drowning, though the autopsy found no water in his lungs. Commentators, Southam among them, have set that death beside the poem's "death by water"; the poem itself says nothing of it. The lake is also in Countess Marie Larisch's memoir (see the note at line 15): her aunt the Empress Elisabeth spent her childhood summers at Possenhofen on its shore.
+The Starnberger See (one word in the poem) is the long lake south-west of Munich; the Hofgarten is the court garden beside the Residenz in the city centre, with arcades along two sides, which are probably the "colonnade". In the typescript the lake was the Königssee, in the far south-east of Bavaria; Eliot changed it. He was in Munich in July and August 1911, at the end of his year in Paris, and finished "The Love Song of J. Alfred Prufrock" there. King Ludwig II of Bavaria, Wagner's patron and the builder of Neuschwanstein, was found dead in the lake on 13 June 1886; the verdict was suicide by drowning, though the autopsy found no water in his lungs. Commentators, among them B. C. Southam in his guide to the poem, have set that death beside the poem’s “death by water”; the poem itself says nothing of it. The lake is also in <i>My Past</i> (1913), the memoir of Countess Marie Larisch, the niece of the Empress Elisabeth of Austria whose talk and book lie behind the Marie of lines 8–18: the Empress, her aunt, spent her childhood summers at Possenhofen on its shore.
 sources: Facsimile (1971), the typescript of Part I
 Larisch, My Past, chs. 1–2
 Miller (1977)
@@ -115,7 +116,7 @@ anchor: Marie
 kind: gloss
 title: Countess Marie Larisch
 body:
-Lines 8–18 draw on Countess Marie Larisch (1858–1940), a niece of the Empress Elisabeth of Austria. G. L. K. Morris pointed out in 1954 ("Marie, Marie, Hold On Tight," <i>Partisan Review</i>) that her memoir <i>My Past</i> (1913) has the archduke who was her cousin, the Starnbergersee, the mountains where one feels free, the reading late at night and the winters in the south. Valerie Eliot's note in the 1971 facsimile adds that Eliot had met her, though when and where is not known, and that the sledding, which is not in the book, came word for word from her conversation. Larisch had carried messages between her cousin Crown Prince Rudolf and Mary Vetsera before the two were found dead at Mayerling in January 1889; she was banished from court, and the memoir revived the scandal. "The archduke's, my cousin's" fits Rudolf.
+Lines 8–18 draw on Countess Marie Larisch (1858–1940), a niece of the Empress Elisabeth of Austria. The painter and critic G. L. K. Morris pointed out in 1954 that her memoir <i>My Past</i> (1913) has the archduke who was her cousin, the Starnbergersee and the winters spent in the south. The mountains where one feels free and the reading late at night are not in the book. Valerie Eliot, the poet’s widow, adds in her 1971 edition of the drafts that Eliot had met her, though when and where is not known, and that the sledding, which is not in the book, came word for word from her conversation. Larisch had carried messages between her cousin Crown Prince Rudolf, heir to the Austrian throne, and his mistress, the seventeen-year-old Baroness Mary Vetsera, before the two were found dead at his hunting lodge at Mayerling in January 1889; she was banished from court, and the memoir revived the scandal. "The archduke's, my cousin's" fits Rudolf.
 sources: Larisch, My Past, chs. 1–2, 5 and 9–16
 Facsimile (1971), p. 126
 Morris (1954)
@@ -130,7 +131,7 @@ lang: German
 title: German, not Russian
 trans: I am not Russian at all; I come from Lithuania, real German.
 body:
-The line is in German. "Russin" is feminine, so the speaker is a woman. Whether she is the Marie of the lines that follow, a companion, or someone overheard, the poem does not say; the site's Voices lens gives the line to a separate voice. Lithuania was part of the Russian Empire until 1918 and a republic after it; either way a German speaker from there might expect to be taken for Russian and want to correct it. It is the first line of the poem proper not in English.
+The line is in German. "Russin" is feminine, so the speaker is a woman. Whether she is the Marie of the lines that follow, a companion, or someone overheard, the poem does not say. Lithuania was in the Russian Empire from 1795 until the German army occupied it in 1915, and declared itself independent in 1918; before the war or after it, a German speaker from there might expect to be taken for Russian and want to correct it. It is the first line of the poem proper not in English.
 sources: Rainey, Annotated Waste Land, note on line 12
 ---
 id: son-of-man
@@ -142,9 +143,9 @@ source: ezekiel, ecclesiastes
 title: "Son of man" in Ezekiel
 quote: And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
 body:
-Eliot's note points to Ezekiel 2:1, where God addresses the prophet as "son of man" and sends him to "a rebellious nation" (2:3). The address runs through the book; in chapter 37 the prophet is set down in a valley of dry bones and told to prophesy until they stand up, and "Dry bones can harm no one" (line 391) is usually taken to recall that chapter. "A heap of broken images" is usually traced to Ezekiel 6:4–6, where the idols and images of Israel are to be broken. The voice here is unlike anything in the first eighteen lines; readers have compared it to "Ash-Wednesday" (1930) and the choruses of <i>The Rock</i> (1934).
+Eliot's note points to Ezekiel 2:1, where God addresses the prophet as "son of man" and sends him to "a rebellious nation" (2:3). The address runs through the book; in chapter 37 the prophet is set down in a valley of dry bones and told to prophesy until they stand up, and "Dry bones can harm no one" (line 391) is usually taken to recall that chapter. "A heap of broken images" is usually traced to Ezekiel 6:4–6, where the idols and images of Israel are to be broken. The voice here is unlike anything in the first eighteen lines; readers have compared it to Eliot’s own later work, “Ash-Wednesday” (1930) and the choruses of <i>The Rock</i> (1934).
 
-Eliot's note on line 23 points to Ecclesiastes 12:5, in the chapter on old age: "the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets." The grasshopper there is a weight, not a sound: in age even so light a thing is a burden. Eliot's cricket gives "no relief."
+Eliot's note on line 23 points to Ecclesiastes 12:5, in the chapter on old age: "the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets." In Ecclesiastes the grasshopper is a burden: in old age even so light a thing weighs. In the poem the cricket gives “no relief”.
 sources: King James Bible, Ezekiel 2:1–3
 King James Bible, Ezekiel 6:4–6
 King James Bible, Ezekiel 37:1–10
@@ -160,7 +161,7 @@ to: 30
 anchor: Come in under the shadow of this red rock
 kind: draft
 source: death-of-st-narcissus
-title: Eliot borrowing from himself
+title: The red rock, from an earlier poem
 body:
 "Come in under the shadow of this red rock" comes almost unchanged from "The Death of Saint Narcissus," a poem Eliot wrote about 1915 and withdrew from <i>Poetry</i> (Chicago) after it had been set in type; it was first printed in 1950 and is reproduced in the 1971 facsimile. There the rock of shelter is grey, and the speaker promises to show something different from two shadows, one sprawling over the sand at daybreak, the other leaping behind a fire against a red rock. Line 27 is carried over word for word. For the shelter of lines 25–26 commentators cite Isaiah 32:2, "the shadow of a great rock in a weary land." The two shadows of lines 28–29, behind you in the morning and rising to meet you at evening, have been read as a life from birth to death. For "a handful of dust" editors cite Tennyson's <i>Maud</i> (Part II, section V): "Dead, long dead, / Long dead! / And my heart is a handful of dust." The Sibyl of the epigraph, in Ovid, asked for as many years as there were grains in a heap of dust.
 sources: Facsimile (1971), the drafts of "The Death of Saint Narcissus"
@@ -191,19 +192,26 @@ anchor: hyacinth girl
 kind: gloss
 title: The hyacinth garden
 body:
-Hyacinthus was the boy Apollo loved and killed by accident with a discus. The flower sprang from his blood, and in Ovid its petals carry the letters AI AI, a cry of grief (<i>Metamorphoses</i> X, 162–219). Sparta kept a three-day festival for him at Amyclae, the Hyacinthia, which began with a day of mourning and ended in rejoicing. In <i>Adonis, Attis, Osiris</i>, the volumes Eliot's headnote names, Frazer gives him a short chapter at the end of the Attis book. He writes there that Hyacinth "has been interpreted as the vegetation which blooms in spring and withers". None of this is needed to read the lines. The commentaries give it because Eliot's headnote promises readers of Frazer "certain references to vegetation ceremonies", and the hyacinth is usually counted as one. Annotators set "neither / Living nor dead" beside Dante's words at the sight of Satan, <i>Inferno</i> XXXIV 25: "Io non mori' e non rimasi vivo" (I did not die and did not stay alive). "The heart of light" has been read as an inversion of the title of Conrad's <i>Heart of Darkness</i>, the book the typescript's epigraph came from (see the note on the epigraph). Eliot used the phrase again in the first section of <i>Burnt Norton</i> (1936).
-
-Two people in Eliot's life have been proposed for the figure in the garden; the text names neither. Lyndall Gordon, from <i>Eliot's Early Years</i> (1977) to <i>The Hyacinth Girl</i> (2022), attaches it to Emily Hale of Boston, to whom Eliot declared his love before sailing for Europe in 1914; his 1,131 letters to her, opened at Princeton in January 2020, show how long the attachment lasted. John Peter's 1952 essay read the poem as an elegy for a dead friend, and his 1969 postscript named the friend as Jean Verdenal; James E. Miller (1977) made the same identification. Verdenal was the friend of Eliot's Paris year, killed at the Dardanelles in May 1915, to whom <i>Prufrock and Other Observations</i> (1917) is dedicated. In the <i>Criterion</i> for April 1934 Eliot recalled that friend crossing the Luxembourg Gardens "waving a branch of lilac", and his death in "the mud of Gallipoli". Compare the lilacs of line 2.
+Hyacinthus was the boy Apollo loved and killed by accident with a discus. The flower sprang from his blood, and in Ovid its petals carry the letters AI AI, a cry of grief (<i>Metamorphoses</i> X, 162–219). Sparta kept a three-day festival for him at Amyclae, the Hyacinthia, which began with a day of mourning and ended in rejoicing. In <i>Adonis, Attis, Osiris</i>, the two volumes of the anthropologist J. G. Frazer’s <i>The Golden Bough</i> that Eliot’s headnote names, Frazer gives him a short chapter at the end of the Attis book. He writes there that Hyacinth "has been interpreted as the vegetation which blooms in spring and withers". Eliot’s headnote promises readers of Frazer “certain references to vegetation ceremonies”, and the hyacinth is usually counted as one. Annotators set "neither / Living nor dead" beside Dante's words at the sight of Satan, <i>Inferno</i> XXXIV 25: "Io non mori' e non rimasi vivo" (I did not die and did not stay alive). "The heart of light" has been read as an inversion of the title of Conrad's <i>Heart of Darkness</i>, the book from which Eliot first took the poem’s epigraph, before he replaced it with the passage from Petronius. Eliot used the phrase again in the first section of <i>Burnt Norton</i> (1936).
 sources: Ovid, Metamorphoses X 162–219
 Frazer, Adonis, Attis, Osiris, bk. II, ch. VII
 Dante, Inferno XXXIV 25
 Eliot, "Burnt Norton" (1936), section I
-Eliot, Prufrock and Other Observations (1917), dedication
-Eliot, "A Commentary," Criterion, April 1934
-The Eliot–Hale letters
 Rainey, Annotated Waste Land, note on lines 39–40
 Grover Smith (1956)
 Unger (1966)
+---
+id: hale-verdenal
+line: 37
+to: 41
+anchor: Hyacinth garden
+kind: gloss
+title: Emily Hale and Jean Verdenal
+body:
+Two people in Eliot's life have been proposed for the figure in the garden; the text names neither. Eliot’s biographer Lyndall Gordon (1977; 2022) attaches it to Emily Hale of Boston, to whom Eliot declared his love before sailing for Europe in 1914; his 1,131 letters to her, opened at Princeton in January 2020, show how long the attachment lasted. The critic John Peter (1952) read the poem as an elegy for a dead friend, and in a postscript of 1969 named the friend as Jean Verdenal; the American critic James E. Miller (1977) made the same identification. Verdenal was the friend of Eliot's Paris year, killed at the Dardanelles in May 1915, to whom <i>Prufrock and Other Observations</i> (1917) is dedicated. In April 1934, in <i>The Criterion</i>, the quarterly he edited, Eliot recalled that friend crossing the Luxembourg Gardens "waving a branch of lilac", and his death in "the mud of Gallipoli". Compare the lilacs of line 2.
+sources: Eliot, Prufrock and Other Observations (1917), dedication
+Eliot, "A Commentary," Criterion, April 1934
+The Eliot–Hale letters
 Gordon, Eliot's Early Years
 Gordon, The Hyacinth Girl
 Peter (1952; 1969)
@@ -219,7 +227,7 @@ title: The shepherd's answer
 quote: Öd und leer das Meer!
 trans: Desolate and empty the sea!
 body:
-The words are from Act III of <i>Tristan und Isolde</i>. Tristan lies wounded at Kareol, his castle in Brittany, and his servant Kurwenal has sent to Cornwall for Isolde, the only one who can heal him. A shepherd keeps watch and is to play a merry tune the moment a sail appears; told to look, he looks out to sea and answers with these four words. Eliot's note, "Id. III, verse 24," points back to the note on line 31 ("Id." is <i>idem</i>, the same work), and the count is exact: the line is the twenty-fourth sung in the act. <i>Öd</i> is the German for desolate or waste, as in <i>Ödland</i>, waste land. This quotation and the one at line 31 stand on either side of the hyacinth garden. That one comes from the opening of the opera, before Tristan and Isolde drink the love potion; this one from its last act, when they are apart and Tristan is dying.
+The words are from Act III of <i>Tristan und Isolde</i>. Tristan lies wounded at Kareol, his castle in Brittany, and his servant Kurwenal has sent to Cornwall for Isolde, the only one who can heal him. A shepherd keeps watch and is to play a merry tune the moment a sail appears; told to look, he looks out to sea and answers with these four words. Eliot's note, "Id. III, verse 24," points back to his own note on line 31 ("Id." is <i>idem</i>, the same work), and the count is exact: the line is the twenty-fourth sung in the act. <i>Öd</i> is the German for desolate or waste, as in <i>Ödland</i>, waste land. This quotation and the one at line 31 stand on either side of the hyacinth garden. That one comes from the opening of the opera, before Tristan and Isolde drink the love potion; this one from its last act, when they are apart and Tristan is dying.
 sources: Wagner, Tristan und Isolde, III.i
 ---
 id: sosostris
@@ -230,12 +238,13 @@ kind: gloss
 source: huxley-crome-yellow
 title: The clairvoyante with a cold
 body:
-The name is usually traced to Aldous Huxley's <i>Crome Yellow</i>, published in November 1921, where Mr. Scogan, dressed as a gipsy woman, reads palms at the charity fair in the grounds of Crome under a placard announcing "Sesostris, the Sorceress of Ecbatana". Sesostris was a legendary Egyptian king. Eliot, asked by Grover Smith in 1952, said he was "almost certain" he had taken the name from the novel without knowing it. Lawrence Rainey has since dated the typescript of Parts I and II to May 1921, before Huxley wrote the book, so the debt is in doubt. The spelling and the head cold are Eliot's own. "Clairvoyante," with the French feminine ending, is the trade term; "the wisest woman in Europe" is the trade puff. Eliot's note ties her cards to what follows: the Sailor, the Merchant and the crowds "appear later", and "Death by Water is executed in Part IV".
+The name is usually traced to Aldous Huxley's <i>Crome Yellow</i>, published in November 1921, where Mr. Scogan, dressed as a gipsy woman, reads palms at the charity fair in the grounds of Crome under a placard announcing "Sesostris, the Sorceress of Ecbatana". Sesostris was a legendary Egyptian king. Eliot, asked by the critic Grover Smith in 1952, said he was “almost certain” he had taken the name from the novel without knowing it. Lawrence Rainey, who has studied the paper and typing of the drafts, has since dated the typescript of Parts I and II to May 1921, before Huxley wrote the book, so the debt is in doubt. The spelling and the head cold are Eliot's own. "Clairvoyante," with the French feminine ending, is the trade term; "the wisest woman in Europe" is the trade puff. Eliot's note ties her cards to what follows: the Sailor, the Merchant and the crowds "appear later", and "Death by Water is executed in Part IV".
 
 Her parting line, "One must be so careful these days" (line 59), is usually read as a fortune-teller's caution about the law. Section 4 of the Vagrancy Act 1824 made "every person pretending or professing to tell fortunes" a rogue and vagabond, and clairvoyants and mediums were prosecuted under it until the Fraudulent Mediums Act 1951 took them out of the section and made fraudulent mediumship an offence of its own; fortune-telling and palmistry stayed within it.
 sources: Huxley, Crome Yellow, chs. 25 and 27
 Herodotus, Histories II 102–110
 Vagrancy Act 1824, section 4
+Fraudulent Mediums Act 1951, sections 1 and 2
 Hansard, Fraudulent Mediums Bill, House of Lords, 3 May 1951, vol. 171, cols. 718–729
 Grover Smith (1954)
 Grover Smith (1956)
@@ -253,21 +262,23 @@ source: weston, frazer
 title: The cards she deals
 image: tarot-hanged-man
 body:
-Eliot's note says he was "not familiar with the exact constitution of the Tarot pack" and had "obviously departed" from it "to suit my own convenience". Weston, in her chapter on the Grail symbols, suggests that the Tarot's original use "would seem to have been, not to foretell the Future in general, but to predict the rise and fall of the waters which brought fertility to the land". The cards, in the order Madame Sosostris names them, are these.
+Eliot's note says he was "not familiar with the exact constitution of the Tarot pack" and had "obviously departed" from it "to suit my own convenience". Jessie L. Weston, whose book <i>From Ritual to Romance</i> Eliot’s headnote names as the source of the poem’s title and plan, suggests in her chapter on the Grail symbols that the Tarot’s original use "would seem to have been, not to foretell the Future in general, but to predict the rise and fall of the waters which brought fertility to the land". The cards, in the order Madame Sosostris names them, are these.
 
-<b>The drowned Phoenician Sailor.</b> There is no such card in the pack. Eliot's note says the Sailor and the Merchant "appear later". The Sailor is Phlebas the Phoenician of Part IV, "Death by Water", already "a fortnight dead" when the section opens. His note on line 218 adds that the one-eyed merchant "melts into the Phoenician Sailor", who "is not wholly distinct from Ferdinand Prince of Naples" in <i>The Tempest</i>. Line 48, the line in brackets, is from a song telling Ferdinand that his father has drowned; see the note there.
+<b>The drowned Phoenician Sailor.</b> There is no such card in the pack. Eliot's note says the Sailor and the Merchant "appear later". The Sailor is Phlebas the Phoenician of Part IV, "Death by Water", already "a fortnight dead" when the section opens.
 
-<b>Belladonna, the Lady of the Rocks.</b> Belladonna is Italian for "beautiful lady". It is also the name of the deadly nightshade, and of the drops made from it that women used to widen their pupils. "The Lady of the Rocks" is usually taken to echo Leonardo's <i>Virgin of the Rocks</i>.
+<b>Belladonna, the Lady of the Rocks.</b> Belladonna is Italian for “beautiful lady”; it is also the deadly nightshade and the eye-drops made from it.
 
-<b>The man with three staves.</b> The Three of Wands, which Eliot calls "an authentic member of the Tarot pack". In the Rider pack a man stands at a cliff's edge with his back to us, watching ships. Eliot "quite arbitrarily" associated him with the Fisher King.
+<b>The man with three staves.</b> The Three of Wands, which Eliot calls "an authentic member of the Tarot pack". In the Rider pack, the English Tarot published in 1909 with designs by Pamela Colman Smith, a man stands at a cliff’s edge with his back to us, watching ships. Eliot “quite arbitrarily” associated him with the Fisher King, the wounded king of the Grail legend, whose land lies waste with him.
 
 <b>The Wheel.</b> The Wheel of Fortune, card X. Compare "O you who turn the wheel" at line 320.
 
-<b>The one-eyed merchant.</b> There is no such card in the pack. Eliot's note says the Merchant appears later; he is Mr. Eugenides, the Smyrna merchant, at line 209. Cleanth Brooks (1939) took "one-eyed", on the card, to mean no more than that the face is shown in profile, and the same word, once Eliot applies it to Mr. Eugenides, to mean a defect, like Madame Sosostris's cold.
+<b>The one-eyed merchant.</b> There is no such card in the pack. Eliot's note says the Merchant appears later; he is Mr. Eugenides, the Smyrna merchant, at line 209. The critic Cleanth Brooks (1939) took “one-eyed”, on the card, to mean no more than that the face is shown in profile, and the same word, once Eliot applies it to Mr. Eugenides, to mean a defect, like Madame Sosostris's cold.
 
-<b>The Hanged Man.</b> Card XII. In the Rider pack a young man hangs by one foot from a T-shaped gallows of living wood, a halo round his head, his face calm. Eliot's note associates him with "the Hanged God of Frazer" and with the hooded figure on the road to Emmaus in Part V. "The Hanged God" is a chapter in <i>Adonis, Attis, Osiris</i>, on Attis, Marsyas and Odin, gods hanged on trees. Madame Sosostris does not find him. Brooks, who read her whole fortune as coming true in the poem, ties the card she cannot find to the hooded figure of Part V: "That he is hooded accounts for Madame Sosostris' inability to see him." Her one piece of advice, "Fear death by water", is answered by Eliot's note: "Death by Water is executed in Part IV."
+<b>The blank card.</b> Named between the merchant and the Hanged Man: “this card, / Which is blank, is something he carries on his back, / Which I am forbidden to see.” Eliot’s note says nothing of it.
 
-The cards shown here are Pamela Colman Smith's designs for the pack published in London by William Rider &amp; Son in December 1909, the English pack of Eliot's time.
+<b>The Hanged Man.</b> Card XII. In the Rider pack a young man hangs by one foot from a T-shaped gallows of living wood, a halo round his head, his face calm. Eliot's note associates him with "the Hanged God of Frazer" and with the hooded figure who walks beside two travellers in Part V (lines 360–366), as the risen Christ walked unrecognised beside two disciples on the road to Emmaus. “The Hanged God” is a chapter of <i>Adonis, Attis, Osiris</i>, the two volumes of <i>The Golden Bough</i>, by the anthropologist J. G. Frazer, that Eliot’s headnote names; it is on Attis, Marsyas and Odin, gods hanged on trees. Madame Sosostris does not find him. Brooks, who read her whole fortune as coming true in the poem, ties the card she cannot find to the hooded figure of Part V: "That he is hooded accounts for Madame Sosostris' inability to see him." Her one piece of advice, "Fear death by water", is answered by Eliot's note: "Death by Water is executed in Part IV."
+
+The cards shown here are Pamela Colman Smith’s designs for that pack, published in London by William Rider &amp; Son in December 1909.
 sources: Weston, From Ritual to Romance, ch. VI
 The Rider pack (1909), the Three of Wands, the Wheel of Fortune and the Hanged Man
 Frazer, Adonis, Attis, Osiris, bk. II, ch. V
@@ -283,7 +294,7 @@ source: shakespeare-tempest
 title: Ariel's song
 quote: Full fathom five thy father lies;<br>Of his bones are coral made;<br>Those are pearls that were his eyes:<br>Nothing of him that doth fade<br>But doth suffer a sea-change<br>Into something rich and strange.
 body:
-The song is from <i>The Tempest</i>, Act I scene ii. Ariel sings it to Ferdinand, who believes his father, the King of Naples, drowned in the wreck. The father is alive, and the song is not true. The poem quotes the line again at line 125, and Eliot's note there (numbered 126 in the 1922 notes) points back to lines 37 and 48, the hyacinth garden and this line. Two more passages come from the same scene: Ferdinand's "the king my father's wreck" behind lines 191–2, and "This music crept by me upon the waters" at line 257, both with notes by Eliot. His note on line 218 says the Phoenician Sailor "is not wholly distinct from Ferdinand Prince of Naples." Compare Part IV, on the drowned Phlebas.
+The song is from Shakespeare’s <i>The Tempest</i>, Act I scene ii. Ariel, the spirit who serves the magician Prospero, sings it to Ferdinand, who believes his father, the King of Naples, drowned in the wreck. The father is alive, and the song is not true. The poem quotes the line again at line 125, and Eliot’s note on that line points back to lines 37 and 48, the hyacinth garden and this line. Two more passages come from the same scene: Ferdinand's "the king my father's wreck" behind lines 191–2, and "This music crept by me upon the waters" at line 257, both with notes by Eliot. His note on line 218 says the Phoenician Sailor "is not wholly distinct from Ferdinand Prince of Naples." Compare Part IV, on the drowned Phlebas.
 sources: Shakespeare, The Tempest I.ii
 ---
 id: ring
@@ -293,7 +304,7 @@ kind: gloss
 source: dante-inf3
 title: Crowds in a ring
 body:
-Madame Sosostris does not deal this; she says she sees it. Eliot's note on line 46 says that the "crowds of people", like the Sailor and the Merchant, "appear later". They come at line 62, the crowd flowing over London Bridge, and again as the "hooded hordes swarming / Over endless plains" at lines 369–70. The ring has been compared with the souls in <i>Inferno</i> III who lived "without infamy and without praise" and run for ever behind a whirling banner; Eliot's note on line 63 cites the same canto.
+Madame Sosostris does not deal this; she says she sees it. Eliot's note on line 46 says that the "crowds of people", like the Sailor and the Merchant, "appear later". They come at line 62, the crowd flowing over London Bridge, and again as the "hooded hordes swarming / Over endless plains" at lines 369–70. The critic Elizabeth Drew (1949) compared the ring with the souls in Dante’s <i>Inferno</i>, canto III, who lived "without infamy and without praise" and run for ever behind a whirling banner; Eliot's note on line 63 cites the same canto.
 sources: Dante, Inferno III 34–36, 52–57
 Drew (1949)
 ---
@@ -308,9 +319,9 @@ title: Baudelaire's swarming city
 quote: Fourmillante cité, cité pleine de rêves,<br>Où le spectre en plein jour raccroche le passant!
 trans: Swarming city, city full of dreams, where the ghost in broad daylight accosts the passer-by!
 body:
-The opening of "Les Sept Vieillards" ("The Seven Old Men"), in the <i>Tableaux parisiens</i> section of <i>Les Fleurs du mal</i>. The poet, walking through a dirty yellow fog, meets the same hideous old man seven times over. In a talk on Dante in 1950 ("What Dante Means to Me") Eliot said that Baudelaire had shown him what poetry could make of the modern city, the fusion of "the sordidly realistic and the phantasmagoric".
+The opening of "Les Sept Vieillards" ("The Seven Old Men"), in the <i>Tableaux parisiens</i> (“Parisian Scenes”) section of <i>Les Fleurs du mal</i>, by the French poet Charles Baudelaire. The poet, walking through a dirty yellow fog, meets the same hideous old man seven times over. In a talk on Dante in 1950 ("What Dante Means to Me") Eliot said that Baudelaire had shown him what poetry could make of the modern city, the fusion of "the sordidly realistic and the phantasmagoric".
 
-The brown fog is London's coal-smoke fog. Eliot went in to the City through it from March 1917, when he joined Lloyds Bank in Lombard Street. "Unreal City" returns at line 207, under the same fog at noon, and as the single word "Unreal" at line 377.
+The brown fog is London's coal-smoke fog. Eliot went in to the City through it from March 1917, when he joined Lloyds Bank. "Unreal City" returns at line 207, under the same fog at noon, and as the single word "Unreal" at line 377.
 sources: Baudelaire, Les Fleurs du mal, "Les Sept Vieillards," lines 1–2
 Eliot, "What Dante Means to Me" (1950)
 T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
@@ -326,7 +337,7 @@ title: The crowd at the gate of Hell
 quote: . . . sì lunga tratta<br>di gente, ch’i’ non averei creduto<br>che morte tanta n’avesse disfatta.
 trans: . . . so long a train of people, that I would never have believed death had undone so many.
 body:
-<i>Inferno</i> III, 55–57. Just inside the gate of Hell, before the river Acheron, Dante sees the souls of those who lived "without infamy and without praise" (III, 36), refused by Heaven and by Hell alike, and is astonished at how many there are. Line 64, "Sighs, short and infrequent, were exhaled," comes from the next canto, Limbo, where the unbaptised and the virtuous pagans live, in Dante's words, "without hope, in desire", and there is no weeping, only sighs that make the eternal air tremble (IV, 25–42). Eliot said in 1950 that he had altered the line about the sighs on purpose, and that he gave the references in his notes so that a reader who recognised a borrowing would know he was meant to recognise it. In the same talk he called this crowd "my city clerks trooping over London Bridge from the railway station to their offices". He was one of them. Lloyds Bank, where he worked from 1917 to 1925, was in Lombard Street, a few doors from the top of King William Street.
+Dante’s <i>Inferno</i>, canto III, lines 55–57. Just inside the gate of Hell, before the river Acheron, Dante sees the souls of those who lived "without infamy and without praise" (III, 36), refused by Heaven and by Hell alike, and is astonished at how many there are. Line 64, "Sighs, short and infrequent, were exhaled," comes from the next canto, Limbo, where the unbaptised and the virtuous pagans live, in Dante's words, "without hope, in desire", and there is no weeping, only sighs that make the eternal air tremble (IV, 25–42). Eliot said in a talk on Dante in 1950 that he had altered the line about the sighs on purpose, and that he gave the references in his notes so that a reader who recognised a borrowing would know he was meant to recognise it. In the same talk he called this crowd "my city clerks trooping over London Bridge from the railway station to their offices". He was a City clerk himself, though he lived in Marylebone and did not come in over the bridge. Lloyds Bank, where he worked from 1917 to 1925, had its head office in Lombard Street, a few doors from the top of King William Street.
 sources: Dante, Inferno III 34–57
 Dante, Inferno IV 25–42
 Eliot, "What Dante Means to Me" (1950)
@@ -340,9 +351,9 @@ kind: place
 image: st-mary-woolnoth
 title: St Mary Woolnoth
 body:
-King William Street runs up from London Bridge to the Bank of England, and at its top, on the corner of Lombard Street, stands Nicholas Hawksmoor's St Mary Woolnoth (1716–27), a squat church with two flat-topped turrets and its stone cut in deep bands. Lloyds Bank's head office, at 71 Lombard Street, stood a few doors along from the church. Eliot worked there from March 1917 to November 1925; his hours were 9.15 to 5.30, with one Saturday in four. His note on line 68 says only: "A phenomenon which I have often noticed."
+King William Street runs up from London Bridge to the Bank of England, and at its top, on the corner of Lombard Street, stands St Mary Woolnoth (1716–27), by the architect Nicholas Hawksmoor, a squat church with two flat-topped turrets and its stone cut in deep bands. Lloyds Bank's head office, at 71 Lombard Street, stood a few doors along from the church. Eliot worked for the bank, in its Colonial and Foreign Department, from March 1917 to November 1925; his hours were 9.15 to 5.30. His note on line 68 says only: "A phenomenon which I have often noticed."
 
-When the City and South London Railway built Bank station beneath the church, in 1897–8 the bodies in the crypt were reburied in the City of London Cemetery at Manor Park, and the crypt became the station's booking hall.
+When the City and South London Railway built Bank station beneath the church in 1897–8, the bodies in the crypt were reburied in the City of London Cemetery at Manor Park, and the crypt became the station's booking hall.
 sources: Historic England, list entry 1064620
 T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
 Eliot, To Criticize the Critic (1965), "The Aims of Education"
@@ -355,9 +366,9 @@ anchor: Stetson
 kind: gloss
 title: Stetson, and the ships at Mylae
 body:
-Mylae was the battle of 260 BC, early in the First Punic War, in which Rome beat Carthage at sea for the first time; the identification is F. O. Matthiessen's (1935). Cleanth Brooks (1939) read the Punic War as a trade war, and so as a parallel to the war of 1914–18: in his words, "all the wars are one war". The speaker greets a friend in the City of London, a few years after the Armistice, as someone who was "in the ships" with him at Mylae. The meeting is in King William Street, where the crowd has just arrived, not on the bridge.
+Mylae was the battle of 260 BC, early in the First Punic War, in which Rome beat Carthage at sea for the first time; the identification was made by the critic F. O. Matthiessen (1935). Another critic, Cleanth Brooks (1939), read the Punic War as a trade war, and so as a parallel to the war of 1914–18: in his words, "all the wars are one war". The speaker greets a friend in the City of London, a few years after the Armistice, as someone who was "in the ships" with him at Mylae. The meeting is in King William Street, where the crowd has just arrived, not on the bridge.
 
-Stetson is an American name and the name of an American hat. He has often been taken for Pound, who wore a wide-brimmed hat; Southam's <i>Guide</i> records the identification. Valerie Eliot, answering it in a letter to the <i>Times Literary Supplement</i> (11 May 1973), wrote that Eliot was not referring to anyone in particular but "simply meant any superior bank clerk", a man in a bowler hat, black jacket and striped trousers. Southam's <i>Guide</i> also records a suggestion that links the name to the felt slouch hat, a kind of stetson, worn by the Australian and New Zealand troops of 1914–18; Stetson himself has been linked by Robert Crawford (1987) and Donald Childs (1988) to Kipling's bank clerk Charlie Mears, in "The Finest Story in the World", who remembers rowing in an ancient galley. Nothing in the poem requires him to be any of these.
+Stetson is an American name and the name of an American hat. He has often been taken for the poet Ezra Pound, who cut the poem to its final shape and wore a wide-brimmed hat. Eliot’s widow, Valerie Eliot, answering that identification in a letter to the <i>Times Literary Supplement</i> (11 May 1973), wrote that Eliot was not referring to anyone in particular but "simply meant any superior bank clerk", a man in a bowler hat, black jacket and striped trousers. The name has also been linked to the felt slouch hat, a kind of stetson, worn by the Australian and New Zealand troops of 1914–18; and Stetson himself has been linked by the scholars Robert Crawford (1987) and Donald Childs (1988) to Charlie Mears, the bank clerk in Rudyard Kipling’s story “The Finest Story in the World” who remembers rowing in an ancient galley. Nothing in the poem requires him to be any of these.
 sources: Kipling, "The Finest Story in the World"
 Matthiessen (1935)
 Brooks (1939)
@@ -376,7 +387,7 @@ kind: echo
 source: frazer
 title: The buried god
 body:
-In <i>Adonis, Attis, Osiris</i>, the two volumes of <i>The Golden Bough</i> that Eliot's headnote names as "Atthis Adonis Osiris", Frazer describes two rites of gods who die and return. The "gardens of Adonis" were pots of earth sown with quick-sprouting wheat and barley, tended for eight days, then carried out with the images of the dead god and thrown into the sea or into springs. Effigies of Osiris made of earth and corn were buried at the Egyptian festival of sowing and taken up when the grain had sprouted. Corn-stuffed figures of the god have also been found in tombs. The sprouting of the grain, Frazer says, signified his resurrection. Eliot's headnote promises that readers of Frazer will "immediately recognise in the poem certain references to vegetation ceremonies". This is the plainest of them. The questions are the ones a man asks a neighbour about his bulbs.
+In <i>Adonis, Attis, Osiris</i>, the two volumes of <i>The Golden Bough</i> that Eliot’s headnote names as “Atthis Adonis Osiris”, the anthropologist J. G. Frazer describes two rites of gods who die and return. The "gardens of Adonis" were pots of earth sown with quick-sprouting wheat and barley, tended for eight days, then carried out with the images of the dead god and thrown into the sea or into springs. Effigies of Osiris made of earth and corn were buried at the Egyptian festival of sowing and taken up when the grain had sprouted. Corn-stuffed figures of the god have also been found in tombs. The sprouting of the grain, Frazer says, signified his resurrection. Eliot's headnote promises that readers of Frazer will "immediately recognise in the poem certain references to vegetation ceremonies". This is the plainest of them.
 sources: Frazer, Adonis, Attis, Osiris, bk. I, ch. X, "The Gardens of Adonis"
 Frazer, Adonis, Attis, Osiris, bk. III, ch. IV, "The Official Festivals of Osiris"
 Frazer, Adonis, Attis, Osiris, bk. III, ch. V, "The Nature of Osiris"
@@ -391,7 +402,7 @@ source: webster-white-devil
 title: Webster's dirge, altered
 quote: Call for the robin-redbreast and the wren,<br>Since o’er shady groves they hover,<br>And with leaves and flowers do cover<br>The friendless bodies of unburied men. . . .<br>But keep the wolf far thence, that’s foe to men,<br>For with his nails he’ll dig them up again.
 body:
-Cornelia's song over her murdered son Marcello in Webster's <i>The White Devil</i> (1612), Act V scene iv. The stage direction says she sings it "in several forms of distraction". Eliot alters the couplet in six places. Webster's "But keep the wolf far thence" becomes "Oh keep the Dog far hence", the Dog with a capital; "foe to men" becomes "friend to men"; "For" becomes "Or", and "them" becomes "it". In Webster the wolf digs up the unburied dead; in Eliot the danger to the corpse in the garden is the dog, man's friend. Cleanth Brooks (1939) read the capitalised Dog as humanitarianism, the modern concern for man that digs up what was buried and so prevents its return; some annotators see the Dog Star, Sirius, whose rising marked the flooding of the Nile in the Egyptian calendar Frazer describes. Eliot's own account of such borrowing is in "Philip Massinger" (1920): "Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different."
+Cornelia’s song over her murdered son Marcello in John Webster’s play <i>The White Devil</i> (1612), Act V scene iv. The stage direction says she sings it “in several forms of distraction”. Eliot alters the couplet in six places. Webster’s “But keep the wolf far thence” becomes “Oh keep the Dog far hence”, the Dog with a capital; “foe to men” becomes “friend to men”; “For” becomes “Or”, and “them” becomes “it”. Eliot’s own account of such borrowing is in his essay “Philip Massinger” (1920): “Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different.” In Webster the wolf digs up the unburied dead; in Eliot the danger to the corpse in the garden is the dog, man’s friend. The critic Cleanth Brooks, writing in 1939, read the capitalised Dog as humanitarianism, the modern concern for man that digs up what was buried and so prevents its return; some annotators see the Dog Star, Sirius, whose rising marked the flooding of the Nile in the Egyptian calendar the anthropologist J. G. Frazer describes in <i>The Golden Bough</i>.
 sources: Webster, The White Devil, V.iv
 The Sacred Wood, "Philip Massinger"
 Brooks (1939)

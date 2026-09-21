@@ -7,7 +7,7 @@ kind: anthropology
 what: The book Eliot names in the note at the head of his notes as the source of the title and the plan: the Fisher King, the waste land, the Chapel Perilous.
 lines: 0, 46, 386, 424
 note:
-Weston (1850–1928) was a scholar of Arthurian romance. Following Frazer’s <i>Golden Bough</i>, she argued that the Grail stories preserved the remains of an ancient fertility cult: a king whose wound lays his land waste, a cup and a lance that were sexual symbols before they were Christian relics, and a rite of initiation descended from the mystery cults of Attis and Mithra. Those cults, she says, were carried across the Roman Empire by Syrian merchants, slaves and soldiers (chapter XII). Medievalists have not accepted the argument. Eliot’s note at the head of his notes says the book suggested “not only the title, but the plan and a good deal of the incidental symbolism of the poem,” and recommends it “to any who think such elucidation of the poem worth the trouble”; in a lecture of 1956 he said he regretted “having sent so many enquirers off on a wild goose chase after Tarot cards and the Holy Grail.” The chapters the poem draws on most are II (The Task of the Hero), VI (The Symbols, where the Grail hallows become the four suits of the Tarot), IX (The Fisher King) and XIII (The Perilous Chapel).
+Weston (1850–1928) was a scholar of Arthurian romance. Following the anthropologist J. G. Frazer’s book <i>The Golden Bough</i>, she argued that the Grail stories preserved the remains of an ancient fertility cult: a king whose wound lays his land waste, a cup and a lance that were sexual symbols before they were Christian relics, and a rite of initiation descended from the mystery cults of Attis and Mithra. Those cults, she says, were carried across the Roman Empire by Syrian merchants, slaves and soldiers (chapter XII). Medievalists have not accepted the argument. Eliot’s note at the head of his notes says the book suggested “not only the title, but the plan and a good deal of the incidental symbolism of the poem,” and recommends it “to any who think such elucidation of the poem worth the trouble”; in a lecture of 1956 he said he regretted “having sent so many enquirers off on a wild goose chase after Tarot cards and the Holy Grail.” The chapters the poem draws on most are II (The Task of the Hero), VI (The Symbols, where the Grail hallows become the four suits of the Tarot), IX (The Fisher King) and XIII (The Perilous Chapel).
 sources: Weston, From Ritual to Romance, chs. II, VI, IX, XII and XIII
 Eliot, "The Frontiers of Criticism" (1956)
 ---
@@ -20,7 +20,7 @@ kind: anthropology
 what: The god who dies with the harvest and returns in spring: the Hanged God, the buried effigy, the image thrown into the sea.
 lines: 46, 71, 312
 note:
-Frazer’s twelve-volume study of magic and religion, which Eliot, in the note at the head of his notes, says “has influenced our generation profoundly,” argued that the myths of Adonis, Attis and Osiris tell one story, that of a god who dies with the harvest and returns with the spring, helped by rites in which a king is sacrificed or an effigy is buried or drowned, and that the Church’s Easter was adapted from the spring festivals of Adonis and Attis. The two volumes Eliot names describe the “gardens of Adonis,” pots of quick-sprouting seed carried out with images of the dead god and “flung with them into the sea,” and the effigies of Osiris “made of earth and corn” that the priests buried so that grain would sprout from the god’s body. Eliot’s note on the Tarot says the Hanged Man “is associated in my mind with the Hanged God of Frazer”; the corpse planted in Stetson’s garden (line 71) and Phlebas in the current (line 312) have been connected with the same rites. Frazer put a reproduction of Turner’s painting <i>The Golden Bough</i> (1834) at the front of his first edition and opened his first page with it, describing it as a view of Lake Nemi. It in fact shows Lake Avernus, with the Sibyl of Cumae, the prophetess of the poem’s epigraph, holding the bough that admits Aeneas to the underworld.
+Frazer’s twelve-volume study of magic and religion, which Eliot, in the note at the head of his notes, says “has influenced our generation profoundly,” argued that the myths of Adonis, Attis and Osiris tell one story, that of a god who dies with the harvest and returns with the spring, helped by rites in which a king is sacrificed or an effigy is buried or drowned, and that the Church’s Easter was adapted from the spring festivals of Adonis and Attis. The two volumes Eliot names describe the “gardens of Adonis,” pots of quick-sprouting seed carried out with images of the dead god and “flung with them into the sea,” and the effigies of Osiris “made of earth and corn” that the priests buried so that grain would sprout from the god’s body. Eliot’s note on the Tarot says the Hanged Man “is associated in my mind with the Hanged God of Frazer”; the corpse planted in Stetson’s garden (line 71) and Phlebas in the current (line 312) have been connected with the same rites. Frazer put a reproduction of <i>The Golden Bough</i> (1834), a painting by the English landscape painter J. M. W. Turner, at the front of his first edition and opened his first page with it, describing it as a view of Lake Nemi. It in fact shows Lake Avernus, with the Sibyl of Cumae, the prophetess of the poem’s epigraph, holding the bough that admits the Trojan hero Aeneas to the underworld.
 sources: Frazer, Adonis, Attis, Osiris, bk. I ch. IX, bk. II chs. V and VI, bk. III ch. IV
 Frazer, The Golden Bough (1922), chs. XXXIII, XXXVII and XXXIX
 Frazer, The Golden Bough (1890), vol. I, frontispiece and p. 1
@@ -38,7 +38,7 @@ lines: 0
 passage: Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.
 trans: For I myself, with my own eyes, saw the Sibyl at Cumae hanging in a jar, and when the boys said to her, “Sibyl, what do you want?” she answered, “I want to die.”
 note:
-The speaker is Trimalchio, a freed slave grown enormously rich, boasting to his guests between courses; his dinner party is the longest continuous episode in what survives of the <i>Satyricon</i>. The Sibyl of Cumae, in Ovid’s telling (<i>Metamorphoses</i> XIV), asked Apollo for as many years as there were grains in a heap of dust she had scooped up, and forgot to ask for youth to go with them; she foresees that she will shrink until only her voice is left. The typescript of the poem carried a different epigraph, from Conrad’s <i>Heart of Darkness</i>, ending “The horror! the horror!”; Pound doubted that Conrad was weighty enough for the place, and Eliot put Petronius in its place before publication.
+The speaker is Trimalchio, a freed slave grown enormously rich, boasting to his guests between courses; his dinner party is the longest continuous episode in what survives of the <i>Satyricon</i>. The Sibyl of Cumae, as the Roman poet Ovid tells it (<i>Metamorphoses</i> XIV), asked Apollo for as many years as there were grains in a heap of dust she had scooped up, and forgot to ask for youth to go with them; she foresees that she will shrink until only her voice is left. The typescript of the poem carried a different epigraph, from the novella <i>Heart of Darkness</i> by Joseph Conrad, ending “The horror! the horror!”; Ezra Pound, who cut the poem, doubted that Conrad was weighty enough for the place, and Eliot put Petronius in its place before publication.
 sources: Petronius, Satyricon 48
 Ovid, Metamorphoses XIV 130–153
 Facsimile (1971), the title page of the typescript
@@ -50,12 +50,12 @@ author: Dante Alighieri
 date: c. 1315
 lang: Italian and Provençal
 kind: poem
-what: The dedication to Pound, “il miglior fabbro,” and line 428, Arnaut stepping back into the refining fire.
+what: The dedication calls Ezra Pound, who cut the poem, “il miglior fabbro,” the better craftsman, Dante’s phrase for the Provençal poet Arnaut Daniel; line 428 is Arnaut stepping back into the refining fire.
 lines: 0, 428
 passage: «Tan m’abellis vostre cortes deman,<br>qu’ieu no me puesc ni voill a vos cobrire.<br>Ieu sui Arnaut, que plor e vau cantan;<br>consiros vei la passada folor,<br>e vei jausen lo joi qu’esper, denan.<br>Ara vos prec, per aquella valor<br>que vos guida al som de l’escalina,<br>sovenha vos a temps de ma dolor!».<br>Poi s’ascose nel foco che li affina.
 trans: “So much does your courteous question please me that I cannot and will not hide myself from you. I am Arnaut, who weep and go singing; in thought I see my past folly, and I see with joy, ahead, the joy I hope for. Now I pray you, by that power which guides you to the top of the stair, be mindful in time of my pain.” Then he hid himself in the fire that refines them.
 note:
-On the seventh terrace of Purgatory, where the lustful walk in flame, Dante meets the poet Guido Guinizelli, who points out the troubadour Arnaut Daniel as “miglior fabbro del parlar materno,” the better craftsman of the mother tongue (line 117). Arnaut answers in his own Provençal, the only passage in the <i>Comedy</i> in a vernacular other than Italian, and steps back into the fire. Eliot took the title of his 1920 collection <i>Ara Vos Prec</i> from line 145 (the Ovid Press title page misprinted it “Ara Vus Prec,” a form Eliot later blamed on his Italian edition of Dante), and line 428 of the poem from line 148, which his note quotes with the three lines before it. The dedication “For Ezra Pound / il miglior fabbro” was not printed in 1922: Eliot wrote it into Pound’s copy of the Boni & Liveright edition in January 1923, and it first appeared in print in <i>Poems 1909–1925</i>. The phrase was already Pound’s own: “Il Miglior Fabbro” is the title of his chapter on Arnaut Daniel in <i>The Spirit of Romance</i> (1910). Modern texts read “li affina”; Eliot’s “gli” follows the older text he used.
+On the seventh terrace of Purgatory, where the lustful walk in flame, Dante meets the poet Guido Guinizelli, who points out the troubadour Arnaut Daniel as “miglior fabbro del parlar materno,” the better craftsman of the mother tongue (line 117). Arnaut answers in his own Provençal, the only passage in the <i>Comedy</i> in a vernacular other than Italian, and steps back into the fire. Eliot took the title of his 1920 collection <i>Ara Vos Prec</i> from line 145 (the Ovid Press title page misprinted it “Ara Vus Prec,” a form Eliot later blamed on his Italian edition of Dante), and line 428 of the poem from line 148, which his note quotes with the three lines before it. The dedication “For Ezra Pound / il miglior fabbro” was not printed in 1922: Eliot wrote it in January 1923 into the copy of the edition published by Boni & Liveright that belonged to Pound, who had cut the poem, and it first appeared in print in <i>Poems 1909–1925</i>. The phrase was already Pound’s own: “Il Miglior Fabbro” is the title of his chapter on Arnaut Daniel in <i>The Spirit of Romance</i> (1910). Modern texts read “li affina”; Eliot’s “gli” follows the older text he used.
 sources: Dante, Purgatorio XXVI 115–117 and 140–148
 Temple Classics Purgatorio, XXVI 148
 Eliot, Dante (1929), preface
@@ -91,7 +91,7 @@ lines: 64
 passage: Quivi, secondo che per ascoltare,<br>non avea pianto mai che di sospiri<br>che l’aura etterna facevan tremare.
 trans: Here, as far as I could tell by listening, there was no weeping but only sighs, which made the eternal air tremble.
 note:
-Limbo, the first circle of Hell, holds the virtuous who died unbaptised, Homer, Virgil and Aristotle among them; Dante calls them the “great spirits” (<i>spiriti magni</i>), and they are not tormented but live in desire without hope. Eliot’s note on line 64 cites these lines. The comparison likens the sighs of the crowd on London Bridge to those of Limbo, where there is grief but no torment, not to the cries of the damned.
+Limbo, the first circle of Hell, holds the virtuous who died unbaptised, Homer, Virgil and Aristotle among them; Dante calls them the “great spirits” (<i>spiriti magni</i>), and they are not tormented but live in desire without hope. Eliot’s note on line 64 cites these lines. The comparison likens the sighs of the crowd on London Bridge to those of Limbo, where there is grief but no torment.
 sources: Dante, Inferno IV 25–45 and 118–120
 ---
 id: dante-purg5
@@ -120,7 +120,7 @@ lines: 412, 413
 passage: e io senti’ chiavar l’uscio di sotto<br>a l’orribile torre; ond’io guardai<br>nel viso a’ mie’ figliuoi sanza far motto.
 trans: and I heard them nailing up the door below of the horrible tower; at which I looked into the faces of my sons without a word.
 note:
-Count Ugolino della Gherardesca of Pisa, imprisoned in 1288 with two sons and two grandsons and left to starve, gnaws in Hell on the skull of Archbishop Ruggieri, who betrayed him, and tells Dante the story. The verb in the passage, <i>chiavar</i>, has been read both as locking and as nailing up the door; the translation above has “nailing up,” and Eliot’s “key” takes it as locking. His note on line 412 quotes these lines and then a passage from <i>Appearance and Reality</i> (1893) by F. H. Bradley, the philosopher on whom Eliot wrote his doctoral thesis; in it Bradley says that each person’s experience “falls within my own circle, a circle closed on the outside.”
+Count Ugolino della Gherardesca of Pisa, imprisoned in 1288 with two sons and two grandsons and left to starve, gnaws in Hell on the skull of Archbishop Ruggieri, who betrayed him, and tells Dante the story. The verb in the passage, <i>chiavar</i>, has been read both as locking and as nailing up the door; the translation above has “nailing up,” and Eliot’s “key” takes it as locking. His note on line 412 quotes the first of these lines and the start of the second, and then a passage from <i>Appearance and Reality</i> (1893) by F. H. Bradley, the philosopher on whom Eliot wrote his doctoral thesis; in it Bradley says that each person’s experience “falls within my own circle, a circle closed on the outside.”
 sources: Dante, Inferno XXXIII 46–48
 Bradley, Appearance and Reality, p. 346
 Eliot, Knowledge and Experience (1964)
@@ -146,12 +146,12 @@ author: Walt Whitman
 date: 1865
 lang: English
 kind: poem
-what: Whitman’s elegy for Lincoln: lilacs, spring, and the hermit thrush.
+what: The American poet Walt Whitman’s elegy for Abraham Lincoln, shot in April 1865: lilacs, spring, and the hermit thrush.
 lines: 2, 357
 passage: When lilacs last in the dooryard bloom’d,<br>And the great star early droop’d in the western sky in the night,<br>I mourn’d, and yet shall mourn with ever-returning spring. . . .<br><br>In the swamp in secluded recesses,<br>A shy and hidden bird is warbling a song.<br>Solitary the thrush,<br>The hermit withdrawn to himself, avoiding the settlements,<br>Sings by himself a song.<br>Song of the bleeding throat,<br>Death’s outlet song of life . . .
 note:
-Whitman’s elegy for Lincoln, who was shot in April 1865, brings together the lilac, the evening star and the hermit thrush singing in a swamp. Eliot’s poem opens with lilacs bred out of the dead land (line 2) and the hermit-thrush’s “water-dripping song” is at line 357; Eliot’s note on that line describes the bird and quotes Chapman’s <i>Handbook of Birds of Eastern North America</i>, and says nothing of Whitman. In 1928 Eliot wrote that he “did not read Whitman until much later in life, and had to conquer an aversion to his form, as well as to much of his matter, in order to do so.” Two years earlier, reviewing a life of Whitman, he had written that “when Whitman speaks of the lilacs or of the mocking-bird, his theories and beliefs drop away like a needless pretext” (“Whitman and Tennyson,” <i>Nation and Athenaeum</i>, 18 December 1926). The case that the poem drew on Whitman all the same is made at length in S. Musgrove’s <i>T. S. Eliot and Walt Whitman</i> (1952).
-sources: Whitman, "When Lilacs Last in the Dooryard Bloom'd", sections 1–4
+Whitman’s elegy for President Abraham Lincoln, who was shot in April 1865, brings together the lilac, the evening star and the hermit thrush singing in a swamp. Eliot’s poem opens with lilacs bred out of the dead land (line 2) and the hermit-thrush’s “water-dripping song” is at line 357; Eliot’s note on that line describes the bird and quotes the <i>Handbook of Birds of Eastern North America</i> by the ornithologist Frank M. Chapman, and says nothing of Whitman. In 1928, introducing the <i>Selected Poems</i> of Ezra Pound, who had cut the poem, Eliot wrote that he “did not read Whitman until much later in life, and had to conquer an aversion to his form, as well as to much of his matter, in order to do so.” Two years earlier, reviewing a life of Whitman, he had written that “when Whitman speaks of the lilacs or of the mocking-bird, his theories and beliefs drop away like a needless pretext” (“Whitman and Tennyson,” <i>Nation and Athenaeum</i>, 18 December 1926). The Auckland scholar S. Musgrove argued at length in 1952 that the poem drew on Whitman all the same, and set the lilacs bred out of the dead land and the hermit-thrush of line 357 beside the lilac and the thrush of this elegy.
+sources: Whitman, "When Lilacs Last in the Dooryard Bloom'd", sections 1 and 4
 Eliot, introduction to Pound's Selected Poems (1928)
 Eliot, "Whitman and Tennyson" (1926)
 Musgrove (1952)
@@ -162,7 +162,7 @@ author: The Bible (King James Version)
 date: 6th century BC; translation 1611
 lang: English
 kind: scripture
-what: “Son of man”; “a heap of broken images”; the valley of dry bones.
+what: Ezekiel 2:1 is the address “Son of man” (line 20); chapter 37, the valley of dry bones, is behind “Dry bones can harm no one” (line 391).
 lines: 20, 22, 391
 passage: And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee. (2:1)<br><br>The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones, and caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry. And he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, thou knowest. (37:1–3)
 note:
@@ -190,7 +190,7 @@ author: The Bible (King James Version)
 date: 8th century BC; translation 1611
 lang: English
 kind: scripture
-what: “the shadow of a great rock in a weary land”; “Set thine house in order.”
+what: Isaiah’s “shadow of a great rock in a weary land” beside line 25, “There is shadow under this red rock”; his message to the dying king Hezekiah, “Set thine house in order,” beside line 426, “Shall I at least set my lands in order?”
 lines: 25, 426
 passage: And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land. (32:2)<br><br>In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live. (38:1)
 note:
@@ -349,7 +349,7 @@ author: Virgil
 date: 19 BC
 lang: Latin
 kind: poem
-what: “laquearia,” the coffered ceiling of Dido’s palace.
+what: “laquearia,” the coffered ceiling of the hall where Dido, queen of Carthage, feasts Aeneas.
 lines: 92
 passage: dependent lychni laquearibus aureis<br>incensi et noctem flammis funalia vincunt.
 trans: Lit lamps hang from the golden coffered ceiling, and torches conquer the night with their flames.
@@ -381,7 +381,7 @@ passage:
 corpora Cecropidum pennis pendere putares:<br>pendebant pennis. quarum petit altera silvas,<br>altera tecta subit, neque adhuc de pectore caedis<br>excessere notae, signataque sanguine pluma est.<br>ille dolore suo poenaeque cupidine velox<br>vertitur in volucrem, cui stant in vertice cristae.<br>prominet inmodicum pro longa cuspide rostrum;<br>nomen epops volucri, facies armata videtur.
 trans:
 As they fly from him you would think that the bodies of the two Athenians were poised on wings: they were poised on wings! One flies to the woods, the other rises to the roof. And even now their breasts have not lost the marks of their murderous deed, their feathers are stained with blood. Tereus, swift in pursuit because of his grief and eager desire for vengeance, is himself changed into a bird. Upon his head a stiff crest appears, and a huge beak stands forth instead of his long sword. He is the hoopoe, with the look of one armed for war. (Frank Justus Miller, 1916; <i>Metamorphoses</i> VI, 667–674)
-lines: 99, 203, 429
+lines: 99, 205, 429
 note:
 Tereus, king of Thrace, is bringing his wife Procne’s sister Philomela to visit her when he rapes Philomela in a hut deep in the woods and cuts out her tongue; she weaves the crime into a cloth and sends it to her sister; the sisters kill Procne’s son Itys and serve him to his father; Tereus, pursuing the sisters with a sword, and the sisters, fleeing, are all turned into birds. Ovid names only Tereus’s bird, the hoopoe, and does not say which sister became the nightingale and which the swallow; the later tradition that Eliot follows makes Philomela the nightingale. Eliot’s note on line 99 cites the story for the picture over the mantel in Part II; the “Jug Jug” of lines 103 and 204 is the nightingale’s song as Elizabethan poets wrote it; and his note on line 429 refers the swallow back to “Philomela in Parts II and III.” Arthur Golding’s translation of 1567, the one Shakespeare knew, gives the story in Book VI.
 sources: Ovid, Metamorphoses VI 424–674
@@ -527,7 +527,7 @@ lang: English
 kind: novel
 what: “When lovely woman stoops to folly.”
 lines: 253
-passage: When lovely woman stoops to folly,<br>And finds too late that men betray,<br>What charm can soothe her melancholy,<br>What art can wash her guilt away?<br><br>The only art her guilt to cover,<br>To hide her shame from every eye,<br>To give repentance to her lover,<br>And wring his bosom, is—to die.
+passage: When lovely woman stoops to folly,<br>And finds too late that men betray,<br>What charm can sooth her melancholy,<br>What art can wash her guilt away?<br><br>The only art her guilt to cover,<br>To hide her shame from every eye,<br>To give repentance to her lover,<br>And wring his bosom—is to die.
 note:
 Olivia, the Vicar’s daughter, seduced and abandoned by Squire Thornhill, sings this at her mother’s request, the family sitting on the bank where she first met him. Goldsmith’s song says the only thing left to a betrayed woman is to die. Eliot’s note cites the song. He takes its first line and adds “and” to fill out his pentameter (Goldsmith’s is a four-beat line); the typist then “smoothes her hair with automatic hand, / And puts a record on the gramophone.” The scene has been read as contempt for her, and also as the reverse: she does not die, as the song says a fallen woman must.
 sources: Goldsmith, The Vicar of Wakefield, ch. 24
@@ -580,7 +580,7 @@ author: Anonymous (Vedic)
 date: c. 700 BC
 lang: Sanskrit
 kind: scripture
-what: “DA. Datta. Dayadhvam. Damyata.” and “Shantih.”
+what: “DA,” the thunder’s one syllable, at lines 401, 411 and 418; “Datta. Dayadhvam. Damyata.” at line 433; and “Shantih shantih shantih” at line 434.
 lines: 400, 402, 411, 418, 433, 434
 passage: The threefold offspring of Prajāpati, gods, men and demons, lived with their father as students. When they had finished, the gods said: Teach us. He spoke one syllable, "Da," and asked: Did you understand? They said: We understood; you told us, dāmyata, restrain yourselves. Then the men: Teach us. "Da." We understood; you told us, datta, give. Then the demons: Teach us. "Da." We understood; you told us, dayadhvam, be compassionate. This is what the divine voice, the thunder, repeats: da, da, da: restrain yourselves, give, be compassionate. (Paraphrased from the Sanskrit.)
 note:
@@ -641,12 +641,12 @@ author: Frank M. Chapman
 date: 1895
 lang: English
 kind: birdbook
-what: The hermit-thrush and its “water-dripping song.”
+what: From the hermit-thrush entry in the ornithologist Frank M. Chapman’s <i>Handbook of Birds of Eastern North America</i> (1895), the words Eliot’s note on this line quotes; the note’s “water-dripping song” is not in Chapman, and no source for the phrase is agreed.
 lines: 357
 passage: It is most at home in secluded woodland and thickety retreats. . . . Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequaled.
 note:
 The field guide Eliot had as a boy, a fourteenth-birthday present from his mother in 1902; his copy survives, with his later inscription calling it “a much coveted birthday present.” Eliot’s note quotes the Handbook’s entry (its descriptive paragraphs are signed by Eugene P. Bicknell, one of Chapman’s contributors), gives the bird the scientific name of the day, <i>Turdus aonalaschkae pallasii</i> (now <i>Catharus guttatus</i>), and says he had heard it “in Quebec County.” The phrase “water-dripping song,” which the note puts in quotation marks, is not in Chapman’s entry.
-sources: Chapman, Handbook (1895), pp. 400–401
+sources: Chapman, Handbook (1895), p. 400
 T. S. Eliot Foundation, "T. S. Eliot's Gloucester"
 ---
 id: pervigilium-veneris
@@ -655,7 +655,7 @@ author: Anonymous
 date: 2nd–5th century AD
 lang: Latin
 kind: poem
-what: “Quando fiam ceu chelidon”: when shall I be like the swallow?
+what: “Quando fiam ceu chelidon”: when shall I be like the swallow? The poem’s “ceu” (like) is Eliot’s; the Latin text, quoted above, has “uti,” and later editions of the poem were changed to it.
 lines: 429
 passage: iam loquaces ore rauco stagna cycni perstrepunt;<br>adsonat Terei puella subter umbram populi,<br>ut putes motus amoris ore dici musico,<br>et neges queri sororem de marito barbaro.<br>illa cantat, nos tacemus. quando ver venit meum?<br>quando fiam uti chelidon, ut tacere desinam?<br>perdidi Musam tacendo, nec me Phoebus respicit.<br>sic Amyclas, cum tacerent, perdidit silentium.<br>cras amet qui numquam amavit quique amavit cras amet.
 trans: Now the chattering swans with hoarse voices make the pools ring; Tereus’s girl sings under the poplar’s shade, so that you would think the stirrings of love were spoken by her musical mouth, and not that a sister complained of a barbarous husband. She sings; we are silent. When does my spring come? When shall I become like the swallow, so that I may stop being silent? By silence I have lost the Muse, and Phoebus does not regard me. So Amyclae, when its people kept silent, was destroyed by silence. Tomorrow let him love who has never loved, and let him who has loved love tomorrow.
@@ -688,7 +688,7 @@ author: Thomas Kyd
 date: c. 1587
 lang: English
 kind: play
-what: “Why then Ile fit you. Hieronymo’s mad againe.”
+what: Hieronimo, whose son Horatio has been murdered, agrees to provide the court entertainment, a tragedy he wrote as a student, in which he will take his revenge; “I’ll fit you” means both “I’ll oblige you” and “I’ll pay you out.” “Hieronimo is mad againe” is the subtitle on the title page of the 1615 quarto.
 lines: 432
 passage: HIERONIMO: Why then, I’ll fit you; say no more.<br>When I was young, I gave my mind<br>And plied myself to fruitless poetry;<br>Which though it profit the professor naught,<br>Yet is it passing pleasing to the world.
 note:

@@ -3,7 +3,7 @@
   "poem": {
    "label": "The poem’s own voice",
    "color": "#1B1917",
-   "note": "The voice that belongs to no named character. It opens the poem, describes the room at the start of Part II, introduces Madame Sosostris (43–46), speaks the lines on the drowned Phlebas in Part IV and the opening of Part V (322–330), brings on the thunder (396–400), and answers each DA (402–410, 412–417, 419–423). That Marie’s voice begins at line 8 rather than at line 1 is this edition’s reading: the “us” of line 5 returns at line 8, and Cleanth Brooks (1939) read lines 1–18 as one voice.",
+   "note": "The voice that belongs to no named character. It opens the poem (1–7), describes the room at the start of Part II, introduces Madame Sosostris (43–46), speaks the lines on the drowned Phlebas in Part IV and the opening of Part V (322–330), brings on the thunder (396–400), and answers each DA (402–410, 412–417, 419–423). Lines 1–7 are given here to this voice and lines 8–18 to Marie. The division is this edition’s, and it can be argued against: the “us” of line 5 returns at line 8, and the critic Cleanth Brooks (1939) read lines 1–18 as one voice.",
    "sources": [
     "Brooks (1939)"
    ]
@@ -11,9 +11,11 @@
   "marie": {
    "label": "Marie",
    "color": "#B4626A",
-   "note": "A woman remembering a summer: coffee and talk in the Hofgarten in Munich, and a sled ride in the mountains as a child with her cousin the archduke. Lines 8–18, except the sentence of German at line 12, which this edition gives to another speaker. Valerie Eliot’s edition of the drafts records that Eliot had met Countess Marie Larisch, niece of the Empress Elisabeth of Austria, and that the sledding story was hers.",
+   "note": "A woman remembering a summer: coffee and talk in the Hofgarten in Munich, and a sled ride in the mountains as a child with her cousin the archduke. Lines 8–18, except the sentence of German at line 12, which this edition gives to another speaker. Eliot had met Countess Marie Larisch (1858–1940), a niece of the Empress Elisabeth of Austria, and the sledding story came word for word from her conversation; her memoir <i>My Past</i> (1913) has the archduke who was her cousin, the mountains where one feels free and the winters in the south.",
    "sources": [
-    "Facsimile (1971), note on line 8 of Part I"
+    "Facsimile (1971), p. 126",
+    "Larisch, My Past, chs. 1–2",
+    "Morris (1954)"
    ]
   },
   "stranger": {
@@ -35,7 +37,7 @@
   "sailor": {
    "label": "Wagner’s sailor",
    "color": "#4C6E85",
-   "note": "The young sailor singing from the masthead in Tristan, Act I. Lines 31–34.",
+   "note": "The young sailor singing from the masthead at the opening of Wagner’s opera <i>Tristan und Isolde</i>, Act I: lines 31–34.",
    "sources": [
     "Wagner, Tristan und Isolde I.i"
    ]
@@ -66,7 +68,7 @@
   "walker": {
    "label": "The walker in the City of London",
    "color": "#2F4858",
-   "note": "The “I” of three passages, read here as one voice: the crowd on London Bridge and the meeting with Stetson (60–76), Mr. Eugenides, whose invitation is reported (207–214), and the music along the Strand and the bar in Lower Thames Street (257–265); at 257 he speaks Ferdinand’s line from The Tempest.",
+   "note": "The “I” of three passages, read here as one voice: the crowd on London Bridge and the meeting with Stetson (60–76), Mr. Eugenides, whose invitation is reported (207–214), and the music along the Strand and the bar in Lower Thames Street (257–265); at 257 he speaks a line from Shakespeare’s <i>The Tempest</i>, spoken there by Ferdinand, the prince who sits on the shore believing his father drowned.",
    "sources": [
     "Shakespeare, The Tempest I.ii"
    ]
@@ -82,7 +84,7 @@
   "he": {
    "label": "The man who does not answer",
    "color": "#3D3A46",
-   "note": "Lines 115–116, 118, 120, 124–125, 127–130 and 135–138, printed without quotation marks, which is usually read as meaning that he does not speak aloud. Some of his replies are other people’s words: the playwrights Webster (118) and Middleton (137–138), both cited in Eliot’s notes; Ariel’s song from The Tempest (125); and the song “That Shakespearian Rag” of 1912 (128–130).",
+   "note": "Lines 115–116, 118, 120, 124–125, 127–130 and 135–138, printed without quotation marks, which is usually read as meaning that he does not speak aloud. Some of his replies are other people’s words: the playwrights Webster (118) and Middleton (137–138), both cited in Eliot’s notes; the song of the spirit Ariel in Shakespeare’s <i>The Tempest</i> (125); and the song “That Shakespearian Rag” of 1912 (128–130).",
    "sources": [
     "Webster, The Devil's Law-Case III.ii",
     "Middleton, Women Beware Women II.ii",
@@ -113,7 +115,7 @@
   "fisher": {
    "label": "The fisher on the bank",
    "color": "#4A6B5A",
-   "note": "The speaker by the river in Part III, lines 173–198, who repeats Spenser’s refrain “Sweet Thames, run softly” and fishes in the dull canal behind the gashouse. He speaks partly in others’ lines: Spenser’s (176, 183–184), Psalm 137 at 182 (“By the waters of Babylon we sat down and wept,” in the Prayer Book’s wording), and Ferdinand’s in The Tempest (191–192, Eliot’s note). That he is the Fisher King of the Grail legend is a reading; Eliot’s notes name the Fisher King at lines 46 and 425.",
+   "note": "The speaker by the river in Part III, lines 173–198, who repeats the refrain of the Elizabethan poet Edmund Spenser, “Sweet Thames, run softly”, and fishes in the dull canal behind the gashouse. He speaks partly in others’ lines: Spenser’s (176, 183–184), Psalm 137 at 182 (“By the waters of Babylon we sat down and wept,” in the Prayer Book’s wording), and at 191–192, as Eliot’s note on line 192 says, those of Ferdinand, the prince in Shakespeare’s <i>The Tempest</i> who sits on the shore mourning a father he believes drowned. That he is the Fisher King of the Grail legend, the wounded king whose land lies waste with him, is the reading of the critic Cleanth Brooks (1939), among others; Eliot’s notes name the Fisher King at lines 46 and 425.",
    "sources": [
     "Spenser, Prothalamion, line 18 and refrain",
     "Book of Common Prayer, Psalm 137:1",
@@ -124,7 +126,7 @@
   "song": {
    "label": "Songs quoted",
    "color": "#8A6D9A",
-   "note": "Lines 199–202: the ballad about Mrs Porter, which Eliot’s note says was reported to him from Sydney, Australia (199–201), and Verlaine’s line on children singing in the dome (202). The rag at lines 128–130 is given to the man who does not answer.",
+   "note": "Lines 199–202: the ballad about Mrs Porter (199–201), which Eliot’s note on line 199 says was reported to him from Sydney, Australia, and the last line of the French poet Paul Verlaine’s sonnet “Parsifal”, on children singing in the dome (202). The rag at lines 128–130 is given to the man who does not answer.",
    "sources": [
     "Verlaine, \"Parsifal\", line 14"
    ]
@@ -141,7 +143,7 @@
   "tiresias": {
    "label": "Tiresias",
    "color": "#4A3560",
-   "note": "Lines 215–251 and 253–256: the blind seer of Thebes from Ovid, once a woman for seven years, who says he “can see” the typist’s evening and has “foresuffered all.” Eliot’s note on line 218, which quotes Ovid, calls him “a mere spectator and not indeed a ‘character’” and yet “the most important personage in the poem, uniting all the rest.”",
+   "note": "Lines 215–251 and 253–256: the blind seer of Thebes in the <i>Metamorphoses</i> of the Roman poet Ovid, once a woman for seven years, who says he “can see” the typist’s evening and has “foresuffered all.” Eliot’s note on line 218, which quotes Ovid, calls him “a mere spectator and not indeed a ‘character’” and yet “the most important personage in the poem, uniting all the rest.”",
    "sources": [
     "Ovid, Metamorphoses III 316–338"
    ]
@@ -180,7 +182,7 @@
   "ascetic": {
    "label": "Augustine and the Buddha",
    "color": "#A3442B",
-   "note": "Lines 307–311: Augustine’s Confessions (307 and 309–310, beginning “To Carthage then I came”) set beside the Buddha’s Fire Sermon (308 and 311, “Burning”). Eliot’s note calls them “two representatives of eastern and western asceticism” and says that setting them side by side “is not an accident.”",
+   "note": "Lines 307–311: the <i>Confessions</i> of St Augustine, the fourth-century bishop (307 and 309–310, beginning “To Carthage then I came”), set beside the Buddha’s Fire Sermon (308 and 311, “Burning”). Eliot’s note calls them “two representatives of eastern and western asceticism” and says that setting them side by side “is not an accident.”",
    "sources": [
     "Augustine, Confessions III.1",
     "Augustine, Confessions X.34",
@@ -195,12 +197,15 @@
   "seer": {
    "label": "The one who sees the cities fall",
    "color": "#4A3560",
-   "note": "Lines 367–395, from “What is that sound high in the air” to “Bringing rain.” Eliot’s note on the hooded hordes cites Hermann Hesse’s book Blick ins Chaos."
+   "note": "Lines 367–395, from “What is that sound high in the air” to “Bringing rain.” Eliot’s note on lines 367–377, where the hooded hordes swarm, cites <i>Blick ins Chaos</i> (1920), essays on Dostoevsky and the downfall of Europe by the German novelist Hermann Hesse.",
+   "sources": [
+    "Hesse, Blick ins Chaos"
+   ]
   },
   "thunder": {
    "label": "The thunder",
    "color": "#1B1917",
-   "note": "“DA,” at lines 401, 411 and 418. Eliot’s note says the fable of the thunder’s meaning is in the Brihadaranyaka Upanishad.",
+   "note": "“DA,” at lines 401, 411 and 418. Eliot’s note on line 402 says the fable of the thunder’s meaning is in the Brihadaranyaka Upanishad, one of the Hindu scriptures.",
    "sources": [
     "Bṛhadāraṇyaka Upaniṣad V.2"
    ]
@@ -208,7 +213,7 @@
   "fisherking": {
    "label": "The Fisher King",
    "color": "#4A6B5A",
-   "note": "Lines 424–426: “I sat upon the shore / Fishing, with the arid plain behind me.” Eliot’s note on line 425 refers to the chapter on the Fisher King in Jessie L. Weston’s book on the Grail legend, From Ritual to Romance; the poem does not name the speaker.",
+   "note": "Lines 424–426: “I sat upon the shore / Fishing, with the arid plain behind me.” Eliot’s note on line 425 refers to the chapter on the Fisher King, the wounded king whose land lies waste with him, in Jessie L. Weston’s book on the Grail legend, From Ritual to Romance; the poem does not name the speaker.",
    "sources": [
     "Weston, From Ritual to Romance, ch. IX"
    ]
@@ -216,11 +221,12 @@
   "fragments": {
    "label": "The fragments",
    "color": "#8A6D9A",
-   "note": "Lines 427–432, a line each: the nursery rhyme “London Bridge is falling down” (427); Dante’s Purgatorio, canto XXVI (428); the Latin poem Pervigilium Veneris (429); Nerval’s sonnet “El Desdichado” (430); the poem’s own line, “These fragments I have shored against my ruins” (431); and Kyd’s play The Spanish Tragedy (432). Eliot’s notes give the sources of the four quotations.",
+   "note": "Lines 427–432, line by line: the nursery rhyme “London Bridge is falling down” (427); Dante’s <i>Purgatorio</i>, canto XXVI (428); the Latin poem <i>Pervigilium Veneris</i>, and then “O swallow swallow”, from the song in <i>The Princess</i>, a poem by Tennyson (429); the sonnet “El Desdichado” by the French poet Gérard de Nerval (430); the poem’s own line, “These fragments I have shored against my ruins” (431); and <i>The Spanish Tragedy</i>, the Elizabethan play by Thomas Kyd (432). Eliot’s notes give the sources at 428, 429, 430 and 432.",
    "sources": [
     "Gomme, Traditional Games, vol. I, pp. 333–349",
     "Dante, Purgatorio XXVI 148",
     "Pervigilium Veneris, the closing lines",
+    "Tennyson, The Princess, the song \"O Swallow, Swallow\"",
     "Nerval, \"El Desdichado\", line 2",
     "Kyd, The Spanish Tragedy IV.i"
    ]
