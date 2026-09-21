@@ -395,7 +395,7 @@ function renderPoemPage() {
     lines: allLines.map(l => ({ n: l.n, t: l.text, p: parts.find(p => l.n >= p.first && l.n <= p.last).num })),
     parts: parts.map(p => ({ num: p.num, numeral: p.numeral, name: p.name, first: p.first, last: p.last })),
     glosses: glosses.map(g => ({ id: g.id, line: g.line, to: g.to || null, kind: g.kind, title: g.title, quote: g.quote || '', trans: g.trans || '', cite: g.cite || '', body: g.body, source: g.source || null, image: g.image || null, plate: g.plate || null, lang: g.lang || null, cites: g.cites || '' })),
-    sources: Object.fromEntries(sources.map(s => [s.id, { id: s.id, title: s.title, author: s.author, date: s.date, lang: s.lang, kind: s.kind, what: s.what, lines: s.lines, passage: s.passage || '', trans: s.trans || '', note: s.note, links: s.links.map(l => ({ label: l.host ? `${l.work || s.title} at ${l.host}` : (l.work || s.title), url: l.url, note: l.deep_link_note || '' })) }])),
+    sources: Object.fromEntries(sources.map(s => [s.id, { id: s.id, title: s.title, author: s.author, date: s.date, lang: s.lang, kind: s.kind, what: s.what, lines: s.lines, passage: s.passage || '', trans: s.trans || '', note: s.note, links: s.links.map(l => ({ label: typo(l.host ? `${l.work || s.title} at ${l.host}` : (l.work || s.title)), url: l.url, note: l.deep_link_note || '' })) }])),
     notes: notesData.notes, headnote: notesData.headnote, part5note: notesData.part5note,
     voices: voicesData.voices, voiceOf, elements: { of: elOf, labels: elements.labels }, tongues: tonguesData.langs,
     times, paths, drafts: drafts.map(d => ({ id: d.id, part: d.part, line: d.line, title: d.title, body: d.body, cites: d.cites || '' })),
@@ -574,7 +574,7 @@ function renderLibraryPage() {
         ${s.trans ? `<p class="trans">${s.trans}</p>` : ''}
         <div class="src-note">${s.note}</div>${s.cites || ''}
         <p class="src-lines">${page('src-lines-label')} ${s.lines.map(n => n === 0 ? `<a href="index.html#top">${page('src-title-page')}</a>` : `<a href="index.html#L${n}">line ${n}</a>`).join(', ')}</p>
-        ${s.links.length ? `<p class="src-links">${page('src-links-label')} ${s.links.map(l => `<a href="${attr(l.url)}" rel="noopener">${esc(l.host ? `${l.work || s.title} at ${l.host}` : (l.work || s.title))}</a>`).join(' · ')}</p>` : ''}
+        ${s.links.length ? `<p class="src-links">${page('src-links-label')} ${s.links.map(l => `<a href="${attr(l.url)}" rel="noopener">${esc(typo(l.host ? `${l.work || s.title} at ${l.host}` : (l.work || s.title)))}</a>`).join(' · ')}</p>` : ''}
       </article>`;
     }
   }
