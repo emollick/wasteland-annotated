@@ -752,7 +752,7 @@ function renderListenPage() {
 // ---------- paths page ----------
 function renderPathsPage() {
   let body = `<main class="prose paths"><h1 class="pagetitle">${page('paths-title')}</h1><p class="lede">${page('paths-lede')}</p><div class="path-list">`;
-  for (const p of paths) body += `<article class="path-card"><a class="path-link" href="index.html#path=${p.id}"><h2>${p.title}</h2><p class="why">${p.why}</p><div class="intro">${p.intro.replace(/<\/p>[\s\S]*$/, '</p>')}</div><p class="stops">${p.stops.length} stops</p></a>${p.cites}</article>`;
+  for (const p of paths) body += `<article class="path-card"><a class="path-link" href="index.html#path=${p.id}"><h2>${p.title}</h2><p class="why">${p.why}</p><div class="intro">${p.intro.replace(/<\/p>[\s\S]*$/, '</p>')}</div><p class="stops">${p.stops.length} stops</p></a>${(p.intro.match(/<p[\s>]/g) || []).length > 1 ? '' : p.cites}</article>`;
   body += `</div></main>`;
   fs.writeFileSync(path.join(SITE, 'paths.html'), head(page('title-paths')) + `<body class="paths-page">${runningHead('paths.html')}${body}${foot()}<script src="js/theme.js"></script></body></html>`);
 }

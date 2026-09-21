@@ -1084,3 +1084,25 @@ id: fraudulent-mediums-act
 short: Fraudulent Mediums Act 1951
 full: Fraudulent Mediums Act 1951 (14 & 15 Geo. 6, c. 33), section 2, which repealed the Witchcraft Act 1735 and section 4 of the Vagrancy Act 1824 so far as it extended to spiritualistic mediums and to persons purporting to exercise telepathy, clairvoyance or similar powers.
 url: https://www.legislation.gov.uk/ukpga/Geo6/14-15/33
+---
+id: eliot-metaphysical-1921
+short: Eliot, "The Metaphysical Poets" (1921)
+full: T. S. Eliot, "The Metaphysical Poets," <i>Times Literary Supplement</i>, no. 1031, 20 October 1921, 669–70 (unsigned); reprinted in <i>Homage to John Dryden: Three Essays on Poetry of the Seventeenth Century</i> (London: Hogarth Press, 1924), the sentences quoted on pp. 31–32. Published before 1929: quoted in full.
+url: https://archive.org/details/homagetojohndryd00elio
+---
+id: eliot-lambeth-1931
+short: Eliot, "Thoughts after Lambeth" (1931)
+full: T. S. Eliot, <i>Thoughts after Lambeth</i> (London: Faber and Faber, 1931; Criterion Miscellany 30); collected in <i>Selected Essays 1917–1932</i> (London: Faber and Faber, 1932). Quoted in a phrase only.
+---
+id: richards-1926
+short: Richards, Principles of Literary Criticism (1926)
+full: I. A. Richards, <i>Principles of Literary Criticism</i>, 2nd ed. (London: Kegan Paul, Trench, Trubner, 1926), Appendix B, "On Mr. Eliot's Poetry", added to that edition; verified in the 1928 printing, pp. 289–295.
+url: https://archive.org/details/principlesoflite1928rich
+---
+id: time-1923
+short: Time, 3 March 1923
+full: "Shantih, Shantih, Shantih: Has the Reader Any Rights Before the Bar of Literature?", <i>Time</i> 1, no. 1 (3 March 1923), the report of a rumour that the poem was written as a hoax; reprinted in <i>Critical Essays on T. S. Eliot's The Waste Land</i>, ed. Lois A. Cuddy and David H. Hirsch (Boston: G. K. Hall, 1991).
+---
+id: joyce-ulysses-1922
+short: Joyce, Ulysses (1922)
+full: James Joyce, <i>Ulysses</i> (Paris: Shakespeare and Company, 1922).
