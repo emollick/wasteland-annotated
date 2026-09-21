@@ -948,12 +948,12 @@
   },
   {
    "id": "lloyds-bank-lombard-street",
-   "name": "Lloyds Bank head office, 71 Lombard Street",
+   "name": "Lloyds Bank, Colonial and Foreign Department, 17 Cornhill",
    "lon": -0.087,
-   "lat": 51.5128,
+   "lat": 51.5133,
    "source": "osm-interpolated",
-   "match": "Lombard Street, north side, immediately east of Change Alley",
-   "note": "No. 71 is not mapped as an address in OSM. Position interpolated from OSM street numbering in a map extract: 72-74 Lombard St at -0.08768 and 60 Lombard St at -0.08645, both north side (numbering runs east along the south side and back west along the north). The Lloyds head-office block ran through to 17 Cornhill."
+   "match": "Cornhill, south side, immediately east of Change Alley",
+   "note": "Eliot worked in the Colonial and Foreign Department, whose address in his letters of 1918 is 17 Cornhill (Letters, vol. 1, Eliot to his father, 8 September 1918), on the block that ran through to the head office at 71 Lombard Street. No. 17 is not mapped as an address in OSM; the point is the Cornhill frontage of that block, from OSM street numbering in a map extract for Lombard Street (72-74 at -0.08768, 60 at -0.08645) and the Cornhill way (about 51.51334 north)."
   },
   {
    "id": "clarence-gate-gardens",

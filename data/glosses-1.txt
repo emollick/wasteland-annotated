@@ -32,7 +32,7 @@ Conrad, Heart of Darkness, ch. 3
 Facsimile (1971), the title page of the typescript
 Pound, Letters, ed. Paige, nos. 181–182
 Letters, vol. 1, Eliot to Pound, January 1922
-Letters, vol. 1, chronology
+Letters, vol. 1, Biographical Commentary 1888–1922
 The Dial, November 1922
 Rainey, Annotated Waste Land, introduction
 Southam, Guide, headnote to The Waste Land
@@ -337,10 +337,11 @@ title: The crowd at the gate of Hell
 quote: . . . sì lunga tratta<br>di gente, ch’i’ non averei creduto<br>che morte tanta n’avesse disfatta.
 trans: . . . so long a train of people, that I would never have believed death had undone so many.
 body:
-Dante’s <i>Inferno</i>, canto III, lines 55–57. Just inside the gate of Hell, before the river Acheron, Dante sees the souls of those who lived "without infamy and without praise" (III, 36), refused by Heaven and by Hell alike, and is astonished at how many there are. Line 64, "Sighs, short and infrequent, were exhaled," comes from the next canto, Limbo, where the unbaptised and the virtuous pagans live, in Dante's words, "without hope, in desire", and there is no weeping, only sighs that make the eternal air tremble (IV, 25–42). Eliot said in a talk on Dante in 1950 that he had altered the line about the sighs on purpose, and that he gave the references in his notes so that a reader who recognised a borrowing would know he was meant to recognise it. In the same talk he called this crowd "my city clerks trooping over London Bridge from the railway station to their offices". He was a City clerk himself, though he lived in Marylebone and did not come in over the bridge. Lloyds Bank, where he worked from 1917 to 1925, had its head office in Lombard Street, a few doors from the top of King William Street.
+Dante’s <i>Inferno</i>, canto III, lines 55–57. Just inside the gate of Hell, before the river Acheron, Dante sees the souls of those who lived "without infamy and without praise" (III, 36), refused by Heaven and by Hell alike, and is astonished at how many there are. Line 64, "Sighs, short and infrequent, were exhaled," comes from the next canto, Limbo, where the unbaptised and the virtuous pagans live, in Dante's words, "without hope, in desire", and there is no weeping, only sighs that make the eternal air tremble (IV, 25–42). Eliot said in a talk on Dante in 1950 that he had altered the line about the sighs on purpose, and that he gave the references in his notes so that a reader who recognised a borrowing would know he was meant to recognise it. In the same talk he called this crowd "my city clerks trooping over London Bridge from the railway station to their offices". He was a City clerk himself, though he lived in Marylebone and did not come in over the bridge. Lloyds Bank's Colonial and Foreign Department, where he worked from 1917 to 1925, was at 17 Cornhill, a short walk from the top of King William Street.
 sources: Dante, Inferno III 34–57
 Dante, Inferno IV 25–42
 Eliot, "What Dante Means to Me" (1950)
+Letters, vol. 1, Eliot to his father, 8 September 1918
 T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
 ---
 id: woolnoth
@@ -351,10 +352,11 @@ kind: place
 image: st-mary-woolnoth
 title: St Mary Woolnoth
 body:
-King William Street runs up from London Bridge to the Bank of England, and at its top, on the corner of Lombard Street, stands St Mary Woolnoth (1716–27), by the architect Nicholas Hawksmoor, a squat church with two flat-topped turrets and its stone cut in deep bands. Lloyds Bank's head office, at 71 Lombard Street, stood a few doors along from the church. Eliot worked for the bank, in its Colonial and Foreign Department, from March 1917 to November 1925; his hours were 9.15 to 5.30. His note on line 68 says only: "A phenomenon which I have often noticed."
+King William Street runs up from London Bridge to the Bank of England, and at its top, on the corner of Lombard Street, stands St Mary Woolnoth (1716–27), by the architect Nicholas Hawksmoor, a squat church with two flat-topped turrets and its stone cut in deep bands. Eliot worked nearby, in Lloyds Bank's Colonial and Foreign Department at 17 Cornhill, from March 1917 to November 1925; his hours were 9.15 to 5.30. His note on line 68 says only: "A phenomenon which I have often noticed."
 
 When the City and South London Railway built Bank station beneath the church in 1897–8, the bodies in the crypt were reburied in the City of London Cemetery at Manor Park, and the crypt became the station's booking hall.
 sources: Historic England, list entry 1064620
+Letters, vol. 1, Eliot to his father, 8 September 1918
 T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
 Eliot, To Criticize the Critic (1965), "The Aims of Education"
 Moody (1979)

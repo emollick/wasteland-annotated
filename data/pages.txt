@@ -100,7 +100,7 @@ text: or
 ---
 id: tp-begin-path
 where: the title page: the second way to start (opens the pathway called A first reading)
-text: take the guided first reading, twelve stops
+text: take the guided first reading, twenty-eight stops
 ---
 id: tp-begin-slow
 where: the title page: the third way to start (opens Line by line at line 1)

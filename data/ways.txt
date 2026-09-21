@@ -162,7 +162,7 @@ title: Margate
 lens: places
 body: "On Margate Sands. / I can connect / Nothing with nothing." Eliot spent four weeks at Margate, from 15 October to 12 November 1921, on three months' sick leave from Lloyds Bank. In a letter from there to his friend Sydney Schiff he said he had drafted “some fifty lines” of this part, sitting in a shelter on the front. The Nayland Rock shelter on the seafront, listed in 2009 as the likely place, still stands. The map marks Margate.
 sources: Letters, vol. 1, Eliot to Sydney Schiff, 4 November 1921
-Letters, vol. 1, chronology, October–November 1921
+Letters, vol. 1, Biographical Commentary 1888–1922, October–November 1921
 Historic England, list entry 1393490
 ---
 kind: lens
