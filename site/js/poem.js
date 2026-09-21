@@ -91,7 +91,7 @@
     const card = document.createElement('aside');
     card.className = `card kind-${g.kind}`;
     card.dataset.ckind = 'gloss'; card.dataset.g = g.id;
-    card.innerHTML = `<button class="card-close" aria-label="${ui('close')}">×</button><span class="card-kind">${kindLabel}${lines ? ' · <span class="lines">' + lines + '</span>' : ''}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote"${g.lang ? ` lang="${{ German: 'de', French: 'fr', Italian: 'it', Latin: 'la', Greek: 'grc', Sanskrit: 'sa' }[g.lang] || ''}"` : ''}>${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}${g.cite ? `<p class="card-cite">${g.cite}</p>` : ''}${g.image ? imageFig(g.image) : ''}${g.plate ? `<div class="card-plate" data-svg="art/plate-${esc(g.plate)}.svg" aria-hidden="true"></div>` : ''}<div class="card-body">${g.body}</div>${g.cites || ''}${g.source ? sourceBlock(g.source) : ''}`;
+    card.innerHTML = `<button class="card-close" aria-label="${ui('close')}">×</button><span class="card-kind">${kindLabel}${lines ? ' · <span class="lines">' + lines + '</span>' : ''}</span><span class="card-title">${g.title}</span>${g.quote ? `<div class="card-quote"${g.lang ? ` lang="${{ German: 'de', French: 'fr', Italian: 'it', Latin: 'la', Greek: 'grc', Sanskrit: 'sa' }[g.lang] || ''}"` : ''}>${g.quote}</div>` : ''}${g.trans ? `<p class="card-trans">${g.trans}</p>` : ''}${g.cite ? `<p class="card-cite">${g.cite}</p>` : ''}${g.image ? imageFig(g.image) : ''}${g.plate ? `<div class="card-plate" data-svg="art/plate-${esc(g.plate)}.svg" aria-hidden="true"></div>` : ''}<div class="card-body">${g.body}</div>${g.cites || ''}${g.source ? String(g.source).split(',').map(s => sourceBlock(s.trim())).join('') : ''}`;
     return card;
   }
   function openGloss(id, anchorEl, opts = {}) {
@@ -114,10 +114,10 @@
     if (folded && !e.target.closest('.card-close')) { foldOthers(folded); return; }
     const close = e.target.closest('.card-close');
     if (close) { const c = close.closest('.card'); const id = c.dataset.g; if (id) $$(`.g[data-g="${id}"]`).forEach(a => a.classList.remove('open')); c.remove(); relayout(); return; }
+    const pl = e.target.closest('.pl');
+    if (pl && state.lens === 'places') { e.preventDefault(); openPlace(pl.dataset.place, pl); return; } // in the Places lens a place name opens the place, even inside a phrase that opens a note
     const a = e.target.closest('a.g');
     if (a) { e.preventDefault(); openGloss(a.dataset.g, a); return; }
-    const pl = e.target.closest('.pl');
-    if (pl && state.lens === 'places') { e.preventDefault(); openPlace(pl.dataset.place, pl); return; }
     const t = e.target.closest('.t');
     if (t && state.lens === 'tongues') { toggleTrans(t); return; }
   });
@@ -196,12 +196,17 @@
     const lang = D.tongues[t.dataset.lang]; tl.style.setProperty('--lang-color', lang ? lang.color : '');
     tl.innerHTML = `<b>${lang ? lang.label : t.dataset.lang}</b>${esc(t.dataset.trans)}`;
     if (line && line.classList.contains('line')) { tl.style.setProperty('--indent', line.style.getPropertyValue('--indent') || '0ch'); line.insertAdjacentElement('afterend', tl); }
-    else t.insertAdjacentElement('afterend', tl);
+    else { // inside a note: after the phrase, its closing quotation mark and the line break that follows, so that the translation sits under the phrase
+      let after = t;
+      while (after.nextSibling && after.nextSibling.nodeType === 3 && /^[\s’”'"»)\]]*$/.test(after.nextSibling.textContent)) after = after.nextSibling;
+      if (after.nextSibling && after.nextSibling.nodeName === 'BR') after = after.nextSibling;
+      after.parentNode.insertBefore(tl, after.nextSibling);
+    }
   }
   function showTongues() {
-    const counts = {};
-    for (const t of $$('.t')) counts[t.dataset.lang] = (counts[t.dataset.lang] || 0) + 1;
-    const html = `<p>${ui('legend-tongues-text')}</p><ul>${Object.entries(D.tongues).map(([k, v]) => `<li><span class="sw" style="background:${v.color}"></span>${v.label}<span class="cnt">${counts[k] || 0}</span></li>`).join('')}</ul>`;
+    // the count is of lines (the epigraph and the dedication count as one each); a language found only in Eliot's notes says so
+    const rows = Object.entries(D.tongues).map(([k, v], i) => { const c = v.count ? `${v.count}${i === 0 ? ' ' + ui('tongues-lines') : ''}` : ''; const n = v.inNote ? ui('tongues-in-note') : ''; return `<li><span class="sw" style="background:${v.color}"></span>${v.label}<span class="cnt">${[c, n].filter(Boolean).join(', ')}</span></li>`; });
+    const html = `<p>${ui('legend-tongues-text')}</p><ul>${rows.join('')}</ul>`;
     placeCard(legendCard(ui('legend-tongues'), html, 'kind-tongue'), legendAnchor(), true);
     // reveal all translations at once for the epigraph
   }
@@ -333,7 +338,7 @@
     if (k === 'voices') { const v = D.voiceOf[n] || 'poem'; if (state.follow && v !== state.follow) return 'var(--rule-2)'; return D.voices[v] ? D.voices[v].color : ''; }
     if (k === 'water') { const e = D.elements.of[n]; if (!e) return 'var(--rule-2)'; return e.includes('fire') ? 'var(--fire)' : e.includes('water') ? 'var(--water)' : 'var(--dry)'; }
     if (k === 'notes') return D.notes.some(x => x.line === n) ? 'var(--gold)' : 'var(--rule-2)';
-    if (k === 'echoes') return D.glosses.some(g => g.line === n) ? 'var(--violet)' : 'var(--rule-2)';
+    if (k === 'echoes') { const ks = D.anchors[n] || []; return ks.includes('echo') ? 'var(--violet)' : ks.length ? 'color-mix(in srgb, var(--violet) 35%, var(--rule-2))' : 'var(--rule-2)'; }
     if (k === 'tongues') { const el = lineEl(n); return el && $('.t', el) ? (D.tongues[$('.t', el).dataset.lang] || {}).color || 'var(--rule-2)' : 'var(--rule-2)'; }
     if (k === 'places') { const el = lineEl(n); return el && $('.pl', el) ? 'var(--river)' : 'var(--rule-2)'; }
     if (k === 'clock') return D.times.hours.some(h => h.line === n) || D.times.seasons.some(s => s.line === n) ? 'var(--gold)' : 'var(--rule-2)';

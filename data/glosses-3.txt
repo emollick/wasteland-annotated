@@ -177,9 +177,9 @@ Olivia Primrose's song in <i>The Vicar of Wakefield</i> (1766), chapter 24, sung
 sources: Goldsmith, The Vicar of Wakefield, chs. 21–24
 ---
 id: strand
-line: 257
+line: 258
 to: 265
-anchor: This music crept by me upon the waters
+anchor: along the Strand, up Queen Victoria Street
 kind: place
 image: st-magnus-interior
 title: From the Strand to Lower Thames Street
@@ -269,7 +269,7 @@ line: 307
 to: 311
 anchor: To Carthage then I came
 kind: echo
-source: augustine-confessions
+source: augustine-confessions, buddha-fire-sermon
 title: Augustine and the Buddha
 quote: To Carthage I came, where there sang all around me in my ears a cauldron of unholy loves.
 body:

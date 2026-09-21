@@ -636,7 +636,7 @@ text: Each line coloured by its speaker, with a legend; choose one voice and fol
 ---
 id: lens-tongues-why
 where: ways to read it: the sentence under Languages
-text: The German, French, Italian, Latin, Greek and Sanskrit in the poem, with the cries of birds, bells and the river marked beside them; click a phrase for its translation under the line.
+text: The German, French, Italian, Latin, Greek and Sanskrit in the poem, and the cries of birds and the refrains of songs; click a phrase for its translation under the line.
 ---
 id: lens-water-why
 where: ways to read it: the sentence under Water

@@ -1,40 +1,36 @@
 {
  "langs": {
-  "en": {
-   "label": "English",
-   "color": "#1B1917"
-  },
   "la": {
    "label": "Latin",
-   "color": "#7A5C2E"
+   "color": "var(--lang-la)"
   },
   "el": {
    "label": "Greek",
-   "color": "#8C6D1F"
+   "color": "var(--lang-el)"
   },
   "de": {
    "label": "German",
-   "color": "#4C6E85"
+   "color": "var(--lang-de)"
   },
   "fr": {
    "label": "French",
-   "color": "#B4626A"
+   "color": "var(--lang-fr)"
   },
   "it": {
    "label": "Italian",
-   "color": "#A3442B"
+   "color": "var(--lang-it)"
   },
   "oc": {
    "label": "Provençal",
-   "color": "#8A6D9A"
+   "color": "var(--lang-oc)"
   },
   "sa": {
    "label": "Sanskrit",
-   "color": "#8C6D1F"
+   "color": "var(--lang-sa)"
   },
   "bird": {
-   "label": "Birds, bells and the river",
-   "color": "#4A6B5A"
+   "label": "Birdsong and refrains",
+   "color": "var(--lang-bird)"
   }
  },
  "spans": [
@@ -123,18 +119,6 @@
    "trans": "the Elizabethan poets' spelling of the nightingale's song"
   },
   {
-   "line": 128,
-   "text": "O O O O",
-   "lang": "bird",
-   "trans": "a ragtime vamp, and Lear's dying cry"
-  },
-  {
-   "line": 170,
-   "text": "Goonight Bill. Goonight Lou. Goonight May. Goonight.",
-   "lang": "en",
-   "trans": "Cockney: good night"
-  },
-  {
    "line": 202,
    "text": "Et O ces voix d’enfants, chantant dans la coupole!",
    "lang": "fr",
@@ -155,14 +139,8 @@
   {
    "line": 206,
    "text": "Tereu",
-   "lang": "la",
-   "trans": "Tereus! (the vocative of the rapist's name, as the nightingale cries it in Lyly's song)"
-  },
-  {
-   "line": 211,
-   "text": "C.i.f.",
-   "lang": "en",
-   "trans": "cost, insurance and freight: trade shorthand"
+   "lang": "bird",
+   "trans": "the nightingale’s cry in Lyly’s song: Tereus, the name of the king who raped her"
   },
   {
    "line": 277,
@@ -256,6 +234,13 @@
   },
   {
    "line": 428,
+   "in": "note",
+   "text": "Ara vos prec, per aquella valor<br>que vos guida al som de l’escalina,<br>sovegna vos a temps de ma dolor.",
+   "lang": "oc",
+   "trans": "Now I pray you, by that virtue which guides you to the summit of the stair, be mindful in due time of my pain."
+  },
+  {
+   "line": 428,
    "text": "Poi s’ascose nel foco che gli affina",
    "lang": "it",
    "trans": "Then he hid himself in the fire that refines them"
@@ -284,6 +269,5 @@
    "lang": "sa",
    "trans": "peace, peace, peace: the formal close of an Upanishad"
   }
- ],
- "provencal_note": "Provençal appears only inside Eliot's note to line 428, where he quotes Arnaut Daniel's 'Ara vos prec'. It is the eighth language of the book, if not of the poem."
+ ]
 }

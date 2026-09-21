@@ -3,7 +3,7 @@ line: 312
 to: 321
 anchor: Phlebas the Phoenician
 kind: echo
-source: dans-le-restaurant
+source: dans-le-restaurant, frazer
 lang: French
 title: Eliot translating Eliot
 quote: Phlébas, le Phénicien, pendant quinze jours noyé,<br>Oubliait les cris des mouettes et la houle de Cornouaille,<br>Et les profits et les pertes, et la cargaison d’étain:<br>Un courant de sous-mer l’emporta très loin,<br>Le repassant aux étapes de sa vie antérieure.<br>Figurez-vous donc, c’était un sort pénible;<br>Cependant, ce fut jadis un bel homme, de haute taille.

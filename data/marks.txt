@@ -1,0 +1,265 @@
+# Marks for the Sources lens: a phrase in a line that draws on a source, when the note that covers it is anchored on another line
+# (gloss: the id of that note) or when the library alone has the source (source: the library id, with a title for the card).
+# Fields: line, anchor (the phrase exactly as the line prints it), and gloss or source; a source mark may add title.
+line: 2
+anchor: Lilacs out of the dead land
+source: whitman-lilacs
+title: Whitman’s lilacs
+---
+line: 22
+anchor: A heap of broken images
+gloss: son-of-man
+---
+line: 23
+anchor: the cricket no relief
+gloss: son-of-man
+---
+line: 25
+anchor: There is shadow under this red rock
+source: isaiah
+title: The shadow of a great rock
+---
+line: 30
+anchor: a handful of dust
+source: tennyson
+title: A handful of dust
+---
+line: 32
+anchor: Der Heimat zu,
+gloss: frisch-weht
+---
+line: 33
+anchor: Mein Irisch Kind,
+gloss: frisch-weht
+---
+line: 34
+anchor: Wo weilest du?
+gloss: frisch-weht
+---
+line: 62
+anchor: A crowd flowed over London Bridge, so many,
+gloss: london-bridge-dead
+---
+line: 64
+anchor: Sighs, short and infrequent, were exhaled,
+gloss: london-bridge-dead
+---
+line: 75
+anchor: Or with his nails he’ll dig it up again!
+gloss: dog
+---
+line: 92
+anchor: laquearia
+source: virgil-aeneid1
+title: The lamps in Dido’s hall
+---
+line: 98
+anchor: the sylvan scene
+source: milton-pl4
+title: Eden, as Satan first sees it
+---
+line: 103
+anchor: “Jug Jug”
+gloss: tereu
+---
+line: 125
+anchor: Those are pearls that were his eyes
+gloss: pearls
+---
+line: 183
+anchor: Sweet Thames, run softly till I end my song,
+gloss: sweet-thames
+---
+line: 184
+anchor: Sweet Thames, run softly, for I speak not loud or long.
+gloss: sweet-thames
+---
+line: 191
+anchor: Musing upon the king my brother’s wreck
+gloss: fishing-canal
+---
+line: 192
+anchor: And on the king my father’s death before him.
+gloss: fishing-canal
+---
+line: 196
+anchor: But at my back from time to time I hear
+gloss: at-my-back
+---
+line: 197
+anchor: The sound of horns and motors, which shall bring
+gloss: mrs-porter
+---
+line: 199
+anchor: O the moon shone bright on Mrs. Porter
+gloss: mrs-porter
+---
+line: 200
+anchor: And on her daughter
+gloss: mrs-porter
+---
+line: 201
+anchor: They wash their feet in soda water
+gloss: mrs-porter
+---
+line: 203
+anchor: Twit twit twit
+gloss: philomel
+---
+line: 204
+anchor: Jug jug jug jug jug jug
+gloss: tereu
+---
+line: 205
+anchor: So rudely forc’d.
+gloss: philomel
+---
+line: 220
+anchor: the evening hour that strives
+gloss: violet-hour
+---
+line: 221
+anchor: Homeward, and brings the sailor home from sea,
+gloss: violet-hour
+---
+line: 257
+anchor: This music crept by me upon the waters
+gloss: fishing-canal
+---
+line: 277
+anchor: Weialala leia
+gloss: thames-daughters
+---
+line: 278
+anchor: Wallala leialala
+gloss: thames-daughters
+---
+line: 290
+anchor: Weialala leia
+gloss: thames-daughters
+---
+line: 291
+anchor: Wallala leialala
+gloss: thames-daughters
+---
+line: 294
+anchor: Undid me.
+gloss: highbury
+---
+line: 308
+anchor: Burning burning burning burning
+gloss: carthage
+---
+line: 309
+anchor: O Lord Thou pluckest me out
+gloss: carthage
+---
+line: 310
+anchor: O Lord Thou pluckest
+gloss: carthage
+---
+line: 311
+anchor: burning
+gloss: carthage
+---
+line: 357
+anchor: the hermit-thrush
+source: chapman-birds
+title: The hermit-thrush
+---
+line: 357
+anchor: sings in the pine trees
+source: whitman-lilacs
+title: Whitman’s thrush
+---
+line: 367
+anchor: What is that sound high in the air
+gloss: hordes
+---
+line: 369
+anchor: Who are those hooded hordes swarming
+gloss: hordes
+---
+line: 386
+anchor: In this decayed hole among the mountains
+gloss: chapel
+---
+line: 391
+anchor: Dry bones can harm no one
+source: ezekiel
+title: The valley of dry bones
+---
+line: 400
+anchor: Then spoke the thunder
+gloss: da
+---
+line: 402
+anchor: Datta:
+gloss: da
+---
+line: 408
+anchor: the beneficent spider
+gloss: datta
+---
+line: 411
+anchor: DA
+gloss: da
+---
+line: 412
+anchor: Dayadhvam:
+gloss: da
+---
+line: 413
+anchor: Turn in the door once and turn once only
+gloss: dayadhvam
+---
+line: 418
+anchor: DA
+gloss: da
+---
+line: 419
+anchor: Damyata:
+gloss: da
+---
+line: 426
+anchor: Shall I at least set my lands in order?
+gloss: fisher-king
+---
+line: 427
+anchor: London Bridge is falling down falling down falling down
+source: london-bridge
+title: The nursery rhyme
+---
+line: 428
+anchor: Poi s’ascose nel foco che gli affina
+source: dante-purg26
+title: Arnaut Daniel in the refining fire
+---
+line: 429
+anchor: Quando fiam ceu chelidon
+source: pervigilium-veneris, ovid-met6
+title: The Vigil of Venus
+---
+line: 429
+anchor: O swallow swallow
+source: tennyson
+title: Tennyson’s swallow
+---
+line: 430
+anchor: Le Prince d’Aquitaine à la tour abolie
+source: nerval-desdichado
+title: The disinherited prince
+---
+line: 432
+anchor: Why then Ile fit you. Hieronymo’s mad againe.
+source: kyd-spanish-tragedy
+title: Hieronymo
+---
+line: 433
+anchor: Datta. Dayadhvam. Damyata.
+gloss: da
+---
+line: 434
+anchor: Shantih     shantih     shantih
+source: brihadaranyaka
+title: Shantih

@@ -4,6 +4,7 @@
   --ink: #1B1917; --ink-2: #4A4540; --ink-3: #7E7469; --rule: #D2C8B6; --rule-2: #BFB39E;
   --violet: #4A3560; --violet-2: #6E5A9E; --gold: #A8873A; --rust: #A3442B; --river: #4C6E85; --moss: #4A6B5A;
   --water: #4C6E85; --dry: #B8863B; --fire: #B23A1E;
+  --lang-la: #B8863B; --lang-el: #2E7D6B; --lang-de: #4C6E85; --lang-fr: #B4626A; --lang-it: #A3442B; --lang-oc: #8A4F6D; --lang-sa: #6E5A9E; --lang-bird: #4A6B5A;
   --card: #F8F4EA; --shadow: 0 1px 0 rgba(27,25,23,.06), 0 12px 30px -18px rgba(27,25,23,.35);
   --serif: "EB Garamond", "Iowan Old Style", Garamond, Georgia, serif;
   --display: "Cormorant Garamond", "EB Garamond", Georgia, serif;
@@ -19,6 +20,7 @@
     --ink: #E6DCCB; --ink-2: #C9BEAB; --ink-3: #9A8F82; --rule: #3A3047; --rule-2: #4A3F5A;
     --violet: #B9A7D6; --violet-2: #9F8BC4; --gold: #C9A55A; --rust: #D07A5E; --river: #86B0C9; --moss: #86A996;
     --water: #86B0C9; --dry: #D2A85C; --fire: #E0714E;
+    --lang-la: #D2A85C; --lang-el: #7FC4B3; --lang-de: #86B0C9; --lang-fr: #D48A92; --lang-it: #D07A5E; --lang-oc: #C98AB0; --lang-sa: #9F8BC4; --lang-bird: #86A996;
     --card: #211A2D; --shadow: 0 1px 0 rgba(0,0,0,.2), 0 12px 30px -16px rgba(0,0,0,.7);
   }
 }
@@ -27,6 +29,7 @@
   --ink: #E6DCCB; --ink-2: #C9BEAB; --ink-3: #9A8F82; --rule: #3A3047; --rule-2: #4A3F5A;
   --violet: #B9A7D6; --violet-2: #9F8BC4; --gold: #C9A55A; --rust: #D07A5E; --river: #86B0C9; --moss: #86A996;
   --water: #86B0C9; --dry: #D2A85C; --fire: #E0714E;
+  --lang-la: #D2A85C; --lang-el: #7FC4B3; --lang-de: #86B0C9; --lang-fr: #D48A92; --lang-it: #D07A5E; --lang-oc: #C98AB0; --lang-sa: #9F8BC4; --lang-bird: #86A996;
   --card: #211A2D; --shadow: 0 1px 0 rgba(0,0,0,.2), 0 12px 30px -16px rgba(0,0,0,.7);
   color-scheme: dark;
 }
@@ -35,6 +38,7 @@
   --ink: #1B1917; --ink-2: #4A4540; --ink-3: #7E7469; --rule: #D2C8B6; --rule-2: #BFB39E;
   --violet: #4A3560; --violet-2: #6E5A9E; --gold: #A8873A; --rust: #A3442B; --river: #4C6E85; --moss: #4A6B5A;
   --water: #4C6E85; --dry: #B8863B; --fire: #B23A1E;
+  --lang-la: #B8863B; --lang-el: #2E7D6B; --lang-de: #4C6E85; --lang-fr: #B4626A; --lang-it: #A3442B; --lang-oc: #8A4F6D; --lang-sa: #6E5A9E; --lang-bird: #4A6B5A;
   --card: #F8F4EA; --shadow: 0 1px 0 rgba(27,25,23,.06), 0 12px 30px -18px rgba(27,25,23,.35);
   color-scheme: light;
 }
@@ -182,7 +186,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 /* gloss anchors */
 .g { text-decoration: none; border-bottom: 1px dotted transparent; transition: border-color .2s, background .2s; border-radius: 1px; }
 body[data-lens="echoes"] .g, body[data-lens="drafts"] .g[data-kind="draft"] { border-bottom-color: var(--rule-2); }
-body[data-lens="echoes"] .g[data-kind="echo"] { border-bottom-color: color-mix(in srgb, var(--violet) 55%, transparent); }
+body[data-lens="echoes"] .g[data-kind="echo"] { border-bottom: 1px solid color-mix(in srgb, var(--violet) 72%, transparent); } /* a quotation or allusion: solid; a plain note keeps the dotted grey line */
 body[data-lens="echoes"] .g[data-kind="place"] { border-bottom-color: color-mix(in srgb, var(--river) 60%, transparent); }
 body[data-lens="echoes"] .g[data-kind="draft"] { border-bottom-color: color-mix(in srgb, var(--rust) 55%, transparent); border-bottom-style: dashed; }
 body[data-lens="plain"] .g { border-bottom-color: transparent; }
@@ -195,14 +199,15 @@ body[data-lens="notes"] .line[data-note]::after { content: ""; position: absolut
 /* tongues */
 .t { border-bottom: 0; }
 body[data-lens="tongues"] .t { border-bottom: 1px solid var(--lang-color, var(--rule-2)); color: var(--lang-color, inherit); cursor: help; position: relative; }
-body[data-lens="tongues"] .t[data-lang="la"] { --lang-color: var(--dry); }
-body[data-lens="tongues"] .t[data-lang="el"] { --lang-color: var(--gold); }
-body[data-lens="tongues"] .t[data-lang="de"] { --lang-color: var(--river); }
-body[data-lens="tongues"] .t[data-lang="fr"] { --lang-color: #B4626A; }
-body[data-lens="tongues"] .t[data-lang="it"] { --lang-color: var(--rust); }
-body[data-lens="tongues"] .t[data-lang="sa"] { --lang-color: var(--gold); }
-body[data-lens="tongues"] .t[data-lang="bird"] { --lang-color: var(--moss); }
-body[data-lens="tongues"] .t[data-lang="en"] { --lang-color: var(--ink-3); }
+/* one colour per language, defined with the palette above and used by the legend's swatches as well (data/tongues.json names the same variables) */
+body[data-lens="tongues"] .t[data-lang="la"] { --lang-color: var(--lang-la); }
+body[data-lens="tongues"] .t[data-lang="el"] { --lang-color: var(--lang-el); }
+body[data-lens="tongues"] .t[data-lang="de"] { --lang-color: var(--lang-de); }
+body[data-lens="tongues"] .t[data-lang="fr"] { --lang-color: var(--lang-fr); }
+body[data-lens="tongues"] .t[data-lang="it"] { --lang-color: var(--lang-it); }
+body[data-lens="tongues"] .t[data-lang="oc"] { --lang-color: var(--lang-oc); }
+body[data-lens="tongues"] .t[data-lang="sa"] { --lang-color: var(--lang-sa); }
+body[data-lens="tongues"] .t[data-lang="bird"] { --lang-color: var(--lang-bird); }
 .trans-line { display: block; font-size: .8rem; color: var(--ink-3); font-style: italic; padding: .05rem 0 .25rem calc(var(--indent, 0ch)); }
 .trans-line b { font-style: normal; font-variant-caps: small-caps; letter-spacing: .06em; font-weight: 500; color: var(--lang-color, var(--ink-2)); margin-right: .4em; }
 

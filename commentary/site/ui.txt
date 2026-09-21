@@ -88,7 +88,7 @@ text: A new voice
 ---
 id: legend-tongues-text
 where: the Tongues lens: the card at the head of the poem
-text: The epigraph is in Latin and Greek. The poem has phrases in German, French, Italian, Latin and Sanskrit, and Eliot’s note on line 428 quotes the Provençal that Dante gives the troubadour Arnaut Daniel to speak. The cries of birds, the bells and the river’s song are marked as well. Click any coloured phrase for a translation. Eliot’s notes translate only the Sanskrit, the thunder’s three words and “Shantih”; the other translations here were made for this edition.
+text: The epigraph is Latin and Greek, and the dedication Italian. The poem itself has German, French, Italian, Latin and Sanskrit, and Eliot’s note on line 428 quotes the Provençal that Dante gives Arnaut Daniel to speak. The cries of birds and the refrains of songs have a colour of their own. Click a coloured phrase for its translation. Eliot’s notes translate only the thunder’s three words and Shantih; the other translations were made for this edition.
 ---
 id: legend-tongues
 where: the Tongues lens: the label on that card
@@ -588,4 +588,12 @@ text: Sources
 ---
 id: legend-echoes-text
 where: Sources lens: the sentence on that card
-text: The words underlined in violet are quotations and allusions. Click one to open the passage it comes from, with the book it is in.
+text: The words underlined in violet are quotations and allusions. Click one to open the passage it comes from, with the book it is in. The fainter dotted underlines open explanatory notes.
+---
+id: tongues-lines
+where: the Languages legend: the unit after the first count, as in "3 lines"
+text: lines
+---
+id: tongues-in-note
+where: the Languages legend: the count for a language found only in Eliot’s notes (the Provençal)
+text: in Eliot’s note

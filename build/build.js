@@ -136,6 +136,13 @@ const notesData = readJSON(path.join(DATA, 'notes.json'));
 const voicesData = readJSON(path.join(DATA, 'voices.json'));
 for (const v of Object.values(voicesData.voices)) typoFields(v, ['label', 'note']);
 const tonguesData = readJSON(path.join(DATA, 'tongues.json'));
+// each language's count of lines in the poem (the epigraph and the dedication count as one each), and of phrases that are only in Eliot's notes
+for (const [k, v] of Object.entries(tonguesData.langs)) { v.count = new Set(tonguesData.spans.filter(t => t.lang === k && !t.in).map(t => t.line)).size; v.inNote = tonguesData.spans.filter(t => t.lang === k && t.in === 'note').length; }
+for (const t of tonguesData.spans.filter(t => t.in === 'note')) { // a phrase inside one of Eliot's notes, marked there
+  const nt = notesData.notes.find(n => n.line === t.line);
+  if (!nt || !nt.text.includes(t.text)) { console.warn(`tongues: the note on line ${t.line} does not contain "${t.text.slice(0, 40)}"`); continue; }
+  nt.text = nt.text.replace(t.text, `<span class="t" data-lang="${t.lang}" data-trans="${attr(t.trans || '')}">${t.text}</span>`);
+}
 const elements = readJSON(path.join(DATA, 'elements.json'));
 const times = readJSON(path.join(DATA, 'times.json'));
 const placeLines = readJSON(path.join(DATA, 'place-lines.json'));
@@ -153,6 +160,30 @@ for (const g of glosses) { typoFields(g, ['title', 'body', 'quote', 'trans', 'ci
 const sources = parseRecords(read(path.join(DATA, 'sources.txt')));
 for (const s of sources) { typoFields(s, ['what', 'note', 'passage', 'trans']); s.lines = (s.lines || '').split(',').map(x => +x.trim()).filter(x => !isNaN(x)); s.note = paragraphs(s.note); s.links = linkById[s.id] || []; }
 const sourceById = Object.fromEntries(sources.map(s => [s.id, s]));
+// the marks for the Sources lens (data/marks.txt): a phrase in a line that draws on a source, when the note that covers it is anchored
+// on another line (gloss: that note's id) or when only the library has the source (source: its id; the build makes the card from the
+// library record, with the title the mark gives). A gloss mark adds a second anchor to a note; a source mark adds a note of its own.
+const marks = exists(path.join(DATA, 'marks.txt')) ? parseRecords(read(path.join(DATA, 'marks.txt'))) : [];
+const markByLine = {}; // line -> gloss marks
+{
+  const byId = Object.fromEntries(glosses.map(g => [g.id, g]));
+  const langNames = ['German', 'French', 'Italian', 'Latin', 'Greek', 'Sanskrit'];
+  for (const m of marks) {
+    m.line = +m.line;
+    if (m.gloss) {
+      m.g = byId[m.gloss];
+      if (!m.g) { console.warn(`mark on line ${m.line}: no note "${m.gloss}"`); continue; }
+      (markByLine[m.line] = markByLine[m.line] || []).push(m);
+    } else if (m.source) {
+      const ids = m.source.split(',').map(s => s.trim()).filter(Boolean);
+      const s = sourceById[ids[0]];
+      if (!s) { console.warn(`mark on line ${m.line}: no source "${ids[0]}" in the library`); continue; }
+      const g = { id: `src-${ids[0]}-${m.line}`, line: m.line, anchor: m.anchor, kind: 'echo', source: ids.join(', '), title: m.title ? typo(m.title) : `${s.author}, <i>${s.title}</i>`, quote: s.passage || '', trans: s.trans || '', body: paragraphs(s.what), lang: langNames.includes(s.lang) ? s.lang : '', sources: s.sources || '' };
+      while (byId[g.id]) g.id += '-';
+      byId[g.id] = g; glosses.push(g);
+    } else console.warn(`mark on line ${m.line}: neither gloss nor source`);
+  }
+}
 // the works the notes cite (data/works.txt: id, short, full, optional url), and the sources field: one citation per line, each beginning with a work's short form, which links to its entry in the library's list of works cited
 const works = exists(path.join(DATA, 'works.txt')) ? parseRecords(read(path.join(DATA, 'works.txt'))).filter(w => w.id && w.short).map(w => typoFields(w, ['short', 'full'])) : [];
 const worksByLength = works.slice().sort((a, b) => b.short.length - a.short.length);
@@ -182,6 +213,16 @@ for (const nt of notesData.notes) (notesByLine[nt.line] = notesByLine[nt.line] |
 // glosses per line
 const glossByLine = {};
 for (const g of glosses) if (g.line > 0) (glossByLine[g.line] = glossByLine[g.line] || []).push(g);
+// every line the library lists for a source should have a phrase that opens a note giving that source
+for (const s of sources) for (const n of s.lines) {
+  if (!n) continue;
+  const here = [...(glossByLine[n] || []).filter(g => g.anchor), ...(markByLine[n] || []).map(m => m.g)];
+  if (!here.some(g => String(g.source || '').split(',').map(x => x.trim()).includes(s.id))) console.warn(`library: ${s.id} is listed at line ${n}, but no phrase there opens it`);
+}
+// the kinds of note each line's phrases open, for the spine
+const anchorKinds = {};
+for (const g of glosses) if (g.line > 0 && g.anchor) (anchorKinds[g.line] = anchorKinds[g.line] || []).push(g.kind);
+for (const [n, ms] of Object.entries(markByLine)) for (const m of ms) (anchorKinds[n] = anchorKinds[n] || []).push(m.g.kind);
 // places per line
 const placeById = {};
 if (thames) for (const p of [...thames.places, ...thames.wider]) placeById[p.id] = p;
@@ -205,7 +246,7 @@ for (const group of ['london', 'world']) for (const [id, info] of Object.entries
 }
 // tongues per line
 const tongueByLine = {};
-for (const t of tonguesData.spans) (tongueByLine[t.line] = tongueByLine[t.line] || []).push(t);
+for (const t of tonguesData.spans) if (!t.in) (tongueByLine[t.line] = tongueByLine[t.line] || []).push(t);
 
 // ---------- render a line ----------
 function renderLine(l, initial) {
@@ -215,6 +256,14 @@ function renderLine(l, initial) {
     const idx = l.text.indexOf(g.anchor);
     if (idx === -1) { console.warn(`gloss ${g.id}: anchor not found in line ${l.n}: "${g.anchor}"`); continue; }
     spans.push({ start: idx, end: idx + g.anchor.length, tag: 'g', data: g });
+  }
+  for (const m of markByLine[l.n] || []) {
+    const idx = l.text.indexOf(m.anchor);
+    if (idx === -1) { console.warn(`mark on line ${l.n}: phrase not found: "${m.anchor}"`); continue; }
+    const end = idx + m.anchor.length;
+    const other = spans.find(s => s.tag === 'g' && s.start < end && idx < s.end);
+    if (other) { console.warn(`mark on line ${l.n}: "${m.anchor}" overlaps the phrase of ${other.data.id}`); continue; }
+    spans.push({ start: idx, end, tag: 'g', data: m.g });
   }
   for (const t of tongueByLine[l.n] || []) {
     for (const idx of findAll(l.text, t.text)) spans.push({ start: idx, end: idx + t.text.length, tag: 't', data: t });
@@ -397,7 +446,7 @@ function renderPoemPage() {
     glosses: glosses.map(g => ({ id: g.id, line: g.line, to: g.to || null, kind: g.kind, title: g.title, quote: g.quote || '', trans: g.trans || '', cite: g.cite || '', body: g.body, source: g.source || null, image: g.image || null, plate: g.plate || null, lang: g.lang || null, cites: g.cites || '' })),
     sources: Object.fromEntries(sources.map(s => [s.id, { id: s.id, title: s.title, author: s.author, date: s.date, lang: s.lang, kind: s.kind, what: s.what, lines: s.lines, passage: s.passage || '', trans: s.trans || '', note: s.note, links: s.links.map(l => ({ label: typo(l.host ? `${l.work || s.title} at ${l.host}` : (l.work || s.title)), url: l.url, note: l.deep_link_note || '' })) }])),
     notes: notesData.notes, headnote: notesData.headnote, part5note: notesData.part5note,
-    voices: voicesData.voices, voiceOf, elements: { of: elOf, labels: elements.labels }, tongues: tonguesData.langs,
+    voices: voicesData.voices, voiceOf, elements: { of: elOf, labels: elements.labels }, tongues: tonguesData.langs, anchors: anchorKinds,
     times, paths, drafts: drafts.map(d => ({ id: d.id, part: d.part, line: d.line, title: d.title, body: d.body, cites: d.cites || '' })),
     images: Object.fromEntries(images.map(i => [i.id, { local: i.local ? i.local.replace(/^site\//, '') : `img/${i.id}.jpg`, title: typo(i.title), credit: typo(i.credit), w: i.width, h: i.height }])),
     places: placeLines, placeXY: thames ? Object.fromEntries([...thames.places, ...thames.wider].map(p => [p.id, [p.lon, p.lat, p.name]])) : {},

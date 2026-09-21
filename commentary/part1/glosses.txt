@@ -138,7 +138,7 @@ line: 20
 to: 24
 anchor: Son of man
 kind: echo
-source: ezekiel
+source: ezekiel, ecclesiastes
 title: "Son of man" in Ezekiel
 quote: And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
 body:
@@ -155,10 +155,11 @@ Rainey, Annotated Waste Land, note on line 22
 Unger (1966)
 ---
 id: red-rock
-line: 25
+line: 26
 to: 30
-anchor: this red rock
+anchor: Come in under the shadow of this red rock
 kind: draft
+source: death-of-st-narcissus
 title: Eliot borrowing from himself
 body:
 "Come in under the shadow of this red rock" comes almost unchanged from "The Death of Saint Narcissus," a poem Eliot wrote about 1915 and withdrew from <i>Poetry</i> (Chicago) after it had been set in type; it was first printed in 1950 and is reproduced in the 1971 facsimile. There the rock of shelter is grey, and the speaker promises to show something different from two shadows, one sprawling over the sand at daybreak, the other leaping behind a fire against a red rock. Line 27 is carried over word for word. For the shelter of lines 25–26 commentators cite Isaiah 32:2, "the shadow of a great rock in a weary land." The two shadows of lines 28–29, behind you in the morning and rising to meet you at evening, have been read as a life from birth to death. For "a handful of dust" editors cite Tennyson's <i>Maud</i> (Part II, section V): "Dead, long dead, / Long dead! / And my heart is a handful of dust." The Sibyl of the epigraph, in Ovid, asked for as many years as there were grains in a heap of dust.
@@ -226,6 +227,7 @@ line: 43
 to: 46
 anchor: Madame Sosostris
 kind: gloss
+source: huxley-crome-yellow
 title: The clairvoyante with a cold
 body:
 The name is usually traced to Aldous Huxley's <i>Crome Yellow</i>, published in November 1921, where Mr. Scogan, dressed as a gipsy woman, reads palms at the charity fair in the grounds of Crome under a placard announcing "Sesostris, the Sorceress of Ecbatana". Sesostris was a legendary Egyptian king. Eliot, asked by Grover Smith in 1952, said he was "almost certain" he had taken the name from the novel without knowing it. Lawrence Rainey has since dated the typescript of Parts I and II to May 1921, before Huxley wrote the book, so the debt is in doubt. The spelling and the head cold are Eliot's own. "Clairvoyante," with the French feminine ending, is the trade term; "the wisest woman in Europe" is the trade puff. Eliot's note ties her cards to what follows: the Sailor, the Merchant and the crowds "appear later", and "Death by Water is executed in Part IV".
@@ -247,6 +249,7 @@ line: 46
 to: 55
 anchor: a wicked pack of cards
 kind: gloss
+source: weston, frazer
 title: The cards she deals
 image: tarot-hanged-man
 body:
@@ -287,6 +290,7 @@ id: ring
 line: 56
 anchor: walking round in a ring
 kind: gloss
+source: dante-inf3
 title: Crowds in a ring
 body:
 Madame Sosostris does not deal this; she says she sees it. Eliot's note on line 46 says that the "crowds of people", like the Sailor and the Merchant, "appear later". They come at line 62, the crowd flowing over London Bridge, and again as the "hooded hordes swarming / Over endless plains" at lines 369–70. The ring has been compared with the souls in <i>Inferno</i> III who lived "without infamy and without praise" and run for ever behind a whirling banner; Eliot's note on line 63 cites the same canto.
@@ -316,7 +320,7 @@ line: 63
 to: 65
 anchor: I had not thought death had undone so many
 kind: echo
-source: dante-inf3
+source: dante-inf3, dante-inf4
 lang: Italian
 title: The crowd at the gate of Hell
 quote: . . . sì lunga tratta<br>di gente, ch’i’ non averei creduto<br>che morte tanta n’avesse disfatta.

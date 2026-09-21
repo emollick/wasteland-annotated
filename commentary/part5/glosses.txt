@@ -39,7 +39,7 @@ line: 360
 to: 366
 anchor: Who is the third who walks always beside you?
 kind: echo
-source: shackleton-south
+source: shackleton-south, luke24
 title: Emmaus, and the men on South Georgia
 quote: I know that during that long and racking march of thirty-six hours over the unnamed mountains and glaciers of South Georgia it seemed to me often that we were four, not three.
 body:
@@ -132,7 +132,7 @@ line: 412
 to: 416
 anchor: I have heard the key
 kind: echo
-source: dante-inf33
+source: dante-inf33, bradley
 lang: Italian
 title: Sympathise: Ugolino and Bradley
 quote: e io senti’ chiavar l’uscio di sotto<br>a l’orribile torre; ond’io guardai<br>nel viso a’ mie’ figliuoi sanza far motto.
@@ -160,7 +160,7 @@ line: 424
 to: 426
 anchor: I sat upon the shore
 kind: echo
-source: weston
+source: weston, isaiah
 title: The Fisher King, and Hezekiah
 quote: Set thine house in order: for thou shalt die, and not live.
 cite: Isaiah 38:1
