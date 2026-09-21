@@ -567,6 +567,7 @@
       w.className = 'walk intro';
       w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${ui('walk-title')}</p><p class="walk-head">${p.title}</p>${p.why ? `<p class="walk-why">${p.why}</p>` : ''}<p class="walk-text">${p.intro}</p>${p.cites || ''}<div class="walk-nav"><button class="next begin">${ui('walk-begin')}</button><span class="pos">${ui('walk-stops').replace('{n}', p.stops.length)}</span></div>`;
       w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.next')) { state.walk.i = 0; renderWalk(); } };
+      const t = $('.walk-text', w); const more = () => t.classList.toggle('more', t.scrollTop + t.clientHeight < t.scrollHeight - 2); more(); t.addEventListener('scroll', more, { passive: true }); // on a short screen the box scrolls, and its last lines fade until the reader reaches the end
       $$('.line.cur').forEach(l => l.classList.remove('cur'));
       return;
     }
@@ -576,7 +577,12 @@
     w.innerHTML = `<button class="walk-close" aria-label="${ui('walk-leave')}">×</button><p class="walk-title">${p.title} · ${i + 1} of ${p.stops.length}</p><p class="walk-head">${s.line ? `Line ${s.line}${part ? ' · ' + part.numeral : ''}` : ui('walk-title-page')}</p><p class="walk-text">${s.text}</p>${s.cites || ''}<div class="walk-nav"><button class="prev">${ui('walk-back')}</button><button class="next">${i === p.stops.length - 1 ? ui('walk-finish') : ui('walk-next')}</button></div>`;
     w.onclick = e => { if (e.target.closest('.walk-close')) stopWalk(); else if (e.target.closest('.prev')) { state.walk.i = i - 1; renderWalk(); } else if (e.target.closest('.next')) { if (i === p.stops.length - 1) { stopWalk(); return; } state.walk.i = i + 1; renderWalk(); } };
     $$('.line.cur').forEach(l => l.classList.remove('cur'));
-    if (s.line) { const el = lineEl(s.line); el && el.classList.add('cur'); go(s.line, false); } else { window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' }); }
+    if (s.line) { const el = lineEl(s.line); el && el.classList.add('cur'); go(s.line, false); }
+    else { // the title page: the top, or, where the guide would cover the dedication (a phone), just far enough down to keep it above the panel
+      const d = $('.tp-dedication'); let y = 0;
+      if (d) { const rg = document.createRange(); rg.selectNodeContents(d); const dr = rg.getBoundingClientRect(), wr = w.getBoundingClientRect(); if (dr.left < wr.right && dr.right > wr.left) y = Math.max(0, Math.round(dr.bottom + window.scrollY - wr.top + 12)); } // the words themselves, not the paragraph box, which spans the page
+      window.scrollTo({ top: y, behavior: reduce ? 'auto' : 'smooth' });
+    }
   }
   function stopWalk() { state.walk = null; $('#walk')?.remove(); $$('.line.cur').forEach(l => l.classList.remove('cur')); if (location.hash.startsWith('#path=')) history.replaceState(null, '', location.pathname); }
 

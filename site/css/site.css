@@ -622,7 +622,8 @@ body.follow .voice-tag:not(.v-on) { opacity: .25; }
 .walk.intro { width: min(27rem, calc(100vw - 2rem)); }
 .walk.intro .walk-head { font-size: 1.15rem; }
 .walk-why { margin: 0 0 .55rem; font-size: .86rem; color: var(--ink-2); }
-.walk.intro .walk-text { font-size: .82rem; color: var(--ink-2); max-height: 38vh; overflow: auto; }
+.walk.intro .walk-text { font-size: .82rem; color: var(--ink-2); max-height: 42vh; overflow: auto; }
+.walk.intro .walk-text.more { -webkit-mask-image: linear-gradient(#000 calc(100% - 2.6em), transparent); mask-image: linear-gradient(#000 calc(100% - 2.6em), transparent); } /* the last lines fade while there is more below to scroll to */
 .walk-nav .begin { color: var(--paper); background: var(--violet); padding: .28rem .75rem; border-radius: 2px; border-bottom: 0; }
 .walk-nav .begin:hover { color: var(--paper); background: var(--violet-2); }
 @media (max-width: 640px) { .walk-list { grid-template-columns: minmax(0, 1fr); } }

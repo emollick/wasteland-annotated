@@ -1027,11 +1027,6 @@ id: moody-1974
 short: Moody (ed.), The Waste Land in Different Voices
 full: <i>The Waste Land in Different Voices: The Revised Versions of Lectures Given at the University of York in the Fiftieth Year of The Waste Land</i>, ed. A. D. Moody (London: Edward Arnold, 1974; New York: St Martin's Press, 1975), xi + 237 pp.
 ---
-id: matthews-1921
-short: Matthews, The Bankers' Clearing House (1921)
-full: Philip W. Matthews, <i>The Bankers' Clearing House: What It Is and What It Does</i>, with a preface by Robert Holland-Martin, The Banker's Library (London: Sir Isaac Pitman and Sons, 1921), Appendix I, "List of Clearing Banks, Head Offices and Branches Included in the Town Clearing," which gives the head London office of Lloyds Bank Ltd as 71 Lombard Street.
-url: https://archive.org/details/bankersclearingh00mattuoft
----
 id: kings-college-2022
 short: King's College, Cambridge, "The Waste Land at 100"
 full: "The Waste Land at 100," King's Treasures, the blog of King's College Library and Archives, Cambridge, 15 October 2022; on the College's Hayward copies of the first editions, the copy Eliot inscribed to Pound, and the first printing of the dedication in <i>Poems 1909–1925</i>.
