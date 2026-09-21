@@ -11,7 +11,7 @@ Pound, Letters, ed. Paige, no. 181
 Eliot, "Ezra Pound," Poetry (1946)
 ---
 line: 0
-text: The epigraph is Latin and Greek, from Petronius's <i>Satyricon</i>. Trimalchio, a rich freed slave, says he saw the Sibyl of Cumae, a prophetess, hanging in a jar, and when boys asked "Sibyl, what do you want?" she answered "I want to die." In Ovid's <i>Metamorphoses</i> she had asked Apollo for as many years as a heap of dust had grains, and forgot to ask for youth. The dedication, first printed in 1925, is to the poet Ezra Pound, who cut the typescript. "Il miglior fabbro", the better craftsman, is Dante's phrase for the troubadour Arnaut Daniel in <i>Purgatorio</i> XXVI.
+text: The epigraph is Latin and Greek, from the <i>Satyricon</i>, a Latin novel by Petronius. Trimalchio, a freed slave, says he saw the Sibyl of Cumae, a prophetess, hanging in a jar, and when boys asked “Sibyl, what do you want?” she answered “I want to die.” The Roman poet Ovid says she asked Apollo for as many years as a heap of dust had grains, and forgot to ask for youth. The dedication is to the poet Ezra Pound, who cut the typescript. “Il miglior fabbro”, the better craftsman, is Dante’s phrase for the troubadour Arnaut Daniel in the <i>Purgatorio</i>.
 sources: Petronius, Satyricon 48
 Ovid, Metamorphoses XIV 130–153
 Dante, Purgatorio XXVI 115–117
@@ -40,7 +40,7 @@ sources: Wagner, Tristan und Isolde, I.i
 Wagner, Tristan und Isolde, III.i
 ---
 line: 43
-text: Madame Sosostris, a fortune-teller, deals tarot cards that come true later. Eliot's note on line 46 says the Sailor, the Merchant and the "crowds of people" "appear later". The sailor is Phlebas in Part IV, the merchant Mr. Eugenides at 209. Eliot ties the man with three staves "quite arbitrarily" to the Fisher King, the Grail legend's wounded king. He links the Hanged Man she cannot find to the hooded figure of Part V. The crowds in a ring are usually read as the crowd on London Bridge at 62. Her only advice is "Fear death by water".
+text: Madame Sosostris, a fortune-teller, reads tarot; the cards come back later. Eliot’s note on line 46 says the Sailor, the Merchant and the “crowds of people” “appear later”. The sailor is Phlebas in Part IV, the merchant Mr. Eugenides at 209. Belladonna (49), a poison and Italian for “beautiful lady”, is no tarot card; the poem does not say who she is. Eliot ties the man with three staves “quite arbitrarily” to the Fisher King, the Grail legend’s wounded king. He links the Hanged Man she cannot find to Part V’s hooded figure. Her advice is “Fear death by water”.
 sources: Brooks (1939)
 Weston, From Ritual to Romance, ch. IX
 ---
@@ -57,7 +57,7 @@ T. S. Eliot Foundation, "T. S. Eliot at Lloyds Bank"
 Letters, vol. 1, Eliot to his father, 8 September 1918
 ---
 line: 69
-text: Mylae was a sea battle of 260 BC, Rome against Carthage, so Stetson is hailed as a shipmate of two thousand years ago. Eliot's first note mentions "vegetation ceremonies" in Frazer's <i>Golden Bough</i>, on ancient rites; the sprouting corpse is usually read as such a rite, a buried god rising as corn. Line 74 alters a dirge in Webster's play <i>The White Devil</i>, where a wolf, "foe to men", digs up the dead. Here the Dog is "friend to men". Line 76 is French, from the opening poem of Baudelaire's <i>Les Fleurs du mal</i>: "hypocrite reader, my likeness, my brother".
+text: Mylae was a Roman sea victory over Carthage in 260 BC, so Stetson is hailed as a shipmate of two thousand years ago. Eliot’s first note mentions “vegetation ceremonies” in the anthropologist J. G. Frazer’s <i>Golden Bough</i>; the sprouting corpse is usually read as such a ceremony, a buried god rising as corn. Line 74 alters a dirge in Webster’s play <i>The White Devil</i>, where a wolf, “foe to men”, digs up the dead. Here the Dog is “friend to men”. Line 76 is French, from the poem opening Baudelaire’s <i>Les Fleurs du mal</i>: “hypocrite reader, my likeness, my brother”.
 sources: Matthiessen (1935)
 Brooks (1939)
 Frazer, The Golden Bough (1922), ch. XXXIX
@@ -65,16 +65,17 @@ Webster, The White Devil, V.iv
 Baudelaire, Les Fleurs du mal, "Au Lecteur," lines 37–40
 ---
 line: 77
-text: Part II opens in a rich woman's dressing-room, described in one sentence (77–93). Eliot's note on this line cites the speech in Shakespeare's <i>Antony and Cleopatra</i> in which Antony's officer Enobarbus describes Cleopatra's barge, and here the barge has become a Chair. The sentence is hard to follow, and it is usually read as a parody of that speech. The glass of line 78 is the mirror, which doubled the candle flames. At 111 a woman speaks to a man who does not answer aloud, and at 139 a woman in a pub tells a friend's story.
+text: Part II opens in a rich woman’s dressing-room, described in one sentence (77–93). Eliot’s note on this line cites the speech in Shakespeare’s <i>Antony and Cleopatra</i> in which Antony’s officer Enobarbus describes Cleopatra’s barge; here the barge has become a Chair. The sentence is hard to follow, and usually read as a parody of that speech. The glass (78) is the mirror, which doubled the candle flames. “Laquearia” (92) is Latin for a panelled ceiling; Eliot’s note on that line quotes the Roman poet Virgil’s <i>Aeneid</i>, where lamps hang from a gilded ceiling at the feast Queen Dido gives Aeneas.
 sources: Shakespeare, Antony and Cleopatra II.ii
+Virgil, Aeneid I 726
 ---
 line: 99
-text: The picture over the mantel shows the story of Philomel, from Ovid's <i>Metamorphoses</i>. Tereus, king of Thrace, raped her, his wife's sister, and cut out her tongue so that she could not tell. She was turned into a nightingale. "Jug Jug" (103) is how Elizabethan poets wrote the nightingale's song, and B. C. Southam, in his guide to Eliot's poems, records that it was also a crude joke about sex, which is what "dirty ears" hear. Her cry comes back at 203–206, where "Tereu" is the king's name. Her sister, who became the swallow, comes back at line 429.
+text: The picture over the mantel shows the story of Philomel, from the Roman poet Ovid’s <i>Metamorphoses</i>. Tereus, king of Thrace, raped her, his wife’s sister, and cut out her tongue so she could not tell. She was turned into a nightingale. “Jug Jug” (103) is how Elizabethan poets wrote the nightingale’s song, and B. C. Southam, in his guide to Eliot’s poems, records it was also a crude joke about sex, which is what “dirty ears” hear. Her cry comes back at 203–206, where “Tereu” is the king’s name. Her sister, who became the swallow, comes back at 429.
 sources: Ovid, Metamorphoses VI 424–674
 Southam, Guide, note on line 103
 ---
 line: 111
-text: The woman's words, in quotation marks, are spoken; the man's have none and are usually read as thought. The "rats' alley" of 115 was a trench name on the Western Front. "Those are pearls that were his eyes" (125) repeats line 48, the fortune-teller's line over the drowned sailor, from Shakespeare's <i>The Tempest</i>. "That Shakespeherian Rag" (128) was a 1912 ragtime song. His last answer ends in a game of chess, the part's title. Eliot's note on line 138 takes it from Middleton's play <i>Women Beware Women</i>, where chess downstairs keeps a mother busy while her daughter-in-law is raped above.
+text: The woman's words, in quotation marks, are spoken; the man's have none and are usually read as thought. The "rats' alley" of 115 was a trench name on the Western Front. "Those are pearls that were his eyes" (125) repeats line 48, the fortune-teller's line over the drowned sailor, from Shakespeare's <i>The Tempest</i>. The “Shakespeherian Rag” (128) was a 1912 ragtime song. His last answer ends in a game of chess, the part's title. Eliot's note on line 138 takes it from Middleton's play <i>Women Beware Women</i>, where chess downstairs keeps a mother busy while her daughter-in-law is raped above.
 sources: Chasseaud (2006)
 Shakespeare, The Tempest I.ii
 Buck, Ruby and Stamper, "That Shakespearian Rag" (1912)
@@ -111,8 +112,10 @@ sources: Southam, Guide, notes on lines 209–214
 Rainey, Annotated Waste Land, notes on lines 209–214
 ---
 line: 215
-text: The watcher who names himself at 218 is Tiresias, the blind prophet of Greek legend. Eliot's note on line 218 quotes Ovid's Latin on him. He struck two coupling snakes and lived seven years as a woman. Juno blinded him for siding with Jupiter in a quarrel over which sex enjoys love more, and Jupiter gave him foresight. In rhymed stanzas he watches a typist in her one rented room and a house agent's clerk. The note also says "What Tiresias <i>sees</i>, in fact, is the substance of the poem".
+text: The watcher who names himself at 218 is Tiresias, the blind prophet of Greek legend. Eliot’s note on line 218 quotes the Roman poet Ovid’s Latin on him. He struck two coupling snakes and lived seven years as a woman. Juno blinded him for siding with Jupiter on which sex enjoys love more; Jupiter gave him foresight. Thebes (245) was his city, and Odysseus sought his ghost among the dead (246). In rhymed stanzas he watches a typist in her one room and a house agent’s clerk. The note also says what he sees “is the substance of the poem”.
 sources: Ovid, Metamorphoses III 316–338
+Homer, Odyssey XI 90–151
+Sophocles, Oedipus Tyrannus, lines 300–462
 ---
 line: 266
 text: Eliot's note on this line says the three Thames-daughters' song begins here. The refrain "Weialala leia" is sung by the Rhine-daughters who open the last act of Wagner's opera <i>Götterdämmerung</i>, mourning their stolen gold; the syllables are not words. At 279 Queen Elizabeth and Robert Dudley, later Earl of Leicester, are in a barge. Eliot's note quotes the Spanish ambassador's 1561 report that they joked of marrying, though they never did. The Thames-daughters are three unnamed girls who speak in turn from 292: one undone at Richmond in a canoe, one at Moorgate after "the event", one on Margate Sands.
@@ -121,13 +124,13 @@ Froude, Reign of Elizabeth, vol. I, ch. iv
 Calendar of State Papers, Simancas, vol. 1, no. 134
 ---
 line: 307
-text: "To Carthage then I came" and "O Lord Thou pluckest me out" are St Augustine in his <i>Confessions</i>, remembering the city of his student years. There, in the words of Eliot's note on this line, "a cauldron of unholy loves sang all about mine ears". "Burning" is from the Buddha's Fire Sermon, which names the part. In it the eye, the ear, the mind and all things are "on fire" with the fires of passion, hatred and infatuation. Eliot's note on line 309 says that putting these two "representatives of eastern and western asceticism" together "is not an accident".
+text: “To Carthage then I came” is St Augustine in his <i>Confessions</i>, remembering the city of his student years. There, Eliot’s note on this line says, “a cauldron of unholy loves sang all about mine ears”. “O Lord Thou pluckest me out” is Augustine later in the book, on the lure of the eyes. “Burning” is from the Buddha’s Fire Sermon, which names the part. In it eye, ear, mind and all things are “on fire” with passion, hatred and infatuation. Eliot’s note on line 309 says putting these “representatives of eastern and western asceticism” together “is not an accident”.
 sources: Augustine, Confessions III.1
 Augustine, Confessions X.34
 Warren, Buddhism in Translations, § 73
 ---
 line: 312
-text: Part IV is ten lines on a drowned man. Phlebas is the drowned Phoenician Sailor whom the fortune-teller Madame Sosostris dealt at 47. She warned "Fear death by water", and Eliot's note on line 46 says "Death by Water is executed in Part IV". In the typescript these ten lines closed a sea voyage of some ninety lines, which the poet Ezra Pound cut. Asked whether to drop Phlebas too, Pound said he must stay, since the fortune-teller's pack introduces him.
+text: Part IV is ten lines on a drowned man. Phlebas is the drowned Phoenician Sailor whom the fortune-teller Madame Sosostris dealt at 47. She warned "Fear death by water", and Eliot's note on line 46 says "Death by Water is executed in Part IV". In the typescript these ten lines were the last of some ninety; before them came a sea voyage, which the poet Ezra Pound cut. Asked whether to drop Phlebas too, Pound said he must stay, since the fortune-teller's pack introduces him.
 sources: Facsimile (1971), the typescript of Part IV
 Pound, Letters, ed. Paige, nos. 182–183
 ---
@@ -140,7 +143,7 @@ King James Bible, John 18:3
 King James Bible, Luke 22:44
 ---
 line: 360
-text: In Luke 24 two disciples walking to Emmaus are joined by a stranger, and "their eyes were holden that they should not know him". They know him as the risen Jesus only when he breaks bread, then he vanishes. The poem keeps the hooded stranger, not the recognition. Eliot's note on this line adds an Antarctic party's delusion of "<i>one more member</i> than could actually be counted": in Shackleton's <i>South</i>, three men crossing South Georgia in 1916 each felt "that we were four, not three". Eliot's note on line 46 links this hooded figure to the fortune-teller's missing Hanged Man.
+text: In Luke 24 two disciples walking to Emmaus are joined by a stranger, and “their eyes were holden that they should not know him”. They know him as the risen Jesus only when he breaks bread, then he vanishes. Eliot’s note on this line adds an Antarctic party’s delusion of “<i>one more member</i> than could actually be counted”: in the explorer Ernest Shackleton’s book <i>South</i>, three men crossing the island of South Georgia in 1916 each felt “that we were four, not three”. Eliot’s note on line 46 links this hooded figure to the fortune-teller’s missing Hanged Man.
 sources: King James Bible, Luke 24:13–31
 Shackleton, South, ch. X
 ---
@@ -168,7 +171,7 @@ Southam, Guide, note on line 425
 Opie (1951), "London Bridge is broken down"
 ---
 line: 428
-text: Line 428 is Italian, from the canto of Dante's <i>Purgatorio</i> that gave the dedication: the troubadour Arnaut Daniel steps back willingly into the fire that purges lust, "the fire that refines them". Line 429 is Latin, from the <i>Pervigilium Veneris</i>, an anonymous poem for the eve of Venus's spring festival: "when shall I become like the swallow"; the swallow is Philomel's sister. Line 430 is French, from Nerval's sonnet "El Desdichado", where the poet calls himself the widower, the unconsoled, "the Prince of Aquitaine with the ruined tower". Line 431 is the poem saying what it is made of.
+text: Line 428 is Italian, from Dante’s <i>Purgatorio</i>, where Dante meets the troubadour Arnaut Daniel, the dedication’s “better craftsman”, who goes back into the fire that purges lust: “Then he hid himself in the fire that refines them”. Line 429 is Latin, from the <i>Pervigilium Veneris</i>, an anonymous poem for Venus’s spring festival: “when shall I become like the swallow”; the swallow is the sister of Philomel, the raped girl of line 99 who became the nightingale. Line 430 is French, from Nerval’s sonnet “El Desdichado”: “the Prince of Aquitaine with the ruined tower”. Line 431 calls these quotations fragments.
 sources: Dante, Purgatorio XXVI 115–117 and 140–148
 Pervigilium Veneris, lines 85–93
 Ovid, Metamorphoses VI 424–674
