@@ -116,10 +116,10 @@
     if (close) { const c = close.closest('.card'); const id = c.dataset.g; if (id) $$(`.g[data-g="${id}"]`).forEach(a => a.classList.remove('open')); c.remove(); relayout(); return; }
     const pl = e.target.closest('.pl');
     if (pl && state.lens === 'places') { e.preventDefault(); openPlace(pl.dataset.place, pl); return; } // in the Places lens a place name opens the place, even inside a phrase that opens a note
+    const t = e.target.closest('.t');
+    if (t && state.lens === 'tongues') { e.preventDefault(); toggleTrans(t); return; } // in the Languages lens a phrase opens its translation, even inside a phrase that opens a note
     const a = e.target.closest('a.g');
     if (a) { e.preventDefault(); openGloss(a.dataset.g, a); return; }
-    const t = e.target.closest('.t');
-    if (t && state.lens === 'tongues') { toggleTrans(t); return; }
   });
 
   /* ---------- Eliot's notes lens ---------- */

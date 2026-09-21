@@ -76,7 +76,7 @@ text: Following {voice}, {n} lines. Click again to show all the voices.
 ---
 id: legend-voices
 where: the Voices lens: the label on the card at the head of the poem
-text: Voices · thirty-two of them
+text: Voices · {voices} of them
 ---
 id: voice-tag-title
 where: the Voices lens: the tooltip on a speaker’s name in the text
@@ -400,7 +400,7 @@ text: Turn a card over to read what it is, where it comes from, and where it tur
 ---
 id: tarot-no-deck
 where: Turn the cards: added to that line only if the drawn pack were missing
-text: The three cards with pictures are Pamela Colman Smith’s designs for the 1909 Rider pack, the one on sale in London when the poem was written; a deck drawn for this edition is on its way.
+text: The three cards with pictures are Pamela Colman Smith’s designs for the 1909 Rider pack, the one on sale in London when the poem was written.
 ---
 id: pack-title
 where: Turn the cards: the heading over the rest of the pack

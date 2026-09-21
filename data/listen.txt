@@ -290,7 +290,7 @@ who: Sir James George Frazer
 when: First edition, 1906
 host: Internet Archive
 embed: auto
-body: Eliot’s headnote names “the two volumes Adonis, Attis, Osiris”, which are Part IV of the third edition of The Golden Bough (1914). This is the book’s first edition of 1906, in one volume. It gives Frazer’s account of the dying and reviving gods, the gardens of Adonis and the images of the god thrown into the sea, first set out in The Golden Bough of 1890 and enlarged here. The other book the headnote names, Jessie Weston’s From Ritual to Romance, is {link:gutenberg-4090-weston|on Project Gutenberg}, and so is {link:gutenberg-3623-frazer-golden-bough|the one-volume Golden Bough} of 1922.
+body: The headnote to Eliot’s notes names “the two volumes Atthis Adonis Osiris”, that is, Adonis, Attis, Osiris, Part IV of the third edition of The Golden Bough (1914). This is the book’s first edition of 1906, in one volume. It gives Frazer’s account of the dying and reviving gods, the gardens of Adonis and the images of the god thrown into the sea, first set out in The Golden Bough of 1890 and enlarged here. The other book the headnote names, Jessie Weston’s From Ritual to Romance, is {link:gutenberg-4090-weston|on Project Gutenberg}, and so is {link:gutenberg-3623-frazer-golden-bough|the one-volume Golden Bough} of 1922.
 sources: Frazer, Adonis, Attis, Osiris, preface, p. v
 Frazer, The Golden Bough, part IV (1914)
 Frazer, The Golden Bough (1922)

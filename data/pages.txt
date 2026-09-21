@@ -292,7 +292,7 @@ text: Behind the gashouse, l. 190
 ---
 id: map-gashouse-sub
 where: the London map: the small line under that label
-text: the poem names no canal
+text: the poem does not say which canal
 ---
 id: map-margate-label
 where: the London map: the label under the drawing of Margate Sands in the corner box
@@ -301,6 +301,22 @@ text: Margate Sands, l. 300
 id: map-margate-sub
 where: the London map: the small line under that label
 text: sixty miles east, off this map
+---
+id: europe-title
+where: the map page: the heading over the Europe inset, under the world map
+text: Europe and the Mediterranean, drawn large
+---
+id: europe-lede
+where: the map page: the paragraph under that heading
+text: Most of the places the poem names lie within a few hundred miles of one another, from Bradford and Margate to Jerusalem and Alexandria, and on the world map their names crowd together. Here they are drawn large, joined by the line of the poem, which leaves the map for Sydney at line 199 and for the Ganges in Part V. Click a place for its lines.
+---
+id: map-europe-aria
+where: the map page: the spoken description of the Europe inset
+text: A map of Europe and the Mediterranean with the places the poem names
+---
+id: map-europe-frame-label
+where: the map page: the label on the dashed frame drawn on the world map round Europe (a link to the inset)
+text: Europe and the Mediterranean, drawn large below
 ---
 id: place-royal-barge
 where: the London map: the name of the Queen’s barge (Elizabeth and Leicester) when it is clicked

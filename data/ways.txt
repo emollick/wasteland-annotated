@@ -45,7 +45,7 @@ body: Eliot's headnote credits Jessie L. Weston's book on the Grail legend with 
 kind: draft
 title: Read what was cut
 lens: drafts
-body: The section did not begin with April. In the typescript it began with fifty-four lines about a night out in Boston, which were cut. The drafts view shows where the cut fell. Read the cancelled opening and then line 1, and decide what the change did.
+body: The section did not begin with April. In the typescript it began with fifty-four lines about a night out in Boston, which were cut. The Drafts lens marks where the cut fell and describes the cancelled lines, which are still in copyright and cannot be printed here. Read the description and then line 1, and decide what the change did.
 sources: Facsimile (1971), the typescript of Part I
 Edmund Wilson (1971)
 Litz (1973)
@@ -53,7 +53,7 @@ Litz (1973)
 kind: lens
 title: Read it without the translations
 lens: tongues
-body: Five lines of Wagner (31–34 and 42), a sentence of German at line 12 and a line of French at line 76 are left untranslated. Switch on Tongues to see what they say, then switch it off and read the section as a reader with no German or French would have read it in 1922, hearing those lines without understanding them.
+body: Five lines of Wagner (31–34 and 42), a sentence of German at line 12 and a line of French at line 76 are left untranslated. Switch on Languages to see what they say, then switch it off and read the section as a reader with no German or French would have read it in 1922, hearing those lines without understanding them.
 ---
 kind: ask
 title: Three questions with no answer
@@ -103,7 +103,7 @@ body: The poem gives three hours by the clock; two of them are here, ten and fou
 kind: draft
 title: Vivien Eliot's pencil
 lens: drafts
-body: Eliot's wife read this section in typescript. Beside the nervous dialogue she wrote "WONDERFUL"; she supplied two lines of the pub scene; and she asked for a line about "ivory men" to be taken out. The drafts view says which.
+body: Eliot's wife read this section in typescript. Beside the nervous dialogue she wrote "WONDERFUL"; she supplied two lines of the pub scene; and she asked for a line about "ivory men" to be taken out. The Drafts lens says which.
 sources: Facsimile (1971), the typescript of Part II
 Ricks and McCue, textual notes on lines 120–139, 153 and 164
 Litz (1973)
@@ -263,12 +263,12 @@ Shackleton, South, ch. X
 kind: lens
 title: The languages of the last lines
 lens: tongues
-body: The last eight lines are in English, Italian, Latin, French, English, English, Sanskrit, Sanskrit; Eliot's note on line 428 adds Provençal. The Tongues lens gives the translations.
+body: The last eight lines are in English, Italian, Latin, French, English, English, Sanskrit, Sanskrit; Eliot's note on line 428 adds Provençal. The Languages lens gives the translations.
 ---
 kind: do
 title: Unstack the last lines
 lens: fragments
-body: "These fragments I have shored against my ruins." The Fragments view takes the last lines one at a time and gives each its source.
+body: "These fragments I have shored against my ruins." The tool Unstack the last lines takes them one at a time and gives each its source.
 ---
 kind: source
 title: The fable in the Upanishad

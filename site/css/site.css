@@ -655,3 +655,9 @@ body.follow .voice-tag:not(.v-on) { opacity: .25; }
 .work-full { color: var(--ink-2); }
 .work-link { display: inline-block; margin-left: .5em; font-variant-caps: small-caps; letter-spacing: .06em; font-size: .78rem; color: var(--violet); white-space: nowrap; }
 .work:target, .src:target { background: color-mix(in srgb, var(--violet) 8%, transparent); box-shadow: -.8rem 0 0 color-mix(in srgb, var(--violet) 8%, transparent), .8rem 0 0 color-mix(in srgb, var(--violet) 8%, transparent); }
+/* the maps: a Europe inset drawn large; leader lines where a label sits away from its dot; on a phone the maps keep their size and scroll sideways in their frame */
+.map-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.map.europe .lbl { font-size: 12px; }
+.map .leader { stroke: var(--ink-3); stroke-width: .7; }
+.map .frame-link { cursor: pointer; }
+@media (max-width: 720px) { .map { min-width: 680px; } .map-wrap { mask-image: linear-gradient(90deg, #000 90%, transparent); -webkit-mask-image: linear-gradient(90deg, #000 90%, transparent); } }

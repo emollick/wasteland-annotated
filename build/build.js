@@ -328,6 +328,8 @@ for (const k of Object.keys(plates)) if (plates[k]) fs.writeFileSync(path.join(S
 const P = Object.fromEntries(parseRecords(read(path.join(DATA, 'pages.txt'))).map(r => [r.id, typo(r.text)]));
 function page(id) { if (!(id in P)) throw new Error(`data/pages.txt has no record "${id}"`); return P[id]; }
 const U = Object.fromEntries(parseRecords(read(path.join(DATA, 'ui.txt'))).map(r => [r.id, typo(r.text)]));
+const numberWord = n => { const ones = ['no', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen'], tens = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety']; return n < 20 ? ones[n] : n < 100 ? tens[Math.floor(n / 10)] + (n % 10 ? '-' + ones[n % 10] : '') : String(n); };
+for (const k of Object.keys(U)) U[k] = U[k].replace('{voices}', numberWord(Object.keys(voicesData.voices).length)); // the count is built from the data, so it cannot drift
 {
   const usedUI = new Set([...read(path.join(SITE, 'js', 'poem.js')).matchAll(/\bui\('([a-z0-9-]+)'\)/g)].map(m => m[1]));
   for (const id of usedUI) if (!(id in U)) throw new Error(`data/ui.txt has no record "${id}", which site/js/poem.js uses`);
@@ -475,7 +477,7 @@ function renderMapPage() {
     const bbox = [-0.335, 51.425, 0.105, 51.575];
     const W = 1200, H = Math.round(W * ((bbox[3] - bbox[1]) / ((bbox[2] - bbox[0]) * Math.cos(51.5 * Math.PI / 180))));
     const pts = thames.river.map(([lon, lat]) => project(lon, lat, bbox, W, H));
-    const riverLbl = (() => { const t = project(-0.215, 51.47, bbox, W, H); let b = 0, bd = 1e9; pts.forEach((p, i) => { const d = Math.hypot(p[0] - t[0], p[1] - t[1]); if (d < bd) { bd = d; b = i; } }); return pts[b]; })();
+    const riverLbl = (() => { const t = project(0.045, 51.5, bbox, W, H); let b = 0, bd = 1e9; pts.forEach((p, i) => { const d = Math.hypot(p[0] - t[0], p[1] - t[1]); if (d < bd) { bd = d; b = i; } }); return pts[b]; })();
     const d = pts.map((p, i) => (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' ');
     placeLines.london['royal-barge'] = placeLines.london['royal-barge'] || { label: page('place-royal-barge'), lines: [279, 289] };
     placeLines.london['metropole'] = placeLines.london['metropole'] || { label: page('place-metropole'), lines: [214] };
@@ -487,7 +489,7 @@ function renderMapPage() {
     const VIG_PLACE = { 'st-mary-woolnoth': 'st-mary-woolnoth', 'st-magnus-martyr': 'st-magnus-the-martyr', 'london-bridge': 'london-bridge', 'cannon-street-hotel': 'cannon-street-station', 'lower-thames-street-bar': 'lower-thames-street' };
     const MAIN_VIG = { 'richmond': 'richmond-bridge', 'kew': 'kew-bridge', 'highbury': 'highbury' };
     const LBL_DX = { 'hogarth-press': 46, 'greenwich-palace': 9 };
-    const LBL_DY = { 'wiltons-music-hall': -8, 'isle-of-dogs': -6 };
+    const LBL_DY = { 'wiltons-music-hall': -8, 'isle-of-dogs': -6, 'greenwich-pier': -12, 'greenwich-palace': 12 };
     const CITY = new Set(['london-bridge', 'king-william-street', 'st-mary-woolnoth', 'lloyds-bank-lombard-street', 'cannon-street-station', 'lower-thames-street', 'st-magnus-the-martyr', 'billingsgate']);
     const LEFT_LBL = new Set(['strand', 'queen-victoria-street', 'kew-bridge', 'richmond-bridge']);
     function pinned(name, cx, cy, size, cls) { const p = PIN[name] || [100, 172]; const k = size / 200; return nestSVG(vig[name], cx - p[0] * k, cy - p[1] * k, size, cls); }
@@ -554,39 +556,83 @@ function renderMapPage() {
     </svg>`;
     london += cityInset;
   }
-  // world map
-  let world = '';
+  // world map, with Europe and the Mediterranean drawn large beneath it (most of the poem's places crowd there)
+  let world = '', europe = '';
   const ne = readJSON(path.join(RESEARCH, 'ne_land50.json'), null) || readJSON(path.join(RESEARCH, 'ne_land.json'), null);
   if (ne && thames) {
-    const bbox = [-100, -45, 160, 72];
-    const W = 1200, H = 540;
-    const proj = (lon, lat) => [(lon - bbox[0]) / (bbox[2] - bbox[0]) * W, (bbox[3] - lat) / (bbox[3] - bbox[1]) * H];
-    let land = '';
-    for (const f of ne.features) {
-      const polys = f.geometry.type === 'Polygon' ? [f.geometry.coordinates] : f.geometry.coordinates;
-      for (const poly of polys) for (const ring of poly) {
-        if (ring.length < 20 && f.geometry.type === 'MultiPolygon') { /* keep small islands too */ }
-        let dd = '';
-        let last = null;
-        for (const [lon, lat] of ring) {
-          if (lon < bbox[0] - 5 || lon > bbox[2] + 5 || lat < bbox[1] - 5 || lat > bbox[3] + 5) { continue; }
-          const [x, y] = proj(lon, lat);
-          if (last && Math.abs(x - last[0]) < 1.2 && Math.abs(y - last[1]) < 1.2) continue;
-          dd += (dd ? 'L' : 'M') + x.toFixed(1) + ' ' + y.toFixed(1);
-          last = [x, y];
+    const WB = [-100, -45, 160, 72], W = 1200, H = 540;
+    const wproj = (lon, lat) => [(lon - WB[0]) / (WB[2] - WB[0]) * W, (WB[3] - lat) / (WB[3] - WB[1]) * H];
+    const EB = [-11, 30, 43, 56], EW = 1200, EH = Math.round(EW * ((EB[3] - EB[1]) / ((EB[2] - EB[0]) * Math.cos(43 * Math.PI / 180))));
+    const eproj = (lon, lat) => project(lon, lat, EB, EW, EH);
+    // land: the coast rings, thinned; points beyond the margin are dropped, so the margin is wide enough that the straight joins fall outside the view
+    const landPath = (bx, proj, margin) => {
+      let land = '';
+      for (const f of ne.features) {
+        const polys = f.geometry.type === 'Polygon' ? [f.geometry.coordinates] : f.geometry.coordinates;
+        for (const poly of polys) for (const ring of poly) {
+          let dd = '', last = null;
+          for (const [lon, lat] of ring) {
+            if (lon < bx[0] - margin || lon > bx[2] + margin || lat < bx[1] - margin || lat > bx[3] + margin) continue;
+            const [x, y] = proj(lon, lat);
+            if (last && Math.abs(x - last[0]) < 1.2 && Math.abs(y - last[1]) < 1.2) continue;
+            dd += (dd ? 'L' : 'M') + x.toFixed(1) + ' ' + y.toFixed(1);
+            last = [x, y];
+          }
+          if (dd) land += dd + 'Z';
         }
-        if (dd) land += dd + 'Z';
       }
-    }
+      return land;
+    };
     const worldPlaces = Object.entries(placeLines.world).map(([id, info]) => ({ id, ...info, p: placeById[id] })).filter(p => p.p);
-    // journey in poem order (by first line)
+    const inEurope = p => p.p.lon > EB[0] + 0.5 && p.p.lon < EB[2] - 0.5 && p.p.lat > EB[1] + 0.5 && p.p.lat < EB[3] - 0.5;
+    // journey in poem order (by first line); on the inset the pen lifts where the poem leaves Europe
     const journey = worldPlaces.filter(p => p.lines.length && !p.eliot).map(p => ({ ...p, first: Math.min(...p.lines) })).sort((a, b) => a.first - b.first);
-    const jd = journey.map((p, i) => { const [x, y] = proj(p.p.lon, p.p.lat); return (i ? 'L' : 'M') + x.toFixed(1) + ' ' + y.toFixed(1); }).join(' ');
+    const journeyPath = (proj, keep) => { let d = '', pen = false; for (const p of journey) { if (!keep(p)) { pen = false; continue; } const [x, y] = proj(p.p.lon, p.p.lat); d += (pen ? ' L' : ' M') + x.toFixed(1) + ' ' + y.toFixed(1); pen = true; } return d.trim(); };
+    // labels: each tries a few positions round its dot and takes the first that covers no other label or dot, with a leader line when it lands away from the dot
+    const placeLabels = (items, font, mw, mh) => {
+      const cw = font * 0.64, pad = 2;
+      const boxes = items.map(it => ({ x: it.x - 5, y: it.y - 5, w: 10, h: 10 }));
+      const cands = [[8, 4, 'start'], [-8, 4, 'end'], [0, -8, 'middle'], [0, 15, 'middle'], [9, -6, 'start'], [9, 14, 'start'], [-9, -6, 'end'], [-9, 14, 'end'], [18, -16, 'start'], [18, 24, 'start'], [-18, -16, 'end'], [-18, 24, 'end'], [0, -24, 'middle'], [0, 30, 'middle'], [30, -28, 'start'], [-30, -28, 'end'], [30, 36, 'start'], [-30, 36, 'end'], [44, -40, 'start'], [-44, -40, 'end'], [44, 48, 'start'], [-44, 48, 'end']];
+      return items.map(it => {
+        const w = it.label.length * cw, h = font;
+        let chosen = null;
+        for (const [dx, dy, anchor] of cands) {
+          const lx = it.x + dx, ly = it.y + dy;
+          const bx = anchor === 'start' ? lx : anchor === 'end' ? lx - w : lx - w / 2;
+          const box = { x: bx - pad, y: ly - h - pad, w: w + 2 * pad, h: h + 2 * pad };
+          if (box.x < 2 || box.y < 2 || box.x + box.w > mw - 2 || box.y + box.h > mh - 2) continue;
+          if (boxes.some(o => o.x < box.x + box.w && o.x + o.w > box.x && o.y < box.y + box.h && o.y + o.h > box.y)) continue;
+          chosen = { dx, dy, anchor, box }; break;
+        }
+        if (!chosen) { console.warn('map label could not be placed clear:', it.label); chosen = { dx: 8, dy: 4, anchor: 'start', box: null }; }
+        if (chosen.box) boxes.push(chosen.box);
+        return { ...it, ...chosen, leader: Math.hypot(chosen.dx, chosen.dy) > 17 };
+      });
+    };
+    const placeMarkup = (p, r, extra) => {
+      const leader = p.leader ? `<line class="leader" x1="0" y1="0" x2="${(p.dx * 0.8).toFixed(1)}" y2="${((p.dy - 4) * 0.8).toFixed(1)}"/>` : '';
+      return `<g class="place${p.eliot ? ' eliot' : ''}${extra || ''}" data-place="${p.id}" data-lines="${p.lines.join(',')}" transform="translate(${p.x.toFixed(1)} ${p.y.toFixed(1)})"><circle r="${r}" class="dot"/><circle r="11" class="halo"/>${leader}<text class="lbl" x="${p.dx}" y="${p.dy}"${p.anchor !== 'start' ? ` text-anchor="${p.anchor}"` : ''}>${esc(p.label)}</text></g>`;
+    };
+    const wpts = worldPlaces.map(p => { const [x, y] = wproj(p.p.lon, p.p.lat); return { ...p, x, y }; });
+    const wlabelled = placeLabels(wpts.filter(p => !inEurope(p)), 11, W, H);
+    const wquiet = wpts.filter(inEurope).map(p => ({ ...p, dx: 7, dy: 4, anchor: 'start', leader: false }));
+    const e0 = wproj(EB[0], EB[3]), e1 = wproj(EB[2], EB[1]);
+    const europeFrame = `<a href="#europe-map" class="frame-link"><rect class="frame" x="${(e0[0] - 4).toFixed(1)}" y="${(e0[1] - 4).toFixed(1)}" width="${(e1[0] - e0[0] + 8).toFixed(1)}" height="${(e1[1] - e0[1] + 8).toFixed(1)}" rx="2"/><text class="frame-lbl" x="${(e0[0] - 4).toFixed(1)}" y="${(e1[1] + 18).toFixed(1)}">${page('map-europe-frame-label')}</text></a>`;
     world = `<svg class="map world" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${page('map-world-aria')}">
       <rect width="${W}" height="${H}" class="map-bg"/>
-      <path class="land" d="${land}"/>
-      <path class="journey" d="${jd}"/>
-      ${worldPlaces.map(p => { const [x, y] = proj(p.p.lon, p.p.lat); return `<g class="place${p.eliot ? ' eliot' : ''}" data-place="${p.id}" data-lines="${p.lines.join(',')}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="3.5" class="dot"/><circle r="11" class="halo"/><text class="lbl" x="7" y="4">${esc(p.label)}</text></g>`; }).join('')}
+      <path class="land" d="${landPath(WB, wproj, 5)}"/>
+      <path class="journey" d="${journeyPath(wproj, () => true)}"/>
+      ${europeFrame}
+      ${wquiet.map(p => placeMarkup(p, 3.5, ' quiet')).join('')}
+      ${wlabelled.map(p => placeMarkup(p, 3.5)).join('')}
+    </svg>`;
+    const epts = wpts.filter(inEurope).map(p => { const [x, y] = eproj(p.p.lon, p.p.lat); return { ...p, x, y }; });
+    const elabelled = placeLabels(epts, 12, EW, EH);
+    europe = `<svg class="map europe" viewBox="0 0 ${EW} ${EH}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${page('map-europe-aria')}">
+      <rect width="${EW}" height="${EH}" class="map-bg"/>
+      <path class="land" d="${landPath(EB, eproj, 30)}"/>
+      <path class="journey" d="${journeyPath(eproj, inEurope)}"/>
+      ${elabelled.map(p => placeMarkup(p, 4)).join('')}
     </svg>`;
   }
   const html = head(page('title-map')) + `<body class="map-page">${runningHead('map.html')}
@@ -598,6 +644,7 @@ function renderMapPage() {
     <h2 class="sub">${page('world-title')}</h2>
     <p class="lede">${page('world-lede')}</p>
     <div class="map-wrap" id="world-map">${world}</div>
+    ${europe ? `<h2 class="sub">${page('europe-title')}</h2><p class="map-lede">${page('europe-lede')}</p><div class="map-wrap" id="europe-map">${europe}</div>` : ''}
     <div class="map-card" id="map-card" hidden></div>
   </main>${foot()}<script src="js/data.js"></script><script src="js/map.js"></script></body></html>`;
   fs.writeFileSync(path.join(SITE, 'map.html'), html);
@@ -606,7 +653,7 @@ function renderMapPage() {
 // ---------- library page ----------
 function renderLibraryPage() {
   const kinds = {};
-  for (const s of sources) (kinds[s.kind] = kinds[s.kind] || []).push(s);
+  for (const s of sources) { const k = s.kind === 'novella' ? 'novel' : s.kind; (kinds[k] = kinds[k] || []).push(s); }
   const order = ['poem', 'play', 'opera', 'scripture', 'novel', 'novella', 'prose', 'essay', 'anthropology', 'philosophy', 'history', 'memoir', 'birdbook', 'song'];
   const kindLabel = { poem: page('kind-poem'), play: page('kind-play'), opera: page('kind-opera'), scripture: page('kind-scripture'), novel: page('kind-novel'), novella: page('kind-novel'), prose: page('kind-prose'), essay: page('kind-essay'), anthropology: page('kind-anthropology'), philosophy: page('kind-philosophy'), history: page('kind-history'), memoir: page('kind-memoir'), birdbook: page('kind-birdbook'), song: page('kind-song') };
   let body = `<main class="prose wide library"><h1 class="pagetitle">${page('library-title')}</h1>

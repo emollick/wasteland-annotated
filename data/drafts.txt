@@ -25,7 +25,6 @@ part: 1
 line: 1
 title: The cancelled opening: a night out in Boston
 body:
-Decision after round three: the scholar's order taken (Wilson's: Tom's place, the show, Myrtle's, the policeman on the way out, the man he knows, the walk home at sunrise), which also agrees with the gloss on line 1; the reader's semicolons kept, so that the bed, the bath and the breakfast do not run into the walk home.
 In the typescript, Part I opens with fifty-four lines about a night out in Boston, told by one of a party of young men in loose, chatty verse: drinks at "Tom's place"; a show; a call at Myrtle's, where he is refused but given a bed, a bath and breakfast; a brush with a policeman on the way out, which a man he knows smooths over; and a walk home at sunrise. The lines are struck through in pencil. Valerie Eliot's facsimile (1971) attributes the cancellation to Eliot, and Pound's annotations begin only after the cancelled lines; whether Pound read them is not recorded. "April is the cruellest month" stood at the top of the typescript's second page. Pound wrote little on the rest of Part I: he queried a few words and let the section stand.
 sources: Facsimile (1971), the typescript of Part I
 Edmund Wilson (1971)
