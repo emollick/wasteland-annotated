@@ -33,3 +33,7 @@ The 1922 text and Eliot's notes to it are in the public domain in the United Sta
 ## The commentary
 
 The notes were written to the standard of a plain scholarly edition, argued over part by part between a scholar's reading and a reader's (the rounds are in commentary/debates/), and then cited: every note names the editions and studies it rests on, under References, and the library page lists the works. A claim that could not be verified against a source stays uncited and is listed in commentary/citations/.
+
+## Licence
+
+The code (build/, the drawing scripts under art/, and the site's JavaScript and stylesheet) is under the MIT licence, in LICENSE. Everything written or drawn for the edition, the commentary and its records, the research notes, the built site and the art, is under the Creative Commons Attribution 4.0 International licence, in LICENSE-CONTENT, which also says what is not ours to license: the 1922 text and Eliot's notes are in the public domain in the United States and in copyright elsewhere (in the United Kingdom until the end of 2035); passages quoted from scholars and other writers remain their authors'; the fonts are under the SIL Open Font License (art/frontispieces/src/fonts/OFL.txt); the pictures come from Wikimedia Commons, most in the public domain and a few under Creative Commons licences of their own, each credited with its licence in research/images.json; the map's river is OpenStreetMap data under the ODbL; the recordings are not here.
